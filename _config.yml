@@ -3,9 +3,9 @@ favicon: null
 name: R8AM
 purpose: []
 analytics:
-  twitter: null
-  google: null
   facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
@@ -23,18 +23,18 @@ collections:
     permalink:
       path: '/:title/'
 cta:
+  domain: null
   version: null
   bucket: null
-  domain: null
 color:
   brandStrength: 1
-  lightness: 0
   saturation: 1
-  rhythmicContrast: 0
   brandColors:
     - '#000000'
     - '#ff0017'
     - '#490005'
     - '#b8000f'
     - '#700007'
-typography_spectrum: 0.7212
+  lightness: 0
+  rhythmicContrast: 0
+typography_spectrum: 0.1106383
