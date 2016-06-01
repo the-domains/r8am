@@ -1,7 +1,7 @@
 name: R8AM
 favicon: null
-layout_spectrum: 0.4795863756444305
-typography_spectrum: 0.016331878257915378
+layout_spectrum: 0.73702
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.5060274070128798
-  lightness: 0.6752961610909551
-  saturation: 0.6714387778192759
-  rhythmicContrast: 0.11367570562288165
+    - '#012345'
+    - '#123456'
+    - '#345678'
+    - '#456789'
+    - '#234567'
+  brandStrength: 1
+  lightness: 0.6875
+  saturation: 0.6875
+  rhythmicContrast: 1
 purpose: []
