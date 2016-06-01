@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[R8AM]]></title>
         <description><![CDATA[R8AM]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/r8am/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Wed, 01 Jun 2016 14:26:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/r8am/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Y Rocinante encontró al Quijote ]]></title>
+            <description><![CDATA[<article><h1>Y Rocinante encontró al Quijote </h1><p>Pablo A. Cicero AlonzoFoto: La Jornada Maya Martes 31 de mayo, 2016 Escribió Cervantes que "cuatro días se le pasaron en imaginar qué nombre le pondría...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9973ad4dfd14fb5315e97e5e99df3132bb2b3149.jpg"></article>]]></description>
+            <link>https://www.lajornadamaya.mx/2016-05-31/Reporte-8-am</link>
+            <guid isPermaLink="false">b74b2a1b-12ca-480e-964d-b239feebefe7</guid>
+            <pubDate>Wed, 01 Jun 2016 14:26:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[La (devaluada) policía secreta de Yucatán]]></title>
             <description><![CDATA[<article><h1>La (devaluada) policía secreta de Yucatán</h1><p>Pablo A. Cicero AlonzoFoto: Paul Antoine MatosLa Jornada Maya Miércoles 1º de junio, 2016 En la era de Galileo, no el astrónomo sino el sistema de espionaje, llama la atención la presencia de "orejas" en diversos escenarios de Yucatán.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d144e536196ba7167b6bc9830d8a90643ad7aaa2.jpg"></article>]]></description>
