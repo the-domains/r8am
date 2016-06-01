@@ -4,8 +4,15 @@
         <description><![CDATA[R8AM]]></description>
         <link>https://thegrid.ai/r8am/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 14:29:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 14:29:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/r8am/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Me gusta la Filey ]]></title>
+            <description><![CDATA[<article><h1>Me gusta la Filey </h1><p>Pablo A. Cicero AlonzoFoto: Rodrigo Díaz GuzmánLa Jornada Maya 13 de marzo, 2016 Caminar por sus pasillos, sin un plan previo; detenerme al azar y hojear el primer libro que me llame la atención.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/234ce5b25b64abce47264c43d6eb567d553c50db.jpg"></article>]]></description>
+            <link>https://www.lajornadamaya.mx/2016-03-13/Reporte-8-am</link>
+            <guid isPermaLink="false">0cf13bf9-a7d9-4cd3-85a6-30d6423a6733</guid>
+            <pubDate>Wed, 01 Jun 2016 14:26:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Las muertas no votan ]]></title>
             <description><![CDATA[<article><h1>Las muertas no votan </h1><p>Pablo A. Cicero AlonzoCartón: Marcelo SantosLa Jornada Maya Las muertas no votan, pero serán determinantes en las próximas elecciones de Quintana Roo. Al momento de elegir a sus nuevas autoridades, los ciudadanos de ese estado tendrán en mente a las cinco asesinadas en lo que va de este 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f96049c438bdf5cf1a4d400a8287242fe8a636cb.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Tres meses de vacaciones en el correccional </h1><p>Pablo A. Cicero AlonzoFoto: Raúl AnguloLa Jornada Maya 28 de marzo, 2016 Tienen edad para secuestrar pero aún no pueden votar. Se les acusa de matar y violar, y la ley les prohíbe comprar cervezas o cigarros. Estos son dos casos de los que todo México habla en estos momentos, y que están generando muchas interrogantes sobre nuestro presente y futuro.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1433fc084576745ba0608b4998bc81445a1e7287.jpg"></article>]]></description>
             <link>https://www.lajornadamaya.mx/2016-03-28/Reporte-8-am</link>
             <guid isPermaLink="false">bb73967d-5d08-442c-90cc-642dd34b741b</guid>
-            <pubDate>Wed, 01 Jun 2016 14:26:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Memorias de mis escritores tristes ]]></title>
-            <description><![CDATA[<article><h1>Memorias de mis escritores tristes </h1><p>Pablo A. Cicero AlonzoFoto:Rodrigo Díaz GuzmánLa Jornada Maya 21 de marzo, 2016 Horas después de la presentación, coincidí con él, y me pareció un personaje melancólico. Digerí después el encuentro que tuvimos, y llegué a la conclusión de que Jorge Zepeda Patterson es un personaje sumamente introvertido.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa938b7c8e3fc863f2128684cf41aaae7802439a.jpg"></article>]]></description>
-            <link>https://www.lajornadamaya.mx/2016-03-21/Reporte-8-am</link>
-            <guid isPermaLink="false">84ef514e-cd31-41ce-9f8f-a1c8191d5863</guid>
             <pubDate>Wed, 01 Jun 2016 14:26:44 GMT</pubDate>
         </item>
     </channel>
