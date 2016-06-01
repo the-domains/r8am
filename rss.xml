@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[R8AM]]></title>
+        <description><![CDATA[R8AM]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 01 Jun 2016 14:26:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[La (devaluada) policía secreta de Yucatán]]></title>
+            <description><![CDATA[<article><h1>La (devaluada) policía secreta de Yucatán</h1><p>Pablo A. Cicero AlonzoFoto: Paul Antoine MatosLa Jornada Maya Miércoles 1º de junio, 2016 En la era de Galileo, no el astrónomo sino el sistema de espionaje, llama la atención la presencia de "orejas" en diversos escenarios de Yucatán.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d144e536196ba7167b6bc9830d8a90643ad7aaa2.jpg"></article>]]></description>
+            <link>https://www.lajornadamaya.mx/2016-06-01/Reporte-8-am</link>
+            <guid isPermaLink="false">6aa4c28a-2377-4ba6-bf4e-068ccb682881</guid>
+            <pubDate>Wed, 01 Jun 2016 14:26:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
