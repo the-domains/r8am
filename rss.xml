@@ -4,8 +4,15 @@
         <description><![CDATA[R8AM]]></description>
         <link>https://thegrid.ai/r8am/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 14:29:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 14:29:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/r8am/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Las cabezas de la hidra ]]></title>
+            <description><![CDATA[<article><h1>Las cabezas de la hidra </h1><p>Pablo A. Cicero AlonzoFoto:La Jornada Maya 4 de marzo, 2016 En estos días aciagos, dos de las cabezas de la hidra se asoman en Yucatán. Es en ese monstruo mitológico con el que comparamos al crimen organizado, que se manifiesta con distintos rostros, todos temibles.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a97e0edb3e7f5a2a1b77a73370201d4dce699328.jpg"></article>]]></description>
+            <link>https://www.lajornadamaya.mx/2016-03-04/Reporte-8-am</link>
+            <guid isPermaLink="false">b6f0aacf-fe1f-40e1-af8b-5be55d007e65</guid>
+            <pubDate>Wed, 01 Jun 2016 14:26:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Entre El Ecoloco y Diógenes ]]></title>
             <description><![CDATA[<article><h1>Entre El Ecoloco y Diógenes </h1><p>Pablo A. Cicero AlonzoFoto: Rodrigo Díaz GuzmánLa Jornada Maya 3 de marzo, 2016 Se llamaba Jorge Gallareta Gamboa, y le decían El Ecoloco. Todos los años, el Ayuntamiento realizaba un operativo para limpiar su casa, ubicada cerca de los juzgados civiles. En julio 2004, según se reportó, las autoridades sacaron cien toneladas de basura de la vivienda.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c36efd6076e4b332ce23f1115a837e8c740a94b2.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.lajornadamaya.mx/2016-03-20/Reporte-8-am</link>
             <guid isPermaLink="false">987b3617-8860-42fc-9cca-3cced19468dd</guid>
             <pubDate>Wed, 01 Jun 2016 14:26:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[El fuero sirve para dos cosas ]]></title>
-            <description><![CDATA[<article><h1>El fuero sirve para dos cosas </h1><p>Pablo A. Cicero AlonzoLa Jornada Maya 22 de marzo, 2016 En las pasadas elecciones fue detenido, en Chichimilá, un operador del PAN. Las autoridades policiales señalaban que estaba ofreciendo alcohol en ese día seco. El panista fue trasladado al Palacio Municipal, donde fue encerrado en un calabozo.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/674fdb134849878af2f52983ca44740b15971e11.jpg"></article>]]></description>
-            <link>https://www.lajornadamaya.mx/2016-03-22/Reporte-8-am</link>
-            <guid isPermaLink="false">dd30ee30-9734-45d3-8e48-65b4dd19ea9a</guid>
-            <pubDate>Wed, 01 Jun 2016 14:26:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
