@@ -1,7 +1,15 @@
-name: R8AM
-favicon: null
 layout_spectrum: 0.73702
-typography_spectrum: 0.7212
+favicon: null
+name: R8AM
+purpose: []
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       navigable: true
@@ -15,26 +23,18 @@ collections:
     permalink:
       path: '/:title/'
 cta:
-  domain: null
-  bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  bucket: null
+  domain: null
 color:
+  brandStrength: 1
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 0
   brandColors:
     - '#000000'
     - '#ff0017'
     - '#490005'
     - '#b8000f'
     - '#700007'
-  brandStrength: 1
-  lightness: 0
-  saturation: 1
-  rhythmicContrast: 1
-purpose: []
+typography_spectrum: 0.7212
