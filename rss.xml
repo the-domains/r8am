@@ -4,7 +4,7 @@
         <description><![CDATA[R8AM]]></description>
         <link>https://thegrid.ai/r8am/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Jun 2016 16:52:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2016 18:20:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/r8am/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[El apetito del Homo Erectus ]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.lajornadamaya.mx/2016-05-25/Reporte-8-am</link>
             <guid isPermaLink="false">2cf9a60d-4edd-46fe-b8e5-462ad2578de8</guid>
             <pubDate>Wed, 01 Jun 2016 14:41:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://thegrid.ai/todo-cicero/</p>]]></description>
+            <link>https://thegrid.ai/r8am/httpsthegridaitodo-cicero/index.html</link>
+            <guid isPermaLink="false">08c78b5a-fa94-4c05-b760-aae8471036c1</guid>
+            <pubDate>Thu, 02 Jun 2016 18:20:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[¿Vientos de cambio en la política?]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.lajornadamaya.mx/2016-03-01/Reporte-8-am</link>
             <guid isPermaLink="false">6ca35122-125d-4422-a01c-eafffb049784</guid>
             <pubDate>Wed, 01 Jun 2016 14:26:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Las cabezas de la hidra ]]></title>
-            <description><![CDATA[<article><h1>Las cabezas de la hidra </h1><p>Pablo A. Cicero AlonzoFoto:La Jornada Maya 4 de marzo, 2016 En estos días aciagos, dos de las cabezas de la hidra se asoman en Yucatán. Es en ese monstruo mitológico con el que comparamos al crimen organizado, que se manifiesta con distintos rostros, todos temibles.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a97e0edb3e7f5a2a1b77a73370201d4dce699328.jpg"></article>]]></description>
-            <link>https://www.lajornadamaya.mx/2016-03-04/Reporte-8-am</link>
-            <guid isPermaLink="false">b6f0aacf-fe1f-40e1-af8b-5be55d007e65</guid>
-            <pubDate>Wed, 01 Jun 2016 14:26:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
