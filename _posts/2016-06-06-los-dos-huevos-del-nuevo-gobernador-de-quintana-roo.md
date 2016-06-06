@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-06T12:12:37.992Z'
+datePublished: '2016-06-06T12:17:49.703Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-06-06/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-06T12:12:24.798Z'
+dateModified: '2016-06-06T12:17:49.380Z'
 title: ' Los dos huevos del nuevo gobernador de Quintana Roo'
 app_links: []
 publisher:
@@ -19,8 +19,8 @@ description: >-
   cerrada de la contienda, los cuatro restantes se decantan, par y par, por
   otros dos aspirantes: Carlos Joaquín o Mauricio Góngora.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-06-06-los-dos-huevos-del-nuevo-gobernador-de-quintana-roo.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
