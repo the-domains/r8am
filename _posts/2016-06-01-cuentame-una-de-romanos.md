@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-02T18:44:55.163Z'
+datePublished: '2016-06-07T13:22:45.313Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-05-10/Reporte-8-am--por-Pablo-A--Cicero'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-02T18:44:54.764Z'
+dateModified: '2016-06-07T13:22:45.046Z'
 title: 'Cuéntame una de romanos '
 app_links: []
 publisher:
@@ -12,14 +12,19 @@ publisher:
   domain: www.lajornadamaya.mx
   url: 'https://www.lajornadamaya.mx'
   favicon: 'https://static.lajornadamaya.mx/v2/favicon.png'
-description: 'Pablo A. Cicero AlonzoFoto: Ilustración Ediciones Albert RenéLa Jornada Maya Martes 10 de mayo, 2016 Con la visita del secretario de Gobernación federal, Miguel Ángel Osorio Chong, Escudo Yucatán vuelve a ser noticia. Y regresa en el marco de una de las semanas más violentas que se han registrado en los últimos años.'
+description: >-
+  Pablo A. Cicero AlonzoFoto: Ilustración Ediciones Albert RenéLa Jornada Maya
+  Martes 10 de mayo, 2016 Con la visita del secretario de Gobernación federal,
+  Miguel Ángel Osorio Chong, Escudo Yucatán vuelve a ser noticia. Y regresa en
+  el marco de una de las semanas más violentas que se han registrado en los
+  últimos años.
 inLanguage: es
 sourcePath: _posts/2016-06-01-cuentame-una-de-romanos.md
 inFeed: true
 hasPage: false
 inNav: false
 authors: []
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
