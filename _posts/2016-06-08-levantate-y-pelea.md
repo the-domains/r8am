@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-08T11:58:59.532Z'
+datePublished: '2016-06-08T12:04:20.834Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-06-08/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-08T11:58:46.652Z'
+dateModified: '2016-06-08T12:04:20.212Z'
 title: '“¡Levántate y pelea!” '
 app_links: []
 publisher:
@@ -19,8 +19,8 @@ description: >-
   captado en 1965 por el fotógrafo Neil Leifer, e ilustró la gran mayoría de
   obituarios del campeón que en días pasados se publicaron.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-06-08-levantate-y-pelea.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
