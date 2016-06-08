@@ -1,7 +1,7 @@
 name: R8AM
 favicon: null
 layout_spectrum: 0.6531915
-typography_spectrum: 0.22396
+typography_spectrum: 0.23757
 collections:
   - index:
       navigable: true
@@ -28,11 +28,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#0000ff'
     - '#ff0000'
-    - '#ffff00'
-    - '#0000ff'
-    - '#0000ff'
+    - '#001aff'
+    - '#ffff01'
+    - '#ffffff'
+    - '#464444'
   brandStrength: 1
   lightness: 0.3340425
   saturation: 0
