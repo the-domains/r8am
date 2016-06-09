@@ -4,7 +4,7 @@
         <description><![CDATA[R8AM]]></description>
         <link>https://thegrid.ai/r8am/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 16:32:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 16:34:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/r8am/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[“¡Levántate y pelea!” ]]></title>
@@ -68,6 +68,13 @@
             <link>https://www.lajornadamaya.mx/2016-06-06/Reporte-8-am</link>
             <guid isPermaLink="false">f0d46717-938f-44f4-8bf8-ddfae1afb4df</guid>
             <pubDate>Mon, 06 Jun 2016 12:17:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebd800cd-e85e-4a64-ac49-a33205ad1266.jpg">]]></description>
+            <link>https://thegrid.ai/r8am/131568c0-1eda-4ba6-afbc-3f2c33bcad37/index.html</link>
+            <guid isPermaLink="false">131568c0-1eda-4ba6-afbc-3f2c33bcad37</guid>
+            <pubDate>Thu, 09 Jun 2016 16:34:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
