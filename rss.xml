@@ -4,8 +4,15 @@
         <description><![CDATA[R8AM]]></description>
         <link>https://thegrid.ai/r8am/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 16:09:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 16:09:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/r8am/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1835282e-5cae-40df-ba8f-e34b3178ac22.jpg">]]></description>
+            <link>https://thegrid.ai/r8am/dc7b78c8-9e14-487c-931f-06537f712a35/index.html</link>
+            <guid isPermaLink="false">dc7b78c8-9e14-487c-931f-06537f712a35</guid>
+            <pubDate>Thu, 09 Jun 2016 16:09:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[“¡Levántate y pelea!” ]]></title>
             <description><![CDATA[<article><h1>“¡Levántate y pelea!” </h1><p>Pablo A. Cicero Alonzo. Foto: Neil Leifer. La Jornada Maya. Miércoles 6 de junio, 2016. En realidad, "¡Levántate y pelea, cabrón!". Ahí está Muhammad Ali, gritándolo; en la lona, Sonny Liston. Un fiambre. Ese instante fue captado en 1965 por el fotógrafo Neil Leifer, e ilustró la gran mayoría de obituarios del campeón que en días pasados se publicaron.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/25e2c03337c3c6f6dd7aa78c2adb056b09c78b01.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.lajornadamaya.mx/2016-06-06/Reporte-8-am</link>
             <guid isPermaLink="false">f0d46717-938f-44f4-8bf8-ddfae1afb4df</guid>
             <pubDate>Mon, 06 Jun 2016 12:17:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Y Rocinante encontró al Quijote ]]></title>
-            <description><![CDATA[<article><h1>Y Rocinante encontró al Quijote </h1><p>Pablo A. Cicero AlonzoFoto: La Jornada Maya Martes 31 de mayo, 2016 Escribió Cervantes que "cuatro días se le pasaron en imaginar qué nombre le pondría...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9973ad4dfd14fb5315e97e5e99df3132bb2b3149.jpg"></article>]]></description>
-            <link>https://www.lajornadamaya.mx/2016-05-31/Reporte-8-am</link>
-            <guid isPermaLink="false">b74b2a1b-12ca-480e-964d-b239feebefe7</guid>
-            <pubDate>Thu, 02 Jun 2016 18:54:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
