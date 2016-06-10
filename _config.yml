@@ -1,7 +1,7 @@
 name: R8AM
 favicon: null
-layout_spectrum: 0.49004
-typography_spectrum: 0.99891
+layout_spectrum: 0
+typography_spectrum: 0.04757
 collections:
   - index:
       navigable: true
@@ -34,7 +34,7 @@ color:
     - '#363636'
     - '#7f7f7f'
   brandStrength: 1
-  lightness: 1
-  saturation: 0
-  rhythmicContrast: 0
+  lightness: 0.8125
+  saturation: 0.1875
+  rhythmicContrast: 1
 purpose: []
