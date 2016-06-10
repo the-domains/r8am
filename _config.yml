@@ -1,7 +1,7 @@
 name: R8AM
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.04757
+typography_spectrum: 1
 collections:
   - index:
       navigable: true
