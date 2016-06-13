@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-13T11:18:29.683Z'
+datePublished: '2016-06-13T11:18:54.907Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-06-13/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-13T11:16:30.257Z'
+dateModified: '2016-06-13T11:18:54.283Z'
 title: 'Fusiles cargados con balas de odio '
 app_links: []
 publisher:
@@ -18,8 +18,8 @@ description: >-
   popular entre la comunidad gay en Orlando. Mató al menos a 50 personas e hirió
   a otras 53.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-06-13-fusiles-cargados-con-balas-de-odio.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
