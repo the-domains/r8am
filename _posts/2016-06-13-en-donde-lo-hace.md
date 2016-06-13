@@ -9,8 +9,8 @@ description: >-
   una proyección empresarial, personal y social. Acompaña a un grupo reducido de
   suscriptores especiales y ofrece un catálogo de servicios específicos de
   coaching para una mejor toma de decisiones.
-datePublished: '2016-06-13T17:40:47.635Z'
-dateModified: '2016-06-13T17:31:45.973Z'
+datePublished: '2016-06-13T17:42:38.761Z'
+dateModified: '2016-06-13T17:42:32.586Z'
 related: []
 author: []
 title: ¿En dónde lo hace...?
