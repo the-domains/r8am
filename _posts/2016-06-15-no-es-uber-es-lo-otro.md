@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-15T11:15:29.727Z'
+datePublished: '2016-06-15T11:15:44.761Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-06-15/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-15T11:14:25.096Z'
+dateModified: '2016-06-15T11:15:44.240Z'
 title: 'No es Uber, es lo otro '
 app_links: []
 publisher:
@@ -17,8 +17,8 @@ description: >-
   15 de junio, 2016. No me gustaría estar en los zapatos de los funcionarios del
   gobierno estatal. Ni hoy ni en las próximas elecciones de 2018.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-06-15-no-es-uber-es-lo-otro.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
