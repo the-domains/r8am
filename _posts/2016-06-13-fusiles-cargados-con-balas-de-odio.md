@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-13T11:18:54.907Z'
+datePublished: '2016-06-16T16:56:41.452Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-06-13/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-13T11:18:54.283Z'
+dateModified: '2016-06-16T16:56:41.059Z'
 title: 'Fusiles cargados con balas de odio '
 app_links: []
 publisher:
@@ -19,7 +19,7 @@ description: >-
   a otras 53.
 inLanguage: es
 sourcePath: _posts/2016-06-13-fusiles-cargados-con-balas-de-odio.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
