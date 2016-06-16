@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-14T11:26:24.043Z'
+datePublished: '2016-06-16T16:56:35.195Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-06-14/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-14T11:26:23.577Z'
+dateModified: '2016-06-16T16:56:34.658Z'
 title: 'Esfuerzos para convertir lo viejo en sexy '
 app_links: []
 publisher:
@@ -18,7 +18,7 @@ description: >-
   Incluso los comunistas de hueso colorado lo han entendido.
 inLanguage: es
 sourcePath: _posts/2016-06-14-esfuerzos-para-convertir-lo-viejo-en-sexy.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
