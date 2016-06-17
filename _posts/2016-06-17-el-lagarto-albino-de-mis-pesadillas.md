@@ -12,12 +12,12 @@ description: >-
   padres, que un caimán se acerca… En la oscura, negra noche, nadie ve el ataque
   del gigantesco reptil, que como relámpago abre sus fauces y se lleva a su
   pequeña presa.
-dateModified: '2016-06-17T11:32:11.843Z'
-datePublished: '2016-06-17T11:32:21.416Z'
+dateModified: '2016-06-17T11:32:38.303Z'
+datePublished: '2016-06-17T11:32:38.760Z'
 title: El lagarto albino de mis pesadillas
 author: []
-starred: false
 sourcePath: _posts/2016-06-17-el-lagarto-albino-de-mis-pesadillas.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
