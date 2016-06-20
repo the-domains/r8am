@@ -5,13 +5,13 @@ description: >-
   críticas por la aprobación de la versión light de la ley 3 de 3 recae sobre el
   PRI y sus satélites, pero poco se ha dicho del triste papel que jugaron los
   legisladores que encabezan esta columna.
-dateModified: '2016-06-20T00:48:12.003Z'
-datePublished: '2016-06-20T10:45:16.728Z'
+dateModified: '2016-06-20T10:45:37.323Z'
+datePublished: '2016-06-20T10:45:38.196Z'
 title: «La maldad inteligente es mucho más nutritiva que la estupidez bondadosa»
 author: []
-starred: false
 sourcePath: >-
   _posts/2016-06-20-la-maldad-inteligente-es-mucho-mas-nutritiva-que-la-estupid.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
