@@ -1,25 +1,28 @@
 ---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
 description: >-
   Jorge Luis Preciado, Héctor Larios, José María Martínez y Adriana Dávila.
   Recuerda esos nombres. Son senadores. Y son del PAN. Gran parte de las
   críticas por la aprobación de la versión light de la ley 3 de 3 recae sobre el
   PRI y sus satélites, pero poco se ha dicho del triste papel que jugaron los
   legisladores que encabezan esta columna.
-dateModified: '2016-06-20T10:45:37.323Z'
-datePublished: '2016-06-20T10:45:38.196Z'
+datePublished: '2016-06-21T15:05:14.867Z'
+dateModified: '2016-06-21T14:23:08.140Z'
 title: «La maldad inteligente es mucho más nutritiva que la estupidez bondadosa»
 author: []
 sourcePath: >-
   _posts/2016-06-20-la-maldad-inteligente-es-mucho-mas-nutritiva-que-la-estupid.md
-starred: true
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+authors: []
+publisher: null
+starred: false
+url: la-maldad-inteligente-es-mucho-mas-nutritiva-que-la-estupid/index.html
+_type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/61afbdff-f4f9-441a-aced-520c4f25c57e.jpg)
-
 # «La maldad inteligente es mucho más nutritiva que la estupidez bondadosa»
 
 Jorge Luis Preciado, Héctor Larios, José María Martínez y Adriana Dávila. Recuerda esos nombres. Son senadores. Y son del PAN. Gran parte de las críticas por la aprobación de la versión light de la ley 3 de 3 recae sobre el PRI y sus satélites, pero poco se ha dicho del triste papel que jugaron los legisladores que encabezan esta columna.
