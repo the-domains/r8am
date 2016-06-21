@@ -4,8 +4,15 @@
         <description><![CDATA[Reporte 8AM]]></description>
         <link>https://thegrid.ai/r8am/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 11:33:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2016 13:05:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/r8am/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Elegy for the Arctic]]></title>
+            <description><![CDATA[<article><h1>Elegy for the Arctic</h1><p>Ludovico Einaudi ha tocado en medio mundo. Ha sido ovacionado en el Royal Albert Hall de Londres y su piano es el que suena en la banda sonora de Intocableo en el anuncio de la Lotería de Navidad del año pasado. Pero el músico italiano acaba de ofrecer uno de sus conciertos más peculiares. En lugar del público, le rodeaban icebergs. Y por mucho que su música calentara el corazón de los oyentes, la temperatura alrededor seguía varios grados bajo cero. Einaudi ha intepretado Elegy for the Arctic (Elegía por el Ártico), sobre una plataforma flotante en mitad de ese océano, frente al glaciar Wahlenbergbreen (en Svalbard, Noruega), a donde llegó a bordo de un barco de Greenpeace. Con su actuación, la ONG busca llamar la atención sobre la reunión en Tenerife esta semana de la comisión Ospar, “que podría asegurar la creación de la primera zona protegida en aguas internacionales del océano Ártico”, según un comunicado.</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=2DLnhdnSUVs</link>
+            <guid isPermaLink="false">7326024e-56f2-4571-9718-4766126a366a</guid>
+            <pubDate>Tue, 21 Jun 2016 13:04:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fue un día soleado en Oaxaca]]></title>
             <description><![CDATA[<article><h1>Fue un día soleado en Oaxaca</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ca44080-4a8e-4081-a5b5-655ebcfe5eb5.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.lajornadamaya.mx/2016-06-15/Reporte-8-am</link>
             <guid isPermaLink="false">80c931a2-860b-4839-a8ee-d61d2e68bf89</guid>
             <pubDate>Thu, 16 Jun 2016 17:45:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fusiles cargados con balas de odio ]]></title>
-            <description><![CDATA[<article><h1>Fusiles cargados con balas de odio </h1><p>Pablo A. Cicero Alonzo. Foto: Kelly Wilkinson / AP. La Jornada Maya. Lunes 13 de junio, 2016. Ayer, un hombre de 29 años abrió fuego en una discoteca popular entre la comunidad gay en Orlando. Mató al menos a 50 personas e hirió a otras 53.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8065081a96d4ffb455b24401e5d51e776b11c39b.jpg"></article>]]></description>
-            <link>https://www.lajornadamaya.mx/2016-06-13/Reporte-8-am</link>
-            <guid isPermaLink="false">31ad7707-6fa5-4b1a-a7fd-48ce03b96df3</guid>
-            <pubDate>Thu, 16 Jun 2016 16:56:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
