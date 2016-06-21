@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[R8AM]]></title>
-        <description><![CDATA[R8AM]]></description>
+        <title><![CDATA[Reporte 8AM]]></title>
+        <description><![CDATA[Reporte 8AM]]></description>
         <link>https://thegrid.ai/r8am/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 16 Jun 2016 17:46:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2016 11:20:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/r8am/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fue un día soleado en Oaxaca ]]></title>
+            <description><![CDATA[<article><h1>Fue un día soleado en Oaxaca </h1><p>Pablo A. Cicero Alonzo. Foto: AP Photo/Luis Alberto Cruz Hernández. La Jornada Maya. Martes 21 de junio, 2016. La noche del 2 de octubre de 1968, Jacobo Zabludovsky consideró que la noticia del día era... el clima. "Hoy fue un día soleado", afirmó, festivo.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0e5c2258dec68d6e13b7dd16af02d990/noop?input=https%3A%2F%2Fimg.lajornadamaya.mx%2F32%2Fw1aggagg7aon_640-414-cover"></article>]]></description>
+            <link>https://www.lajornadamaya.mx/2016-06-21/Reporte-8-am</link>
+            <guid isPermaLink="false">4d427caa-5e6d-4185-83c0-0b9b4967b228</guid>
+            <pubDate>Tue, 21 Jun 2016 11:20:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebd800cd-e85e-4a64-ac49-a33205ad1266.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.lajornadamaya.mx/2016-06-13/Reporte-8-am</link>
             <guid isPermaLink="false">31ad7707-6fa5-4b1a-a7fd-48ce03b96df3</guid>
             <pubDate>Thu, 16 Jun 2016 16:56:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Esfuerzos para convertir lo viejo en sexy ]]></title>
-            <description><![CDATA[<article><h1>Esfuerzos para convertir lo viejo en sexy </h1><p>Pablo A. Cicero Alonzo. Foto: Ilustración tomada de la web dailymail.co.uk. La Jornada Maya. Martes 14 de junio, 2016. Renovarse o morir. Así de simple. Incluso los comunistas de hueso colorado lo han entendido.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c1546804b886532a7cb9728ca80e26d7d7dc5f4.jpg"></article>]]></description>
-            <link>https://www.lajornadamaya.mx/2016-06-14/Reporte-8-am</link>
-            <guid isPermaLink="false">91f16f69-36b7-4dff-91f5-97305933c1a6</guid>
-            <pubDate>Thu, 16 Jun 2016 16:56:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
