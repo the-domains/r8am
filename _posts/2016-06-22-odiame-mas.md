@@ -5,14 +5,14 @@ description: >-
   pasado y el futuro se enfrentaron. Por un lado, una serie de iniciativas para
   blindar al aún gobernador Roberto Borge Angulo. Por otro, opositores
   envalentonados, que dentro de poco cambiarán de papel.
-dateModified: '2016-06-22T12:04:51.520Z'
-datePublished: '2016-06-22T12:04:52.847Z'
+dateModified: '2016-06-22T12:15:07.790Z'
+datePublished: '2016-06-22T12:15:08.348Z'
 title: Ódiame más
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3596368-e843-4484-86fb-414ea3b1ddc9.png
-starred: true
 sourcePath: _posts/2016-06-22-odiame-mas.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
