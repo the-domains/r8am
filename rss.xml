@@ -4,8 +4,15 @@
         <description><![CDATA[Reporte 8AM]]></description>
         <link>https://thegrid.ai/r8am/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 23 Jun 2016 00:51:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2016 11:50:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/r8am/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[La promulgación que no fue]]></title>
+            <description><![CDATA[<article><h1>La promulgación que no fue</h1><p> Ayer, a la una de la tarde, estaba programada la promulgación del Sistema Nacional Anticorrupción en Palacio Nacional. Estaba, reitero, porque se canceló de última hora. No vengan. No habrá nada. En la víspera, el presidente Enrique Peña Nieto se reunió con los capitanes de empresa, a quienes incluso dio a entender que había la posibilidad de vetar las leyes que conforman ese sistema.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/941d800c-d5c9-438f-a492-6bd19208848d.png"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/941d800c-d5c9-438f-a492-6bd19208848d.png</link>
+            <guid isPermaLink="false">45d6aecf-9558-4c1c-a567-d1acaa956bbd</guid>
+            <pubDate>Thu, 23 Jun 2016 11:49:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ódiame más]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/51739145-ba5c-42ac-9723-c6252ab95299.png">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/r8am/la-maldad-inteligente-es-mucho-mas-nutritiva-que-la-estupid/index.html</link>
             <guid isPermaLink="false">31e538c0-960e-4d7b-8c78-068ef6d772ab</guid>
             <pubDate>Tue, 21 Jun 2016 15:05:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[14 de junio de 2016: 4 de julio de 2011 ]]></title>
-            <description><![CDATA[<article><h1>14 de junio de 2016: 4 de julio de 2011 </h1><p>Pablo A. Cicero Alonzo. Foto: Rodrigo Díaz Guzmán. La Jornada Maya. Jueves 16 de junio, 2016. Apunta la fecha. Anteayer, martes 14 de junio de 2016 fue el equivalente para la administración de Rolando Zapata Bello del 4 de julio de 2011 de Ivonne Ortega Pacheco.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/21150f5451f38117a67dbd0640a5ee81/noop?input=https%3A%2F%2Fimg.lajornadamaya.mx%2F32%2Fo1aggo5o55by_640-414-cover"></article>]]></description>
-            <link>https://www.lajornadamaya.mx/2016-06-16/Reporte-8-am</link>
-            <guid isPermaLink="false">a73c6110-a594-47a8-b8f5-7666234b52c0</guid>
-            <pubDate>Thu, 16 Jun 2016 17:46:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
