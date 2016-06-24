@@ -1,7 +1,7 @@
 name: R8AM
 favicon: null
 layout_spectrum: 0.79647
-typography_spectrum: 0.05632
+typography_spectrum: 0.05172
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e07bbdcb-7da6-458c-9167-ff260ff046b6.jpg
 collections:
@@ -31,13 +31,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#026069'
-    - '#9c0000'
-    - '#e85914'
-    - '#299fa5'
-    - '#ebf479'
+    - '#ffffff'
+    - '#cccc99'
+    - '#003366'
+    - '#dcd9cf'
+    - '#1f4c79'
   brandStrength: 1
-  lightness: 0.125
-  saturation: 0.1875
+  lightness: 0
+  saturation: 0
   rhythmicContrast: 0
 purpose: []
