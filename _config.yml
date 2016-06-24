@@ -1,33 +1,9 @@
-typography_spectrum: 0.00575
-color:
-  brandColors:
-    - '#010101'
-    - '#ffffff'
-    - '#d0d0d0'
-    - '#363636'
-    - '#7f7f7f'
-  brandStrength: 1
-  lightness: 0
-  saturation: 0
-  rhythmicContrast: 0
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.79647
-analytics:
-  google: null
-  facebook: '506767772843593'
-  twitter: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8a759ad-0d75-4087-8b6c-72752b2f8de5.jpg
 name: R8AM
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e7fe5be-b167-4a03-894e-ee1911f2a096.jpg
+favicon: null
+layout_spectrum: 0.79647
+typography_spectrum: 0.04713
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e07bbdcb-7da6-458c-9167-ff260ff046b6.jpg
 collections:
   - index:
       navigable: true
@@ -41,4 +17,27 @@ collections:
     permalink:
       path: '/:title/'
 title: Reporte 8AM
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: '506767772843593'
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#010101'
+    - '#ffffff'
+    - '#d0d0d0'
+    - '#363636'
+    - '#7f7f7f'
+  brandStrength: 1
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
