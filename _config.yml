@@ -20,14 +20,14 @@ analytics:
   facebook: '506767772843593'
   twitter: null
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/609a0aae-e8a0-4564-9270-178deb7922e9.jpg
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8a759ad-0d75-4087-8b6c-72752b2f8de5.jpg
 name: R8AM
 cta:
   domain: null
   bucket: null
   version: null
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a72bf6b-e930-469a-b14e-f185ab37caff.jpg
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e7fe5be-b167-4a03-894e-ee1911f2a096.jpg
 collections:
   - index:
       navigable: true
