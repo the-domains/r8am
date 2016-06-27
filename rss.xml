@@ -4,7 +4,7 @@
         <description><![CDATA[Reporte 8AM]]></description>
         <link>https://thegrid.ai/r8am/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jun 2016 17:59:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2016 18:01:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/r8am/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cuéntame una de romanos ]]></title>
@@ -56,13 +56,6 @@
             <pubDate>Tue, 21 Jun 2016 11:32:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[“¡Levántate y pelea!” ]]></title>
-            <description><![CDATA[<article><h1>“¡Levántate y pelea!” </h1><p>Pablo A. Cicero Alonzo. Foto: Neil Leifer. La Jornada Maya. Miércoles 6 de junio, 2016. En realidad, "¡Levántate y pelea, cabrón!". Ahí está Muhammad Ali, gritándolo; en la lona, Sonny Liston. Un fiambre. Ese instante fue captado en 1965 por el fotógrafo Neil Leifer, e ilustró la gran mayoría de obituarios del campeón que en días pasados se publicaron.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/25e2c03337c3c6f6dd7aa78c2adb056b09c78b01.jpg"></article>]]></description>
-            <link>https://www.lajornadamaya.mx/2016-06-08/Reporte-8-am</link>
-            <guid isPermaLink="false">49b4e589-1250-4639-9643-aa7d96a2c2d5</guid>
-            <pubDate>Wed, 08 Jun 2016 12:04:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[La última mentira de los mitómanos ]]></title>
             <description><![CDATA[<article><h1>La última mentira de los mitómanos </h1><p>Pablo A. Cicero Alonzo. Foto:Fabrizio León Diez. La Jornada Maya. Martes 7 de junio, 2016. Soberbia y falta de credibilidad. En ese orden. Las estocadas que sufrió el PRI en las elecciones dominicales se debieron al divorcio de ese partido político con la realidad mexicana.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b974b4437fedd04f42958f7947950353cb71368.jpg"></article>]]></description>
             <link>https://www.lajornadamaya.mx/2016-06-07/Reporte-8-am</link>
@@ -75,6 +68,13 @@
             <link>https://www.lajornadamaya.mx/2016-04-25/Reporte-8am</link>
             <guid isPermaLink="false">5a078a7f-2e10-4057-954b-266ac8086950</guid>
             <pubDate>Tue, 07 Jun 2016 13:22:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“¡Levántate y pelea!” ]]></title>
+            <description><![CDATA[<article><h1>“¡Levántate y pelea!” </h1><p>Pablo A. Cicero Alonzo. Foto: Neil Leifer. La Jornada Maya. Miércoles 6 de junio, 2016. En realidad, "¡Levántate y pelea, cabrón!". Ahí está Muhammad Ali, gritándolo; en la lona, Sonny Liston. Un fiambre. Ese instante fue captado en 1965 por el fotógrafo Neil Leifer, e ilustró la gran mayoría de obituarios del campeón que en días pasados se publicaron.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/25e2c03337c3c6f6dd7aa78c2adb056b09c78b01.jpg"></article>]]></description>
+            <link>https://www.lajornadamaya.mx/2016-06-08/Reporte-8-am</link>
+            <guid isPermaLink="false">49b4e589-1250-4639-9643-aa7d96a2c2d5</guid>
+            <pubDate>Mon, 27 Jun 2016 18:01:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
