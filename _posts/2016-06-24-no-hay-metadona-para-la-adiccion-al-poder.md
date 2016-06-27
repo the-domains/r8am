@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-27T14:44:24.162Z'
+datePublished: '2016-06-27T15:50:55.456Z'
 sourcePath: _posts/2016-06-24-no-hay-metadona-para-la-adiccion-al-poder.md
 inFeed: true
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-06-24/Reporte-8-am'
@@ -10,7 +10,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-06-27T14:39:46.242Z'
+dateModified: '2016-06-27T15:50:54.921Z'
 title: No hay metadona para la adicción al poder
 app_links: []
 publisher:
@@ -26,7 +26,7 @@ description: >-
   gritan tu nombre; a veces te aclaman, otras te insultan.
 inLanguage: es
 inNav: false
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
