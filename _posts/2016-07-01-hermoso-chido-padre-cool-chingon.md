@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-01T15:24:11.854Z'
+datePublished: '2016-07-01T16:16:09.978Z'
 isBasedOnUrl: 'https://soundcloud.com/pablo-cicero-220728053/01-07-2016-10-02-45-am'
 keywords: []
 related: []
@@ -7,7 +7,7 @@ author:
   - name: Pablo Cicero
     url: 'http://soundcloud.com/pablo-cicero-220728053'
     avatar: {}
-dateModified: '2016-07-01T15:24:10.579Z'
+dateModified: '2016-07-01T16:16:09.132Z'
 title: 'Hermoso, chido, padre, cool, chingón'
 app_links:
   - type: ios
@@ -56,8 +56,8 @@ description: >-
   periodismo cumplió con la sociedad. Y lo hizo de una forma extraordinaria. La
   maquinaria, un poco oxidada, chirrió hasta ponerse a toda marcha, mostrando un
   músculo que muchos, incluso yo, pensábamos que ya no tenía.
-starred: true
 sourcePath: _posts/2016-07-01-hermoso-chido-padre-cool-chingon.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
