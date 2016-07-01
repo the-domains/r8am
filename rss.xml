@@ -4,8 +4,15 @@
         <description><![CDATA[Reporte 8AM]]></description>
         <link>https://thegrid.ai/r8am/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 15:27:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2016 16:02:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/r8am/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="https://media.giphy.com/media/vnFB72LzHtO4o/giphy.gif"></article>]]></description>
+            <link>https://media.giphy.com/media/vnFB72LzHtO4o/giphy.gif</link>
+            <guid isPermaLink="false">3dbf4271-1a48-4729-9832-e3a1eed5f8be</guid>
+            <pubDate>Fri, 01 Jul 2016 16:02:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hermoso, chido, padre, cool, chingón]]></title>
             <description><![CDATA[<article><h1>Hermoso, chido, padre, cool, chingón</h1><p>El oficio más chido (*) del mundo Por Pablo A. Cicero Alonzo Esta semana, el periodismo cumplió con la sociedad. Y lo hizo de una forma extraordinaria. La maquinaria, un poco oxidada, chirrió hasta ponerse a toda marcha, mostrando un músculo que muchos, incluso yo, pensábamos que ya no tenía.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/93538441-e546-402d-b7bb-410c92a59299.jpg</link>
             <guid isPermaLink="false">6dd1028e-e7d8-4201-9c29-8c003fed5422</guid>
             <pubDate>Fri, 01 Jul 2016 15:27:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a76964ed-e55e-43c9-b5c8-1b899a166f86.jpg">]]></description>
-            <link>https://thegrid.ai/r8am/eef0ae3c-44fc-4637-b78a-c976a4c64ef4/index.html</link>
-            <guid isPermaLink="false">eef0ae3c-44fc-4637-b78a-c976a4c64ef4</guid>
-            <pubDate>Fri, 01 Jul 2016 15:27:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
