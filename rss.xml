@@ -4,8 +4,15 @@
         <description><![CDATA[Reporte 8AM]]></description>
         <link>https://thegrid.ai/r8am/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 13:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2016 14:54:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/r8am/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a76964ed-e55e-43c9-b5c8-1b899a166f86.jpg">]]></description>
+            <link>https://thegrid.ai/r8am/eef0ae3c-44fc-4637-b78a-c976a4c64ef4/index.html</link>
+            <guid isPermaLink="false">eef0ae3c-44fc-4637-b78a-c976a4c64ef4</guid>
+            <pubDate>Fri, 01 Jul 2016 14:54:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[El oficio más chido (*) del mundo]]></title>
             <description><![CDATA[<article><h1>El oficio más chido (*) del mundo</h1><p>Gabriel García Marquez, en la redacción. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/93538441-e546-402d-b7bb-410c92a59299.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ca44080-4a8e-4081-a5b5-655ebcfe5eb5.png</link>
             <guid isPermaLink="false">60edf29c-655f-4a1b-8db3-253f0119f47e</guid>
             <pubDate>Tue, 21 Jun 2016 11:32:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comfortably numb]]></title>
-            <description><![CDATA[<article><h1>Comfortably numb</h1><p>Pablo A. Cicero AlonzoFoto:La Jornada Maya Jueves 30 de junio, 2016 Está en andrajos, con los senos a la vista; despeinada, los ojos entrecerrados, la mirada perdida... Sonríe, come algo que no se llega a distinguir qué es y tiene llagas en una pierna. Un niño se cae, gritando, ante la entumida indolencia de la mujer.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb4adacf-43c4-43ec-9213-b4ef2788ae5d.jpg"></article>]]></description>
-            <link>https://www.lajornadamaya.mx/2016-06-30/Reporte-8-am</link>
-            <guid isPermaLink="false">65a5d93b-8718-4bc8-8a64-04b696027d56</guid>
-            <pubDate>Fri, 01 Jul 2016 13:20:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
