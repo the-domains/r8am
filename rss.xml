@@ -4,21 +4,21 @@
         <description><![CDATA[Reporte 8AM]]></description>
         <link>https://thegrid.ai/r8am/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 16:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2016 16:29:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/r8am/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d528cae1-a722-4e56-a354-cba892597125.jpg">]]></description>
+            <link>https://thegrid.ai/r8am/adf25e26-adee-42d0-93da-62fec73a416c/index.html</link>
+            <guid isPermaLink="false">adf25e26-adee-42d0-93da-62fec73a416c</guid>
+            <pubDate>Fri, 01 Jul 2016 16:29:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f003792-6ec3-436e-96e0-bea1a46a6a25.jpg">]]></description>
             <link>https://thegrid.ai/r8am/d43c0bde-41c6-46a4-a85c-15adf6d5041f/index.html</link>
             <guid isPermaLink="false">d43c0bde-41c6-46a4-a85c-15adf6d5041f</guid>
             <pubDate>Fri, 01 Jul 2016 16:14:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hermoso, chido, padre, cool, chingón]]></title>
-            <description><![CDATA[<article><h1>Hermoso, chido, padre, cool, chingón</h1><p>El oficio más chido (*) del mundo Por Pablo A. Cicero Alonzo Esta semana, el periodismo cumplió con la sociedad. Y lo hizo de una forma extraordinaria. La maquinaria, un poco oxidada, chirrió hasta ponerse a toda marcha, mostrando un músculo que muchos, incluso yo, pensábamos que ya no tenía.</p></article>]]></description>
-            <link>https://soundcloud.com/pablo-cicero-220728053/01-07-2016-10-02-45-am</link>
-            <guid isPermaLink="false">07c56dc6-a25c-4508-a943-680fc1b41430</guid>
-            <pubDate>Fri, 01 Jul 2016 15:24:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[José Aire]]></title>
@@ -70,11 +70,11 @@
             <pubDate>Tue, 21 Jun 2016 13:04:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="https://media.giphy.com/media/vnFB72LzHtO4o/giphy.gif"></article>]]></description>
-            <link>https://media.giphy.com/media/vnFB72LzHtO4o/giphy.gif</link>
-            <guid isPermaLink="false">3dbf4271-1a48-4729-9832-e3a1eed5f8be</guid>
-            <pubDate>Fri, 01 Jul 2016 16:14:07 GMT</pubDate>
+            <title><![CDATA[Hermoso, chido, padre, cool, chingón]]></title>
+            <description><![CDATA[<article><h1>Hermoso, chido, padre, cool, chingón</h1><p>El oficio más chido (*) del mundo Por Pablo A. Cicero Alonzo Esta semana, el periodismo cumplió con la sociedad. Y lo hizo de una forma extraordinaria. La maquinaria, un poco oxidada, chirrió hasta ponerse a toda marcha, mostrando un músculo que muchos, incluso yo, pensábamos que ya no tenía.</p></article>]]></description>
+            <link>https://soundcloud.com/pablo-cicero-220728053/01-07-2016-10-02-45-am</link>
+            <guid isPermaLink="false">07c56dc6-a25c-4508-a943-680fc1b41430</guid>
+            <pubDate>Fri, 01 Jul 2016 16:16:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
