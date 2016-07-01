@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-30T11:32:27.548Z'
+datePublished: '2016-07-01T13:20:49.616Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-06-30/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-30T11:32:25.539Z'
+dateModified: '2016-07-01T13:20:49.112Z'
 title: Comfortably numb
 app_links: []
 publisher:
@@ -19,8 +19,8 @@ description: >-
   tiene llagas en una pierna. Un niño se cae, gritando, ante la entumida
   indolencia de la mujer.
 inLanguage: es
-starred: true
 sourcePath: _posts/2016-06-30-comfortably-numb.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
