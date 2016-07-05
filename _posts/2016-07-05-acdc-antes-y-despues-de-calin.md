@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-05T11:39:04.718Z'
+datePublished: '2016-07-05T11:42:10.240Z'
 sourcePath: _posts/2016-07-05-acdc-antes-y-despues-de-calin.md
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-07-05/Reporte-8AM'
 keywords: []
 related: []
 author: []
-dateModified: '2016-07-05T11:39:02.229Z'
+dateModified: '2016-07-05T11:42:09.819Z'
 title: AC/DC (Antes y Después de Calín)
 app_links: []
 publisher:
@@ -27,4 +27,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/efab5853-5c27-4644-a266-15a29a13bf73.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6458c18-678a-4dd6-a86a-9066698bbdf1.png)
