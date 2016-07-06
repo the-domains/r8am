@@ -4,8 +4,15 @@
         <description><![CDATA[Reporte 8AM]]></description>
         <link>https://thegrid.ai/r8am/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jul 2016 11:42:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2016 11:46:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/r8am/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[La última tribu de tinta]]></title>
+            <description><![CDATA[<article><h1>La última tribu de tinta</h1><p>Pablo A. Cicero Alonzo. Foto: Rodrigo Díaz Guzmán. La Jornada Maya Miércoles 6 de julio, 2016. Que una temeridad. Acostumbrado a escribir obituarios de periódicos, recibí la noticia de la llegada de La Jornada Maya con un escepticismo fatalista. Su arribo aún era un runrún, un secreto para indiciados.</p></article>]]></description>
+            <link>https://www.lajornadamaya.mx/2016-07-06/Reporte-8-am</link>
+            <guid isPermaLink="false">20b5a41b-2e55-4013-b92f-ae764bb4f563</guid>
+            <pubDate>Wed, 06 Jul 2016 11:46:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[AC/DC (Antes y Después de Calín)]]></title>
             <description><![CDATA[<article><h1>AC/DC (Antes y Después de Calín)</h1><p>Pablo A. Cicero AlonzoFoto: Captura de Google Images sobre la agresión del 4 de julio de 2011La Jornada Maya Me interrogaron toda la noche, me amenazaron incluso con deportarme. "Sabemos lo que haces en el periódico, mexicanito", me gritaban. "Aquí no puedes venir y publicar lo que te plazca".</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6458c18-678a-4dd6-a86a-9066698bbdf1.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.youtube.com/watch?v=2DLnhdnSUVs</link>
             <guid isPermaLink="false">7326024e-56f2-4571-9718-4766126a366a</guid>
             <pubDate>Tue, 21 Jun 2016 13:04:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[El prozac ]]></title>
-            <description><![CDATA[<article><h1>El prozac </h1><p>Pablo A. Cicero AlonzoFoto: Comunicación PRILa Jornada Maya Lunes 4 de julio, 2016 Perdieron las elecciones. Su presidente es el hazmerreir del país -y, al parecer, también de Estados Unidos y Canadá. Los secretarios de Estado están más preocupados por su futuro que por nuestro presente.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2dc77b29-cb8a-477a-90a4-7c5c761f204b.png"></article>]]></description>
-            <link>https://www.lajornadamaya.mx/2016-07-04/Reporte-8-am</link>
-            <guid isPermaLink="false">dceb1489-0470-4e2e-a9bd-884ae164d96e</guid>
-            <pubDate>Mon, 04 Jul 2016 15:08:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
