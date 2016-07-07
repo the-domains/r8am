@@ -4,8 +4,15 @@
         <description><![CDATA[Reporte 8AM]]></description>
         <link>https://thegrid.ai/r8am/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jul 2016 11:46:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2016 11:55:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/r8am/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[El sur jodido]]></title>
+            <description><![CDATA[<article><h1>El sur jodido</h1><p>Pablo A. Cicero AlonzoFoto: Rodrigo Díaz GuzmánLa Jornada Maya Miércoles 7 de julio, 2016 Viven en ciudadelas donde la miseria no tiene cabida. Las mujeres del servicio son obligadas a portar uniforme y tienen acceso restringido: no pueden entrar a ciertas áreas, lo que es un descarado apartheid social y racial.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a019dc37-010b-4e46-925d-892e94753c4d.png"></article>]]></description>
+            <link>https://www.lajornadamaya.mx/2016-07-07/Reporte-8-am</link>
+            <guid isPermaLink="false">7fa1afda-d72f-4856-96d5-dc9df5a53424</guid>
+            <pubDate>Thu, 07 Jul 2016 11:55:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[La última tribu de tinta]]></title>
             <description><![CDATA[<article><h1>La última tribu de tinta</h1><p>Pablo A. Cicero Alonzo. Foto: Rodrigo Díaz Guzmán. La Jornada Maya Miércoles 6 de julio, 2016. Que una temeridad. Acostumbrado a escribir obituarios de periódicos, recibí la noticia de la llegada de La Jornada Maya con un escepticismo fatalista. Su arribo aún era un runrún, un secreto para indiciados.</p></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://thegrid.ai/r8am/odiame-mas/index.html</link>
             <guid isPermaLink="false">147c364f-fe1f-47c8-8c31-c8a7b9c07569</guid>
             <pubDate>Thu, 23 Jun 2016 00:51:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Elegy for the Arctic]]></title>
-            <description><![CDATA[<article><h1>Elegy for the Arctic</h1><p>Ludovico Einaudi ha tocado en medio mundo. Ha sido ovacionado en el Royal Albert Hall de Londres y su piano es el que suena en la banda sonora de Intocableo en el anuncio de la Lotería de Navidad del año pasado. Pero el músico italiano acaba de ofrecer uno de sus conciertos más peculiares. En lugar del público, le rodeaban icebergs. Y por mucho que su música calentara el corazón de los oyentes, la temperatura alrededor seguía varios grados bajo cero. Einaudi ha intepretado Elegy for the Arctic (Elegía por el Ártico), sobre una plataforma flotante en mitad de ese océano, frente al glaciar Wahlenbergbreen (en Svalbard, Noruega), a donde llegó a bordo de un barco de Greenpeace. Con su actuación, la ONG busca llamar la atención sobre la reunión en Tenerife esta semana de la comisión Ospar, “que podría asegurar la creación de la primera zona protegida en aguas internacionales del océano Ártico”, según un comunicado.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c55f5db9bfa612de13153334fbb04427/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2F2DLnhdnSUVs%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=2DLnhdnSUVs</link>
-            <guid isPermaLink="false">7326024e-56f2-4571-9718-4766126a366a</guid>
-            <pubDate>Tue, 21 Jun 2016 13:04:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
