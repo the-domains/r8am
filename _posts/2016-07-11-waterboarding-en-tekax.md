@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-07-11T11:49:22.891Z'
+datePublished: '2016-07-12T14:31:39.327Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-07-11/Reporte-8-AM'
 keywords: []
 related: []
 author: []
-dateModified: '2016-07-11T11:49:21.398Z'
+dateModified: '2016-07-12T14:31:38.860Z'
 title: ' Waterboarding en Tekax'
 app_links: []
 publisher:
@@ -18,8 +18,8 @@ description: >-
   pulmones se llenan de líquido. Respirar es cada vez más difícil; piensas
   confusamente, y puedes perder el conocimiento.
 inLanguage: es
-starred: true
 sourcePath: _posts/2016-07-11-waterboarding-en-tekax.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
