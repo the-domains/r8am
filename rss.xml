@@ -4,15 +4,8 @@
         <description><![CDATA[Reporte 8AM]]></description>
         <link>https://thegrid.ai/r8am/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jul 2016 14:27:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2016 14:31:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/r8am/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No llevaré luto por él]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6e6a46b-111f-4aba-9b15-f40709302a86.png">]]></description>
-            <link>https://thegrid.ai/r8am/no-llevare-luto-por-el/index.html</link>
-            <guid isPermaLink="false">47330d30-cc25-43e1-b47d-85606c7081e4</guid>
-            <pubDate>Tue, 12 Jul 2016 14:27:08 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[ Waterboarding en Tekax]]></title>
             <description><![CDATA[<article><h1> Waterboarding en Tekax</h1><p>Pablo A. Cicero Alonzo. Foto: tomada de la web. La Jornada Maya. Te ponen un paño en la cabeza y van vertiendo agua. Sientes que te ahogas, que tus pulmones se llenan de líquido. Respirar es cada vez más difícil; piensas confusamente, y puedes perder el conocimiento.</p></article>]]></description>
@@ -76,6 +69,13 @@
             <link>https://www.lajornadamaya.mx/2016-06-28/Reporte-8-am</link>
             <guid isPermaLink="false">d9d3345a-9fd7-403d-8a5d-51dc25dbca6e</guid>
             <pubDate>Tue, 28 Jun 2016 11:29:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No llevaré luto por él]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6e6a46b-111f-4aba-9b15-f40709302a86.png">]]></description>
+            <link>https://thegrid.ai/r8am/no-llevare-luto-por-el/index.html</link>
+            <guid isPermaLink="false">47330d30-cc25-43e1-b47d-85606c7081e4</guid>
+            <pubDate>Tue, 12 Jul 2016 14:31:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
