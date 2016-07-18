@@ -4,8 +4,15 @@
         <description><![CDATA[Reporte 8AM]]></description>
         <link>https://thegrid.ai/r8am/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jul 2016 12:08:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2016 12:09:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/r8am/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pericos Vs. Tigres]]></title>
+            <description><![CDATA[<article><h1>Pericos Vs. Tigres</h1><p>Pablo A. Cicero Alonzo. Foto: Jam Media. La Jornada Maya. La visita de Rafael Moreno Valle Rosas a Yucatán fue, sin lugar a dudas, un acto de campaña. En pleno proceso de entrega a su compañero de partido, Tony Gali Fayad, el gobernador de Puebla ya está pensando en su futuro.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/00f2ce1a-2550-4f80-a42e-cb27dcb3c527.png"></article>]]></description>
+            <link>https://www.lajornadamaya.mx/2016-07-18/Reporte-8-AM</link>
+            <guid isPermaLink="false">0db95329-6479-4064-959d-21a8a3a1a390</guid>
+            <pubDate>Mon, 18 Jul 2016 12:09:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Los (verdaderos) piratas del Caribe ]]></title>
             <description><![CDATA[<article><h1>Los (verdaderos) piratas del Caribe </h1><p>Pablo A. Cicero Alonzo. Foto: Screen Shot tomado de la película La Ley de Herodes. La Jornada Maya. Miércoles 13 de julio, 2016. Quintana Roo, que conoce de huracanes, está actualmente sorteando uno. Es, quizás, el más intenso de la administración de Roberto Borge Angulo; el más intenso y el último.</p></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/650e869f-32de-431e-9a80-997115236a63.png</link>
             <guid isPermaLink="false">13cad1fb-834d-4177-ae40-a10784211806</guid>
             <pubDate>Tue, 28 Jun 2016 15:28:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[La prensa contra el monstruo bicéfalo]]></title>
-            <description><![CDATA[<article><h1>La prensa contra el monstruo bicéfalo</h1><p>Pablo A. Cicero AlonzoFoto: René BurriLa Jornada Maya Martes 28 de junio, 2016 Como en la gran mayoría de las decisiones gubernamentales, las que se toman al momento de contratar pautas en medios de comunicación obedecen a razones opacas y, la mayoría de las veces, poco eficaces.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e773aa9-208d-4312-80f5-7b512b414be6.png"></article>]]></description>
-            <link>https://www.lajornadamaya.mx/2016-06-28/Reporte-8-am</link>
-            <guid isPermaLink="false">d9d3345a-9fd7-403d-8a5d-51dc25dbca6e</guid>
-            <pubDate>Tue, 28 Jun 2016 11:29:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
