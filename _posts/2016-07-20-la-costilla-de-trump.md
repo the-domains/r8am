@@ -1,11 +1,12 @@
 ---
-datePublished: '2016-07-20T22:44:50.450Z'
+datePublished: '2016-07-21T12:19:42.875Z'
+sourcePath: _posts/2016-07-20-la-costilla-de-trump.md
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-07-20/Reporte-8AM'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-07-20T22:44:43.873Z'
+dateModified: '2016-07-21T12:19:42.406Z'
 title: La costilla de Trump
 app_links: []
 publisher:
@@ -20,7 +21,6 @@ description: >-
   arquitectura, el diseño, la moda y la belleza.
 inLanguage: es
 starred: true
-sourcePath: _posts/2016-07-20-la-costilla-de-trump.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -28,4 +28,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://img.lajornadamaya.mx/32/i1agb99a9ggc_640-414-cover" /><h1>La costilla de Trump</h1><p>Pablo A. Cicero Alonzo. Foto: Ap. La Jornada Maya Miércoles 20 de julio, 2016. Todo el mundo habla de Melania, una "belleza de ojos como el agua", con "elegancia natural" y una persona quien tiene pasión por las artes, la arquitectura, el diseño, la moda y la belleza.</p></article>
+![Pablo A. Cicero Alonzo. Foto: Ap. La Jornada Maya Miércoles 20 de julio, 2016. Todo el mundo habla de Melania, una "belleza de ojos como el agua", con "elegancia natural" y una persona quien tiene pasión por las artes, la arquitectura, el diseño, la moda y la belleza.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/77205388-54d9-4f7d-b17a-e0e8d13a0dc6.png)
