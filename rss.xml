@@ -4,8 +4,15 @@
         <description><![CDATA[Reporte 8AM]]></description>
         <link>https://thegrid.ai/r8am/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 13:39:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2016 13:53:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/r8am/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e9aa8c1-bb7c-4670-8e08-942a21ec052f.jpg">]]></description>
+            <link>https://thegrid.ai/r8am/852a561c-1b0b-4b30-91f4-8f583e73c3eb/index.html</link>
+            <guid isPermaLink="false">852a561c-1b0b-4b30-91f4-8f583e73c3eb</guid>
+            <pubDate>Mon, 25 Jul 2016 13:53:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[La costilla de Trump]]></title>
             <description><![CDATA[<article><h1>La costilla de Trump</h1><p>Pablo A. Cicero Alonzo. Foto: Ap. La Jornada Maya Miércoles 20 de julio, 2016. Todo el mundo habla de Melania, una "belleza de ojos como el agua", con "elegancia natural" y una persona quien tiene pasión por las artes, la arquitectura, el diseño, la moda y la belleza.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6f15c98f3a4b8e5f6a55c8e1aaac8b1c/croprotate.png?cropheight=795&cropwidth=1244&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F77205388-54d9-4f7d-b17a-e0e8d13a0dc6.png&x=0&y=0"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://thegrid.ai/r8am/adf25e26-adee-42d0-93da-62fec73a416c/index.html</link>
             <guid isPermaLink="false">adf25e26-adee-42d0-93da-62fec73a416c</guid>
             <pubDate>Fri, 01 Jul 2016 16:36:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[José Aire]]></title>
-            <description><![CDATA[<article><h1>José Aire</h1><p>Pablo A. Cicero Alonzo. Foto: ApLa Jornada Maya. Miércoles 29 de junio, 2016. "Ojalá podamos ser capaces de seguir caminando los caminos del viento, a pesar de las caídas y las traiciones y las derrotas, porque la historia continúa, más allá de nosotros, y cuando ella dice adiós, está diciendo: hasta luego".</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b94e6333-7e64-40a2-b388-96b20e9658cc.jpg"></article>]]></description>
-            <link>https://www.lajornadamaya.mx/2016-06-29/Reporte-8-AM</link>
-            <guid isPermaLink="false">de656078-95c0-47bc-a93e-159c55554a06</guid>
-            <pubDate>Wed, 29 Jun 2016 15:34:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
