@@ -1,0 +1,90 @@
+---
+datePublished: '2016-07-28T11:10:36.606Z'
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2725780b-1fc6-41c8-bfac-c6b62c38d942.jpg
+author: []
+via: {}
+dateModified: '2016-07-28T11:10:26.129Z'
+title: 'Pajarear, literalmente'
+publisher:
+  name: Álvaro Cervera Azcorra
+description: >-
+  No había amanecido aún cuando bajó las escaleras, en puntillas. Come una
+  manzana y toma un vaso con agua; espera a que lo pasen a buscar. Son las
+  cuatro y media de la mañana cuando los automóviles salen de Mérida rumbo a
+  Celestún. Ahí ya los espera el guía; él y una nube de mosquitos les dan la
+  bienvenida. A las seis, cargan todo el equipo y la lancha se enfila al corazón
+  de las tinieblas. El cielo va cambiando de tonalidades mientras avanzan hacia
+  la zona norte de la ría. Se desplazan sobre un espejo uniforme de agua, y
+  aprovechan el recorrido para hacer pruebas de medición de luz y tener una idea
+  de cómo tomarán las fotos.  Poco antes de que el sol asome por encima del
+  manglar avistan una parvada de flamencos. El guía aproxima la lancha,
+  manteniendo una distancia prudente. Álvaro y sus compañeros se bajan de la
+  embarcación; el agua les llega a medio pecho. La lancha ya está fondeada y
+  tiene el motor apagado. Un limo blanquecino los rodea, mientras los flamencos
+  permanecen inmutables, más ocupados de mantener su espacio que cualquier otra
+  cosa. «Hay un momento en que estando ahí con ellos no sabes si admirarlos o
+  tomar fotos», confiesa Álvaro. «Van caminando plácidamente todos en un sentido
+  u otro, como con una coreografía practicada de antemano, remojando sus cabezas
+  y largos cuellos y luego sacudiéndose el agua o haciendo ver al otro que está
+  invadiendo su territorio».  Sobre ellos, algunas parvadas sobrevuelan en
+  círculos hasta que deciden integrarse al grupo. Es un espectáculo es verlos
+  descender; «sin torre de control de por medio van bajando uno tras otro
+  manteniendo distancias muy cortas; pareciera que fueran a precipitarse uno
+  sobre otro, cosa que no sucede y sí en cambio hacen gráciles acuatizajes». Y
+  es en ese momento cuando suena la metralla: clickclickclickclickclickclick. Y
+  así millones de veces, hasta obtener la imagen perfecta, esta que ilustra esta
+  página.  El fotógrafo que la captó se llama Álvaro Cervera Azcorra, y es
+  arquitecto. Su batallón está formado por ocho personas, que ya son casi una
+  familia; ellos también participan en recorridos con un grupo más extenso, de
+  unas veinte personas. Sus imágenes han sido premiadas en el Festival de las
+  Aves Toh, que organiza Pronatura Península de Yucatán; el año pasado,
+  exhibieron durante el Festival de Aviturismo, de Campeche, y éste, en la II
+  Expo Ambiental, aquí en Mérida. La mejor experiencia que han tenido Álvaro y
+  sus compañeros fue en un recorrido que hicieron a Tres Garantías, al suroeste
+  de Quintana Roo.  Como Álvaro y sus compañeros, cada vez hay más grupos de
+  personas que fotografían aves en la Península. Están bien organizados y
+  realizan safaris conjuntos, tanto dentro como fuera del Estado. Comparten sus
+  imágenes en las redes o en exposiciones, y llevan un estricto código de ética,
+  con el objetivo de preservar los escenarios y las especies que fotografían.
+  Son, además, muy competitivos, buscando cada uno su propio santo grial. El de
+  Álvaro, por ejemplo, es el tinamú, un pajarito que «anda por todos lados en el
+  suelo pero al llegar a cierta distancia se calla y le pierdes la pista. Pocos
+  han logrado sacarle una foto».  El mundo enloquecido atrapando «pokemones» en
+  una realidad que no existe, incapaz de ver lo que Álvaro y sus compañeros ven
+  y fotografían, cazando en una imagen una naturaleza cada día más escurridiza y
+  difícil de encontrar. Según el portal de Pro Natura, en la Península de
+  Yucatán coinciden 543 especies de aves. Esta cifra representa la mitad de las
+  registradas en todo el país. Cuatro de cada diez de éstas son especies
+  migratorias, que encuentran en Campeche, Yucatán y Quintana Roo lugares de
+  descanso y alimento suficiente para reabastecer su reservas energéticas y así
+  continuar con su vuelo migratorio hacia Centro y Sudamérica. Sin embargo, todo
+  esto podría cambiar drásticamente. Hace unas semanas se dio a conocer un
+  estudio de la Comisión Nacional para el Conocimiento y Uso de la Biodiversidad
+  (Conabio). Este alerta que la acelerada fragmentación de selvas y manglares en
+  las últimas dos décadas en Yucatán ha ocasionado que estas especies cuenten
+  con menos espacios para desarrollarse. Especies conocidas comúnmente como pavo
+  ocelado o kutz, loro yucateco, tángara yucateca, matraca yucateca, zopilote
+  rey, cigüeña jabirú y pájaro carpintero tienen un grado alto de amenaza de
+  extinción. Dentro de unos años, tal vez la única forma que veamos a estas aves
+  será por las imágenes de quienes le han cambiado el significado al verbo
+  pajarear.
+starred: true
+sourcePath: _posts/2016-07-28-pajarear-literalmente.md
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
+
+---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2725780b-1fc6-41c8-bfac-c6b62c38d942.jpg)
+
+# Pajarear, literalmente
+
+> No había amanecido aún cuando bajó las escaleras, en puntillas. Come una manzana y toma un vaso con agua; espera a que lo pasen a buscar. Son las cuatro y media de la mañana cuando los automóviles salen de Mérida rumbo a Celestún. Ahí ya los espera el guía; él y una nube de mosquitos les dan la bienvenida. A las seis, cargan todo el equipo y la lancha se enfila al corazón de las tinieblas. El cielo va cambiando de tonalidades mientras avanzan hacia la zona norte de la ría. Se desplazan sobre un espejo uniforme de agua, y aprovechan el recorrido para hacer pruebas de medición de luz y tener una idea de cómo tomarán las fotos.   
+> Poco antes de que el sol asome por encima del manglar avistan una parvada de flamencos. El guía aproxima la lancha, manteniendo una distancia prudente. Álvaro y sus compañeros se bajan de la embarcación; el agua les llega a medio pecho. La lancha ya está fondeada y tiene el motor apagado. Un limo blanquecino los rodea, mientras los flamencos permanecen inmutables, más ocupados de mantener su espacio que cualquier otra cosa. «Hay un momento en que estando ahí con ellos no sabes si admirarlos o tomar fotos», confiesa Álvaro. «Van caminando plácidamente todos en un sentido u otro, como con una coreografía practicada de antemano, remojando sus cabezas y largos cuellos y luego sacudiéndose el agua o haciendo ver al otro que está invadiendo su territorio».   
+> Sobre ellos, algunas parvadas sobrevuelan en círculos hasta que deciden integrarse al grupo. Es un espectáculo es verlos descender; «sin torre de control de por medio van bajando uno tras otro manteniendo distancias muy cortas; pareciera que fueran a precipitarse uno sobre otro, cosa que no sucede y sí en cambio hacen gráciles acuatizajes». Y es en ese momento cuando suena la metralla: clickclickclickclickclickclick. Y así millones de veces, hasta obtener la imagen perfecta, esta que ilustra esta página.   
+> El fotógrafo que la captó se llama Álvaro Cervera Azcorra, y es arquitecto. Su batallón está formado por ocho personas, que ya son casi una familia; ellos también participan en recorridos con un grupo más extenso, de unas veinte personas. Sus imágenes han sido premiadas en el Festival de las Aves Toh, que organiza Pronatura Península de Yucatán; el año pasado, exhibieron durante el Festival de Aviturismo, de Campeche, y éste, en la II Expo Ambiental, aquí en Mérida. La mejor experiencia que han tenido Álvaro y sus compañeros fue en un recorrido que hicieron a Tres Garantías, al suroeste de Quintana Roo.   
+> Como Álvaro y sus compañeros, cada vez hay más grupos de personas que fotografían aves en la Península. Están bien organizados y realizan safaris conjuntos, tanto dentro como fuera del Estado. Comparten sus imágenes en las redes o en exposiciones, y llevan un estricto código de ética, con el objetivo de preservar los escenarios y las especies que fotografían. Son, además, muy competitivos, buscando cada uno su propio santo grial. El de Álvaro, por ejemplo, es el tinamú, un pajarito que «anda por todos lados en el suelo pero al llegar a cierta distancia se calla y le pierdes la pista. Pocos han logrado sacarle una foto».   
+> El mundo enloquecido atrapando «pokemones» en una realidad que no existe, incapaz de ver lo que Álvaro y sus compañeros ven y fotografían, cazando en una imagen una naturaleza cada día más escurridiza y difícil de encontrar. Según el portal de Pro Natura, en la Península de Yucatán coinciden 543 especies de aves. Esta cifra representa la mitad de las registradas en todo el país. Cuatro de cada diez de éstas son especies migratorias, que encuentran en Campeche, Yucatán y Quintana Roo lugares de descanso y alimento suficiente para reabastecer su reservas energéticas y así continuar con su vuelo migratorio hacia Centro y Sudamérica.  
+> Sin embargo, todo esto podría cambiar drásticamente. Hace unas semanas se dio a conocer un estudio de la Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (Conabio). Este alerta que la acelerada fragmentación de selvas y manglares en las últimas dos décadas en Yucatán ha ocasionado que estas especies cuenten con menos espacios para desarrollarse. Especies conocidas comúnmente como pavo ocelado o kutz, loro yucateco, tángara yucateca, matraca yucateca, zopilote rey, cigüeña jabirú y pájaro carpintero tienen un grado alto de amenaza de extinción. Dentro de unos años, tal vez la única forma que veamos a estas aves será por las imágenes de quienes le han cambiado el significado al verbo pajarear.
