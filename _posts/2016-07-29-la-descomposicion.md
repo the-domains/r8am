@@ -1,4 +1,9 @@
 ---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
 description: >-
   Su discurso fue más corto de lo habitual. Y menos intenso. No se sentía mal,
   pero algo le molestaba. Un cosquilleo en la oreja —dentro de la oreja— le
@@ -25,18 +30,17 @@ description: >-
   concluyó el orador, él igual se levantó para felicitarlo. Le dio la mano —la
   misma, húmeda, casi goteando, con la que se había sacado la larva— y lo abrazó
   efusivamente. «Gracias, hermano, por tus palabras», susurró
-dateModified: '2016-07-29T13:48:19.498Z'
-datePublished: '2016-07-29T13:48:44.507Z'
+datePublished: '2016-07-29T13:51:40.822Z'
+dateModified: '2016-07-29T13:51:29.805Z'
 title: La descomposición
 author: []
-publisher: {}
 via: {}
-starred: true
 sourcePath: _posts/2016-07-29-la-descomposicion.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+authors: []
+publisher: {}
+starred: true
+url: la-descomposicion/index.html
+_type: Article
 
 ---
 # La descomposición
