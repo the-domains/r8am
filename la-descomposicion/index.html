@@ -1,0 +1,869 @@
+<!DOCTYPE HTML><html class="exporting wf-loading"><head><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/><title>La descomposición - R8AM</title><meta property="og:title" content="La descomposici&#xF3;n"/><meta property="og:type" content="article"/><meta property="og:url" content="undefinedla-descomposicion/index.html"/><meta property="og:article:published_time" content="2016-07-29T13:51:40.822Z"/><meta name="generator" content="The Grid taylor/0.19.13"><meta name="the-grid-solution" content="dfcf4f6e-e6d6-4b78-a32b-efe8f1966d53"><style href="./css/scale/mini.css" media="(max-width: 19.9376em)" rel="stylesheet">@media (max-width: 15.625em){html{font-size:3.09375em !important}}
+@media (min-width: 15.6875em)and (max-width: 15.75em){	html{font-size:3.28125em !important}}
+@media (min-width: 15.8125em)and (max-width: 16.25em){	html{font-size:3.375em !important}}
+@media (min-width: 16.3125em)and (max-width: 16.6875em){html{font-size:3.46875em !important}}
+@media (min-width: 16.75em)and (max-width: 17.125em){	html{font-size:3.5625em !important}}
+@media (min-width: 17.1875em)and (max-width: 17.5625em){html{font-size:3.65625em !important}}
+@media (min-width: 17.625em)and (max-width: 18em){		html{font-size:3.75em !important}}
+@media (min-width: 18.0625em)and (max-width: 18.5em){	html{font-size:3.84375em !important}}
+@media (min-width: 18.5625em)and (max-width: 18.9375em){html{font-size:3.9375em !important}}
+@media (min-width: 19em)and (max-width: 19.375em){		html{font-size:4.03125em !important}}
+@media (min-width: 19.4375em)and (max-width: 19.8125em){html{font-size:4.1125em !important}}
+@media (min-width: 19.875em){html{font-size:4.17125em !important}}</style><style href="./css/scale/small.css" media="(min-width: 20em)" rel="stylesheet">@media (max-width: 20.25em)   {html{font-size:4.125em !important}}
+@media (min-width: 20.3125em) {html{font-size:4.3125em !important}}
+@media (min-width: 20.8125em) {html{font-size:4.40625em !important}}
+@media (min-width: 21.25em)   {html{font-size:4.5em !important}}
+@media (min-width: 21.6875em) {html{font-size:4.59375em !important}}
+@media (min-width: 22.125em)  {html{font-size:4.6875em !important}}
+@media (min-width: 22.5625em) {html{font-size:4.78125em !important}}
+@media (min-width: 23.0625em) {html{font-size:4.875em !important}}
+@media (min-width: 23.5em)    {html{font-size:4.96875em !important}}
+@media (min-width: 23.9375em) {html{font-size:5.0625em !important}}
+@media (min-width: 24.375em)  {html{font-size:5.15625em !important}}
+@media (min-width: 24.8125em) {html{font-size:5.25em !important}}
+@media (min-width: 25.3125em) {html{font-size:5.34375em !important}}
+@media (min-width: 25.75em)   {html{font-size:5.4375em !important}}
+@media (min-width: 26.1875em) {html{font-size:5.53125em !important}}
+@media (min-width: 26.625em)  {html{font-size:5.625em !important}}
+@media (min-width: 27.0625em) {html{font-size:5.71875em !important}}
+@media (min-width: 27.5625em) {html{font-size:5.8125em !important}}
+@media (min-width: 28em)      {html{font-size:5.90625em !important}}
+@media (min-width: 28.4375em) {html{font-size:6em !important}}
+@media (min-width: 28.875em)  {html{font-size:6.09375em !important}}
+@media (min-width: 29.3125em) {html{font-size:6.18375em !important}}
+@media (min-width: 29.6125em) {html{font-size:6.27375em !important}}
+@media (min-width: 30.025em)  {html{font-size:4.1875em !important}}
+@media (min-width: 30.25em)   {html{font-size:4.25em !important}}
+@media (min-width: 30.6875em) {html{font-size:4.3125em !important}}
+@media (min-width: 31.125em)  {html{font-size:4.375em !important}}
+@media (min-width: 31.5625em) {html{font-size:4.4375em !important}}
+@media (min-width: 32.0625em) {html{font-size:4.5em !important}}
+@media (min-width: 32.5em)    {html{font-size:4.5625em !important}}
+@media (min-width: 32.9375em) {html{font-size:4.625em !important}}
+@media (min-width: 33.375em)  {html{font-size:4.6875em !important}}
+@media (min-width: 33.8125em) {html{font-size:4.75em !important}}
+@media (min-width: 34.3125em) {html{font-size:4.8125em !important}}
+@media (min-width: 34.75em)   {html{font-size:4.875em !important}}
+@media (min-width: 35.1875em) {html{font-size:4.9375em !important}}
+@media (min-width: 35.625em)  {html{font-size:5em !important}}
+@media (min-width: 36.0625em) {html{font-size:5.0625em !important}}
+@media (min-width: 36.5625em) {html{font-size:5.125em !important}}
+@media (min-width: 37em)      {html{font-size:5.1875em !important}}
+@media (min-width: 37.4375em) {html{font-size:5.25em !important}}
+@media (min-width: 37.875em)  {html{font-size:5.3125em !important}}
+@media (min-width: 38.3125em) {html{font-size:5.375em !important}}
+@media (min-width: 38.8125em) {html{font-size:5.4375em !important}}
+@media (min-width: 39.25em)   {html{font-size:5.5em !important}}
+@media (min-width: 39.6875em) {html{font-size:5.5625em !important}}
+@media (min-width: 40.125em)  {html{font-size:5.625em !important}}
+@media (min-width: 40.5625em) {html{font-size:5.6875em !important}}
+@media (min-width: 41.0625em) {html{font-size:5.75em !important}}
+@media (min-width: 41.5em)    {html{font-size:5.8125em !important}}
+@media (min-width: 41.9375em) {html{font-size:5.875em !important}}
+@media (min-width: 42.375em)  {html{font-size:5.9375em !important}}
+@media (min-width: 42.8125em) {html{font-size:6em !important}}
+@media (min-width: 43.3125em) {html{font-size:6.0625em !important}}
+@media (min-width: 43.75em)   {html{font-size:6.125em !important}}
+@media (min-width: 44.1875em) {html{font-size:6.185em !important}}
+@media (min-width: 44.625em)  {html{font-size:6.24em !important}}</style><style href="./css/scale/medium.css" media="(min-width: 45.0625em)" rel="stylesheet">
+@media (min-width: 45.0625em)and (max-width: 45.9375em){html{font-size:4.78125em !important}}
+@media (min-width: 46em)and (max-width: 46.8125em){		html{font-size:4.875em !important}}
+@media (min-width: 46.875em)and (max-width: 47.75em){	html{font-size:4.96875em !important}}
+@media (min-width: 47.8125em)and (max-width: 48.625em){	html{font-size:5.0625em !important}}
+@media (min-width: 48.6875em)and (max-width: 49.5em){	html{font-size:5.15625em !important}}
+@media (min-width: 49.5625em)and (max-width: 50.4375em){html{font-size:5.25em !important}}
+@media (min-width: 50.5em)and (max-width: 51.3125em){	html{font-size:5.34375em !important}}
+@media (min-width: 51.375em)and (max-width: 52.25em){	html{font-size:5.4375em !important}}
+@media (min-width: 52.3125em)and (max-width: 53.125em){	html{font-size:5.53125em !important}}
+@media (min-width: 53.1875em)and (max-width: 54em){		html{font-size:5.625em !important}}
+@media (min-width: 54.0625em)and (max-width: 54.9375em){html{font-size:5.71875em !important}}
+@media (min-width: 55em)and (max-width: 55.8125em){		html{font-size:5.8125em !important}}
+@media (min-width: 55.875em)and (max-width: 56.75em){	html{font-size:5.90625em !important}}
+@media (min-width: 56.8125em)and (max-width: 57.625em){	html{font-size:6em !important}}
+@media (min-width: 57.6875em)and (max-width: 58.5em){	html{font-size:6.09375em !important}}
+@media (min-width: 58.5625em)and (max-width: 59.4375em){html{font-size:6.18em !important}}
+@media (min-width: 60.01em)and (max-width: 60.3125em){		html{font-size:4.1875em !important}}
+@media (min-width: 60.375em)and (max-width: 61.25em){	html{font-size:4.25em !important}}
+@media (min-width: 61.3125em)and (max-width: 62.125em){	html{font-size:4.3125em !important}}
+@media (min-width: 62.1875em)and (max-width: 63em){		html{font-size:4.375em !important}}
+@media (min-width: 63.0625em)and (max-width: 63.9375em){html{font-size:4.4375em !important}}
+@media (min-width: 64em)and (max-width: 64.8125em){		html{font-size:4.5em !important}}
+@media (min-width: 64.875em)and (max-width: 65.75em){	html{font-size:4.5625em !important}}
+@media (min-width: 65.8125em)and (max-width: 66.625em){	html{font-size:4.625em !important}}
+@media (min-width: 66.6875em)and (max-width: 67.5em){	html{font-size:4.6875em !important}}
+@media (min-width: 67.5625em)and (max-width: 68.4375em){html{font-size:4.75em !important}}
+@media (min-width: 68.5em)and (max-width: 69.3125em){	html{font-size:4.8125em !important}}
+@media (min-width: 69.375em)and (max-width: 70.25em){	html{font-size:4.875em !important}}
+@media (min-width: 70.3125em)and (max-width: 71.125em){	html{font-size:4.9375em !important}}
+@media (min-width: 71.1875em)and (max-width: 72em){		html{font-size:5em !important}}
+@media (min-width: 72.0625em)and (max-width: 72.9375em){html{font-size:5.0625em !important}}
+@media (min-width: 73em)and (max-width: 73.8125em){		html{font-size:5.125em !important}}
+@media (min-width: 73.875em)and (max-width: 74.75em){	html{font-size:5.1875em !important}}
+@media (min-width: 74.8125em)and (max-width: 75.625em){	html{font-size:5.25em !important}}
+@media (min-width: 75.6875em)and (max-width: 76.5em){	html{font-size:5.3125em !important}}
+@media (min-width: 76.5625em)and (max-width: 77.4375em){html{font-size:5.375em !important}}
+@media (min-width: 77.5em)and (max-width: 78.3125em){	html{font-size:5.4375em !important}}
+@media (min-width: 78.375em)and (max-width: 79.25em){	html{font-size:5.5em !important}}
+@media (min-width: 79.3125em)and (max-width: 80.125em){	html{font-size:5.5625em !important}}
+@media (min-width: 80.1875em)and (max-width: 81em){		html{font-size:5.625em !important}}
+@media (min-width: 81.0625em)and (max-width: 81.9375em){html{font-size:5.6875em !important}}
+@media (min-width: 82em)and (max-width: 82.8125em){		html{font-size:5.75em !important}}
+@media (min-width: 82.875em)and (max-width: 83.75em){	html{font-size:5.8125em !important}}
+@media (min-width: 83.8125em)and (max-width: 84.625em){	html{font-size:5.875em !important}}
+@media (min-width: 84.6875em)and (max-width: 85.5em){	html{font-size:5.9375em !important}}
+@media (min-width: 85.5625em)and (max-width: 86.4375em){html{font-size:6em !important}}
+@media (min-width: 86.5em)and (max-width: 87.3125em){	html{font-size:6.0625em !important}}
+@media (min-width: 87.375em)and (max-width: 88.25em){	html{font-size:6.125em !important}}
+@media (min-width: 88.3125em)and (max-width: 89.125em){	html{font-size:6.185em !important}}
+@media (min-width: 89.1875em){html{font-size:6.245em !important}}</style><style href="./css/scale/large.css" media="(min-width: 90.0625em)" rel="stylesheet">
+@media (min-width: 90em)and (max-width: 90em){html{font-size:4.9375em !important}}
+@media (min-width: 90.0625em)and (max-width: 91.125em){  html{font-size:5.0625em !important}}
+@media (min-width: 91.1875em)and (max-width: 92.25em){   html{font-size:5.125em !important}}
+@media (min-width: 92.3125em)and (max-width: 93.375em){  html{font-size:5.1875em !important}}
+@media (min-width: 93.4375em)and (max-width: 94.5em){    html{font-size:5.25em !important}}
+@media (min-width: 94.5625em)and (max-width: 95.625em){  html{font-size:5.3125em !important}}
+@media (min-width: 95.6875em)and (max-width: 96.75em){   html{font-size:5.375em !important}}
+@media (min-width: 96.8125em)and (max-width: 97.875em){  html{font-size:5.4375em !important}}
+@media (min-width: 97.9375em)and (max-width: 99em){      html{font-size:5.5em !important}}
+@media (min-width: 99.0625em)and (max-width: 100.125em){ html{font-size:5.5625em !important}}
+@media (min-width: 100.1875em)and (max-width: 101.25em){ html{font-size:5.625em !important}}
+@media (min-width: 101.3125em)and (max-width: 102.375em){html{font-size:5.6875em !important}}
+@media (min-width: 102.4375em)and (max-width: 103.5em){  html{font-size:5.75em !important}}
+@media (min-width: 103.5625em)and (max-width: 104.625em){html{font-size:5.8125em !important}}
+@media (min-width: 104.6875em)and (max-width: 105.75em){ html{font-size:5.875em !important}}
+@media (min-width: 105.8125em)and (max-width: 106.875em){html{font-size:5.9375em !important}}
+@media (min-width: 106.9375em)and (max-width: 108em){    html{font-size:6em !important}}
+@media (min-width: 108.0625em)and (max-width: 109.125em){html{font-size:6.0625em !important}}
+@media (min-width: 109.1875em)and (max-width: 110.25em){ html{font-size:6.125em !important}}
+@media (min-width: 110.3125em)and (max-width: 111.375em){html{font-size:6.185em !important}}
+@media (min-width: 111.4375em){html{font-size:6.245em !important}}
+
+@media (min-width: 112.5em)and (max-width: 112.5em){      html{font-size:6.25em !important}}
+@media (min-width: 112.5625em)and (max-width: 113.625em){ html{font-size:6.3125em !important}}
+@media (min-width: 113.6875em)and (max-width: 114.75em){  html{font-size:6.375em !important}}
+@media (min-width: 114.8125em)and (max-width: 115.875em){ html{font-size:6.4375em !important}}
+@media (min-width: 115.9375em)and (max-width: 117em){     html{font-size:6.5em !important}}
+@media (min-width: 117.0625em)and (max-width: 118.125em){ html{font-size:6.5625em !important}}
+@media (min-width: 118.1875em)and (max-width: 119.25em){  html{font-size:6.625em !important}}
+@media (min-width: 119.3125em)and (max-width: 120.375em){ html{font-size:6.6875em !important}}
+@media (min-width: 120.4375em)and (max-width: 121.5em){   html{font-size:6.75em !important}}
+@media (min-width: 121.5625em)and (max-width: 122.625em){ html{font-size:6.8125em !important}}
+@media (min-width: 122.6875em)and (max-width: 123.75em){  html{font-size:6.875em !important}}
+@media (min-width: 123.8125em)and (max-width: 124.875em){ html{font-size:6.9375em !important}}
+@media (min-width: 124.9375em)and (max-width: 126em){     html{font-size:7em !important}}
+@media (min-width: 126.0625em)and (max-width: 127.1875em){html{font-size:7.0625em !important}}
+@media (min-width: 127.25em)and (max-width: 128.3125em){  html{font-size:7.125em !important}}
+@media (min-width: 128.375em)and (max-width: 129.4375em){ html{font-size:7.1875em !important}}
+@media (min-width: 129.5em)and (max-width: 130.5625em){   html{font-size:7.2475em !important}}
+@media (min-width: 130.625em){html{font-size:7.3075em !important}}</style><style href="./css/reset.css" rel="stylesheet">*,
+*:before,
+*:after {
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "kern";
+  -webkit-font-feature-settings: "kern";
+  -moz-font-feature-settings: "kern";
+  -moz-font-feature-settings: "kern=1";
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  padding: 0;
+  margin: 0;
+}
+div,
+section,
+article,
+aside,
+h1,
+h2,
+h3,
+p,
+ul,
+li,
+svg,
+iframe,
+a {
+  border-style: solid;
+  outline-style: solid;
+  border-width: 0;
+  outline-width: 0;
+}
+.media {
+  box-sizing: content-box;
+}
+html {
+  width: 100%;
+  font-size: 16px;
+}
+body {
+  width: 100%;
+  /* Dangerous? Makes mobile happy */
+  overflow: hidden;
+  overflow-y: auto;
+}
+.stack {
+  z-index: 1;
+  transition: transform 0.3s ease-out;
+}
+picture {
+  display: inline-block;
+}
+picture img {
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+iframe {
+  border: none;
+  outline: 0;
+  height: 100%;
+  width: 100%;
+}
+.group {
+  pointer-events: none;
+}
+.group > * {
+  pointer-events: all;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+.text a,
+.data a {
+  border-bottom: 1px solid transparent;
+}
+a.more {
+  font-weight: bold;
+  white-space: nowrap;
+  display: inline-block;
+}
+span.final-word {
+  margin-right: 1em;
+  margin-bottom: 1em;
+  display: inline-block;
+}
+a:link,
+a:visited {
+  transition: color 0.3s ease-out, background-color 0.3s ease-in;
+  -webkit-transition: color 0.3s ease-out, background-color 0.3s ease-in;
+}
+a:hover,
+a:focus {
+  transition: color 0.2s ease-in, background-color 0.2s ease-out;
+  -webkit-transition: color 0.2s ease-in, background-color 0.2s ease-out;
+}
+a:active {
+  transition: color 0.1s ease-in, background-color 0.1s ease-out;
+  -webkit-transition: color 0.1s ease-in, background-color 0.1s ease-out;
+}
+a.aside {
+  display: inline-block;
+}
+html.exporting a {
+  transition: none;
+}
+.cta {
+  text-decoration: none;
+}
+.media > a {
+  display: inline-block;
+}
+h1 a,
+h2 a,
+h3 a {
+  font-weight: inherit;
+  letter-spacing: inherit;
+}
+a {
+  -webkit-box-decoration-break: clone;
+  -ms-box-decoration-break: clone;
+  -moz-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+.text-decoration {
+  -webkit-box-decoration-break: clone;
+  -ms-box-decoration-break: clone;
+  -moz-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+.aside.text-decoration {
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+.decoration {
+  pointer-events: none;
+}
+.svg {
+  position: relative;
+}
+.svg > svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.svg.connector > svg {
+  width: 109%;
+  height: 109%;
+  margin-left: -2%;
+}
+.svg path,
+.svg ellipse,
+.svg rect,
+.svg polygon,
+.svg circle {
+  fill: currentColor !important;
+}
+.svg mpath,
+.svg line,
+.svg polyline {
+  stroke: currentColor !important;
+}
+.decoration {
+  background-color: currentColor;
+}
+.svg {
+  background-color: transparent;
+}
+.revealed .play.svg:after {
+  display: block;
+  width: 40px;
+  height: 40px;
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  margin-top: -20px;
+  margin-left: -20px;
+  background-color: currentColor;
+  content: "";
+}
+.revealed,
+.revealed > * {
+  pointer-events: none;
+}
+.revealed .aside,
+.revealed a {
+  pointer-events: all;
+}
+.panel.w_cta {
+  z-index: 3;
+}
+.panel .cta {
+  opacity: 0;
+}
+.widget.button {
+  padding: 20px;
+  box-sizing: content-box;
+  background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.85));
+}
+.widget.expanded {
+  transform: translateY(100%);
+  -webkit-transform: translateY(100%);
+}
+.cta.checkout {
+  position: fixed !important;
+  background-color: inherit;
+  border-radius: 50%;
+  border: 10px solid transparent;
+  margin: -10px;
+  box-sizing: content-box;
+  z-index: 10;
+}
+.revealed {
+  background-image: none !important;
+  background-color: none !important;
+}
+.stack,
+.group,
+.aside,
+.decoration,
+.media,
+html body a.media,
+.media img,
+.media picture,
+.group iframe,
+.widget,
+.cta {
+  min-width: 0;
+  min-height: 0;
+  transition-duration: .3s;
+  transition-property: transform, color, background-color, opacity, clip, z-index, border-width;
+  transition-timing-function: ease-out;
+  -webkit-transition-duration: .3s;
+  -webkit-transition-property: -webkit-transform, color, background-color, opacity, clip, z-index, border-width;
+  -webkit-transition-timing-function: ease-out;
+}
+.media img {
+  transition-property: transform, color, background-color;
+  -webkit-transition-property: -webkit-transform, color, background-color;
+}
+.decoration {
+  z-index: 3;
+}
+.panel ul {
+  list-style-type: none !important;
+}
+ul {
+  list-style-position: inside;
+}
+.panel .heading {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.listing:not(.open) .shadow-overlay {
+  pointer-events: none;
+}
+.group {
+  z-index: 1;
+}
+.group .decoration {
+  opacity: .95;
+}
+.group .title,
+.group .text,
+.group .aside {
+  z-index: 2;
+}
+.group .attribution:after {
+  display: block;
+  clear: both;
+  content: '';
+  height: 0px;
+}
+.group .attribution .publisher {
+  display: inline-block;
+  vertical-align: top;
+}
+.group .attribution .author {
+  display: inline-block;
+  vertical-align: top;
+  color: inherit;
+  z-index: 3;
+}
+.group .attribution a.author {
+  font-weight: bold;
+}
+.group .attribution .avatar > img,
+.group .attribution .avatar > picture,
+.group .attribution .avatar a,
+.group .attribution .avatar {
+  width: 100%;
+  height: 100%;
+  display: inline-block;
+  vertical-align: top;
+}
+</style><style id="web-font-binder" type="text/css">html {font-family: "-apple-system", ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", "sans-serif";;font-weight: 400;}
+ .wf-active html {font-family: "Inconsolata", "-apple-system", ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", "sans-serif";}
+ .layout-system .stack .hero {font-family: "-apple-system", ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", "sans-serif";;font-weight: 400;}
+
+ .wf-active  .layout-system .stack .hero {font-family: "Inconsolata", "-apple-system", ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", "sans-serif";}
+ .layout-system .stack .title {font-family: "-apple-system", ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", "sans-serif";;}
+
+ .wf-active  .layout-system .stack .title {font-family: "Inconsolata", "-apple-system", ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", "sans-serif";}
+ .layout-system .stack .subtitle {font-family: "-apple-system", ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", "sans-serif";;}
+
+ .wf-active  .layout-system .stack .subtitle {font-family: "Inconsolata", "-apple-system", ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", "sans-serif";}
+ .layout-system .stack .title {font-weight: 400;}
+ .layout-system .stack .subtitle {font-weight: 700;}
+ .layout-system .stack .text {font-family: "-apple-system", ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", "sans-serif";;}
+
+ .wf-active  .layout-system .stack .text {font-family: "Inconsolata", "-apple-system", ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", "sans-serif";}
+ a {font-family: "-apple-system", ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", "sans-serif";;font-weight: 400;}
+
+ .wf-active  a {font-family: "Inconsolata", "-apple-system", ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", "sans-serif";}
+ .attribution {font-family: "-apple-system", ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", "sans-serif";;font-weight: 400;text-transform: inherit;}
+
+ .wf-active  .attribution {font-family: "Inconsolata", "-apple-system", ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", "sans-serif";}
+ .layout-system .stack .quote {font-family: "-apple-system", ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", "sans-serif";;font-weight: 400;font-style: italic;}
+
+ .wf-active  .layout-system .stack .quote {font-family: "Inconsolata", "-apple-system", ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", "sans-serif";}
+ .layout-system .stack .title {text-transform: inherit;}.layout-system .title a {
+  font: inherit;
+}</style><style id="page-css-solution">
+@media (max-width: 480px) {
+.layout-system { margin: 0px auto; position: relative; }
+#page-d6fb8ce0-3038-4c59-9729-97e48598f523#page-d6fb8ce0-3038-4c59-9729-97e48598f523{width: 4.804rem;}
+#u-d6fb8ce0-3038-4c59-9729-97e48598f523-mobile-l-one#u-d6fb8ce0-3038-4c59-9729-97e48598f523-mobile-l-one{position: relative;}
+#u-d6fb8ce0-3038-4c59-9729-97e48598f523-mobile-l-one-l-one#u-d6fb8ce0-3038-4c59-9729-97e48598f523-mobile-l-one-l-one{position: relative; display: block; width: 4.804rem; height: 114.604rem; top: 0rem; left: 0rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b{font-size: 0.164rem; line-height: 0.204rem; height: 11.644rem; width: 4.684rem; position: absolute; top: 0rem; left: 0.064rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b:before{}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b >.group.textual >.text.paragraph p:first-child .first-letter { float: left; font-weight: bold; }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b >.group.textual { text-align: left; }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual{opacity: 1; font-size: 0.164rem; line-height: 0.244rem; height: 11.404rem; width: 4.444rem; position: absolute; top: 0.2415rem; left: 0.124rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-headline#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-headline{font-size: 0.524rem; line-height: 0.684rem; width: 4.204rem; position: absolute; top: 0.244rem; left: 0.124rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-subtitle#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-subtitle{font-size: 0.284rem; line-height: 0.374rem; width: 4.204rem; position: absolute; top: 1.654rem; left: 0.124rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-paragraph#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-paragraph{font-size: 0.164rem; line-height: 0.244rem; width: 4.204rem; position: absolute; top: 2.2815rem; left: 0.124rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-paragraph>p:nth-of-type(1)>span:nth-of-type(1){font-size: 0.474rem; line-height: 0.414rem; padding-top: 0.054rem; padding-right: 0.054rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-d-separator#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-d-separator{height: 0.164rem; width: 0.164rem; position: absolute; top: 2.074rem; left: 0.124rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .text.paragraph { color: rgb(242, 242, 242); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .text.paragraph a { color: rgb(164, 164, 164); border-color: rgba(255, 255, 255, 0.498039); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .text.paragraph a:hover { color: rgb(84, 84, 84); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .title.headline { color: rgb(230, 230, 230); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .title.headline a:hover { color: rgb(245, 245, 245); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .title.subtitle { color: rgb(230, 230, 230); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .title.subtitle a:hover { color: rgb(245, 245, 245); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .decoration.separator { color: rgb(255, 255, 255); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual { background-color: rgb(1, 1, 1); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b a { color: rgb(255, 255, 255); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b a:hover { color: rgb(0, 0, 0); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b a:active { color: rgb(0, 0, 0); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b { background-color: rgb(1, 1, 1); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a{font-size: 0.164rem; line-height: 0.204rem; height: 102.484rem; width: 4.684rem; position: absolute; top: 11.644rem; left: 0.064rem;}
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a:before{}
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a >.group.quotation { text-align: left; }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation#u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation{font-size: 0.164rem; line-height: 0.244rem; height: 102.244rem; width: 4.444rem; position: absolute; top: 0rem; left: 0.124rem;}
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote#u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote{font-size: 0.244rem; line-height: 0.364rem; width: 3.684rem; position: absolute; top: 0rem; left: 0.654rem;}
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote-d-icon-mobile#u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote-d-icon-mobile{width: 0.484rem; height: 0.484rem; position: absolute; top: 0rem; left: -0.524rem;}
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a .group.quotation > .text.quote { color: rgb(242, 242, 242); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a .group.quotation > .text.quote a { color: rgb(164, 164, 164); border-color: rgba(255, 255, 255, 0.498039); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a .group.quotation > .text.quote a:hover { color: rgb(84, 84, 84); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a .group.quotation { background-color: rgb(1, 1, 1); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a a { color: rgb(255, 255, 255); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a a:hover { color: rgb(0, 0, 0); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a a:active { color: rgb(0, 0, 0); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a { background-color: rgb(1, 1, 1); }
+#u-d6fb8ce0-3038-4c59-9729-97e48598f523-mobile-l-one-l-one#u-d6fb8ce0-3038-4c59-9729-97e48598f523-mobile-l-one-l-one { background-color: rgb(3, 3, 3); }
+.export-linebreaks, .export-linebreaks .aside .aside { white-space: nowrap }
+.translated-ltr .export-linebreaks, .export-linebreaks .aside { white-space: normal }
+.translated-ltr wbr, wbr[class] { display: none }
+wbr.w480{ display: block }
+#u-d6fb8ce0-3038-4c59-9729-97e48598f523-desktop-l-one,
+ #u-d6fb8ce0-3038-4c59-9729-97e48598f523-cinema-l-one,
+ #u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote-d-icon-desktop,
+ #u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote-d-icon-cinema {
+display: none;
+}
+}
+@media (min-width: 481px) and (max-width: 720px){
+.layout-system { margin: 0px auto; position: relative; }
+#page-d6fb8ce0-3038-4c59-9729-97e48598f523#page-d6fb8ce0-3038-4c59-9729-97e48598f523{width: 7.204rem;}
+#u-d6fb8ce0-3038-4c59-9729-97e48598f523-mobile-l-one#u-d6fb8ce0-3038-4c59-9729-97e48598f523-mobile-l-one{position: relative;}
+#u-d6fb8ce0-3038-4c59-9729-97e48598f523-mobile-l-one-l-one#u-d6fb8ce0-3038-4c59-9729-97e48598f523-mobile-l-one-l-one{position: relative; display: block; width: 7.204rem; height: 74.394rem; top: 0rem; left: 0rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b{font-size: 0.164rem; line-height: 0.204rem; height: 8.154rem; width: 7.024rem; position: absolute; top: 0rem; left: 0.094rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b:before{}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b >.group.textual >.text.paragraph p:first-child .first-letter { float: left; font-weight: bold; }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b >.group.textual { text-align: left; }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual{opacity: 1; font-size: 0.164rem; line-height: 0.244rem; height: 7.794rem; width: 6.664rem; position: absolute; top: 0.3615rem; left: 0.184rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-headline#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-headline{font-size: 0.524rem; line-height: 0.684rem; width: 6.304rem; position: absolute; top: 0.364rem; left: 0.184rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-subtitle#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-subtitle{font-size: 0.284rem; line-height: 0.374rem; width: 6.304rem; position: absolute; top: 1.124rem; left: 0.184rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-paragraph#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-paragraph{font-size: 0.164rem; line-height: 0.244rem; width: 6.304rem; position: absolute; top: 1.7915rem; left: 0.184rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-paragraph>p:nth-of-type(1)>span:nth-of-type(1){font-size: 0.474rem; line-height: 0.414rem; padding-top: 0.054rem; padding-right: 0.054rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-d-separator#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-d-separator{height: 0.164rem; width: 0.164rem; position: absolute; top: 1.564rem; left: 0.184rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .text.paragraph { color: rgb(242, 242, 242); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .text.paragraph a { color: rgb(164, 164, 164); border-color: rgba(255, 255, 255, 0.498039); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .text.paragraph a:hover { color: rgb(84, 84, 84); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .title.headline { color: rgb(230, 230, 230); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .title.headline a:hover { color: rgb(245, 245, 245); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .title.subtitle { color: rgb(230, 230, 230); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .title.subtitle a:hover { color: rgb(245, 245, 245); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .decoration.separator { color: rgb(255, 255, 255); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual { background-color: rgb(1, 1, 1); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b a { color: rgb(255, 255, 255); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b a:hover { color: rgb(0, 0, 0); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b a:active { color: rgb(0, 0, 0); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b { background-color: rgb(1, 1, 1); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a{font-size: 0.164rem; line-height: 0.204rem; height: 65.524rem; width: 7.024rem; position: absolute; top: 8.154rem; left: 0.094rem;}
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a:before{}
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a >.group.quotation { text-align: left; }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation#u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation{font-size: 0.164rem; line-height: 0.244rem; height: 65.164rem; width: 6.664rem; position: absolute; top: 0rem; left: 0.184rem;}
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote#u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote{font-size: 0.244rem; line-height: 0.364rem; width: 5.754rem; position: absolute; top: 0rem; left: 0.744rem;}
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote-d-icon-mobile#u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote-d-icon-mobile{width: 0.484rem; height: 0.484rem; position: absolute; top: 0rem; left: -0.554rem;}
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a .group.quotation > .text.quote { color: rgb(242, 242, 242); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a .group.quotation > .text.quote a { color: rgb(164, 164, 164); border-color: rgba(255, 255, 255, 0.498039); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a .group.quotation > .text.quote a:hover { color: rgb(84, 84, 84); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a .group.quotation { background-color: rgb(1, 1, 1); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a a { color: rgb(255, 255, 255); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a a:hover { color: rgb(0, 0, 0); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a a:active { color: rgb(0, 0, 0); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a { background-color: rgb(1, 1, 1); }
+#u-d6fb8ce0-3038-4c59-9729-97e48598f523-mobile-l-one-l-one#u-d6fb8ce0-3038-4c59-9729-97e48598f523-mobile-l-one-l-one { background-color: rgb(3, 3, 3); }
+.export-linebreaks, .export-linebreaks .aside .aside { white-space: nowrap }
+.translated-ltr .export-linebreaks, .export-linebreaks .aside { white-space: normal }
+.translated-ltr wbr, wbr[class] { display: none }
+wbr.w481{ display: block }
+#u-d6fb8ce0-3038-4c59-9729-97e48598f523-desktop-l-one,
+ #u-d6fb8ce0-3038-4c59-9729-97e48598f523-cinema-l-one,
+ #u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote-d-icon-desktop,
+ #u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote-d-icon-cinema {
+display: none;
+}
+}
+@media (min-width: 721px) and (max-width: 960px) {
+.layout-system { margin: 0px auto; position: relative; }
+#page-d6fb8ce0-3038-4c59-9729-97e48598f523#page-d6fb8ce0-3038-4c59-9729-97e48598f523{width: 9.604rem;}
+#u-d6fb8ce0-3038-4c59-9729-97e48598f523-desktop-l-one#u-d6fb8ce0-3038-4c59-9729-97e48598f523-desktop-l-one{position: relative;}
+#u-d6fb8ce0-3038-4c59-9729-97e48598f523-desktop-l-one-l-one#u-d6fb8ce0-3038-4c59-9729-97e48598f523-desktop-l-one-l-one{position: relative; display: block; width: 9.604rem; height: 107.904rem; top: 0rem; left: 0rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b{font-size: 0.164rem; line-height: 0.204rem; height: 12.024rem; width: 9.364rem; position: absolute; top: 0rem; left: 0.124rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b:before{}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b >.group.textual >.text.paragraph p:first-child .first-letter { float: left; font-weight: bold; }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b >.group.textual { text-align: left; }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual{opacity: 1; font-size: 0.164rem; line-height: 0.244rem; height: 11.544rem; width: 7.204rem; position: absolute; top: 0.4815rem; left: 1.084rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-headline#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-headline{font-size: 0.524rem; line-height: 0.684rem; width: 4.324rem; position: absolute; top: 0.484rem; left: 1.444rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-subtitle#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-subtitle{font-size: 0.284rem; line-height: 0.374rem; width: 4.324rem; position: absolute; top: 1.944rem; left: 1.444rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-paragraph#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-paragraph{font-size: 0.164rem; line-height: 0.244rem; width: 4.324rem; position: absolute; top: 2.6615rem; left: 1.444rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-paragraph>p:nth-of-type(1)>span:nth-of-type(1){font-size: 0.474rem; line-height: 0.414rem; padding-top: 0.054rem; padding-right: 0.054rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-d-separator#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-d-separator{height: 0.164rem; width: 0.164rem; position: absolute; top: 2.414rem; left: 1.444rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .text.paragraph { color: rgb(242, 242, 242); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .text.paragraph a { color: rgb(164, 164, 164); border-color: rgba(255, 255, 255, 0.498039); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .text.paragraph a:hover { color: rgb(84, 84, 84); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .title.headline { color: rgb(230, 230, 230); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .title.headline a:hover { color: rgb(245, 245, 245); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .title.subtitle { color: rgb(230, 230, 230); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .title.subtitle a:hover { color: rgb(245, 245, 245); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .decoration.separator { color: rgb(255, 255, 255); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual { background-color: rgb(1, 1, 1); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b a { color: rgb(255, 255, 255); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b a:hover { color: rgb(0, 0, 0); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b a:active { color: rgb(0, 0, 0); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b { background-color: rgb(1, 1, 1); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a{font-size: 0.164rem; line-height: 0.204rem; height: 94.924rem; width: 9.364rem; position: absolute; top: 12.024rem; left: 0.124rem;}
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a:before{}
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a >.group.quotation { text-align: left; }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation#u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation{font-size: 0.164rem; line-height: 0.244rem; height: 94.444rem; width: 7.444rem; position: absolute; top: 0rem; left: 0.964rem;}
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote#u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote{font-size: 0.244rem; line-height: 0.364rem; width: 3.994rem; position: absolute; top: 0.064rem; left: 2.024rem;}
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote-d-icon-desktop#u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote-d-icon-desktop{width: 0.484rem; height: 0.484rem; position: absolute; top: 0rem; left: -0.574rem;}
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a .group.quotation > .text.quote { color: rgb(242, 242, 242); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a .group.quotation > .text.quote a { color: rgb(164, 164, 164); border-color: rgba(255, 255, 255, 0.498039); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a .group.quotation > .text.quote a:hover { color: rgb(84, 84, 84); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a .group.quotation { background-color: rgb(1, 1, 1); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a a { color: rgb(255, 255, 255); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a a:hover { color: rgb(0, 0, 0); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a a:active { color: rgb(0, 0, 0); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a { background-color: rgb(1, 1, 1); }
+#u-d6fb8ce0-3038-4c59-9729-97e48598f523-desktop-l-one-l-one#u-d6fb8ce0-3038-4c59-9729-97e48598f523-desktop-l-one-l-one { background-color: rgb(3, 3, 3); }
+.export-linebreaks, .export-linebreaks .aside .aside { white-space: nowrap }
+.translated-ltr .export-linebreaks, .export-linebreaks .aside { white-space: normal }
+.translated-ltr wbr, wbr[class] { display: none }
+wbr.w960{ display: block }
+#u-d6fb8ce0-3038-4c59-9729-97e48598f523-mobile-l-one,
+ #u-d6fb8ce0-3038-4c59-9729-97e48598f523-cinema-l-one,
+ #u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote-d-icon-mobile,
+ #u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote-d-icon-cinema {
+display: none;
+}
+}
+@media (min-width: 961px) and (max-width: 1440px){
+.layout-system { margin: 0px auto; position: relative; }
+#page-d6fb8ce0-3038-4c59-9729-97e48598f523#page-d6fb8ce0-3038-4c59-9729-97e48598f523{width: 14.404rem;}
+#u-d6fb8ce0-3038-4c59-9729-97e48598f523-desktop-l-one#u-d6fb8ce0-3038-4c59-9729-97e48598f523-desktop-l-one{position: relative;}
+#u-d6fb8ce0-3038-4c59-9729-97e48598f523-desktop-l-one-l-one#u-d6fb8ce0-3038-4c59-9729-97e48598f523-desktop-l-one-l-one{position: relative; display: block; width: 14.404rem; height: 70.954rem; top: 0rem; left: 0rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b{font-size: 0.164rem; line-height: 0.204rem; height: 8.854rem; width: 14.044rem; position: absolute; top: 0rem; left: 0.184rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b:before{}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b >.group.textual >.text.paragraph p:first-child .first-letter { float: left; font-weight: bold; }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b >.group.textual { text-align: left; }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual{opacity: 1; font-size: 0.164rem; line-height: 0.244rem; height: 8.134rem; width: 10.804rem; position: absolute; top: 0.7215rem; left: 1.624rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-headline#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-headline{font-size: 0.524rem; line-height: 0.684rem; width: 6.484rem; position: absolute; top: 0.724rem; left: 2.164rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-subtitle#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-subtitle{font-size: 0.284rem; line-height: 0.374rem; width: 6.484rem; position: absolute; top: 1.554rem; left: 2.164rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-paragraph#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-paragraph{font-size: 0.164rem; line-height: 0.244rem; width: 6.484rem; position: absolute; top: 2.3715rem; left: 2.164rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-paragraph>p:nth-of-type(1)>span:nth-of-type(1){font-size: 0.474rem; line-height: 0.414rem; padding-top: 0.054rem; padding-right: 0.054rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-d-separator#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-d-separator{height: 0.164rem; width: 0.164rem; position: absolute; top: 2.064rem; left: 2.164rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .text.paragraph { color: rgb(242, 242, 242); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .text.paragraph a { color: rgb(164, 164, 164); border-color: rgba(255, 255, 255, 0.498039); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .text.paragraph a:hover { color: rgb(84, 84, 84); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .title.headline { color: rgb(230, 230, 230); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .title.headline a:hover { color: rgb(245, 245, 245); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .title.subtitle { color: rgb(230, 230, 230); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .title.subtitle a:hover { color: rgb(245, 245, 245); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .decoration.separator { color: rgb(255, 255, 255); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual { background-color: rgb(1, 1, 1); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b a { color: rgb(255, 255, 255); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b a:hover { color: rgb(0, 0, 0); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b a:active { color: rgb(0, 0, 0); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b { background-color: rgb(1, 1, 1); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a{font-size: 0.164rem; line-height: 0.204rem; height: 60.664rem; width: 14.044rem; position: absolute; top: 8.854rem; left: 0.184rem;}
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a:before{}
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a >.group.quotation { text-align: left; }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation#u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation{font-size: 0.164rem; line-height: 0.244rem; height: 59.944rem; width: 11.164rem; position: absolute; top: 0rem; left: 1.444rem;}
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote#u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote{font-size: 0.244rem; line-height: 0.364rem; width: 6.224rem; position: absolute; top: 0.094rem; left: 2.794rem;}
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote-d-icon-desktop#u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote-d-icon-desktop{width: 0.484rem; height: 0.484rem; position: absolute; top: 0rem; left: -0.624rem;}
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a .group.quotation > .text.quote { color: rgb(242, 242, 242); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a .group.quotation > .text.quote a { color: rgb(164, 164, 164); border-color: rgba(255, 255, 255, 0.498039); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a .group.quotation > .text.quote a:hover { color: rgb(84, 84, 84); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a .group.quotation { background-color: rgb(1, 1, 1); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a a { color: rgb(255, 255, 255); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a a:hover { color: rgb(0, 0, 0); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a a:active { color: rgb(0, 0, 0); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a { background-color: rgb(1, 1, 1); }
+#u-d6fb8ce0-3038-4c59-9729-97e48598f523-desktop-l-one-l-one#u-d6fb8ce0-3038-4c59-9729-97e48598f523-desktop-l-one-l-one { background-color: rgb(3, 3, 3); }
+.export-linebreaks, .export-linebreaks .aside .aside { white-space: nowrap }
+.translated-ltr .export-linebreaks, .export-linebreaks .aside { white-space: normal }
+.translated-ltr wbr, wbr[class] { display: none }
+wbr.w961{ display: block }
+#u-d6fb8ce0-3038-4c59-9729-97e48598f523-mobile-l-one,
+ #u-d6fb8ce0-3038-4c59-9729-97e48598f523-cinema-l-one,
+ #u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote-d-icon-mobile,
+ #u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote-d-icon-cinema {
+display: none;
+}
+}
+@media (min-width: 1441px) and (max-width: 1799px) {
+.layout-system { margin: 0px auto; position: relative; }
+#page-d6fb8ce0-3038-4c59-9729-97e48598f523#page-d6fb8ce0-3038-4c59-9729-97e48598f523{width: 17.994rem;}
+#u-d6fb8ce0-3038-4c59-9729-97e48598f523-cinema-l-one#u-d6fb8ce0-3038-4c59-9729-97e48598f523-cinema-l-one{position: relative;}
+#u-d6fb8ce0-3038-4c59-9729-97e48598f523-cinema-l-one-l-one#u-d6fb8ce0-3038-4c59-9729-97e48598f523-cinema-l-one-l-one{position: relative; display: block; width: 17.994rem; height: 88.684rem; top: 0rem; left: 0rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b{font-size: 0.204rem; line-height: 0.254rem; height: 11.054rem; width: 17.554rem; position: absolute; top: 0rem; left: 0.234rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b:before{}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b >.group.textual >.text.paragraph p:first-child .first-letter { float: left; font-weight: bold; }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b >.group.textual { text-align: left; }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual{opacity: 1; font-size: 0.204rem; line-height: 0.304rem; height: 10.154rem; width: 13.504rem; position: absolute; top: 0.9015rem; left: 2.034rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-headline#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-headline{font-size: 0.654rem; line-height: 0.854rem; width: 8.104rem; position: absolute; top: 0.904rem; left: 2.704rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-subtitle#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-subtitle{font-size: 0.354rem; line-height: 0.464rem; width: 8.104rem; position: absolute; top: 1.934rem; left: 2.704rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-paragraph#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-paragraph{font-size: 0.204rem; line-height: 0.304rem; width: 8.104rem; position: absolute; top: 2.9515rem; left: 2.704rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-paragraph>p:nth-of-type(1)>span:nth-of-type(1){font-size: 0.584rem; line-height: 0.514rem; padding-top: 0.064rem; padding-right: 0.064rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-d-separator#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-d-separator{height: 0.204rem; width: 0.204rem; position: absolute; top: 2.574rem; left: 2.704rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .text.paragraph { color: rgb(242, 242, 242); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .text.paragraph a { color: rgb(164, 164, 164); border-color: rgba(255, 255, 255, 0.498039); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .text.paragraph a:hover { color: rgb(84, 84, 84); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .title.headline { color: rgb(230, 230, 230); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .title.headline a:hover { color: rgb(245, 245, 245); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .title.subtitle { color: rgb(230, 230, 230); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .title.subtitle a:hover { color: rgb(245, 245, 245); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .decoration.separator { color: rgb(255, 255, 255); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual { background-color: rgb(1, 1, 1); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b a { color: rgb(255, 255, 255); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b a:hover { color: rgb(0, 0, 0); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b a:active { color: rgb(0, 0, 0); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b { background-color: rgb(1, 1, 1); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a{font-size: 0.204rem; line-height: 0.254rem; height: 75.834rem; width: 17.554rem; position: absolute; top: 11.054rem; left: 0.234rem;}
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a:before{}
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a >.group.quotation { text-align: left; }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation#u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation{font-size: 0.204rem; line-height: 0.304rem; height: 74.934rem; width: 13.954rem; position: absolute; top: 0rem; left: 1.804rem;}
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote#u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote{font-size: 0.304rem; line-height: 0.454rem; width: 7.774rem; position: absolute; top: 0.124rem; left: 3.484rem;}
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote-d-icon-cinema#u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote-d-icon-cinema{width: 0.604rem; height: 0.604rem; position: absolute; top: 0rem; left: -0.774rem;}
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a .group.quotation > .text.quote { color: rgb(242, 242, 242); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a .group.quotation > .text.quote a { color: rgb(164, 164, 164); border-color: rgba(255, 255, 255, 0.498039); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a .group.quotation > .text.quote a:hover { color: rgb(84, 84, 84); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a .group.quotation { background-color: rgb(1, 1, 1); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a a { color: rgb(255, 255, 255); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a a:hover { color: rgb(0, 0, 0); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a a:active { color: rgb(0, 0, 0); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a { background-color: rgb(1, 1, 1); }
+#u-d6fb8ce0-3038-4c59-9729-97e48598f523-cinema-l-one-l-one#u-d6fb8ce0-3038-4c59-9729-97e48598f523-cinema-l-one-l-one { background-color: rgb(3, 3, 3); }
+.export-linebreaks, .export-linebreaks .aside .aside { white-space: nowrap }
+.translated-ltr .export-linebreaks, .export-linebreaks .aside { white-space: normal }
+.translated-ltr wbr, wbr[class] { display: none }
+wbr.w1799{ display: block }
+#u-d6fb8ce0-3038-4c59-9729-97e48598f523-mobile-l-one,
+ #u-d6fb8ce0-3038-4c59-9729-97e48598f523-desktop-l-one,
+ #u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote-d-icon-mobile,
+ #u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote-d-icon-desktop {
+display: none;
+}
+}
+@media (min-width: 1800px) {
+.layout-system { margin: 0px auto; position: relative; }
+#page-d6fb8ce0-3038-4c59-9729-97e48598f523#page-d6fb8ce0-3038-4c59-9729-97e48598f523{width: 18rem;}
+#u-d6fb8ce0-3038-4c59-9729-97e48598f523-cinema-l-one#u-d6fb8ce0-3038-4c59-9729-97e48598f523-cinema-l-one{position: relative;}
+#u-d6fb8ce0-3038-4c59-9729-97e48598f523-cinema-l-one-l-one#u-d6fb8ce0-3038-4c59-9729-97e48598f523-cinema-l-one-l-one{position: relative; display: block; width: 18rem; height: 54.874rem; top: 0rem; left: 0rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b{font-size: 0.154rem; line-height: 0.194rem; height: 8.084rem; width: 17.554rem; position: absolute; top: 0rem; left: 0.234rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b:before{}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b >.group.textual >.text.paragraph p:first-child .first-letter { float: left; font-weight: bold; }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b >.group.textual { text-align: left; }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual{opacity: 1; font-size: 0.154rem; line-height: 0.234rem; height: 7.184rem; width: 13.504rem; position: absolute; top: 0.9015rem; left: 2.034rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-headline#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-headline{font-size: 0.494rem; line-height: 0.644rem; width: 8.104rem; position: absolute; top: 0.904rem; left: 2.704rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-subtitle#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-subtitle{font-size: 0.274rem; line-height: 0.354rem; width: 8.104rem; position: absolute; top: 1.724rem; left: 2.704rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-paragraph#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-paragraph{font-size: 0.154rem; line-height: 0.234rem; width: 8.104rem; position: absolute; top: 2.5815rem; left: 2.704rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-paragraph>p:nth-of-type(1)>span:nth-of-type(1){font-size: 0.444rem; line-height: 0.394rem; padding-top: 0.054rem; padding-right: 0.054rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-d-separator#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-d-separator{height: 0.154rem; width: 0.154rem; position: absolute; top: 2.254rem; left: 2.704rem;}
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .text.paragraph { color: rgb(242, 242, 242); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .text.paragraph a { color: rgb(164, 164, 164); border-color: rgba(255, 255, 255, 0.498039); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .text.paragraph a:hover { color: rgb(84, 84, 84); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .title.headline { color: rgb(230, 230, 230); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .title.headline a:hover { color: rgb(245, 245, 245); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .title.subtitle { color: rgb(230, 230, 230); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .title.subtitle a:hover { color: rgb(245, 245, 245); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual > .decoration.separator { color: rgb(255, 255, 255); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b .group.textual { background-color: rgb(1, 1, 1); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b a { color: rgb(255, 255, 255); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b a:hover { color: rgb(0, 0, 0); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b a:active { color: rgb(0, 0, 0); }
+#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b#u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b { background-color: rgb(1, 1, 1); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a{font-size: 0.154rem; line-height: 0.194rem; height: 44.994rem; width: 17.554rem; position: absolute; top: 8.084rem; left: 0.234rem;}
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a:before{}
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a >.group.quotation { text-align: left; }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation#u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation{font-size: 0.154rem; line-height: 0.234rem; height: 44.094rem; width: 13.954rem; position: absolute; top: 0rem; left: 1.804rem;}
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote#u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote{font-size: 0.234rem; line-height: 0.344rem; width: 7.924rem; position: absolute; top: 0.124rem; left: 3.344rem;}
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote-d-icon-cinema#u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote-d-icon-cinema{width: 0.454rem; height: 0.454rem; position: absolute; top: 0rem; left: -0.634rem;}
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a .group.quotation > .text.quote { color: rgb(242, 242, 242); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a .group.quotation > .text.quote a { color: rgb(164, 164, 164); border-color: rgba(255, 255, 255, 0.498039); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a .group.quotation > .text.quote a:hover { color: rgb(84, 84, 84); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a .group.quotation { background-color: rgb(1, 1, 1); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a a { color: rgb(255, 255, 255); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a a:hover { color: rgb(0, 0, 0); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a a:active { color: rgb(0, 0, 0); }
+#u-1ea41642-18e9-497d-bb52-a11551a3d15a#u-1ea41642-18e9-497d-bb52-a11551a3d15a { background-color: rgb(1, 1, 1); }
+#u-d6fb8ce0-3038-4c59-9729-97e48598f523-cinema-l-one-l-one#u-d6fb8ce0-3038-4c59-9729-97e48598f523-cinema-l-one-l-one { background-color: rgb(3, 3, 3); }
+.export-linebreaks, .export-linebreaks .aside .aside { white-space: nowrap }
+.translated-ltr .export-linebreaks, .export-linebreaks .aside { white-space: normal }
+.translated-ltr wbr, wbr[class] { display: none }
+wbr.w1800{ display: block }
+#u-d6fb8ce0-3038-4c59-9729-97e48598f523-mobile-l-one,
+ #u-d6fb8ce0-3038-4c59-9729-97e48598f523-desktop-l-one,
+ #u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote-d-icon-mobile,
+ #u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote-d-icon-desktop {
+display: none;
+}
+}</style></head><body><div class="layout-system rust mobile" id="page-d6fb8ce0-3038-4c59-9729-97e48598f523"><section kind="layout" style="position: relative" sequence="one" role="article" diff_index="0" index="one" class="layout one i first_layout last_layout w_headline w_title w_subtitle w_paragraph w_text w_separator w_decoration w_leader w_trailer w_short_headline w_short_title w_short_subtitle w_long_paragraph w_long_text w_quote w_long_quote w_icon layout one" id="u-d6fb8ce0-3038-4c59-9729-97e48598f523-mobile-l-one"><div kind="layout" style="position: relative" sequence="one" diff_index="0" index="one" class="colors-use-local w_texts colors-use-same-as-previous layout one i first_layout last_layout article layout one" id="u-d6fb8ce0-3038-4c59-9729-97e48598f523-mobile-l-one-l-one"></div><style id="u-d6fb8ce0-3038-4c59-9729-97e48598f523-color">body{background-color: rgba(3, 3, 3, 1)}</style></section><article subject="chapter" class="col-1 export-linebreaks not_decorated color_adjust_none color_styles_same_bg color_schema_default stack_transparency_off v_emphasis_none h_emphasis_none group_overlap_none stack_v_outset_none stack_v_inset_none stack_h_outset_none stack_h_inset_xsmall stack_v_align_stretch stack_h_align_stretch uninverted vertical collapsed full line_padding_aside_inside text_width_wider group_v_align_none group_h_align_center text_align_left flow_unreversed group_v_outset_none group_v_inset_none group_h_outset_none group_h_inset_xsmall flow_vertical font_size_large chapter stack textual i first_chapter w_headline w_title w_subtitle w_paragraph w_text w_separator w_decoration w_short_headline w_short_title w_short_subtitle w_long_paragraph w_long_text stack textual" itemid="c7a6a888-8da5-40b3-ae1c-c5cb5e41743b" itemtype="text" diff_index="4" index="textual" kind="stack" score="2.5" missed="0.5" tag="article" id="u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b"><div kind="group" index="textual" class="group textual group textual" id="u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual"><h1 kind="title" index="headline" class="short short_headline short_title title headline vfld-leader title headline" specificity="0.25" itemprop="title" id="u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-headline"><span class="text-decoration" id="u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-headline-span">La <wbr class="w480 w960"></wbr>descomposici&#xF3;n</span></h1><h2 kind="title" index="subtitle" class="short short_subtitle short_title title subtitle title subtitle" specificity="0.25" itemprop="subtitle" id="u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-subtitle"><span class="text-decoration" id="u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-subtitle-span">Por Pablo A. CICERO ALONZO</span></h2><div kind="text" index="paragraph" class="text-decoration long long_paragraph long_text text paragraph vfld-trailer text paragraph" specificity="0.25" itemprop="text" id="u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-t-paragraph"><p><span class="first-letter">S</span>u discurso fue m&#xE1;s corto de lo habitual. Y menos <wbr class="w480 w960"></wbr>intenso. No se sent&#xED;a mal, <wbr class="w481 w961 w1799"></wbr>pero algo le <wbr class="w480 w1800"></wbr>molestaba. <wbr class="w960"></wbr>Un cosquilleo en la oreja &#x2014;dentro de la <wbr class="w480"></wbr>oreja&#x2014; le <wbr class="w481 w960 w961 w1799"></wbr>imped&#xED;a concentrarse. Ante &#xE9;l ve&#xED;a a <wbr class="w480 w1800"></wbr>cientos de <wbr class="w960"></wbr>personas, que lo arropaban con <wbr class="w481"></wbr>la <wbr class="w961 w1799"></wbr>mirada, <wbr class="w480"></wbr>que <wbr class="w960"></wbr>aplaud&#xED;an cada uno de sus gestos, que <wbr class="w1800"></wbr>asent&#xED;an, <wbr class="w480"></wbr>que <wbr class="w960"></wbr>gritaban, <wbr class="w481"></wbr>que <wbr class="w961 w1799"></wbr>coreaban su nombre; que se tomaban <wbr class="w480 w960"></wbr>selfies. Nadie se percat&#xF3; que algo no <wbr class="w481 w1800"></wbr>estaba <wbr class="w480 w960 w961 w1799"></wbr>bien.Cuando termin&#xF3;, se dirigi&#xF3; de nuevo a la silla <wbr class="w480"></wbr>en <wbr class="w960"></wbr>la que estaba <wbr class="w481"></wbr>antes. Ah&#xED;, <wbr class="w961 w1799"></wbr>quienes lo <wbr class="w1800"></wbr>acompa&#xF1;aban <wbr class="w480"></wbr>en la <wbr class="w960"></wbr>mesa principal, se levantaron, como <wbr class="w481"></wbr>resortes, <wbr class="w480"></wbr>para <wbr class="w960 w961 w1799"></wbr>felicitarlo. &#xC9;l apret&#xF3; manos e <wbr class="w1800"></wbr>hizo amagos de <wbr class="w480"></wbr>abrazos. <wbr class="w960"></wbr>Sent&#xED;a <wbr class="w481"></wbr>las palmas &#x2014;sus <wbr class="w961 w1799"></wbr>palmas&#x2014; en exceso <wbr class="w480"></wbr>h&#xFA;medas y <wbr class="w960"></wbr>que &#xE9;l apestaba a sudor. <wbr class="w1800"></wbr>Ya <wbr class="w481"></wbr>sentado, y <wbr class="w480"></wbr>mientras otro <wbr class="w960 w961 w1799"></wbr>orador le agradec&#xED;a en p&#xFA;blico su <wbr class="w480"></wbr>presencia, con <wbr class="w481 w960"></wbr>discreci&#xF3;n se llev&#xF3; una <wbr class="w1800"></wbr>mano a <wbr class="w961 w1799"></wbr>la <wbr class="w480"></wbr>oreja. Hizo como si, <wbr class="w960"></wbr>con el dorso, aplacara <wbr class="w481"></wbr>el <wbr class="w480"></wbr>rebelde remolino que siempre <wbr class="w960"></wbr>se <wbr class="w961 w1799"></wbr>agitaba en <wbr class="w1800"></wbr>sus <wbr class="w480"></wbr>arengas. Sin embargo, el <wbr class="w481"></wbr>peinado era <wbr class="w960"></wbr>lo de menos. El <wbr class="w480"></wbr>cosquilleo <wbr class="w961 w1799"></wbr>era ya insoportable; no <wbr class="w960"></wbr>s&#xF3;lo se <wbr class="w1800"></wbr>sent&#xED;a <wbr class="w480 w481"></wbr>adentro. Adem&#xE1;s, un l&#xED;quido &#x2014;no agua; <wbr class="w960 w961 w1799"></wbr>mucho m&#xE1;s <wbr class="w480"></wbr>viscoso&#x2014; comenzaba a fluir, y <wbr class="w481"></wbr>se deslizaba <wbr class="w960"></wbr>por <wbr class="w1800"></wbr>su <wbr class="w480"></wbr>mejilla. Con sus <wbr class="w961 w1799"></wbr>dedos agarr&#xF3; lo que le estaba <wbr class="w480 w960"></wbr>molestando, <wbr class="w481"></wbr>algo como un peque&#xF1;o arroz, suave. Baj&#xF3; <wbr class="w480 w961 w1799 w1800"></wbr>la <wbr class="w960"></wbr>mano con discreci&#xF3;n y la dej&#xF3; a un <wbr class="w481"></wbr>costado. <wbr class="w480"></wbr>Intent&#xF3; <wbr class="w960"></wbr>prestar atenci&#xF3;n, escuchar <wbr class="w961 w1799"></wbr>las palabras de <wbr class="w480 w1800"></wbr>quien ahora <wbr class="w481 w960"></wbr>hablaba, pero su mente estaba entre el <wbr class="w480"></wbr>pulgar y el <wbr class="w960 w961 w1799"></wbr>&#xED;ndice.Levant&#xF3; la mano a la <wbr class="w481"></wbr>altura de <wbr class="w480 w1800"></wbr>sus ojos y vio <wbr class="w960"></wbr>lo que ten&#xED;a: una larva. Era <wbr class="w961 w1799"></wbr>blanca, <wbr class="w480"></wbr>tirando a <wbr class="w481 w960"></wbr>amarilla, con dos ojitos negros, <wbr class="w1800"></wbr>peque&#xF1;os, <wbr class="w480"></wbr>y se mov&#xED;a <wbr class="w960 w961 w1799"></wbr>fren&#xE9;ticamente. Con <wbr class="w481"></wbr>repulsi&#xF3;n, la tir&#xF3; al <wbr class="w480"></wbr>suelo y la <wbr class="w960"></wbr>pis&#xF3;. Estuvo machacando el <wbr class="w961 w1799 w1800"></wbr>insecto <wbr class="w480"></wbr>durante <wbr class="w481"></wbr>varios <wbr class="w960"></wbr>segundos, con un movimiento mec&#xE1;nico. <wbr class="w480"></wbr>Continu&#xF3; en su <wbr class="w960"></wbr>papel <wbr class="w961 w1799"></wbr>y, cuando <wbr class="w481"></wbr>concluy&#xF3; <wbr class="w1800"></wbr>el orador, <wbr class="w480"></wbr>&#xE9;l igual se <wbr class="w960"></wbr>levant&#xF3; para felicitarlo. Le dio la <wbr class="w961 w1799"></wbr>mano <wbr class="w480"></wbr>&#x2014;la <wbr class="w481"></wbr>misma, <wbr class="w960"></wbr>h&#xFA;meda, casi goteando, con <wbr class="w1800"></wbr>la que se <wbr class="w480"></wbr>hab&#xED;a sacado la <wbr class="w960"></wbr>larva&#x2014; y lo <wbr class="w961 w1799"></wbr>abraz&#xF3; <wbr class="w481"></wbr>efusivamente. <wbr class="w480"></wbr>&#xAB;Gracias, hermano, <wbr class="w960"></wbr>por tus palabras&#xBB;, <wbr class="w1800"></wbr>susurr&#xF3;</p></div><div kind="decoration" index="separator" class="decoration separator decoration separator" id="u-c7a6a888-8da5-40b3-ae1c-c5cb5e41743b-g-textual-d-separator"></div></div></article><article subject="chapter" class="col-1 export-linebreaks full not_decorated color_adjust_none color_styles_same_bg color_schema_default stack_transparency_off v_emphasis_none h_emphasis_none group_overlap_none stack_v_outset_none stack_v_inset_none stack_h_outset_none stack_h_inset_xsmall stack_v_align_stretch stack_h_align_stretch uninverted vertical collapsed line_padding_aside_inside text_width_wider group_v_align_none group_h_align_center text_align_left flow_unreversed group_v_outset_none group_v_inset_none group_h_outset_none group_h_inset_xsmall flow_vertical font_size_article chapter stack quotation i last_chapter w_quote w_text w_decoration w_long_quote w_long_text w_icon stack quotation" itemid="1ea41642-18e9-497d-bb52-a11551a3d15a" itemtype="quote" diff_index="3" index="quotation" kind="stack" score="0.75" missed="0.25" tag="article" id="u-1ea41642-18e9-497d-bb52-a11551a3d15a"><div kind="group" index="quotation" class="group quotation group quotation" id="u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation"><blockquote kind="text" index="quote" class="text-decoration long long_quote long_text text quote vfld-leader vfld-trailer text quote" specificity="0.25" itemprop="quote" id="u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote"><div kind="decoration" index="icon" class="decoration icon decoration icon svg" id="u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote-d-icon-cinema"><?xml version="1.0" encoding="utf-8"?>
+
+<svg preserveAspectRatio="none" id="u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote-d-icon-cinema-svg" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 90 612 612" enable-background="new 0 90 612 612" xml:space="preserve">
+<g>
+	<g>
+		<path fill="#5D9992" d="M1,448c0-164.9,145.3-242.2,244.8-295.8c6.5-3.9,11.8,10.5,7.9,13.1C150.2,225.5,41.6,309.3,41.6,397
+			c0,13.1,3.9,17,9.2,13.1c31.4-24.9,70.7-41.9,111.3-41.9c78.5,0,119.1,72,119.1,137.4c0,87.7-60.2,134.8-130.9,134.8
+			C49.4,640.5,1,554.1,1,448z M372.8,408.8c32.7-26.2,73.3-40.6,115.2-40.6c72,0,123,68.1,123,133.5c0,86.4-61.5,138.7-132.2,138.7
+			c-103.4,0-154.5-89-154.5-195c0-164.9,146.6-242.2,250-293.2c6.5-2.6,11.8,10.5,7.9,13.1c-108.6,58.9-218.6,141.4-218.6,229.1
+			C363.6,408.8,367.5,412.7,372.8,408.8z"/>
+	</g>
+</g>
+</svg>
+</div><div kind="decoration" index="icon" class="decoration icon decoration icon svg" id="u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote-d-icon-desktop"><?xml version="1.0" encoding="utf-8"?>
+
+<svg preserveAspectRatio="none" id="u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote-d-icon-desktop-svg" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 90 612 612" enable-background="new 0 90 612 612" xml:space="preserve">
+<g>
+	<g>
+		<path fill="#5D9992" d="M1,448c0-164.9,145.3-242.2,244.8-295.8c6.5-3.9,11.8,10.5,7.9,13.1C150.2,225.5,41.6,309.3,41.6,397
+			c0,13.1,3.9,17,9.2,13.1c31.4-24.9,70.7-41.9,111.3-41.9c78.5,0,119.1,72,119.1,137.4c0,87.7-60.2,134.8-130.9,134.8
+			C49.4,640.5,1,554.1,1,448z M372.8,408.8c32.7-26.2,73.3-40.6,115.2-40.6c72,0,123,68.1,123,133.5c0,86.4-61.5,138.7-132.2,138.7
+			c-103.4,0-154.5-89-154.5-195c0-164.9,146.6-242.2,250-293.2c6.5-2.6,11.8,10.5,7.9,13.1c-108.6,58.9-218.6,141.4-218.6,229.1
+			C363.6,408.8,367.5,412.7,372.8,408.8z"/>
+	</g>
+</g>
+</svg>
+</div><p>El evento &#x2014;el mitin, el retiro <wbr class="w480 w960"></wbr>espiritual, la <wbr class="w481"></wbr>junta <wbr class="w961 w1799"></wbr>de <wbr class="w480"></wbr>consejo&#x2026; <wbr class="w960"></wbr>&#x2014; <wbr class="w1800"></wbr>dur&#xF3; media hora <wbr class="w480"></wbr>m&#xE1;s. Con <wbr class="w481"></wbr>se&#xF1;as, <wbr class="w960"></wbr>pidi&#xF3; <wbr class="w961 w1799"></wbr>que le <wbr class="w480"></wbr>dieran un pa&#xF1;uelo, <wbr class="w960 w1800"></wbr>que se <wbr class="w481"></wbr>pas&#xF3; <wbr class="w480"></wbr>varias veces <wbr class="w961 w1799"></wbr>por el <wbr class="w960"></wbr>cuello. <wbr class="w480"></wbr>Vio entonces <wbr class="w481"></wbr>que la tela <wbr class="w960 w1800"></wbr>se <wbr class="w480 w961 w1799"></wbr>manchaba. No pudo m&#xE1;s; se <wbr class="w480 w960"></wbr>excus&#xF3; <wbr class="w481"></wbr>y pidi&#xF3; que lo <wbr class="w961 w1799"></wbr>llevaran <wbr class="w480"></wbr>a <wbr class="w960"></wbr>sus <wbr class="w1800"></wbr>oficinas. Estaba <wbr class="w481"></wbr>l&#xED;vido, <wbr class="w480 w960"></wbr>ten&#xED;a ganas <wbr class="w961 w1799"></wbr>de vomitar y el <wbr class="w480 w960"></wbr>cosquilleo <wbr class="w481 w1800"></wbr>continuaba. Sin <wbr class="w480 w960"></wbr>embargo, <wbr class="w961 w1799"></wbr>nadie se dio cuenta. <wbr class="w480 w481 w960"></wbr>Nadie. S&#xF3;lo yo, y <wbr class="w1800"></wbr>s&#xF3;lo t&#xFA;, <wbr class="w480 w961 w1799"></wbr>ahora. <wbr class="w960"></wbr>Antes de <wbr class="w481"></wbr>llegar a la <wbr class="w480"></wbr>suburban, <wbr class="w960"></wbr>tuvo que <wbr class="w961 w1799"></wbr>saludar a <wbr class="w480 w1800"></wbr>muchas <wbr class="w481"></wbr>de <wbr class="w960"></wbr>personas. A algunas, <wbr class="w480"></wbr>las <wbr class="w961 w1799"></wbr>conoc&#xED;a; <wbr class="w960"></wbr>a otras, <wbr class="w481"></wbr>no. Pero <wbr class="w480"></wbr>ve&#xED;a <wbr class="w1800"></wbr>sus <wbr class="w960"></wbr>sonrisas y sus <wbr class="w961 w1799"></wbr>gestos <wbr class="w480"></wbr>de <wbr class="w481"></wbr>afecto; <wbr class="w960"></wbr>muchos, s&#xF3;lo se <wbr class="w480"></wbr>conformaban <wbr class="w1800"></wbr>con <wbr class="w960 w961 w1799"></wbr>una <wbr class="w481"></wbr>mirada de <wbr class="w480"></wbr>&#xE9;l, con rozar su <wbr class="w960"></wbr>guayabera, <wbr class="w480"></wbr>con tocar <wbr class="w481 w961 w1799"></wbr>su sotana, <wbr class="w960 w1800"></wbr>con <wbr class="w480"></wbr>sacudir su mano&#x2026; Intent&#xF3;, <wbr class="w960"></wbr>como <wbr class="w480 w481 w961 w1799"></wbr>siempre, en sonre&#xED;r y en <wbr class="w480 w960 w1800"></wbr>demostrar cercan&#xED;a. Y <wbr class="w481"></wbr>tuvo <wbr class="w480 w960 w961 w1799"></wbr>&#xE9;xito.Cuando logr&#xF3; traspasar <wbr class="w480"></wbr>ese <wbr class="w960"></wbr>mar de <wbr class="w481 w1800"></wbr>gente, se <wbr class="w961 w1799"></wbr>subi&#xF3; <wbr class="w480"></wbr>aliviado <wbr class="w960"></wbr>al veh&#xED;culo. Adentro, <wbr class="w480 w481"></wbr>ya estaba <wbr class="w960 w961 w1799 w1800"></wbr>funcionando el aire <wbr class="w480 w960"></wbr>acondicionado; <wbr class="w481"></wbr>orden&#xF3; que <wbr class="w480 w960 w961 w1799"></wbr>arrancaran. Cerr&#xF3; <wbr class="w1800"></wbr>los ojos en <wbr class="w480"></wbr>el <wbr class="w481 w960"></wbr>trayecto. Intent&#xF3; <wbr class="w961 w1799"></wbr>no <wbr class="w480"></wbr>pensar. <wbr class="w960"></wbr>Trat&#xF3; de poner su <wbr class="w480 w481 w1800"></wbr>mente en <wbr class="w960"></wbr>blanco, en <wbr class="w961 w1799"></wbr>cero. Pero <wbr class="w480"></wbr>no pudo. <wbr class="w960"></wbr>Tampoco <wbr class="w481"></wbr>pudo rezar; <wbr class="w480"></wbr>ya no <wbr class="w1800"></wbr>ten&#xED;a <wbr class="w960 w961 w1799"></wbr>pr&#xE1;ctica. El <wbr class="w480 w481"></wbr>cosquilleo, esa <wbr class="w960"></wbr>larva <wbr class="w480"></wbr>asquerosa, el <wbr class="w961 w1799"></wbr>pa&#xF1;uelo <wbr class="w481 w960 w1800"></wbr>manchado <wbr class="w480"></wbr>con un l&#xED;quido caf&#xE9;, <wbr class="w960"></wbr>&#xAB;como <wbr class="w480 w961 w1799"></wbr>mierda&#xBB;, no <wbr class="w481"></wbr>era la primera <wbr class="w960"></wbr>vez <wbr class="w480 w1800"></wbr>que le pasaba. Todo <wbr class="w961 w1799"></wbr>comenz&#xF3; <wbr class="w480 w481 w960"></wbr>cuando se lo crey&#xF3;.<wbr class="w480"></wbr><wbr class="w481"></wbr><wbr class="w960"></wbr><wbr class="w961"></wbr><wbr class="w1799"></wbr><wbr class="w1800"></wbr><br><strong>*</strong><wbr class="w480"></wbr><wbr class="w481"></wbr><wbr class="w960"></wbr><wbr class="w961"></wbr><wbr class="w1799"></wbr><wbr class="w1800"></wbr><br>Sol&#xED;a tener principios. Sol&#xED;a <wbr class="w480 w960"></wbr>saber d&#xF3;nde <wbr class="w481"></wbr>terminaba <wbr class="w961 w1799"></wbr>el bien <wbr class="w480"></wbr>y <wbr class="w960 w1800"></wbr>d&#xF3;nde comenzaba el mal. <wbr class="w480 w481"></wbr>Sol&#xED;a ser <wbr class="w960"></wbr>un <wbr class="w961 w1799"></wbr>hombre &#xED;ntegro. Y <wbr class="w480"></wbr>como tal, <wbr class="w481 w960 w1800"></wbr>trabajaba. Como <wbr class="w480"></wbr>muchos <wbr class="w961 w1799"></wbr>otros de <wbr class="w960"></wbr>su generaci&#xF3;n, <wbr class="w480 w481"></wbr>desde ni&#xF1;o tuvo <wbr class="w960 w1800"></wbr>claro lo <wbr class="w961 w1799"></wbr>que <wbr class="w480"></wbr>quer&#xED;a. Y, desde <wbr class="w481 w960"></wbr>entonces, <wbr class="w480"></wbr>todos sus esfuerzos <wbr class="w960 w961 w1799 w1800"></wbr>giraron en <wbr class="w480"></wbr>torno <wbr class="w481"></wbr>a ese objetivo. <wbr class="w480 w960"></wbr>Realmente cre&#xED;a <wbr class="w961 w1799"></wbr>que pod&#xED;a <wbr class="w480 w481"></wbr>lograr <wbr class="w960 w1800"></wbr>un cambio para bien en <wbr class="w480"></wbr>las <wbr class="w960 w961 w1799"></wbr>personas que <wbr class="w481"></wbr>lo rodeaban. <wbr class="w480"></wbr>Estaba <wbr class="w960 w1800"></wbr>convencido que <wbr class="w961 w1799"></wbr>algo &#x2014;<wbr class="w480 w481"></wbr>ll&#xE1;mese <wbr class="w960"></wbr>azar, ll&#xE1;mese <wbr class="w480"></wbr>providencia&#x2014; lo <wbr class="w960"></wbr>hab&#xED;a <wbr class="w480 w481 w961 w1799 w1800"></wbr>destinado a hacer el bien. <wbr class="w480 w960"></wbr>Realmente quer&#xED;a <wbr class="w481"></wbr>dejar <wbr class="w961 w1799"></wbr>una <wbr class="w480"></wbr>huella <wbr class="w960 w1800"></wbr>positiva. Se <wbr class="w480"></wbr>consideraba un <wbr class="w481 w960"></wbr>l&#xED;der, <wbr class="w961 w1799"></wbr>alguien <wbr class="w480"></wbr>a quien val&#xED;a la <wbr class="w960"></wbr>pena <wbr class="w1800"></wbr>hacer <wbr class="w480 w481"></wbr>caso, seguir. <wbr class="w961 w1799"></wbr>Hasta <wbr class="w960"></wbr>que <wbr class="w480"></wbr>comenzaron los <wbr class="w481"></wbr>cosquilleos en <wbr class="w480 w960"></wbr>la <wbr class="w1800"></wbr>oreja.<wbr class="w480"></wbr><wbr class="w481"></wbr><wbr class="w960"></wbr><wbr class="w961"></wbr><wbr class="w1799"></wbr><wbr class="w1800"></wbr><br><strong>*</strong><wbr class="w480"></wbr><wbr class="w481"></wbr><wbr class="w960"></wbr><wbr class="w961"></wbr><wbr class="w1799"></wbr><wbr class="w1800"></wbr><br><em>&#xAB;Esas son las medidas que le <wbr class="w480 w960"></wbr>hac&#xED;an falta al <wbr class="w481 w961 w1799"></wbr>Estado. <wbr class="w480 w960 w1800"></wbr>&#xA1;Felicidades&#xBB;. &#xAB;Realmente me <wbr class="w480 w960"></wbr>gust&#xF3; su <wbr class="w481 w961 w1799"></wbr>homil&#xED;a, padre. Me <wbr class="w480"></wbr>lleg&#xF3; <wbr class="w960"></wbr>al <wbr class="w1800"></wbr>coraz&#xF3;n&#xBB;. &#xAB;Es usted <wbr class="w480 w481"></wbr>un <wbr class="w960 w961 w1799"></wbr>excelente gobernante&#xBB;. &#xAB;T&#xFA; <wbr class="w480"></wbr>nos <wbr class="w960"></wbr>hac&#xED;as <wbr class="w1800"></wbr>falta; <wbr class="w481 w961 w1799"></wbr>llegaste en <wbr class="w480"></wbr>el <wbr class="w960"></wbr>momento indicado&#xBB;. &#xAB;Era muy <wbr class="w480 w481 w960 w961 w1799"></wbr>necesaria la <wbr class="w1800"></wbr>decisi&#xF3;n que <wbr class="w480 w960"></wbr>tomaste; para que la <wbr class="w481 w961 w1799"></wbr>empresa <wbr class="w480 w960"></wbr>prospere, hab&#xED;a que <wbr class="w1800"></wbr>quitar <wbr class="w480"></wbr>toda <wbr class="w960"></wbr>esa <wbr class="w481 w961 w1799"></wbr>grasa&#x2026;&#xBB;. &#xAB;&#xA1;Qu&#xE9; bueno <wbr class="w480"></wbr>que <wbr class="w960"></wbr>corri&#xF3; de su gabinete <wbr class="w481"></wbr>a <wbr class="w480 w961 w1799 w1800"></wbr>ese <wbr class="w960"></wbr>ladr&#xF3;n! &#xA1;Ya era hora que <wbr class="w480"></wbr>alguien <wbr class="w960"></wbr>hiciera <wbr class="w481"></wbr>algo <wbr class="w961 w1799"></wbr>contra la <wbr class="w480 w960 w1800"></wbr>corrupci&#xF3;n!&#xBB;. &#xAB;Muchas gracias <wbr class="w480 w481"></wbr>por <wbr class="w960"></wbr>el <wbr class="w961 w1799"></wbr>apoyo. Gracias. Mis <wbr class="w480"></wbr>hijos y <wbr class="w1800"></wbr>yo <wbr class="w960"></wbr>podremos <wbr class="w481"></wbr>salir <wbr class="w480 w961 w1799"></wbr>adelante&#xBB;. &#xAB;Usted <wbr class="w960"></wbr>realmente <wbr class="w480"></wbr>vive el <wbr class="w481"></wbr>Evangelio; <wbr class="w1800"></wbr>no <wbr class="w960 w961 w1799"></wbr>es como <wbr class="w480"></wbr>los curas que estuvieron <wbr class="w481 w960"></wbr>antes <wbr class="w480"></wbr>en la <wbr class="w961 w1799"></wbr>parroquia. Dios <wbr class="w1800"></wbr>nos <wbr class="w960"></wbr>lo <wbr class="w480"></wbr>envi&#xF3;&#xBB;. <wbr class="w481"></wbr>&#xAB;&#xA1;Hazme un hijo!&#xBB;. <wbr class="w480 w960 w961 w1799"></wbr>&#xAB;Precisamente obras de <wbr class="w480 w481 w960 w1800"></wbr>infraestructura de ese tipo <wbr class="w961 w1799"></wbr>es <wbr class="w480"></wbr>lo <wbr class="w960"></wbr>que <wbr class="w481"></wbr>necesitamos para dejar <wbr class="w480"></wbr>de <wbr class="w1800"></wbr>ser <wbr class="w960"></wbr>una zona <wbr class="w480 w481 w961 w1799"></wbr>pinchurrienta&#xBB;. &#xAB;S&#xED; que <wbr class="w960"></wbr>tienes <wbr class="w480"></wbr>g&#xFC;evos. Nadie, <wbr class="w481"></wbr>nadie <wbr class="w961 w1799 w1800"></wbr>le <wbr class="w960"></wbr>hab&#xED;a <wbr class="w480"></wbr>hecho frente a los <wbr class="w480 w960"></wbr>empresarios&#xBB;. <wbr class="w481"></wbr>&#xAB;Es un <wbr class="w961 w1799"></wbr>santo&#xBB;. <wbr class="w480 w960"></wbr>&#xAB;Eres el <wbr class="w1800"></wbr>paradigma del nuevo <wbr class="w480 w481 w960"></wbr>hombre de <wbr class="w961 w1799"></wbr>negocios&#xBB;. &#xAB;&#xA1;Qu&#xE9; <wbr class="w480"></wbr>buen <wbr class="w960"></wbr>discurso! <wbr class="w1800"></wbr>Nunca <wbr class="w481"></wbr>antes <wbr class="w480"></wbr>hab&#xED;a <wbr class="w960 w961 w1799"></wbr>asistido a un mitin tan <wbr class="w480 w481 w960"></wbr>concurrido&#xBB;. &#xAB;Si <wbr class="w1800"></wbr>quieres, <wbr class="w961 w1799"></wbr>vas <wbr class="w480"></wbr>a <wbr class="w960"></wbr>llegar hasta <wbr class="w481"></wbr>Los Pinos&#xBB;. &#xAB;De <wbr class="w480"></wbr>una <wbr class="w960"></wbr>empresa <wbr class="w961 w1799"></wbr>familiar a <wbr class="w1800"></wbr>una con <wbr class="w480 w481 w960"></wbr>presencia en todo el pa&#xED;s y, <wbr class="w480 w960 w961 w1799"></wbr>pr&#xF3;ximamente, en <wbr class="w481"></wbr>el <wbr class="w480 w1800"></wbr>extranjero&#xBB;. <wbr class="w960"></wbr>&#xAB;Lograste lo que <wbr class="w480 w961 w1799"></wbr>nadie: <wbr class="w481"></wbr>callaste <wbr class="w960"></wbr>a los cr&#xED;ticos <wbr class="w480 w1800"></wbr>sistem&#xE1;ticos; te <wbr class="w481 w960 w961 w1799"></wbr>metiste a la <wbr class="w480"></wbr>bolsa incluso al <wbr class="w960"></wbr>peri&#xF3;dico m&#xE1;s <wbr class="w480 w481"></wbr>duro <wbr class="w961 w1799 w1800"></wbr>con nuestro <wbr class="w960"></wbr>partido&#xBB;. <wbr class="w480"></wbr>&#xAB;Eres la mano <wbr class="w481"></wbr>derecha <wbr class="w960"></wbr>del <wbr class="w480 w961 w1799"></wbr>obispo&#xBB;. &#xAB;La <wbr class="w1800"></wbr>compa&#xF1;&#xED;a <wbr class="w480 w960"></wbr>necesitaba de <wbr class="w481"></wbr>un director <wbr class="w480 w961 w1799"></wbr>general <wbr class="w960"></wbr>como t&#xFA;, sobre todo en <wbr class="w480 w481 w1800"></wbr>estas <wbr class="w960"></wbr>&#xE9;pocas <wbr class="w961 w1799"></wbr>turbulentas&#xBB;. <wbr class="w480"></wbr>&#xAB;Tus deseos <wbr class="w960"></wbr>son <wbr class="w481"></wbr>&#xF3;rdenes&#xBB;.</em><wbr class="w480"></wbr><wbr class="w481"></wbr><wbr class="w960"></wbr><wbr class="w961"></wbr><wbr class="w1799"></wbr><wbr class="w1800"></wbr><br><strong>*</strong><wbr class="w480"></wbr><wbr class="w481"></wbr><wbr class="w960"></wbr><wbr class="w961"></wbr><wbr class="w1799"></wbr><wbr class="w1800"></wbr><br>Se baj&#xF3; de la suburban, y <wbr class="w480 w960"></wbr>recorri&#xF3; con rapidez <wbr class="w481"></wbr>el <wbr class="w961 w1799"></wbr>atrio. <wbr class="w480 w960"></wbr>Subi&#xF3; las <wbr class="w1800"></wbr>escaleras y se <wbr class="w480"></wbr>dirigi&#xF3; <wbr class="w960"></wbr>a <wbr class="w481"></wbr>sus <wbr class="w961 w1799"></wbr>oficinas, en el <wbr class="w480"></wbr>anexo <wbr class="w960"></wbr>parroquial. Se <wbr class="w480 w481 w1800"></wbr>sorprendi&#xF3; al <wbr class="w961 w1799"></wbr>ver <wbr class="w960"></wbr>a su <wbr class="w480"></wbr>capell&#xE1;n. No sab&#xED;a c&#xF3;mo <wbr class="w481"></wbr>lo <wbr class="w480 w960"></wbr>hab&#xED;a logrado &#x2014;<wbr class="w961 w1799 w1800"></wbr>de nuevo&#x2014; pero <wbr class="w480 w960"></wbr>hab&#xED;a llegado <wbr class="w481"></wbr>antes que &#xE9;l. Lo <wbr class="w480 w960 w961 w1799"></wbr>salud&#xF3; y entr&#xF3;; fue <wbr class="w1800"></wbr>directo al <wbr class="w480 w481 w960"></wbr>ba&#xF1;o. Ah&#xED;, ante un <wbr class="w961 w1799"></wbr>gran <wbr class="w480"></wbr>espejo, <wbr class="w960"></wbr>volte&#xF3; el <wbr class="w481"></wbr>rostro, en <wbr class="w480"></wbr>un <wbr class="w1800"></wbr>vano <wbr class="w960"></wbr>intento <wbr class="w961 w1799"></wbr>para ver su <wbr class="w480"></wbr>o&#xED;do. <wbr class="w481"></wbr>Aunque <wbr class="w960"></wbr>sent&#xED;a que el <wbr class="w480"></wbr>l&#xED;quido <wbr class="w961 w1799"></wbr>segu&#xED;a <wbr class="w960 w1800"></wbr>saliendo de <wbr class="w480 w481"></wbr>ah&#xED;, no vio nada. Sin <wbr class="w960"></wbr>embargo, <wbr class="w480 w961 w1799"></wbr>el papel segu&#xED;a <wbr class="w481 w960 w1800"></wbr>manch&#xE1;ndose. <wbr class="w480"></wbr>Su sotana estaba <wbr class="w960 w961 w1799"></wbr>empapada. Y <wbr class="w480 w481"></wbr>efectivamente, su <wbr class="w960"></wbr>sudor <wbr class="w480 w1800"></wbr>apestaba. Pero <wbr class="w961 w1799"></wbr>no con <wbr class="w481"></wbr>ese <wbr class="w960"></wbr>olor <wbr class="w480"></wbr>agrio, de queso que le <wbr class="w480 w960"></wbr>persegu&#xED;a <wbr class="w961 w1799 w1800"></wbr>desde <wbr class="w481"></wbr>la <wbr class="w480"></wbr>adolescencia, <wbr class="w960"></wbr>en el seminario. <wbr class="w480"></wbr>No. Hed&#xED;a. <wbr class="w961 w1799"></wbr>A <wbr class="w481 w960"></wbr>muerto. Se la <wbr class="w480 w1800"></wbr>quit&#xF3; y se <wbr class="w960"></wbr>refresc&#xF3;. Pidi&#xF3; que <wbr class="w480"></wbr>le <wbr class="w481 w961 w1799"></wbr>trajeran <wbr class="w960"></wbr>una camisa &#x2014;&#xAB;s&#xED;, <wbr class="w480"></wbr>esa <wbr class="w1800"></wbr>con el <wbr class="w481 w960"></wbr>alzacuellos <wbr class="w961 w1799"></wbr>que me <wbr class="w480"></wbr>traje de <wbr class="w960"></wbr>Roma&#x2026;&#xBB;&#x2014;. La sotana, <wbr class="w480 w481"></wbr>la que <wbr class="w1800"></wbr>ol&#xED;a a <wbr class="w960 w961 w1799"></wbr>diablos, a <wbr class="w480"></wbr>azufre, la tir&#xF3; a la <wbr class="w481 w960"></wbr>basura. Y <wbr class="w480"></wbr>as&#xED;, con <wbr class="w961 w1799"></wbr>el dorso <wbr class="w960 w1800"></wbr>desnudo, se <wbr class="w480"></wbr>vio de <wbr class="w481"></wbr>nuevo en el <wbr class="w960"></wbr>espejo. Ya <wbr class="w480 w961 w1799"></wbr>no era el de antes. <wbr class="w960"></wbr>No. <wbr class="w481 w1800"></wbr>Hab&#xED;a <wbr class="w480"></wbr>ganado kilos, muchos. <wbr class="w960 w961 w1799"></wbr>Ten&#xED;a <wbr class="w480"></wbr>tetitas de <wbr class="w481"></wbr>una <wbr class="w960"></wbr>preadolescente, <wbr class="w480 w1800"></wbr>con largos, <wbr class="w960 w961 w1799"></wbr>rizados pelos <wbr class="w480 w481"></wbr>coronando los <wbr class="w960"></wbr>pezones negros. <wbr class="w480 w961 w1799 w1800"></wbr>Innumerables <wbr class="w481 w960"></wbr>estr&#xED;as surcaban <wbr class="w480"></wbr>su cuerpo, lo <wbr class="w960"></wbr>que lo <wbr class="w961 w1799"></wbr>hac&#xED;a <wbr class="w480 w481"></wbr>parecerse <wbr class="w1800"></wbr>un triste <wbr class="w960"></wbr>tigre; un <wbr class="w480"></wbr>trabalenguas de <wbr class="w481 w961 w1799"></wbr>grasa. <wbr class="w960"></wbr>Antes <wbr class="w480"></wbr>de salir, meti&#xF3; <wbr class="w1800"></wbr>la panza. <wbr class="w480 w960"></wbr>Afuera, <wbr class="w481"></wbr>su <wbr class="w961 w1799"></wbr>capell&#xE1;n lo <wbr class="w480"></wbr>esperaba <wbr class="w960"></wbr>con una prenda reci&#xE9;n <wbr class="w480 w481 w961 w1799 w1800"></wbr>planchada. <wbr class="w960"></wbr>&#xC9;l le dio las <wbr class="w480"></wbr>gracias, esperando <wbr class="w960"></wbr>un <wbr class="w481 w961 w1799"></wbr>gesto de <wbr class="w480"></wbr>asco, una <wbr class="w1800"></wbr>se&#xF1;al de <wbr class="w960"></wbr>que ve&#xED;a lo <wbr class="w480"></wbr>mismo <wbr class="w481"></wbr>que <wbr class="w961 w1799"></wbr>&#xE9;l. Pero <wbr class="w960"></wbr>no. Se la <wbr class="w480"></wbr>puso, y le pidi&#xF3; <wbr class="w1800"></wbr>que le <wbr class="w481 w960"></wbr>dijera <wbr class="w480 w961 w1799"></wbr>qu&#xE9; segu&#xED;a, a qu&#xE9; hora <wbr class="w960"></wbr>ten&#xED;a <wbr class="w480"></wbr>misa, y si <wbr class="w481"></wbr>hab&#xED;a <wbr class="w961 w1799"></wbr>alguna <wbr class="w960 w1800"></wbr>cita. <wbr class="w480"></wbr>El capell&#xE1;n sac&#xF3; de su <wbr class="w480 w481 w960"></wbr>bolsillo una <wbr class="w961 w1799"></wbr>lista y empez&#xF3; a <wbr class="w480 w960"></wbr>recitar <wbr class="w1800"></wbr>nombres y <wbr class="w481"></wbr>asuntos. &#xC9;l <wbr class="w480 w960 w961 w1799"></wbr>asent&#xED;a, pero no escuchaba. <wbr class="w480"></wbr>S&#xF3;lo <wbr class="w481 w960"></wbr>ve&#xED;a c&#xF3;mo <wbr class="w1800"></wbr>su <wbr class="w961 w1799"></wbr>escudero <wbr class="w480"></wbr>mov&#xED;a los <wbr class="w960"></wbr>labios, <wbr class="w481"></wbr>ensimismado <wbr class="w480"></wbr>en el papel <wbr class="w960 w961 w1799"></wbr>que ten&#xED;an <wbr class="w1800"></wbr>frente <wbr class="w480"></wbr>a sus <wbr class="w481"></wbr>ojos. <wbr class="w960"></wbr>&#xAB;Cancela todo&#xBB;, le <wbr class="w480 w961 w1799"></wbr>orden&#xF3;. &#xAB;Llama <wbr class="w960"></wbr>al otro <wbr class="w481 w1800"></wbr>padre. <wbr class="w480"></wbr>Hoy no estoy de <wbr class="w960 w961 w1799"></wbr>humor. Ni para <wbr class="w480"></wbr>dios ni <wbr class="w481"></wbr>para los <wbr class="w960"></wbr>hombres&#xBB;. Y <wbr class="w480 w1800"></wbr>con un <wbr class="w961 w1799"></wbr>adem&#xE1;n le <wbr class="w960"></wbr>pidi&#xF3; que <wbr class="w481"></wbr>se <wbr class="w480"></wbr>retirara.<wbr class="w480"></wbr><wbr class="w481"></wbr><wbr class="w960"></wbr><wbr class="w961"></wbr><wbr class="w1799"></wbr><wbr class="w1800"></wbr><br><strong>*</strong><wbr class="w480"></wbr><wbr class="w481"></wbr><wbr class="w960"></wbr><wbr class="w961"></wbr><wbr class="w1799"></wbr><wbr class="w1800"></wbr><br>No fue una descomposici&#xF3;n <wbr class="w480"></wbr>r&#xE1;pida. <wbr class="w960"></wbr>A la larva <wbr class="w481"></wbr>que <wbr class="w961 w1799"></wbr>hab&#xED;a <wbr class="w480"></wbr>aplastado <wbr class="w960 w1800"></wbr>esa ma&#xF1;ana le <wbr class="w480"></wbr>siguieron <wbr class="w481"></wbr>otras. Al <wbr class="w960 w961 w1799"></wbr>principio, <wbr class="w480"></wbr>una cada dos, tres <wbr class="w960 w1800"></wbr>d&#xED;as. <wbr class="w480 w481"></wbr>Primero, s&#xF3;lo <wbr class="w961 w1799"></wbr>sal&#xED;an de un <wbr class="w480 w960"></wbr>o&#xED;do, despu&#xE9;s de los <wbr class="w481"></wbr>dos y de <wbr class="w480"></wbr>la <wbr class="w960 w961 w1799 w1800"></wbr>nariz. Incluso, vio una <wbr class="w480 w960"></wbr>asom&#xE1;ndose <wbr class="w481"></wbr>por un lagrimal. <wbr class="w480 w961 w1799"></wbr>Las <wbr class="w960"></wbr>larvas se <wbr class="w1800"></wbr>transformaron en <wbr class="w480 w481 w960"></wbr>moscas. Las sent&#xED;a <wbr class="w961 w1799"></wbr>zumbar en <wbr class="w480"></wbr>su <wbr class="w960"></wbr>interior. Sus <wbr class="w481 w1800"></wbr>apariciones <wbr class="w480 w960"></wbr>p&#xFA;blicas <wbr class="w961 w1799"></wbr>fueron cada vez m&#xE1;s <wbr class="w480 w481 w960"></wbr>espor&#xE1;dicas. La peste no <wbr class="w1800"></wbr>s&#xF3;lo <wbr class="w480 w960 w961 w1799"></wbr>segu&#xED;a <wbr class="w481"></wbr>impregn&#xE1;ndose en sus <wbr class="w480 w960"></wbr>narices; aumentaba. Se <wbr class="w481 w961 w1799"></wbr>ten&#xED;a <wbr class="w480"></wbr>que <wbr class="w960 w1800"></wbr>cambiar cinco, seis veces <wbr class="w480"></wbr>por <wbr class="w960"></wbr>d&#xED;a. <wbr class="w481"></wbr>Sus <wbr class="w961 w1799"></wbr>manos sudaban y <wbr class="w480"></wbr>se <wbr class="w960 w1800"></wbr>comenzaron a llenar de <wbr class="w480 w481"></wbr>vejigas, <wbr class="w960 w961 w1799"></wbr>peque&#xF1;&#xED;simas ampollas <wbr class="w480"></wbr>con una <wbr class="w481 w960 w1800"></wbr>sustancia verdusca en <wbr class="w480 w961 w1799"></wbr>su <wbr class="w960"></wbr>interior. Se le <wbr class="w481"></wbr>cayeron <wbr class="w480"></wbr>varios <wbr class="w960"></wbr>dientes, y <wbr class="w1800"></wbr>su <wbr class="w961 w1799"></wbr>lengua se <wbr class="w480"></wbr>fue <wbr class="w481 w960"></wbr>tornando blanca, como <wbr class="w480"></wbr>cubierta <wbr class="w960"></wbr>por <wbr class="w961 w1799"></wbr>una nieve <wbr class="w480 w481 w1800"></wbr>pastosa. Sin <wbr class="w960"></wbr>embargo, y lo que <wbr class="w480"></wbr>m&#xE1;s le <wbr class="w961 w1799"></wbr>llamaba <wbr class="w481 w960"></wbr>m&#xE1;s la <wbr class="w480"></wbr>atenci&#xF3;n, fue <wbr class="w1800"></wbr>que incluso <wbr class="w480 w960"></wbr>cuando &#xE9;l <wbr class="w481 w961 w1799"></wbr>vomitaba ante el <wbr class="w480"></wbr>asco <wbr class="w960"></wbr>de verse y olerse, la <wbr class="w480 w481 w1800"></wbr>gente <wbr class="w961 w1799"></wbr>le <wbr class="w960"></wbr>segu&#xED;a sonriendo; <wbr class="w480"></wbr>buscando su <wbr class="w960"></wbr>mirada o <wbr class="w481"></wbr>su mano <wbr class="w480 w961 w1799"></wbr>para <wbr class="w960 w1800"></wbr>estrecharla. Las mujeres, <wbr class="w480 w960"></wbr>incluso, <wbr class="w481"></wbr>se <wbr class="w961 w1799"></wbr>mostraban m&#xE1;s <wbr class="w480 w960"></wbr>descaradas que <wbr class="w1800"></wbr>antes. Hac&#xED;an <wbr class="w480 w481"></wbr>el <wbr class="w960"></wbr>amor <wbr class="w961 w1799"></wbr>con &#xE9;l con la misma o <wbr class="w480"></wbr>mayor <wbr class="w960"></wbr>intensidad <wbr class="w481"></wbr>que <wbr class="w1800"></wbr>antes. Y <wbr class="w480 w961 w1799"></wbr>no s&#xF3;lo <wbr class="w960"></wbr>parec&#xED;a, lo gozaban. <wbr class="w480 w481"></wbr>Gem&#xED;an y <wbr class="w960"></wbr>gritaban al <wbr class="w961 w1799"></wbr>sentir <wbr class="w480 w1800"></wbr>que &#xE9;l ten&#xED;a <wbr class="w960"></wbr>un <wbr class="w481"></wbr>orgasmo. Esa <wbr class="w480"></wbr>indiferencia <wbr class="w960 w961 w1799"></wbr>general hacia su <wbr class="w480 w481"></wbr>carne <wbr class="w1800"></wbr>putrefacta <wbr class="w960"></wbr>lo convenci&#xF3; <wbr class="w480"></wbr>de <wbr class="w961 w1799"></wbr>no ir al <wbr class="w481"></wbr>m&#xE9;dico. <wbr class="w960"></wbr>Mantuvo, <wbr class="w480"></wbr>en la medida <wbr class="w1800"></wbr>que pod&#xED;a, <wbr class="w960 w961 w1799"></wbr>su <wbr class="w480 w481"></wbr>agenda normal. Trabajaba al <wbr class="w480 w960"></wbr>garete, como zombi, <wbr class="w481 w961 w1799"></wbr>que <wbr class="w1800"></wbr>al fin <wbr class="w480"></wbr>y <wbr class="w960"></wbr>al cabo, era en lo que se <wbr class="w480"></wbr>estaba <wbr class="w481 w960 w961 w1799"></wbr>convirtiendo. Todas las <wbr class="w480 w1800"></wbr>ma&#xF1;as <wbr class="w960"></wbr>ve&#xED;a &#x2014;cuando se <wbr class="w481"></wbr>le <wbr class="w480 w961 w1799"></wbr>cayeron los <wbr class="w960"></wbr>p&#xE1;rpados se le <wbr class="w480"></wbr>hizo <wbr class="w1800"></wbr>imposible <wbr class="w481 w960"></wbr>leer&#x2014; la <wbr class="w480 w961 w1799"></wbr>prensa. Y se ve&#xED;a en <wbr class="w960"></wbr>ella. <wbr class="w480"></wbr>Como se <wbr class="w481"></wbr>recordaba. <wbr class="w1800"></wbr>Como <wbr class="w961 w1799"></wbr>era <wbr class="w480 w960"></wbr>antes de que creyera que <wbr class="w481"></wbr>ten&#xED;a <wbr class="w480"></wbr>un <wbr class="w960"></wbr>cosquilleo en <wbr class="w961 w1799"></wbr>la oreja.<wbr class="w480"></wbr><wbr class="w481"></wbr><wbr class="w960"></wbr><wbr class="w961"></wbr><wbr class="w1799"></wbr><wbr class="w1800"></wbr><br><strong>*</strong><br> <wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>Un d&#xED;a, en una reuni&#xF3;n de su <wbr class="w480 w960"></wbr>consejo de <wbr class="w481 w961 w1799"></wbr>administraci&#xF3;n, vio <wbr class="w480 w960"></wbr>algo <wbr class="w1800"></wbr>raro en su caf&#xE9;. Tom&#xF3; <wbr class="w481"></wbr>una <wbr class="w480 w960 w961 w1799"></wbr>cuchara y removi&#xF3; la taza. Del <wbr class="w480 w960"></wbr>fondo <wbr class="w481 w1800"></wbr>emergi&#xF3; un <wbr class="w961 w1799"></wbr>pedazo de <wbr class="w480"></wbr>carne. <wbr class="w960"></wbr>Era parte de su <wbr class="w481"></wbr>lengua. <wbr class="w480"></wbr>Mientras <wbr class="w960 w961 w1799"></wbr>sus <wbr class="w1800"></wbr>empleados <wbr class="w480"></wbr>proyectaban las <wbr class="w481 w960"></wbr>excelentes <wbr class="w480"></wbr>cifras de <wbr class="w961 w1799"></wbr>crecimiento <wbr class="w960"></wbr>de su <wbr class="w480 w1800"></wbr>empresa, <wbr class="w481"></wbr>&#xE9;l se deshac&#xED;a; <wbr class="w960"></wbr>como <wbr class="w480"></wbr>un <wbr class="w961 w1799"></wbr>gelatinoso trozo sobre <wbr class="w480 w481 w960"></wbr>pavimento. <wbr class="w1800"></wbr>Se hablaba de <wbr class="w480 w961 w1799"></wbr>planes <wbr class="w960"></wbr>de expansi&#xF3;n, <wbr class="w481"></wbr>de la <wbr class="w480"></wbr>necesidad de <wbr class="w960"></wbr>recortar &#x2014;<wbr class="w961 w1799 w1800"></wbr>a&#xFA;n m&#xE1;s<wbr class="w480"></wbr>&#x2014; al <wbr class="w481"></wbr>personan, <wbr class="w960"></wbr>de crear <wbr class="w480"></wbr>diversas empresas <wbr class="w961 w1799"></wbr>para <wbr class="w960"></wbr>pagar <wbr class="w480 w481"></wbr>menos <wbr class="w1800"></wbr>impuestos. Harto, les <wbr class="w480 w960"></wbr>dijo a todos <wbr class="w961 w1799"></wbr>sus <wbr class="w481"></wbr>directores y <wbr class="w480 w960"></wbr>asesores <wbr class="w1800"></wbr>externos &#x2014;&#xAB;lamebotas <wbr class="w480 w481 w960 w961 w1799"></wbr>todos&#xBB;, maldijo en silencio&#x2014; <wbr class="w480"></wbr>que <wbr class="w960"></wbr>la junta se <wbr class="w481 w961 w1799 w1800"></wbr>terminaba y <wbr class="w480"></wbr>llam&#xF3; a <wbr class="w960"></wbr>su secretaria. Le <wbr class="w480"></wbr>pidi&#xF3; &#x2014;<wbr class="w481 w960 w961 w1799"></wbr>balbuceando&#x2014; que <wbr class="w480 w1800"></wbr>cerrara la <wbr class="w960"></wbr>puerta y le <wbr class="w480 w481"></wbr>pregunt&#xF3; si <wbr class="w961 w1799"></wbr>no ve&#xED;a <wbr class="w960"></wbr>c&#xF3;mo se <wbr class="w480"></wbr>estaba <wbr class="w1800"></wbr>pudriendo en <wbr class="w481"></wbr>vida. <wbr class="w960"></wbr>&#xAB;No, <wbr class="w480 w961 w1799"></wbr>se&#xF1;or&#xBB;, le respondi&#xF3; ella, <wbr class="w960"></wbr>con <wbr class="w480"></wbr>tono <wbr class="w481 w1800"></wbr>rugoso. No lo <wbr class="w961 w1799"></wbr>dijo, pero <wbr class="w480 w960"></wbr>bien pudo a&#xF1;adir: &#xAB;Al <wbr class="w480 w481"></wbr>contrario. <wbr class="w960"></wbr>Es <wbr class="w961 w1799"></wbr>usted <wbr class="w1800"></wbr>la imagen <wbr class="w480"></wbr>misma del <wbr class="w960"></wbr>poder&#xBB;.<wbr class="w480"></wbr><wbr class="w481"></wbr><wbr class="w960"></wbr><wbr class="w961"></wbr><wbr class="w1799"></wbr><wbr class="w1800"></wbr><br><em>Post scriptum: &#xBF;Es necesario <wbr class="w480 w960"></wbr>mentir y poner, en <wbr class="w481"></wbr>una <wbr class="w480 w960 w961 w1799"></wbr>advertencia, <wbr class="w1800"></wbr>que este relato <wbr class="w480"></wbr>no <wbr class="w960"></wbr>est&#xE1; basado <wbr class="w481"></wbr>en <wbr class="w961 w1799"></wbr>ning&#xFA;n <wbr class="w480"></wbr>personaje <wbr class="w960"></wbr>de la vida <wbr class="w1800"></wbr>real? <wbr class="w480"></wbr>Creo que <wbr class="w481"></wbr>no. Al <wbr class="w960 w961 w1799"></wbr>escribirlo, me <wbr class="w480"></wbr>inspir&#xE9; en el ser <wbr class="w960"></wbr>humano, <wbr class="w481"></wbr>en <wbr class="w480 w1800"></wbr>cuya <wbr class="w961 w1799"></wbr>naturaleza radica <wbr class="w960"></wbr>la <wbr class="w480"></wbr>tendencia a <wbr class="w481"></wbr>descomponerse <wbr class="w480 w960 w961 w1799"></wbr>cuando ejerce <wbr class="w1800"></wbr>alg&#xFA;n tipo de <wbr class="w480 w481 w960"></wbr>influencia o poder.</em></p><div kind="decoration" index="icon" class="decoration icon decoration icon svg" id="u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote-d-icon-mobile"><?xml version="1.0" encoding="utf-8"?>
+
+<svg preserveAspectRatio="none" id="u-1ea41642-18e9-497d-bb52-a11551a3d15a-g-quotation-t-quote-d-icon-mobile-svg" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 90 612 612" enable-background="new 0 90 612 612" xml:space="preserve">
+<g>
+	<g>
+		<path fill="#5D9992" d="M1,448c0-164.9,145.3-242.2,244.8-295.8c6.5-3.9,11.8,10.5,7.9,13.1C150.2,225.5,41.6,309.3,41.6,397
+			c0,13.1,3.9,17,9.2,13.1c31.4-24.9,70.7-41.9,111.3-41.9c78.5,0,119.1,72,119.1,137.4c0,87.7-60.2,134.8-130.9,134.8
+			C49.4,640.5,1,554.1,1,448z M372.8,408.8c32.7-26.2,73.3-40.6,115.2-40.6c72,0,123,68.1,123,133.5c0,86.4-61.5,138.7-132.2,138.7
+			c-103.4,0-154.5-89-154.5-195c0-164.9,146.6-242.2,250-293.2c6.5-2.6,11.8,10.5,7.9,13.1c-108.6,58.9-218.6,141.4-218.6,229.1
+			C363.6,408.8,367.5,412.7,372.8,408.8z"/>
+	</g>
+</g>
+</svg>
+</div></blockquote></div></article><section kind="layout" style="position: relative" sequence="one" role="article" diff_index="0" index="one" class="layout one i first_layout last_layout w_headline w_title w_subtitle w_paragraph w_text w_separator w_decoration w_leader w_trailer w_short_headline w_short_title w_short_subtitle w_long_paragraph w_long_text w_quote w_long_quote w_icon layout one" id="u-d6fb8ce0-3038-4c59-9729-97e48598f523-desktop-l-one"><div kind="layout" style="position: relative" sequence="one" diff_index="0" index="one" class="colors-use-local w_texts colors-use-same-as-previous layout one i first_layout last_layout article layout one" id="u-d6fb8ce0-3038-4c59-9729-97e48598f523-desktop-l-one-l-one"></div><style id="u-d6fb8ce0-3038-4c59-9729-97e48598f523-color">body{background-color: rgba(3, 3, 3, 1)}</style></section><section kind="layout" style="position: relative" sequence="one" role="article" diff_index="0" index="one" class="layout one i first_layout last_layout w_headline w_title w_subtitle w_paragraph w_text w_separator w_decoration w_leader w_trailer w_short_headline w_short_title w_short_subtitle w_long_paragraph w_long_text w_quote w_long_quote w_icon layout one" id="u-d6fb8ce0-3038-4c59-9729-97e48598f523-cinema-l-one"><div kind="layout" style="position: relative" sequence="one" diff_index="0" index="one" class="colors-use-local w_texts colors-use-same-as-previous layout one i first_layout last_layout article layout one" id="u-d6fb8ce0-3038-4c59-9729-97e48598f523-cinema-l-one-l-one"></div><style id="u-d6fb8ce0-3038-4c59-9729-97e48598f523-color">body{background-color: rgba(3, 3, 3, 1)}</style></section></div><script src="//s3-us-west-2.amazonaws.com/cdn.thegrid.io/design-systems/pipeline/0.19.13/client.js"></script><script src="//ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script><script id="web-font-loader">if (window.WebFont) 
+  WebFont.load({"google":{"families":["Inconsolata:400,700","Inconsolata:400,400italic,700,700italic"]},active: function() { 
+  if (window.parent.params) {
+    window.parent.params.console.pop();
+    window.parent.params.console.push('fonts+' + document.readyState);
+  }
+  setTimeout(function() {
+    if (window.engine) {
+      if (window.parent.params) {
+        window.parent.params.console.pop();
+        window.parent.params.console.push('fonts');
+      }
+      document.documentElement.classList.remove('wf-loading')
+      document.documentElement.classList.add('wf-active')
+      window.engine.triggerEvent("interactive")
+    } else {
+      document.documentElement.classList.remove('wf-loading')
+      document.documentElement.classList.add('wf-active')
+    }
+  }, window.callPhantom && 1000 || 300) // let phantom catch up
+},timeout: 25000,classes: false});</script></body></html>
