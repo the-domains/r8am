@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-04T14:32:49.194Z'
+datePublished: '2016-08-04T14:33:30.206Z'
 sourcePath: _posts/2016-08-04-javier-potter-y-esa-legion-intoxicada-por-la-magia.md
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-08-04/Reporte-8-AM'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-04T14:32:48.244Z'
+dateModified: '2016-08-04T14:33:29.518Z'
 title: Javier Potter y esa legión intoxicada por la magia
 app_links: []
 publisher:
