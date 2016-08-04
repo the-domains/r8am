@@ -1,11 +1,12 @@
 ---
-datePublished: '2016-08-04T13:23:42.258Z'
+datePublished: '2016-08-04T14:32:49.194Z'
+sourcePath: _posts/2016-08-04-javier-potter-y-esa-legion-intoxicada-por-la-magia.md
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-08-04/Reporte-8-AM'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-04T13:22:42.379Z'
+dateModified: '2016-08-04T14:32:48.244Z'
 title: Javier Potter y esa legión intoxicada por la magia
 app_links: []
 publisher:
@@ -20,7 +21,6 @@ description: >-
   esa peculiar cicatriz cambia de forma, y se convierte en un "zorrito", en ese
   gallito inglés tan presente en bardas y en autos empolvados.
 inLanguage: es
-sourcePath: _posts/2016-08-04-javier-potter-y-esa-legion-intoxicada-por-la-magia.md
 starred: true
 inFeed: true
 hasPage: false
@@ -31,4 +31,3 @@ _type: MediaObject
 ---
 # Javier Potter y esa legión intoxicada por la magia
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/096a48d0-a917-4c47-8e78-19c6e9e1ac50.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb5dae34-5ed5-47ea-b75c-39b52905b453.jpg)
