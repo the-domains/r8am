@@ -1,11 +1,12 @@
 ---
-datePublished: '2016-08-10T15:53:59.051Z'
+datePublished: '2016-08-10T15:54:57.694Z'
+sourcePath: _posts/2016-08-10-la-jornada-maya-or-reporte-8-am.md
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-08-10/Reporte-8-AM'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-10T15:53:55.285Z'
+dateModified: '2016-08-10T15:54:57.004Z'
 title: La Jornada Maya | Reporte 8 AM
 app_links: []
 publisher:
@@ -19,7 +20,6 @@ description: >-
   cosas consumidas, ver los objetos ennegrecidos y cambiados.
 inLanguage: es
 starred: true
-sourcePath: _posts/2016-08-10-la-jornada-maya-or-reporte-8-am.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -27,4 +27,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://img.lajornadamaya.mx/32/ji4t0tqe4iej_640-414-cover" /><h1>La Jornada Maya | Reporte 8 AM</h1><p>Pablo A. Cicero AlonzoFoto: Rodrigo Díaz GuzmánLa Jornada Maya Mérida, YucatánMiércoles 10 de agosto, 2016 Constituía un placer especial ver las cosas consumidas, ver los objetos ennegrecidos y cambiados.</p></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c3858c6-d4f2-4ea7-935b-0fc9e43f2f98.png)
