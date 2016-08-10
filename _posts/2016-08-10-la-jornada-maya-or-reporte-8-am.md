@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-10T15:54:57.694Z'
+datePublished: '2016-08-10T15:55:31.938Z'
 sourcePath: _posts/2016-08-10-la-jornada-maya-or-reporte-8-am.md
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-08-10/Reporte-8-AM'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-10T15:54:57.004Z'
-title: La Jornada Maya | Reporte 8 AM
+dateModified: '2016-08-10T15:55:31.493Z'
+title: Quémese después de leer
 app_links: []
 publisher:
   url: 'https://www.lajornadamaya.mx'
@@ -27,4 +27,5 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+# Quémese después de leer
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c3858c6-d4f2-4ea7-935b-0fc9e43f2f98.png)
