@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-12T12:47:29.648Z'
+datePublished: '2016-08-12T16:51:15.684Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-08-12/Reporte-8AM'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-12T12:47:26.273Z'
+dateModified: '2016-08-12T16:51:13.856Z'
 title: 'Te arrancaré esa capa de impunidad '
 app_links: []
 publisher:
@@ -19,8 +19,8 @@ description: >-
   ley tal que pueda ser asesinado proporcionando la mayor de las glorias a su
   asesino".
 inLanguage: es
-starred: true
 sourcePath: _posts/2016-08-12-te-arrancare-esa-capa-de-impunidad.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
