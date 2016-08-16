@@ -1,12 +1,11 @@
 ---
-datePublished: '2016-08-16T14:19:56.971Z'
-sourcePath: _posts/2016-08-16-la-jornada-maya-or-reporte-8-am.md
+datePublished: '2016-08-16T14:19:50.360Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-08-16/Reporte-8-AM'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-16T14:19:56.101Z'
+dateModified: '2016-08-16T14:19:47.406Z'
 title: La Jornada Maya | Reporte 8 AM
 app_links: []
 publisher:
@@ -21,6 +20,7 @@ description: >-
   pronto forman un solo cuerpo terroso y compacto.
 inLanguage: es
 starred: true
+sourcePath: _posts/2016-08-16-la-jornada-maya-or-reporte-8-am.md
 inFeed: true
 hasPage: false
 inNav: false
