@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-18T14:55:57.529Z'
+datePublished: '2016-08-18T14:56:05.186Z'
 sourcePath: _posts/2016-08-18-la-jornada-maya-or-reporte-8am.md
 inFeed: true
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-08-18/Reporte-8AM'
@@ -11,8 +11,8 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-18T14:55:44.925Z'
-title: La Jornada Maya | Reporte 8AM
+dateModified: '2016-08-18T14:56:04.469Z'
+title: LOS MUERTOS VIVIENTES
 app_links: []
 publisher:
   name: Lajornadamaya
@@ -31,4 +31,5 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+# LOS MUERTOS VIVIENTES
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/207bf359-14d4-4eb6-b859-3342f577ef17.png)
