@@ -18,26 +18,26 @@ color:
   brandStrength: 1
   lightness: 0
   brandColors:
-    - '#010101'
-    - '#ffffff'
-    - '#d0d0d0'
-    - '#363636'
-    - '#7f7f7f'
+    - '#0541FB'
+    - '#FF003F'
+    - '#5303E6'
+    - '#FDAA07'
+    - '#811701'
   rhythmicContrast: 0.5
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: '506767772843593'
-favicon: null
-name: R8AM
 navigation:
   - name: Contacto
     url: 'http://8am.com.mx/'
     type: external
+analytics:
+  twitter: null
+  google: null
+  facebook: '506767772843593'
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
+name: R8AM
 opengraph:
   image: null
   type: null
