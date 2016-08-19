@@ -1,11 +1,12 @@
 ---
-datePublished: '2016-08-19T14:08:37.923Z'
+datePublished: '2016-08-19T14:13:16.919Z'
+sourcePath: _posts/2016-08-19-historias-que-nadie-te-cuenta.md
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-08-19/Reporte-8-AM'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-19T14:08:36.086Z'
+dateModified: '2016-08-19T14:13:15.606Z'
 title: Historias que nadie te cuenta
 app_links: []
 publisher:
@@ -20,7 +21,6 @@ description: >-
   Ortega Marcial. Ambos competían en la Olimpiada Nacional.
 inLanguage: es
 starred: true
-sourcePath: _posts/2016-08-19-historias-que-nadie-te-cuenta.md
 inFeed: true
 hasPage: false
 inNav: false
