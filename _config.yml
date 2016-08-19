@@ -14,7 +14,7 @@ collections:
       number: 10
 description: CICERO
 color:
-  saturation: 1
+  saturation: 0.9340426
   brandStrength: 1
   lightness: 0
   brandColors:
@@ -23,21 +23,21 @@ color:
     - '#d0d0d0'
     - '#363636'
     - '#7f7f7f'
-  rhythmicContrast: 1
-navigation:
-  - name: Contacto
-    url: 'http://8am.com.mx/'
-    type: external
+  rhythmicContrast: 0.5
 cta:
   bucket: null
   version: null
   domain: null
-favicon: null
-name: R8AM
 analytics:
   twitter: null
   google: null
   facebook: '506767772843593'
+favicon: null
+name: R8AM
+navigation:
+  - name: Contacto
+    url: 'http://8am.com.mx/'
+    type: external
 opengraph:
   image: null
   type: null
@@ -45,4 +45,4 @@ opengraph:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e07bbdcb-7da6-458c-9167-ff260ff046b6.jpg
 typography_spectrum: 0.63682
-layout_spectrum: 0.312766
+layout_spectrum: 0.5255319
