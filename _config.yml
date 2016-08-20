@@ -1,48 +1,48 @@
-title: Reporte 8AM
-purpose: []
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-description: CICERO
-color:
-  saturation: 0.9340426
-  brandStrength: 1
-  lightness: 0
-  brandColors:
-    - '#0541FB'
-    - '#FF003F'
-    - '#5303E6'
-    - '#FDAA07'
-    - '#811701'
-  rhythmicContrast: 0.5
-cta:
-  bucket: null
-  version: null
-  domain: null
+name: R8AM
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.63682
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e07bbdcb-7da6-458c-9167-ff260ff046b6.jpg
 navigation:
   - name: Contacto
     url: 'http://8am.com.mx/'
     type: external
-favicon: null
-name: R8AM
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+title: Reporte 8AM
+description: CICERO
+cta:
+  domain: null
+  bucket: null
+  version: null
 analytics:
-  twitter: null
   google: null
   facebook: '506767772843593'
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e07bbdcb-7da6-458c-9167-ff260ff046b6.jpg
-typography_spectrum: 0.63682
-layout_spectrum: 0.7127659
+color:
+  brandColors:
+    - '#c5ecd7'
+    - '#29c3cb'
+    - '#1b374c'
+    - '#fda720'
+    - '#ef5030'
+  brandStrength: 1
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0
+purpose: []
