@@ -1,4 +1,12 @@
 ---
+datePublished: '2016-08-22T13:33:18.276Z'
+sourcePath: _posts/2016-08-22-los-muertos-salvajes.md
+author: []
+via: {}
+dateModified: '2016-08-22T13:33:17.889Z'
+title: Los muertos salvajes
+publisher:
+  name: Pablo A. Cicero Alonzo
 description: >-
   Era 1987. Él tenía dieciocho años, y estudiaba preparatoria en Tanzania. Ahí,
   a él y a unos compañeros unos soldados los confundieron con mercenarios
@@ -8,15 +16,7 @@ description: >-
   soldados se pusieron —aún más— nerviosos y aplazaron la ejecución. “Luego nos
   llevaron a un bosque, dispararon al aire y nos soltaron”, relató años después
   el escritor Ignacio Padilla.
-dateModified: '2016-08-22T13:23:33.443Z'
-datePublished: '2016-08-22T13:23:35.969Z'
-title: Los muertos salvajes
-author: []
-publisher:
-  name: Pablo A. Cicero Alonzo
-via: {}
 starred: true
-sourcePath: _posts/2016-08-22-los-muertos-salvajes.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -28,6 +28,8 @@ _type: MediaObject
 # Los muertos salvajes
 
 Era 1987\. Él tenía dieciocho años, y estudiaba preparatoria en Tanzania. Ahí, a él y a unos compañeros unos soldados los confundieron con mercenarios sudafricanos. En un juicio sumarísimo, los condenaron a muerte. Los enfilaron, con los ojos vendados, en un paredón. Cuando el pelotón iba a disparar, un grupo de periodistas internacionales se apareció y comenzó a tomar fotos. Los soldados se pusieron ---aún más--- nerviosos y aplazaron la ejecución. "Luego nos llevaron a un bosque, dispararon al aire y nos soltaron", relató años después el escritor Ignacio Padilla.
+
+Sigue leyendo: https://www.lajornadamaya.mx/2016-08-22/Reporte-8-AM
 
 Treinta años después de esa ley fuga, este sábado, Padilla falleció en un accidente automovilístico. La vida le dio una segunda oportunidad, y así la aprovechó. Leyó y escribió cada día como si fuera el último, como si acabara de correr por el bosque perseguido por un batallón o como si a la vuelta de la curva lo esperara la muerte. Por eso, su legado es amplísimo; ha traspasado fronteras, y seguirá reconfortando a ésta y a muchas generaciones por vivir. Padilla murió a los cuarenta y ocho años, la gran mayoría de ellos dedicados a la escritura.  
 Publicó unos 30 libros que abarcan cuento, novela, ensayo, crónica, teatro y literatura para niños. Entre sus obras destacan _La catedral de los ahogados_ (Premio Nacional Juan Rulfo para Primera Novela 1994), _Si volviesen sus Majestades_ (1996),_Amphitryon_ (Premio Primavera de Novela 2000), _Espiral de artillería_ (2003) y _La gruta del toscano_ (Premio Mazatlán de Literatura 2007). Este año publicó _Cervantes y Compañía_, que reúne ensayos en el marco del aniversario 400 de la muerte de Miguel de Cervantes y del William Shakespeare.  
