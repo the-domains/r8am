@@ -4,8 +4,15 @@
         <description><![CDATA[Reporte 8AM]]></description>
         <link>https://thegrid.ai/r8am/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 14:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 15:02:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/r8am/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Los muertos salvajes]]></title>
+            <description><![CDATA[<article><h1>Los muertos salvajes</h1><p>Era 1987. Él tenía dieciocho años, y estudiaba preparatoria en Tanzania. Ahí, a él y a unos compañeros unos soldados los confundieron con mercenarios sudafricanos. En un juicio sumarísimo, los condenaron a muerte. Los enfilaron, con los ojos vendados, en un paredón. Cuando el pelotón iba a disparar, un grupo de periodistas internacionales se apareció y comenzó a tomar fotos. Los soldados se pusieron —aún más— nerviosos y aplazaron la ejecución. “Luego nos llevaron a un bosque, dispararon al aire y nos soltaron”, relató años después el escritor Ignacio Padilla.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7204570d-59a5-4b1d-8491-b4a3d7d363f3.jpg"></article>]]></description>
+            <link>https://thegrid.ai/r8am/los-muertos-salvajes/index.html</link>
+            <guid isPermaLink="false">55ef2c7c-f748-4409-99c1-ebcf6f471984</guid>
+            <pubDate>Mon, 22 Aug 2016 15:02:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Historias que nadie te cuenta]]></title>
             <description><![CDATA[<article><h1>Historias que nadie te cuenta</h1><p>Pablo A. Cicero AlonzoFoto: Terreno de Juego La Jornada Maya Viernes 19 de agosto, 2016 Hay dos encuentros que recuerda de manera especial el judoka Iván Ramírez Medel. El primero se remonta a 2006, contra el hidalguense Ulises Ortega Marcial. Ambos competían en la Olimpiada Nacional.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f508473-6480-410b-b55a-bbaf1f1ba8d5.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.lajornadamaya.mx/2016-08-02/Reporte-8-am</link>
             <guid isPermaLink="false">1b8a3573-af46-4b86-a837-296ebf2f6070</guid>
             <pubDate>Tue, 02 Aug 2016 13:10:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kafka deprimido]]></title>
-            <description><![CDATA[<article><h1>Kafka deprimido</h1><p>Pablo A. Cicero Alonzo. Foto: Rodrigo Díaz Guzmán. La Jornada Maya. Lunes 1º de agosto, 2016. Cuando Abelardo Martínez se despertó una mañana, después de un sueño intranquilo, en su mente se imaginó convertido en un monstruoso insecto. El despertador sonó, como siempre, pero, a diferencia de otros días, no lo reprogramó, para dormir cinco minutos más.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/91d44d06-cb47-48ec-8a84-44fad6d72a77.png"></article>]]></description>
-            <link>https://www.lajornadamaya.mx/2016-08-01/Reporte-8-am</link>
-            <guid isPermaLink="false">5bfa058e-232c-4e85-ad7f-dd92711a495c</guid>
-            <pubDate>Mon, 01 Aug 2016 13:42:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
