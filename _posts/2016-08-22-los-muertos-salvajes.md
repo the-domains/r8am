@@ -1,9 +1,19 @@
 ---
+datePublished: '2016-08-22T15:03:34.469Z'
+sourcePath: _posts/2016-08-22-los-muertos-salvajes.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
+author: []
+via: {}
+dateModified: '2016-08-22T15:03:33.474Z'
+title: Los muertos salvajes
+publisher:
+  name: Pablo A. Cicero Alonzo
+  domain: null
+  url: null
+  favicon: null
 description: >-
   Era 1987. Él tenía dieciocho años, y estudiaba preparatoria en Tanzania. Ahí,
   a él y a unos compañeros unos soldados los confundieron con mercenarios
@@ -13,18 +23,8 @@ description: >-
   soldados se pusieron —aún más— nerviosos y aplazaron la ejecución. “Luego nos
   llevaron a un bosque, dispararon al aire y nos soltaron”, relató años después
   el escritor Ignacio Padilla.
-datePublished: '2016-08-22T15:02:51.101Z'
-dateModified: '2016-08-22T14:35:38.512Z'
-sourcePath: _posts/2016-08-22-los-muertos-salvajes.md
-author: []
-via: {}
-title: Los muertos salvajes
-authors: []
-publisher:
-  name: Pablo A. Cicero Alonzo
-  domain: null
-  url: null
-  favicon: null
+inLanguage: null
+inNav: false
 starred: true
 url: los-muertos-salvajes/index.html
 _type: Article
