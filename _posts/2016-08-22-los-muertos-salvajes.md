@@ -13,8 +13,8 @@ description: >-
   soldados se pusieron —aún más— nerviosos y aplazaron la ejecución. “Luego nos
   llevaron a un bosque, dispararon al aire y nos soltaron”, relató años después
   el escritor Ignacio Padilla.
-datePublished: '2016-08-22T14:35:33.668Z'
-dateModified: '2016-08-22T14:35:03.004Z'
+datePublished: '2016-08-22T15:02:51.101Z'
+dateModified: '2016-08-22T14:35:38.512Z'
 sourcePath: _posts/2016-08-22-los-muertos-salvajes.md
 author: []
 via: {}
