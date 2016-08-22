@@ -1,36 +1,13 @@
-typography_spectrum: 0.63682
-color:
-  brandColors:
-    - '#000000'
-    - '#666666'
-    - '#999999'
-    - '#0088cc'
-    - '#eeeeee'
-  brandStrength: 1
-  lightness: 0.5625
-  saturation: 0.8125
-  rhythmicContrast: 1
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: R8AM
+favicon: null
 layout_spectrum: 0.78169
-analytics:
-  google: null
-  facebook: '506767772843593'
-  twitter: null
+typography_spectrum: 0.63682
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e07bbdcb-7da6-458c-9167-ff260ff046b6.jpg
-name: R8AM
-cta:
-  domain: null
-  bucket: null
-  version: null
 navigation:
   - name: Contacto
     url: 'http://8am.com.mx/'
     type: external
-favicon: null
 collections:
   - index:
       navigable: true
@@ -45,4 +22,27 @@ collections:
       path: '/:title/'
 title: Reporte 8AM
 description: Por Pablo A. Cicero Alonzo
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: '506767772843593'
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#1a1a1a'
+    - '#4a4a4a'
+    - '#bcbcbc'
+    - '#e6e6e6'
+    - '#ffffff'
+  brandStrength: 1
+  lightness: 0
+  saturation: 0.8125
+  rhythmicContrast: 1
 purpose: []
