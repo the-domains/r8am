@@ -1,17 +1,21 @@
 ---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
 description: 'Sigue leyendo: https://www.lajornadamaya.mx/2016-08-23/Reporte-8AM'
-dateModified: '2016-08-23T16:19:44.992Z'
-datePublished: '2016-08-23T16:19:47.675Z'
+datePublished: '2016-08-23T16:44:01.217Z'
+dateModified: '2016-08-23T16:21:06.401Z'
 title: Al «Rincón del vago» le gusta esto
 author: []
-publisher: {}
 via: {}
-starred: true
 sourcePath: _posts/2016-08-23-al-rincon-del-vago-le-gusta-esto.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+authors: []
+publisher: {}
+starred: true
+url: al-rincon-del-vago-le-gusta-esto/index.html
+_type: Article
 
 ---
 # Al «Rincón del vago» le gusta esto
