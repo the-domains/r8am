@@ -1,4 +1,9 @@
 ---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
 description: >-
   Los panistas, administran; nosotros, gobernamos. Lapidaria sentencia que la
   senadora Angélica Araujo Lara emitió hace unos días, en una entrevista que
@@ -10,19 +15,18 @@ description: >-
   dificultad. La “joya de la corona” yucateca es más zirconia que diamante. A
   pesar de que se ha convertido en una de las ciudades mejor evaluadas del país,
   tiene, por mucho, un presupuesto menor al de muchas otras urbes con
-  características similares. 
-dateModified: '2016-08-24T17:35:51.183Z'
-datePublished: '2016-08-24T17:35:53.113Z'
+  características similares.
+datePublished: '2016-08-24T17:44:52.197Z'
+dateModified: '2016-08-24T17:36:44.570Z'
 title: ¿Administrar o gobernar?
 author: []
-publisher: {}
 via: {}
-starred: true
 sourcePath: _posts/2016-08-24-administrar-o-gobernar.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+authors: []
+publisher: {}
+starred: true
+url: administrar-o-gobernar/index.html
+_type: Article
 
 ---
 # ¿Administrar o gobernar?
