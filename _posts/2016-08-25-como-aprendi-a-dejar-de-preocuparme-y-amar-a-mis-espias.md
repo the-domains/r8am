@@ -1,17 +1,31 @@
 ---
-description: ' Como el doctor Insólito. En días pasados, una asociación con el membrete de ciudadanos, presentó en rueda de prensa unos audios en los que se escuchaba a un legislador yucateco, del PAN, hablar de cifras y porcentajes con otra persona, a la que se le identificó como un constructor. Las voces no daban lugar a dudas: quienes los conocen, los reconocían fácilmente; eran ellos, sin duda. Ese fue uno de los más recientes capítulos de esa historia agridulce que se ha ido publicando por entregas en los medios locales. Esa trama la protagonizan políticos del PAN y está relacionada con el tema de los moches, porcentajes que piden los legisladores a cambio de asignación de obra pública. Tajada, diezmo, si sólo fuera el diez por ciento. '
-dateModified: '2016-08-25T16:14:32.645Z'
-datePublished: '2016-08-25T16:14:36.944Z'
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
+description: >-
+  Como el doctor Insólito. En días pasados, una asociación con el membrete de
+  ciudadanos, presentó en rueda de prensa unos audios en los que se escuchaba a
+  un legislador yucateco, del PAN, hablar de cifras y porcentajes con otra
+  persona, a la que se le identificó como un constructor. Las voces no daban
+  lugar a dudas: quienes los conocen, los reconocían fácilmente; eran ellos, sin
+  duda. Ese fue uno de los más recientes capítulos de esa historia agridulce que
+  se ha ido publicando por entregas en los medios locales. Esa trama la
+  protagonizan políticos del PAN y está relacionada con el tema de los moches,
+  porcentajes que piden los legisladores a cambio de asignación de obra pública.
+  Tajada, diezmo, si sólo fuera el diez por ciento.
+datePublished: '2016-08-25T17:45:55.939Z'
+dateModified: '2016-08-25T17:45:48.214Z'
 title: Cómo aprendí a dejar de preocuparme y amar a mis espías
 author: []
-publisher: {}
 via: {}
-starred: true
 sourcePath: _posts/2016-08-25-como-aprendi-a-dejar-de-preocuparme-y-amar-a-mis-espias.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+authors: []
+publisher: {}
+starred: true
+url: como-aprendi-a-dejar-de-preocuparme-y-amar-a-mis-espias/index.html
+_type: Article
 
 ---
 # Cómo aprendí a dejar de preocuparme y amar a mis espías
