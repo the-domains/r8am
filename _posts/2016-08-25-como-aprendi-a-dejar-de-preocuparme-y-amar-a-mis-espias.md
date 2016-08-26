@@ -1,28 +1,18 @@
 ---
+datePublished: '2016-08-25T23:29:24.925Z'
+sourcePath: _posts/2016-08-25-como-aprendi-a-dejar-de-preocuparme-y-amar-a-mis-espias.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
-description: >-
-  Como el doctor Insólito. En días pasados, una asociación con el membrete de
-  ciudadanos, presentó en rueda de prensa unos audios en los que se escuchaba a
-  un legislador yucateco, del PAN, hablar de cifras y porcentajes con otra
-  persona, a la que se le identificó como un constructor. Las voces no daban
-  lugar a dudas: quienes los conocen, los reconocían fácilmente; eran ellos, sin
-  duda. Ese fue uno de los más recientes capítulos de esa historia agridulce que
-  se ha ido publicando por entregas en los medios locales. Esa trama la
-  protagonizan políticos del PAN y está relacionada con el tema de los moches,
-  porcentajes que piden los legisladores a cambio de asignación de obra pública.
-  Tajada, diezmo, si sólo fuera el diez por ciento.
-datePublished: '2016-08-25T23:12:48.192Z'
-dateModified: '2016-08-25T23:11:13.384Z'
-title: Cómo aprendí a dejar de preocuparme y amar a mis espías
 author: []
 via: {}
-sourcePath: _posts/2016-08-25-como-aprendi-a-dejar-de-preocuparme-y-amar-a-mis-espias.md
-authors: []
+dateModified: '2016-08-25T23:29:23.747Z'
+title: Cómo aprendí a dejar de preocuparme y amar a mis espías
 publisher: {}
+description: 'Lee más en https://www.lajornadamaya.mx/2016-08-25/Reporte-8-AM'
+inLanguage: null
+inNav: false
 starred: true
 url: como-aprendi-a-dejar-de-preocuparme-y-amar-a-mis-espias/index.html
 _type: Article
@@ -30,7 +20,7 @@ _type: Article
 ---
 # Cómo aprendí a dejar de preocuparme y amar a mis espías
 
-Como el _doctor Insólito_. En días pasados, una asociación con el membrete de ciudadanos, presentó en rueda de prensa unos audios en los que se escuchaba a un legislador yucateco, del PAN, hablar de cifras y porcentajes con otra persona, a la que se le identificó como un constructor. Las voces no daban lugar a dudas: quienes los conocen, los reconocían fácilmente; eran ellos, sin duda. Ese fue uno de los más recientes capítulos de esa historia agridulce que se ha ido publicando por entregas en los medios locales. Esa trama la protagonizan políticos del PAN y está relacionada con el tema de los moches, porcentajes que piden los legisladores a cambio de asignación de obra pública. Tajada, diezmo, si sólo fuera el diez por ciento.
+> Como el _doctor Insólito_. En días pasados, una asociación con el membrete de ciudadanos, presentó en rueda de prensa unos audios en los que se escuchaba a un legislador yucateco, del PAN, hablar de cifras y porcentajes con otra persona, a la que se le identificó como un constructor. Las voces no daban lugar a dudas: quienes los conocen, los reconocían fácilmente; eran ellos, sin duda. Ese fue uno de los más recientes capítulos de esa historia agridulce que se ha ido publicando por entregas en los medios locales. Esa trama la protagonizan políticos del PAN y está relacionada con el tema de los moches, porcentajes que piden los legisladores a cambio de asignación de obra pública. Tajada, diezmo, si sólo fuera el diez por ciento.
 
 Lee más en https://www.lajornadamaya.mx/2016-08-25/Reporte-8-AM
 
