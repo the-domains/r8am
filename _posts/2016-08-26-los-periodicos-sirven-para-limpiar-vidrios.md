@@ -10,8 +10,8 @@ description: >-
   que utilizó la funcionaria federal para defender al indefendible César Duarte
   Jáquez, gobernador de Chihuahua, acusado de enriquecimiento ilícito y que
   dejará la entidad con una deuda de 50 mil millones de pesos.
-datePublished: '2016-08-26T14:44:29.374Z'
-dateModified: '2016-08-26T14:44:03.642Z'
+datePublished: '2016-08-26T14:44:39.432Z'
+dateModified: '2016-08-26T14:44:38.629Z'
 title: “Los periódicos sirven para limpiar vidrios…”
 author: []
 via: {}
@@ -21,8 +21,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-08-26-los-periodicos-sirven-para-limpiar-vidrios.md
+starred: true
 url: los-periodicos-sirven-para-limpiar-vidrios/index.html
 _type: Article
 
