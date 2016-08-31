@@ -1,32 +1,32 @@
 ---
-datePublished: '2016-08-29T15:03:31.442Z'
+datePublished: '2016-08-29T15:12:14.864Z'
+sourcePath: _posts/2016-08-29-hermano-lobo.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-29T15:03:25.901Z'
-title: Hermano Lobo
+dateModified: '2016-08-29T15:12:14.014Z'
+title: El hermano lobo
 publisher:
   name: Pablo A. Cicero Alonzo
 description: >-
   En lo más crudo del invierno, una manada de lobos huye de la fría muerte. Son
   veinticinco y marchan en fila india. La escena fue captada por un equipo de la
   BBC, dirigido por Chadden Hunter, en el Parque Nacional Wood Buffalo, en
-  Alberta. Estaba grabando escenas para el documental Frozen Planet.Esta imagen
+  Alberta. Estaba grabando escenas para el documental Frozen Planet. Esta imagen
   se popularizó en las redes sociales, en donde se explicaba que los primeros
   tres lobos de la fila son los viejos o enfermos, quienes dan el ritmo a toda
   la manada. Si fuera al revés, se apuntaba, serían dejados atrás, perdiendo el
   contacto con la manada. Le siguen los cinco animales más fuertes, en la línea
   del frente.
 starred: true
-sourcePath: _posts/2016-08-29-hermano-lobo.md
 url: hermano-lobo/index.html
 _type: Article
 
 ---
 ![National Geographic](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ec0c937-91b8-4060-9bf3-5b7f031eacae.png)
 
-# Hermano Lobo
+# El _hermano_ lobo
 
 En lo más crudo del invierno, una manada de lobos huye de la fría muerte. Son veinticinco y marchan en fila india. La escena fue captada por un equipo de la BBC, dirigido por Chadden Hunter, en el Parque Nacional Wood Buffalo, en Alberta. Estaba grabando escenas para el documental _Frozen Planet_.  
 Esta imagen se popularizó en las redes sociales, en donde se explicaba que los primeros tres lobos de la fila son los viejos o enfermos, quienes dan el ritmo a toda la manada. Si fuera al revés, se apuntaba, serían dejados atrás, perdiendo el contacto con la manada. Le siguen los cinco animales más fuertes, en la línea del frente.
