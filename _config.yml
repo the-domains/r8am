@@ -28,21 +28,21 @@ navigation:
   - name: Contacto
     url: 'http://8am.com.mx/'
     type: external
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: null
 analytics:
   twitter: null
   google: null
   facebook: '506767772843593'
 name: R8AM
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
   appId: null
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e07bbdcb-7da6-458c-9167-ff260ff046b6.jpg
-typography_spectrum: 0.7829787
+typography_spectrum: 0.2212766
 layout_spectrum: 0.5680851
