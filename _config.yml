@@ -6,12 +6,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 description: Por Pablo A. Cicero Alonzo
 color:
   saturation: 0
@@ -32,11 +32,11 @@ navigation:
   - name: Contacto
     url: 'http://8am.com.mx/'
     type: external
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: '506767772843593'
-favicon: null
 name: R8AM
 opengraph:
   image: null
@@ -45,4 +45,4 @@ opengraph:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e07bbdcb-7da6-458c-9167-ff260ff046b6.jpg
 typography_spectrum: 0.2723404
-layout_spectrum: 0.08723404
+layout_spectrum: 0.212766
