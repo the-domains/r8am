@@ -24,25 +24,25 @@ color:
     - '#e6e6e6'
     - '#ffffff'
   lightness: 0
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: '506767772843593'
-name: R8AM
-favicon: null
 navigation:
   - name: Contacto
     url: 'http://8am.com.mx/'
     type: external
+analytics:
+  twitter: null
+  google: null
+  facebook: '506767772843593'
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: R8AM
 opengraph:
   image: null
   type: null
   appId: null
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e07bbdcb-7da6-458c-9167-ff260ff046b6.jpg
-typography_spectrum: 0.2723404
+typography_spectrum: 0.7829787
 layout_spectrum: 0.4914894
