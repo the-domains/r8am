@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-08-31T18:32:57.677Z'
+datePublished: '2016-08-31T22:22:34.516Z'
+sourcePath: _posts/2016-08-31-los-suenos-de-los-otros.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T18:32:52.196Z'
+dateModified: '2016-08-31T22:22:34.048Z'
 title: Los sueños de los otros
 publisher:
   name: Pablo A. Cicero Alonzo
@@ -14,11 +15,10 @@ description: >-
   Congregación para el Clero, platicó con alumnos de la Universidad Marista de
   Mérida. Pasado mañana, viernes 2, oficiará una misa en ese campus, con la que
   celebrará los primeros 20 años de la institución. Él, se recordó durante su
-  presentación, “junto con un puñado de maestros y alumnos comenzó este andar;
-  él es parte de ese grupo de ex alumnos y hermanos maristas que trabajaron para
-  que esta universidad sea lo que hoy es. 
+  presentación, junto con un puñado de maestros y alumnos comenzó este andar; él
+  es parte de ese grupo de ex alumnos y hermanos maristas que trabajaron para
+  que esta universidad sea lo que hoy es.
 starred: true
-sourcePath: _posts/2016-08-31-los-suenos-de-los-otros.md
 url: los-suenos-de-los-otros/index.html
 _type: Article
 
@@ -27,7 +27,7 @@ _type: Article
 
 # Los sueños de los otros
 
-Atrévanse a soñar. A soñar por los otros. Ayer, en la mañana, el arzobispo Jorge Carlos Patrón Wong, secretario para los Seminarios de la Sagrada Congregación para el Clero, platicó con alumnos de la Universidad Marista de Mérida. Pasado mañana, viernes 2, oficiará una misa en ese campus, con la que celebrará los primeros 20 años de la institución. Él, se recordó durante su presentación, "junto con un puñado de maestros y alumnos comenzó este andar; él es parte de ese grupo de ex alumnos y hermanos maristas que trabajaron para que esta universidad sea lo que hoy es.
+Atrévanse a soñar. A soñar por los otros. Ayer, en la mañana, el arzobispo Jorge Carlos Patrón Wong, secretario para los Seminarios de la Sagrada Congregación para el Clero, platicó con alumnos de la Universidad Marista de Mérida. Pasado mañana, viernes 2, oficiará una misa en ese campus, con la que celebrará los primeros 20 años de la institución. Él, se recordó durante su presentación,_junto con un puñado de maestros y alumnos comenzó este andar; él es parte de ese grupo de ex alumnos y hermanos maristas que trabajaron para que esta universidad sea lo que hoy es_.
 
 Lee más en [https://www.lajornadamaya.mx/2016-08-31/Reporte-8-am][0]
 
@@ -38,9 +38,9 @@ Horas después, el primer alcalde de Mérida egresado de la universidad con la q
 "Esto quiere decir que, en la actualidad, Mérida tiene aproximadamente la misma extensión territorial de la zona metropolitana de Guadalajara, con la diferencia de que allí viven 5 millones de personas, mientras que aquí convivimos cerca de un millón", comparó en su discurso. El pasado y el presente de nuestra ciudad nos permite vislumbrar su futuro. Un mañana brillante o sombrío, según las decisiones que se tomen hoy. Vila no se ha limitado a los servicios públicos. En este año hemos visto que, aunque es consciente de la necesidad de que Mérida sea una ciudad ordenada y eficiente, también se ha enfocado en la obra pública.  
 Al pensar en la ciudad que somos y en la que seremos, se traza una interesante ruta a seguir en los próximos años, cuando el crecimiento explote y sea exponencial. Mérida, se ha advertido, tiene que crecer con orden; un maremágnum de automóviles y autobuses se \]vislumbra en el futuro, y se debe actuar ya para impedir el caos vial que ahoga a otras grandes urbes.  
 Asimismo, se ha hecho consciencia de que la capital yucateca no puede crecer con la desigualdad actual. El norte próspero y el sur jodido no pueden convivir. La pobreza crea una espiral negativa, un círculo vicioso. Antes de pensar en despegar, hay que lograr una mayor igualdad. Es ahí, entonces, donde encontramos lógica a los planes de vivienda emprendidos en este primer año y en la creación del centro para adultos mayores. Es ese afán por combatir al cáncer de la desigualdad que se cristaliza en mejorar la calle 50 sur, la principal arteria del sector más desfavorecido de la sociedad.   
-Atrévanse a soñar. A soñar por los otros, invitaba el arzobispo Patrón Wong a jóvenes entre los que, hace una década, podría estar Vila Dosal. Yo igual haría votos de que esos sueños no se tornen en pesadillas, que se mantenga el espíritu joven en el político maduro. La política, por lo general, corrompe. Puede transformar al bondadoso en mezquino, al honesto en cínico, al humilde en vanidoso. El futuro de Vila dependerá de cómo digiere las críticas y los elogios, que apabullan en ambos casos. Ojalá que cuando dé traspiés recuerde que todo se reduce a los sueños que soñaron por él y los sueños que sueña por otro. 
+Atrévanse a soñar. A soñar por los otros, invitaba el arzobispo Patrón Wong a jóvenes entre los que, hace una década, podría estar Vila Dosal. Yo igual haría votos de que esos sueños no se tornen en pesadillas, que se mantenga el espíritu joven en el político maduro. La política, por lo general, corrompe. Puede transformar al bondadoso en mezquino, al honesto en cínico, al humilde en vanidoso. El futuro de Vila dependerá de cómo digiere las críticas y los elogios, que apabullan en ambos casos. Ojalá que cuando dé traspiés recuerde que todo se reduce a los sueños que soñaron por él y los sueños que sueña por otro.
 
-**Nota al margen**. _Hace 200 años, un sacerdote francés soñó con una congregación de religiosos que se dedicaran a la enseñanza de niños y jóvenes. Él era una fuerza de la naturaleza. Con sus propias manos construyó la primera casa de formación de esos religiosos. Se topó con una durísima piedra, que deshizo a mazazos. Y así hizo con todos los problemas a los que se enfrentó en su vida. Se llamaba Marcelino Champagnat.   
-Desde hace 100 años hay escuelas maristas en Yucatán. Están el jardín de niños Champagnat, el Colegio Montejo, la Escuela Joaquín Peón, el Centro Universitario Montejo y la Universidad Marista de Mérida. Esta última abrió sus puertas el 2 de septiembre de 1996\. Uno de sus maestros fundadores fue el arzobispo Patrón Wong. La comunidad marista en Mérida la conforman unas 6 mil familias._
+**Nota al margen**. _Hace 200 años, un sacerdote francés soñó con una congregación de religiosos que se dedicaran a la enseñanza de niños y jóvenes. Él era una fuerza de la naturaleza. Con sus propias manos construyó la primera casa de formación de esos religiosos. Se topó con una durísima piedra, que deshizo a mazazos. Y así hizo con todos los problemas a los que se enfrentó en su vida. Se llamaba Marcelino Champagnat. _  
+_Desde hace 100 años hay escuelas maristas en Yucatán. Están el jardín de niños Champagnat, el Colegio Montejo, la Escuela Joaquín Peón, el Centro Universitario Montejo y la Universidad Marista de Mérida. Esta última abrió sus puertas el 2 de septiembre de 1996\. Uno de sus maestros fundadores fue el arzobispo Patrón Wong. La comunidad marista en Mérida la conforman unas 6 mil familias._
 
 [0]: https://www.lajornadamaya.mx/2016-08-31/Reporte-8-am
