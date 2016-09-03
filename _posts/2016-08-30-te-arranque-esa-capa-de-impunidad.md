@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-08-30T22:36:21.383Z'
+datePublished: '2016-08-31T14:41:49.319Z'
+sourcePath: _posts/2016-08-30-te-arranque-esa-capa-de-impunidad.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-30T22:36:14.908Z'
+dateModified: '2016-08-31T14:41:48.635Z'
 title: Te arranqué esa capa de impunidad
 publisher: {}
 description: >-
@@ -18,7 +19,6 @@ description: >-
   el siguiente, necesario paso para combatir a la corrupción. Calificaba a esa
   figura como una capa anacrónica y aberrada, como un lastre a la rendición de
   cuentas.
-sourcePath: _posts/2016-08-30-te-arranque-esa-capa-de-impunidad.md
 starred: true
 url: te-arranque-esa-capa-de-impunidad/index.html
 _type: Article
@@ -29,6 +29,7 @@ _type: Article
 Fuera el fuero. El gobernador Rolando Zapata Bello anunció ayer una iniciativa de ley para erradicar el fuero en el estado. Lo hizo tempranito, a las siete, cuando la ciudad ya andaba en el trajín del primer día de clases. La noticia cayó por sorpresa en una ciudadanía harta de los excesos de servidores públicos revistos con esa coraza de impunidad. [El viernes 12 de agosto pasado, en este mismo espacio, publiqué la columna "Te arrancaré esa capa de impunidad"][0]. Ahí abordé este tema, señalando que la erradicación del fuero era el siguiente, necesario paso para combatir a la corrupción. Calificaba a esa figura como una capa anacrónica y aberrada, como un lastre a la rendición de cuentas.
 
 Lee más en https://www.lajornadamaya.mx/2016-08-30/8am
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/abab8e6a-8634-48eb-b4f6-29e7ad799eb1.jpg)
 
 La del fuero era la crónica de una muerte anunciada. Sin embargo, ni yo ni muchos nos imaginamos que el tribunal que dictó la sentencia de muerte fuera el gobierno del estado y el verdugo, Zapata Bello. Antes, imaginé, llegaría una propuesta emanada de esa máquina de ideas bien aceitada que es el Imco o de algún partido de oposición, como el PAN. Ambos ya habían anunciado que lo harían. Pero no. Les dieron un madruguete.  
 En lo político, este anuncio podría responder a varios factores. Una carambola a varias bandas. Esta iniciativa llega en la víspera del informe de Mauricio Vila Dosal, sin lugar a dudas uno de los protagonistas de la escena pública del momento y uno de los posibles rivales a vencer en 2018\.  
