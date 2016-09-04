@@ -4,7 +4,7 @@
         <description><![CDATA[Reporte 8AM]]></description>
         <link>https://thegrid.ai/r8am/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 12:00:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 14:24:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/r8am/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Un zapatazo o, mínimo, una mentada]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/r8am/un-zapatazo-o-minimo-una-mentada/index.html</link>
             <guid isPermaLink="false">c1191e43-62ba-4f87-8a31-3a3a14affc05</guid>
             <pubDate>Thu, 01 Sep 2016 12:00:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Los sueños de los otros]]></title>
-            <description><![CDATA[<article><h1>Los sueños de los otros</h1><p>Atrévanse a soñar. A soñar por los otros. Ayer, en la mañana, el arzobispo Jorge Carlos Patrón Wong, secretario para los Seminarios de la Sagrada Congregación para el Clero, platicó con alumnos de la Universidad Marista de Mérida. Pasado mañana, viernes 2, oficiará una misa en ese campus, con la que celebrará los primeros 20 años de la institución. Él, se recordó durante su presentación, junto con un puñado de maestros y alumnos comenzó este andar; él es parte de ese grupo de ex alumnos y hermanos maristas que trabajaron para que esta universidad sea lo que hoy es.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a29878a6-c7e1-483a-9940-b802728e1785.jpg"></article>]]></description>
-            <link>https://thegrid.ai/r8am/los-suenos-de-los-otros/index.html</link>
-            <guid isPermaLink="false">fb75541f-75ba-4a26-adfc-748e2d66ea6c</guid>
-            <pubDate>Wed, 31 Aug 2016 22:22:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Te arranqué esa capa de impunidad]]></title>
@@ -75,6 +68,13 @@
             <link>https://www.lajornadamaya.mx/2016-08-19/Reporte-8-AM</link>
             <guid isPermaLink="false">6045bd4c-6ffd-4cc6-84fa-d4be40dbf76a</guid>
             <pubDate>Fri, 19 Aug 2016 14:13:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Los sueños de los otros]]></title>
+            <description><![CDATA[<article><h1>Los sueños de los otros</h1><p>Atrévanse a soñar. A soñar por los otros. Ayer, en la mañana, el arzobispo Jorge Carlos Patrón Wong, secretario para los Seminarios de la Sagrada Congregación para el Clero, platicó con alumnos de la Universidad Marista de Mérida. Pasado mañana, viernes 2, oficiará una misa en ese campus, con la que celebrará los primeros 20 años de la institución. Él, se recordó durante su presentación, junto con un puñado de maestros y alumnos comenzó este andar; él es parte de ese grupo de ex alumnos y hermanos maristas que trabajaron para que esta universidad sea lo que hoy es.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a29878a6-c7e1-483a-9940-b802728e1785.jpg"></article>]]></description>
+            <link>https://thegrid.ai/r8am/los-suenos-de-los-otros/index.html</link>
+            <guid isPermaLink="false">fb75541f-75ba-4a26-adfc-748e2d66ea6c</guid>
+            <pubDate>Thu, 01 Sep 2016 14:24:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
