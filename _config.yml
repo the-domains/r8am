@@ -1,48 +1,61 @@
-title: Reporte 8AM
-purpose: []
+typography_spectrum: 0.06595745
+color:
+  saturation: 0
+  brandStrength: 1
+  lightness: 0
+  brandColors:
+    - '#F2F2F2'
+    - '#C7C7C7'
+    - '#383838'
+    - '#777777'
+    - '#DC2829'
+  rhythmicContrast: 0
+github: true
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.3574468
+analytics:
+  twitter: null
+  google: UA-18458867-3
+  facebook: '506767772843593'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b9d3e19-e878-48b2-8559-776d7f0ffa0f.png
+name: R8AM
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: Una historia trágica
+    url: >-
+      https://thegrid.ai/por-entregas/todo-lo-que-se-describe-en-este-relato-sucedio-en-realidad
+    type: external
+  - name: Sígueme en redes sociales
+    url: 'https://twitter.com/PabloCicero'
+    type: external
+  - name: Reporte 6PM
+    url: 'http://thegrid.ai/6pm/'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e16a79c7-19b7-45ff-8bcb-a52cf6156cdf.png
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+title: Reporte 8AM
+content: []
 description: Por Pablo A. Cicero Alonzo
-color:
-  saturation: 0
-  brandStrength: 1
-  rhythmicContrast: 1
-  brandColors:
-    - '#1a1a1a'
-    - '#4a4a4a'
-    - '#bcbcbc'
-    - '#e6e6e6'
-    - '#ffffff'
-  lightness: 0
-navigation:
-  - name: Contacto
-    url: 'http://8am.com.mx/'
-    type: external
-analytics:
-  twitter: null
-  google: null
-  facebook: '506767772843593'
-name: R8AM
-favicon: null
-cta:
-  bucket: null
-  version: null
-  domain: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e07bbdcb-7da6-458c-9167-ff260ff046b6.jpg
-typography_spectrum: 0.2212766
-layout_spectrum: 0.5680851
+purpose:
+  - type: contact
+    url: 'mailto:pcicero@8am.com.mx'
+    label: Escríbeme
