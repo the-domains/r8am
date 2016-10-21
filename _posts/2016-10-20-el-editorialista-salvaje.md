@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-10-20T22:36:14.172Z'
+datePublished: '2016-10-21T00:27:57.862Z'
 sourcePath: _posts/2016-10-20-el-editorialista-salvaje.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-20T22:36:13.523Z'
-title: EL EDITORIALISTA SALVAJE
+dateModified: '2016-10-21T00:27:57.285Z'
+title: EDITORIALISTA SALVAJE
 publisher: {}
 description: >-
   Se había convertido en todo lo que siempre odió. Lo veía y se le revolvía el
@@ -22,7 +22,7 @@ url: el-editorialista-salvaje/index.html
 _type: Article
 
 ---
-# EL EDITORIALISTA SALVAJE
+# EDITORIALISTA SALVAJE
 
 Se había convertido en todo lo que siempre odió. Lo veía y se le revolvía el estómago. Un escritor que pontificaba, que opinaba sobre todo y todos, que esgrimía citas como estiletes; exhibicionista esquizofrénico. Evangelizaba en sus columnas y quería demostrar que él tenía la razón, que su opinión era la única que contaba. Lo veía regodearse de cuántos «likes» había tenido su nota, o cuántas personas la habían compartido; mientras más elogios cosechaba, más se inflaba ese ego que ya parecía inconmensurable. Lo veía y se le revolvía el estómago; le daba asco.
 
