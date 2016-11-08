@@ -1,34 +1,32 @@
-title: Reporte 8AM
-content: []
-github: true
-purpose:
-  - type: contact
-    url: 'mailto:pcicero@8am.com.mx'
-    label: Escríbeme
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-description: Por Pablo A. Cicero Alonzo
+typography_spectrum: 0.06595745
 color:
   saturation: 1
   brandStrength: 1
-  rhythmicContrast: 1
+  lightness: 1
   brandColors:
     - '#2C326C'
     - '#6AEB13'
     - '#41C927'
     - '#33A859'
     - '#3A7B7F'
-  lightness: 0
+  rhythmicContrast: 1
+github: true
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.6234043
+analytics:
+  twitter: null
+  google: UA-18458867-3
+  facebook: '506767772843593'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bff5f7d8-dbba-482c-8677-87503d2dd89d.png
+name: R8AM
+cta:
+  bucket: null
+  version: null
+  domain: null
 navigation:
   - name: Una historia trágica
     url: >-
@@ -40,22 +38,24 @@ navigation:
   - name: Reporte 6PM
     url: 'http://thegrid.ai/6pm/'
     type: external
-cta:
-  bucket: null
-  version: null
-  domain: null
-name: R8AM
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e16a79c7-19b7-45ff-8bcb-a52cf6156cdf.png
-analytics:
-  twitter: null
-  google: UA-18458867-3
-  facebook: '506767772843593'
-opengraph:
-  image: null
-  type: null
-  appId: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b9d3e19-e878-48b2-8559-776d7f0ffa0f.png
-typography_spectrum: 0.06595745
-layout_spectrum: 0.7191489
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc931bc3-77ee-4dce-bde9-990b1bc5d87f.png
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+title: Reporte 8AM
+content: []
+description: Por Pablo A. Cicero Alonzo
+purpose:
+  - type: contact
+    url: 'mailto:pcicero@8am.com.mx'
+    label: Escríbeme
