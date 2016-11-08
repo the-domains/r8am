@@ -21,7 +21,7 @@ description: Por Pablo A. Cicero Alonzo
 color:
   saturation: 1
   brandStrength: 1
-  lightness: 1
+  lightness: 0
   brandColors:
     - '#2C326C'
     - '#6AEB13'
