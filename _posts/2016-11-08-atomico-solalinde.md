@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-08T05:27:27.862Z'
+datePublished: '2016-11-08T17:23:52.657Z'
 sourcePath: _posts/2016-11-08-atomico-solalinde.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-08T05:27:27.281Z'
+dateModified: '2016-11-08T15:27:27.159Z'
 title: Atómico Solalinde
 publisher:
   name: Pablo A. Cicero Alonzo
@@ -17,7 +17,7 @@ description: >-
   alguien tan menudo. Bazukazos. Napalm puro. Kalashnikov. Cojones como ojivas
   nucleares. Chernobil. No tiene miedo. No se muerde la lengua. Su argumentos
   son brutalistas, como mazos; mientras otros realizan disecciones, él desgarra
-  y destripa. Una hacha frente al escalpelo, el bisturí. No deja títere sin
+  y destripa. Una hacha frente al escalpelo, el bisturí. No deja títere con
   cabeza. Dice lo que todos piensan pero nadie se atreve a decir. Pequeñito,
   inmenso. Todo él una contradicción. Solalinde Superstar.
 starred: true
@@ -29,7 +29,7 @@ _type: Article
 
 # Atómico Solalinde
 
-Cada declaración suya deja un cráter de ocho columnas. Sólo en los últimos días, ha lanzado dos bombas, cada una de varios kilotones: Que Duarte, el prófugo veracruzano, está en Chiapas. Que compró innumerables propiedades en el país, Yucatán incluido. Hiroshima y Nagasaki. _Bum_. Artillería pesada, para alguien tan menudo. Bazukazos. Napalm puro. Kalashnikov. _Cojones como ojivas nucleares_. Chernobil. No tiene miedo. No se muerde la lengua. Su argumentos son brutalistas, como mazos; mientras otros realizan disecciones, él desgarra y destripa. Una hacha frente al escalpelo, el bisturí. No deja títere sin cabeza. Dice lo que todos piensan pero nadie se atreve a decir. Pequeñito, inmenso. Todo él una contradicción. _Solalinde Superstar._
+Cada declaración suya deja un cráter de ocho columnas. Sólo en los últimos días, ha lanzado dos bombas, cada una de varios kilotones: Que Duarte, el prófugo veracruzano, está en Chiapas. Que compró innumerables propiedades en el país, Yucatán incluido. Hiroshima y Nagasaki. _Bum_. Artillería pesada, para alguien tan menudo. Bazukazos. Napalm puro. Kalashnikov. _Cojones como ojivas nucleares_. Chernobil. No tiene miedo. No se muerde la lengua. Su argumentos son brutalistas, como mazos; mientras otros realizan disecciones, él desgarra y destripa. Una hacha frente al escalpelo, el bisturí. No deja títere con cabeza. Dice lo que todos piensan pero nadie se atreve a decir. Pequeñito, inmenso. Todo él una contradicción. _Solalinde Superstar._
 
 ---
 
@@ -41,7 +41,7 @@ Un raund de sombra, valiente, escrito y captado por los keniatas de los premios 
 Y Solalinde, tan campante. No cayó en la tentación de responder. _Vade retro_. Al contrario. Hizo más referencias a la necesidad de recurrir a las enseñanzas de Jesús. Y ojo, apuntó, no estoy diciendo que vayan a misa o se confiesen; eso será después. Y a pesar del alto contenido divino de sus palabras, fue el más mundano de todos. Y así se recibió su mensaje. Alrededor de cien jóvenes, de esos que dicen son parte de una generación descreída, escépticos millenials, asintieron ante esa homilía mundana.   
 Atómico Solalinde. Radioactivo activista. Más que de palabras, este sacerdote es un hombre de acción. Lo han amenazado y han cumplido; lo han secuestrado varias veces y han incendiado su propia Jerusalén, con él adentro. La mejor defensa es el ataque, reacciona. Y ha denunciado a narcatraficantes y políticos, que en muchas ocasiones son los mismos. Fue el primero en abrirle los ojos a un país que aún soñaba con encontrar vivos a los cuarenta y tres. Sus fuentes son confiables, y así lo ha demostrado. Por eso sus declaraciones son noticia. Si dice que Duarte está en Chiapas es porque tiene los pelos de la burra en la mano. Si dice que el tiranozuelo compró casas en Yucatán, es que esos pelos son pardos. Por eso el público que lo escucha se estremece cuando este sacerdote asegura que muchas migrantes son raptados por sus órganos. Riñones, hígados, corazones y córneas de misarables para ricos que no preguntan.   
 Ese sacerdote mínimo, hombre inmenso, tiene ante sí no sólo los reflectores de medios ansiosos por que alguien declare lo que sus periodistas no quieren o no pueden investigar. Tiene a los jóvenes que gracias a él han vuelto a creer. Jóvenes que crecieron con historias de religiosos pederastas y obispos simoníacos. Arrebatados, a puñetazos de escándalo, de su fe. Desnudos, a la intemperie del materialismo en donde florece la desidia y da frutos la corrupción.   
-Él, Solalinde, que se balancea peligrosamente en los sentimientos de una sociedad con callos, que en él ha puesto su última dosis de esperanza. ¿Sabrá este sacerdote que un pequeño fallo, que un mínimo error no sólo acabará con su persona sino con el entusiasmo recién hallado de las nuevas generaciones? La radioactividad que genera su activismo es ambivalente; debe manejarse con cuidado. Desencantados por sus líderes, los jóvenes no soportaría un nuevo héroe con pies de barro. Y ahí radica, precisamente, la gran responsabilidad que radica sobre los hombros de Solalinde.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0bac80b2-368d-4f59-88eb-6c77c5a6d217.jpg)
+Él, Solalinde, que se balancea peligrosamente en los sentimientos de una sociedad con callos, que en él ha puesto su última dosis de esperanza. ¿Sabrá este sacerdote que un pequeño fallo, que un mínimo error no sólo acabará con su persona sino con el entusiasmo recién hallado de las nuevas generaciones? La radioactividad que genera su activismo es ambivalente; debe manejarse con cuidado. Desencantados por sus líderes, los jóvenes no soportaría un nuevo héroe con pies de barro. Y ahí radica, precisamente, la gran responsabilidad que cargo sobre sus hombros Solalinde.
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f44157e8e432fe1c9b67e10157d6c49e/croprotate.jpg?cropheight=2847&cropwidth=3800&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F0bac80b2-368d-4f59-88eb-6c77c5a6d217.jpg&x=0&y=0)
 
 > Mañana, a las 5 de la tarde, el padre Solalinde impartirá una conferencia en la Universidad Marista de Mérida.
