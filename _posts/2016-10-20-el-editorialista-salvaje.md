@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-21T00:27:57.862Z'
+datePublished: '2016-11-08T05:28:04.517Z'
 sourcePath: _posts/2016-10-20-el-editorialista-salvaje.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-21T00:27:57.285Z'
+dateModified: '2016-11-08T05:18:58.159Z'
 title: EDITORIALISTA SALVAJE
 publisher: {}
 description: >-
@@ -28,7 +28,7 @@ Se había convertido en todo lo que siempre odió. Lo veía y se le revolvía el
 
 Sigue leyendo haciendo click [aquí][0].
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkdFLwzAQxt_7V4QKroU1UUEYth048EGQPfkmIlly2dK1Scldi0P83023DnzL5X75vrsvlbYjs7pOza4I3lO6rkS8WicVqmB7WmdmcIqsd5leMlxGNmc_CWOjDKyJtWmQ1UzzPdBLCx04ws3pXe63soMM84-7zzLS1rDsP7M5veosSuUsAA3BTcwspAJIgpmLCmVscKtjz-oLxjGoWKZCKO8cKOJGKth5f-QOSAB-vT0L1Efe4M232XVtfX87QsC4RD0-8FU6ycS5eS9D9Nh6Ddw6hEAbMD5ANu-Vl8lvpr0apkmWbHFJZBFPV7-iweizyPOyEnNeSTUlqlqJeA5V-e4cSsq0JFkcApg6PRD1-CQEHWAfrObSirCSnYC2AG3JBytbixFH2Y6yATG_dkPXe6So_Hj9qD_8J5WW" height="244" style=""></iframe>
+---
 
 Fue testigo de cómo empezó a recibir invitaciones a selectos grupos, de la intensidad que fue adquiriendo su vida social. Precisamente él, que disfrutaba de la soledad y de la única compañía de sus seres queridos; ciudadano de su familia. Una especie de estilita ---como san Simeón--- que ahora estaba inmerso en una intensa agenda de actividades que poco tenían qué ver con sus sueños. Lo veía y le daba lástima. De todos, sólo él era capaz de ver el cansancio en su mirada, el opaco brillo que asomaba por sus ojos cuando coincidían. No cruzaban palabra, pero se decían todo.
 
