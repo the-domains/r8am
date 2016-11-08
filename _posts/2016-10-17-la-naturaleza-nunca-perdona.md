@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-20T17:26:43.191Z'
+datePublished: '2016-11-08T05:28:18.610Z'
 sourcePath: _posts/2016-10-17-la-naturaleza-nunca-perdona.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-20T17:26:42.406Z'
+dateModified: '2016-11-08T05:20:08.577Z'
 title: La naturaleza nunca perdona
 publisher:
   name: Pablo A. Cicero Alonzo
@@ -27,6 +27,8 @@ _type: Article
 ![Foto: Gerardo Menoscal. Guayaquil, Ecuador](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2101fa4-7d64-4d58-929d-2c0d96f92cef.png)
 
 Durante años, la economía de Ecuador tuvo como cimientos la agricultura. Adinerados clanes exprimieron las entrañas de ese país, sin importarles las consecuencias; rociaron las tierras de químicos para que estas se olvidaran de sus milenarios ciclos y produjeran más. Esto trajo consecuencias. Yo trabajaba entonces en el periódico «Expreso», en Guayaquil. Era el encargado de la dirección editorial. Cocinamos con un reportero y un fotógrafo un reportaje que mostrara las consecuencias de los excesos maquinados por los señores del dinero.
+
+---
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx9UsGK2zAQvecrhMpubIildntZaitlU1oolD31VkoYS-NEiS0ZSU6aLf33HTsuu70UDJrRPL2Z98aVsSdmjeJNXQTvE19Xkq7WiyrqYPu0zprB6WS9y8yKxRVhc_Z7wdgJAjtQ3hwiU8yIHabPLXboUtxcvsPuETrMYv7j7c-S0LZh2WvM5vLVZESVs4BpCG7EzEQ6ICScccRQUkFYQzVrrjARg6aUS6m9c6iTaEBj7f1ROEwS4_bbg4zmKA7xza-m7lr17vaEIZIIdboT93ykoblFD4F6PHqDwrqIIW2w8QGzWVdeLv5kxuthnGTFlldHlhT97VccIvVZ5nlZydmvRTU6qluIcTI17qlJUQ8peceZgQTFPmCj-D6lPn6QMu1xF6wRYGW4h062UDggT6DFJwrJfSh6DMY7mN-3cPFDUvxKutV-cGkuRfuEiscO2na-6XxtWyxsE2ghiqcwIO0YXk04WVSQF5FgO0cGcJYg0LIU39YtuCNn_458Pp9fLNe-k5PIMB-i3_cfBzWBb94_3Nx9oe9FJSWjTjr-o_QWur6kNSuytw84DcfXn3xHUbKhkjD_p89VHvFN" height="244" style=""></iframe>
 
