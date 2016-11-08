@@ -1,39 +1,28 @@
 ---
-datePublished: '2016-10-20T17:26:26.388Z'
+datePublished: '2016-11-08T05:19:45.425Z'
 sourcePath: _posts/2016-10-17-lecciones-suecas-de-anatomia.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-20T17:26:25.865Z'
+dateModified: '2016-11-08T05:19:40.312Z'
 title: Lecciones —suecas— de anatomía
 publisher:
   name: Pablo A. Cicero Alonzo
-description: >-
-  Nos componemos de células, que se organizan de tal manera que forman tejidos,
-  órganos y sistemas especializados capaces de hacer funcionar el cuerpo y de
-  dotarnos de características biológicas, anatómicas y psicológicas que nos
-  diferencian de otros animales y de las plantas. El cuerpo humano tiene setenta
-  y cinco billones —millones de millones— de células. Tenemos dos brazos, dos
-  piernas, una cabeza y dos manos y dos pies con cinco dedos cada uno; ojos,
-  boca, nariz, orejas, etcétera. Un noventa y nueve por ciento de nuestro cuerpo
-  se compone de oxígeno, carbono, nitrógeno, hidrógeno, fósforo y calcio. En el
-  uno por ciento restante consiste hay sodio, cloro, potasio, azufre y magnesio.
-  En un cuerpo adulto se halla hasta un sesenta y cinco por ciento de oxígeno,
-  un dieciocho por ciento de carbono, un diez por ciento de hidrógeno y un tres
-  por ciento de nitrógeno. En promedio, un adulto sano puede tener entre cinco y
-  cinco y medio litros de sangre, el líquido rojo que circula por venas y
-  arterias.
+description: POR PABLO A. CICERO ALONZO
 starred: true
 url: lecciones-suecas-de-anatomia/index.html
 _type: Article
 
 ---
 # Lecciones ---suecas--- de anatomía
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/151455e9-e489-4a36-9c01-4bb7d5eea050.gif)
+
+POR PABLO A. CICERO ALONZO
 
 Nos componemos de células, que se organizan de tal manera que forman tejidos, órganos y sistemas especializados capaces de hacer funcionar el cuerpo y de dotarnos de características biológicas, anatómicas y psicológicas que nos diferencian de otros animales y de las plantas. El cuerpo humano tiene setenta y cinco billones ---millones de millones--- de células. Tenemos dos brazos, dos piernas, una cabeza y dos manos y dos pies con cinco dedos cada uno; ojos, boca, nariz, orejas, etcétera.   
 Un noventa y nueve por ciento de nuestro cuerpo se compone de oxígeno, carbono, nitrógeno, hidrógeno, fósforo y calcio. En el uno por ciento restante consiste hay sodio, cloro, potasio, azufre y magnesio. En un cuerpo adulto se halla hasta un sesenta y cinco por ciento de oxígeno, un dieciocho por ciento de carbono, un diez por ciento de hidrógeno y un tres por ciento de nitrógeno. En promedio, un adulto sano puede tener entre cinco y cinco y medio litros de sangre, el líquido rojo que circula por venas y arterias.
+
+---
 
 Todos. Sin importar raza, credo, preferencia sexual o nacionalidad. Por dentro, todos somos iguales. Entonces ¿por qué hay tanta diferencia entre nosotros con hombres y mujeres de otros países? Los mexicanos vivimos en un chiquero, en el que la corrupción es el pan nuestro de cada día. Leemos, ya sin asombro, denuncias de desvíos de recursos realizadas por oscuros personajes. Sin embargo, esos hechos se quedan en la anécdota, ya que son contadas las ocasiones en las que se castigan. Por mencionar casos recientes: ahí está Roberto Borge, disfrutando sin resaca los excesos de su administración; ahí también está Javier Duarte, burlándose de las amenazas de su sucesor... «Presentaré pruebas que ‹cimbrarán› al país», alardeó Miguel Ángel Yúnes. Pffffff.  
 La diferencia nosotros y los otros no está en el interior; no hay un gen que nos determine como corruptos. Muy pocos podrían diferenciar entre mi calavera y la de, digamos, Bjorn, de Suecia. Todo radica en las leyes en las que nos desenvolvemos. ¿Qué ocurre cuando un ciudadano sueco quiere acceder a todo el correo electrónico oficial de cualquier funcionario público o a la información que contiene su celular de trabajo, ya sea un diplomático o el primer ministro? No sólo tiene que enseñárselo, sino que está obligado a abandonar cualquier otra tarea para cumplir con las estrictas exigencias de las leyes de transparencia de ese país nórdico.   
