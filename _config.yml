@@ -1,16 +1,16 @@
-layout_spectrum: 0.7902661941291783
-typography_spectrum: 0.6472254576273079
+layout_spectrum: 0.7894839593782874
+typography_spectrum: 0.5823831087349001
 color:
-  saturation: 0.9983588901192577
-  brandStrength: 0.8882738865720163
-  lightness: 0.9912347439285552
+  saturation: 0.08509674578102877
+  brandStrength: 0.8580729089654281
+  lightness: 0.05216161103983696
   brandColors:
     - '#2C326C'
     - '#6AEB13'
     - '#41C927'
     - '#33A859'
     - '#3A7B7F'
-  rhythmicContrast: 0.9921391496624761
+  rhythmicContrast: 0.32566686987923
 github: true
 opengraph:
   image: null
