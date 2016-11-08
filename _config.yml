@@ -1,32 +1,34 @@
-layout_spectrum: 0.9203799584689597
-typography_spectrum: 0.8946002651255873
-color:
-  saturation: 0.3789155083872599
-  brandStrength: 0.24038570571358842
-  lightness: 0.4465008617066179
-  brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  rhythmicContrast: 0.2361176176630145
+title: Reporte 8AM
+content: []
 github: true
-opengraph:
-  image: null
-  type: null
-  appId: null
-analytics:
-  twitter: null
-  google: UA-18458867-3
-  facebook: '506767772843593'
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bff5f7d8-dbba-482c-8677-87503d2dd89d.png
-name: R8AM
-cta:
-  bucket: null
-  version: null
-  domain: null
+purpose:
+  - type: contact
+    url: 'mailto:pcicero@8am.com.mx'
+    label: Escríbeme
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+description: Por Pablo A. Cicero Alonzo
+color:
+  saturation: 0.5711442887301713
+  brandStrength: 0.8502763682612134
+  rhythmicContrast: 0.8717189260798109
+  brandColors:
+    - '#2C326C'
+    - '#6AEB13'
+    - '#41C927'
+    - '#33A859'
+    - '#3A7B7F'
+  lightness: 0.3045999864365279
 navigation:
   - name: Una historia trágica
     url: >-
@@ -38,24 +40,22 @@ navigation:
   - name: Reporte 6PM
     url: 'http://thegrid.ai/6pm/'
     type: external
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: R8AM
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc931bc3-77ee-4dce-bde9-990b1bc5d87f.png
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-title: Reporte 8AM
-content: []
-description: Por Pablo A. Cicero Alonzo
-purpose:
-  - type: contact
-    url: 'mailto:pcicero@8am.com.mx'
-    label: Escríbeme
+analytics:
+  twitter: null
+  google: UA-18458867-3
+  facebook: '506767772843593'
+opengraph:
+  image: null
+  type: null
+  appId: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bff5f7d8-dbba-482c-8677-87503d2dd89d.png
+typography_spectrum: 0.112766
+layout_spectrum: 0.8884549366694755
