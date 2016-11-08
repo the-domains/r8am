@@ -1,15 +1,29 @@
 ---
-datePublished: '2016-11-08T05:19:45.425Z'
+datePublished: '2016-11-08T05:19:47.554Z'
 sourcePath: _posts/2016-10-17-lecciones-suecas-de-anatomia.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-08T05:19:40.312Z'
+dateModified: '2016-11-08T05:19:47.229Z'
 title: Lecciones —suecas— de anatomía
 publisher:
   name: Pablo A. Cicero Alonzo
-description: POR PABLO A. CICERO ALONZO
+description: >-
+  Nos componemos de células, que se organizan de tal manera que forman tejidos,
+  órganos y sistemas especializados capaces de hacer funcionar el cuerpo y de
+  dotarnos de características biológicas, anatómicas y psicológicas que nos
+  diferencian de otros animales y de las plantas. El cuerpo humano tiene setenta
+  y cinco billones —millones de millones— de células. Tenemos dos brazos, dos
+  piernas, una cabeza y dos manos y dos pies con cinco dedos cada uno; ojos,
+  boca, nariz, orejas, etcétera. Un noventa y nueve por ciento de nuestro cuerpo
+  se compone de oxígeno, carbono, nitrógeno, hidrógeno, fósforo y calcio. En el
+  uno por ciento restante consiste hay sodio, cloro, potasio, azufre y magnesio.
+  En un cuerpo adulto se halla hasta un sesenta y cinco por ciento de oxígeno,
+  un dieciocho por ciento de carbono, un diez por ciento de hidrógeno y un tres
+  por ciento de nitrógeno. En promedio, un adulto sano puede tener entre cinco y
+  cinco y medio litros de sangre, el líquido rojo que circula por venas y
+  arterias.
 starred: true
 url: lecciones-suecas-de-anatomia/index.html
 _type: Article
@@ -17,7 +31,7 @@ _type: Article
 ---
 # Lecciones ---suecas--- de anatomía
 
-POR PABLO A. CICERO ALONZO
+### POR PABLO A. CICERO ALONZO
 
 Nos componemos de células, que se organizan de tal manera que forman tejidos, órganos y sistemas especializados capaces de hacer funcionar el cuerpo y de dotarnos de características biológicas, anatómicas y psicológicas que nos diferencian de otros animales y de las plantas. El cuerpo humano tiene setenta y cinco billones ---millones de millones--- de células. Tenemos dos brazos, dos piernas, una cabeza y dos manos y dos pies con cinco dedos cada uno; ojos, boca, nariz, orejas, etcétera.   
 Un noventa y nueve por ciento de nuestro cuerpo se compone de oxígeno, carbono, nitrógeno, hidrógeno, fósforo y calcio. En el uno por ciento restante consiste hay sodio, cloro, potasio, azufre y magnesio. En un cuerpo adulto se halla hasta un sesenta y cinco por ciento de oxígeno, un dieciocho por ciento de carbono, un diez por ciento de hidrógeno y un tres por ciento de nitrógeno. En promedio, un adulto sano puede tener entre cinco y cinco y medio litros de sangre, el líquido rojo que circula por venas y arterias.
