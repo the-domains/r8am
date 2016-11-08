@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-08T05:20:50.985Z'
+datePublished: '2016-11-08T05:20:53.901Z'
 sourcePath: _posts/2016-10-10-personajes-de-haiti.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-08T05:20:36.501Z'
+dateModified: '2016-11-08T05:20:53.081Z'
 title: Personajes de Haití
 publisher:
   name: Pablo A. Cicero Alonzo
@@ -24,8 +24,6 @@ url: personajes-de-haiti/index.html
 _type: Article
 
 ---
-![Daniel Lozano escribe una crónica entre las ruinas que dejó el terremoto en Haití en enero de 2010.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b38fb5a-8456-438e-b6b9-df744d79bb88.jpg)
-
 # Personajes de Haití
 
 Tras el paso del huracán Matthew, el más poderoso en el Atlántico desde 2007, las autoridades de Haití han enterrado a algunas de las mil víctimas mortales en fosas comunes, informa Reuters. Al mismo tiempo, varios brotes de cólera han aparecido en el país caribeño y dificultan la labor de las autoridades, que tratan de conseguir agua, alimentos y medicamentos en buenas condiciones para las miles de personas que viven en centros de acogida. En las redes sociales, nadie ha lanzado hasta ahora un \#YoSoyHaití. Tampoco aparecen fotos de perfiles con los colores de la bandera de esa nación, la primera en lograr su independencia en América.
