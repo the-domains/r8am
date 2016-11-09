@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-25T13:39:42.743Z'
+datePublished: '2016-11-09T21:05:37.776Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-07-25/Reporte-8am'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-07-25T13:39:34.484Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: Marigualandia
 app_links: []
 publisher:
@@ -18,11 +18,9 @@ description: >-
   Fumar en Colorado es difícil; casi imposible. No se puede hacer en espacios
   públicos, como parques, o conduciendo.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-07-25-marigualandia.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
