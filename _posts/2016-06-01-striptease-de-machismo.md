@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-01T14:26:41.107Z'
+datePublished: '2016-11-09T21:05:37.753Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-05-06/Reporte-8-am--por-Pablo-A--Cicero'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-01T05:37:25.941Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: 'Striptease de machismo '
 app_links: []
 publisher:
@@ -12,13 +12,20 @@ publisher:
   name: Lajornadamaya
   favicon: 'https://static.lajornadamaya.mx/v2/favicon.png'
   domain: www.lajornadamaya.mx
-description: 'Pablo A. Cicero AlonzoFoto: Fabrizio León DiezLa Jornada Maya Viernes 6 de mayo, 2016 Tienes toda la razón. Yo no puedo opinar sobre este asunto. Nunca he llegado a mi trabajo después del permiso por dar a luz y que me anuncien mi despido; escuchar una serie de cínicas descalificaciones, mentiras como metralleta, cuando en realidad me echaron por el tiempo que falté para cuidar a mi hijo.'
+description: >-
+  Pablo A. Cicero AlonzoFoto: Fabrizio León DiezLa Jornada Maya Viernes 6 de
+  mayo, 2016 Tienes toda la razón. Yo no puedo opinar sobre este asunto. Nunca
+  he llegado a mi trabajo después del permiso por dar a luz y que me anuncien mi
+  despido; escuchar una serie de cínicas descalificaciones, mentiras como
+  metralleta, cuando en realidad me echaron por el tiempo que falté para cuidar
+  a mi hijo.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-06-01-striptease-de-machismo.md
 inFeed: true
 hasPage: false
-inNav: false
+authors: []
+starred: true
+via: {}
 _context: 'http://schema.org'
 _type: MediaObject
 
