@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-01T14:26:45.620Z'
+datePublished: '2016-11-09T21:05:37.953Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-03-13/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-01T05:21:58.299Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: 'Me gusta la Filey '
 app_links: []
 publisher:
@@ -12,13 +12,15 @@ publisher:
   name: Lajornadamaya
   favicon: 'https://static.lajornadamaya.mx/v2/favicon.png'
   domain: www.lajornadamaya.mx
-description: 'Pablo A. Cicero AlonzoFoto: Rodrigo Díaz GuzmánLa Jornada Maya 13 de marzo, 2016 Caminar por sus pasillos, sin un plan previo; detenerme al azar y hojear el primer libro que me llame la atención.'
+description: >-
+  Pablo A. Cicero AlonzoFoto: Rodrigo Díaz GuzmánLa Jornada Maya 13 de marzo,
+  2016 Caminar por sus pasillos, sin un plan previo; detenerme al azar y hojear
+  el primer libro que me llame la atención.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-06-01-me-gusta-la-filey.md
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
