@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-01T14:26:42.905Z'
+datePublished: '2016-11-09T21:05:37.821Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-04-14/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-01T05:30:22.667Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: 'Yucatán Voyeur '
 app_links: []
 publisher:
@@ -12,13 +12,16 @@ publisher:
   name: Lajornadamaya
   favicon: 'https://static.lajornadamaya.mx/v2/favicon.png'
   domain: www.lajornadamaya.mx
-description: 'Pablo Cicero AlonzoFoto: Fabrizio León DiezLa Jornada Maya Mérida14 de abril, 2016 Sexo. Sexo. Sexo. Ya tengo tu atención. A altas horas de la noche, en la esquina de la calle 67 y 66 del centro de Mérida, dos hombres tienen relaciones sexuales. Con urgencia, a la vista de muchos.'
+description: >-
+  Pablo Cicero AlonzoFoto: Fabrizio León DiezLa Jornada Maya Mérida14 de abril,
+  2016 Sexo. Sexo. Sexo. Ya tengo tu atención. A altas horas de la noche, en la
+  esquina de la calle 67 y 66 del centro de Mérida, dos hombres tienen
+  relaciones sexuales. Con urgencia, a la vista de muchos.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-06-01-yucatan-voyeur.md
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
