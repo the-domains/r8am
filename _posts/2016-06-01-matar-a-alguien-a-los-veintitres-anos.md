@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-01T14:26:43.627Z'
+datePublished: '2016-11-09T21:05:37.830Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-04-04/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-01T05:27:03.464Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: 'Matar a alguien a los veintitrés años '
 app_links: []
 publisher:
@@ -12,13 +12,17 @@ publisher:
   name: Lajornadamaya
   favicon: 'https://static.lajornadamaya.mx/v2/favicon.png'
   domain: www.lajornadamaya.mx
-description: 'Pablo A. Cicero AlonzoFoto: Rodrigo Díaz GuzmánLa Jornada Maya Mérida5 de abril, 2016 José Alfredo se convirtió en estadística. En 2015 se registraron en Yucatán 208 muertes por accidentes, la mayoría ocasionados por la velocidad y el alcohol. Un tercio de los fallecidos fueron motociclistas, que tenían entre 17 y 34 años de edad.'
+description: >-
+  Pablo A. Cicero AlonzoFoto: Rodrigo Díaz GuzmánLa Jornada Maya Mérida5 de
+  abril, 2016 José Alfredo se convirtió en estadística. En 2015 se registraron
+  en Yucatán 208 muertes por accidentes, la mayoría ocasionados por la velocidad
+  y el alcohol. Un tercio de los fallecidos fueron motociclistas, que tenían
+  entre 17 y 34 años de edad.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-06-01-matar-a-alguien-a-los-veintitres-anos.md
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
