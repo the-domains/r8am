@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-10T15:59:23.573Z'
+datePublished: '2016-11-09T21:05:57.094Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-08-08/Reporte-8-am'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-10T15:59:15.413Z'
+dateModified: '2016-11-09T21:05:55.339Z'
 title: Populismo pokemón
 app_links: []
 publisher:
@@ -15,11 +15,9 @@ publisher:
   domain: www.lajornadamaya.mx
 description: ''
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-08-10-populismo-pokemon.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
