@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-01T14:26:43.786Z'
+datePublished: '2016-11-09T21:05:37.830Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-04-06/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-01T05:27:24.869Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: 'Un salto de fe para el Escudo '
 app_links: []
 publisher:
@@ -12,13 +12,19 @@ publisher:
   name: Lajornadamaya
   favicon: 'https://static.lajornadamaya.mx/v2/favicon.png'
   domain: www.lajornadamaya.mx
-description: 'Pablo A. Cicero AlonzoFoto: Óscar RodríguezLa Jornada Maya Mérida6 de marzo, 2016 "Explicar detalles pone en riesgo Escudo Yucatán". Así lo afirmó Roberto Rodríguez Asaf, secretario general de Gobierno, en la reunión que sostuvo con los legisladores locales para cabildear esta iniciativa, que pretende blindar al estado.'
+description: >-
+  Pablo A. Cicero AlonzoFoto: Óscar RodríguezLa Jornada Maya Mérida6 de marzo,
+  2016 "Explicar detalles pone en riesgo Escudo Yucatán". Así lo afirmó Roberto
+  Rodríguez Asaf, secretario general de Gobierno, en la reunión que sostuvo con
+  los legisladores locales para cabildear esta iniciativa, que pretende blindar
+  al estado.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-06-01-un-salto-de-fe-para-el-escudo.md
 inFeed: true
 hasPage: false
-inNav: false
+authors: []
+starred: true
+via: {}
 _context: 'http://schema.org'
 _type: MediaObject
 
