@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-02T13:10:37.558Z'
+datePublished: '2016-11-09T21:05:57.100Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-08-02/Reporte-8-am'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-02T13:10:37.056Z'
+dateModified: '2016-11-09T21:05:55.339Z'
 title: Ochoa Reza y los 5 mil 45 ladrones
 app_links: []
 publisher:
@@ -21,8 +21,6 @@ inLanguage: es
 sourcePath: _posts/2016-08-02-ochoa-reza-y-los-5-mil-45-ladrones.md
 starred: true
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
