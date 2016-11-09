@@ -1,12 +1,11 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
 inLanguage: null
 keywords: []
 description: 'Sigue leyendo: https://www.lajornadamaya.mx/2016-08-23/Reporte-8AM'
-datePublished: '2016-08-23T16:44:01.217Z'
-dateModified: '2016-08-23T16:21:06.401Z'
+datePublished: '2016-11-09T21:05:57.100Z'
+dateModified: '2016-11-09T21:05:55.339Z'
 title: Al «Rincón del vago» le gusta esto
 author: []
 via: {}
@@ -31,8 +30,9 @@ Federico García Lorca pecó igual y se apropió de la estructura de un poema de
 Y estos piratas, tan campantes, como Johnny Walker. Cínicos de nuestros tiempos, señalan que «el plagio es una forma de halago». Así lo declaró el escritor peruano Alfredo Bryce Echenique, cuando se destapó su cleptomanía literaria: se comprobó que dieciséis artículos publicados con su firma no eran suyos, sino que se los había robado a otros quince autores. Lector voraz, eso sí. No así como Peña Nieto, quien ya exhibió sus pequeñeces al respecto.  
 El equipo de investigación de Carmen Aristegui hizo bien su trabajo. Escarbó en los polvorientos expedientes académicos del presidente para dar con lo que el domingo reportó: que casi el treinta por ciento de la tesis del mandatario fue fusilada de otros autores. Sin embargo, ensimismados en su castillo de pureza, ni la comunicadora ni sus colaboradores se imaginaron las reacciones que generó el reportaje.  
 Gran parte de la sociedad le quita mérito periodístico al tema, porque simple y sencillamente no lo ve mal. Plagiar es como la mordida, como el moche; es como ver películas pirata o «bajar» archivos mp3 de la red sin pagar, pasarse un alto, comprar cerveza en un clandestino. Muchos lo hacen y no sienten remordimientos por ello. Aun así, está mal. Es condenable y debe indignar. Pero la ambigüedad ética que nos recubre, la ambivalencia de nuestros valores lo convierte en algo normal, «Capta: es México, güey».  
-Corruptor y corrompido; un ambiente cínico en el que no florece la ética. Una atmósfera viciada que asfixia los valores y la congruencia. Los grandes beneficiarios de que vivamos en esta cloaca, los que sonríen ante nuestro desencanto, son los políticos a los que ahora se denuncia, que al final igual nos han negado la trinchera de nuestra indignación. Estamos amarrados a muertos que se pudren... y nos pudren. Poco a poco. Como esos que habitan en los malos sueños del señor Lobo Antunes.   
-\*\*\*
+Corruptor y corrompido; un ambiente cínico en el que no florece la ética. Una atmósfera viciada que asfixia los valores y la congruencia. Los grandes beneficiarios de que vivamos en esta cloaca, los que sonríen ante nuestro desencanto, son los políticos a los que ahora se denuncia, que al final igual nos han negado la trinchera de nuestra indignación. Estamos amarrados a muertos que se pudren... y nos pudren. Poco a poco. Como esos que habitan en los malos sueños del señor Lobo Antunes. 
+
+# \*\*\*
 
 La semana pasada, en la edición nacional de _La Jornada_, se publicó el caso de la ministra sueca Aida Hadzialic, de 29 años, quien dimitió tras dar positivo de alcohol al volante de su automóvil. Aida, responsable de la enseñanza secundaria y de la formación de adultos, se había tomado dos copas de vino. Dos. Cada pueblo tiene el gobierno que se merece. Cada país, a los periodistas que necesita.  
 En efecto: Carmen Aristegui, más que una comunicadora es una caudilla. En el ejercicio de su profesión se palpa activismo, lo que le resta imparcialidad. Sin embargo, es válido tomar partido; no existe el periodismo «objetivo», ya que quienes investigan y escriben y firman son personas, con filias y fobias. En lo particular, prefiero a un periodista comprometido que a uno vendido.
