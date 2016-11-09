@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-19T14:13:16.919Z'
+datePublished: '2016-11-09T21:05:57.096Z'
 sourcePath: _posts/2016-08-19-historias-que-nadie-te-cuenta.md
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-08-19/Reporte-8-AM'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-19T14:13:15.606Z'
+dateModified: '2016-11-09T21:05:55.339Z'
 title: Historias que nadie te cuenta
 app_links: []
 publisher:
@@ -22,8 +22,6 @@ description: >-
 inLanguage: es
 starred: true
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
