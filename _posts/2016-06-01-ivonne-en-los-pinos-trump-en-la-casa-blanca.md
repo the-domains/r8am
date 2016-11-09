@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-01T14:26:45.482Z'
+datePublished: '2016-11-09T21:05:37.769Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-03-11/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-01T05:21:40.125Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: 'Ivonne, en los Pinos; Trump, en la Casa Blanca '
 app_links: []
 publisher:
@@ -12,13 +12,17 @@ publisher:
   name: Lajornadamaya
   favicon: 'https://static.lajornadamaya.mx/v2/favicon.png'
   domain: www.lajornadamaya.mx
-description: 'Pablo A. Cicero AlonzoFoto: Rodrigo Díaz GuzmánLa Jornada Maya 11 de marzo, 2016 Por un estrecho margen, Donald Trump ganó las elecciones presidenciales de Estados Unidos de 2016. Aunque los focos rojos se prendieron en la contienda interna del Partido Republicano, pocos vaticinaron los resultados de ese fatídico 8 de noviembre.'
+description: >-
+  Pablo A. Cicero AlonzoFoto: Rodrigo Díaz GuzmánLa Jornada Maya 11 de marzo,
+  2016 Por un estrecho margen, Donald Trump ganó las elecciones presidenciales
+  de Estados Unidos de 2016. Aunque los focos rojos se prendieron en la
+  contienda interna del Partido Republicano, pocos vaticinaron los resultados de
+  ese fatídico 8 de noviembre.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-06-01-ivonne-en-los-pinos-trump-en-la-casa-blanca.md
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
