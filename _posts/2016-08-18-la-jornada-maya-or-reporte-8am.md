@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-18T14:56:05.186Z'
+datePublished: '2016-11-09T21:05:57.075Z'
 sourcePath: _posts/2016-08-18-la-jornada-maya-or-reporte-8am.md
 inFeed: true
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-08-18/Reporte-8AM'
@@ -11,7 +11,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-18T14:56:04.469Z'
+dateModified: '2016-11-09T21:05:55.339Z'
 title: LOS MUERTOS VIVIENTES
 app_links: []
 publisher:
@@ -25,7 +25,6 @@ description: >-
   que ya tienen listo el obituario para publicarlo. El PRI, aseguran, está
   condenado a muerte; vive sus últimas horas.
 inLanguage: es
-inNav: false
 starred: true
 _context: 'http://schema.org'
 _type: MediaObject
