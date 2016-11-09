@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-01T14:26:40.242Z'
+datePublished: '2016-11-09T21:05:37.813Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-05-24/Reporte-8AM'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-01T05:40:27.743Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: 'Parvadas en los asientos de los camiones '
 app_links: []
 publisher:
@@ -12,13 +12,17 @@ publisher:
   name: Lajornadamaya
   favicon: 'https://static.lajornadamaya.mx/v2/favicon.png'
   domain: www.lajornadamaya.mx
-description: 'Pablo A. Cicero AlonzoFoto: Rodrigo Díaz GuzmánLa Jornada Maya Martes 24 de mayo, 2016 Todo comenzó con un "Rodrigo estuvo aquí". Después, aparecieron un "Alex ama a Berta" y "¿Te sientes sola? Háblale a Pedro: (número ficticio)". Luego, alguien pintó un gallito inglés y otro más rubricó el lienzo con otro clásico de la picardía mexicana.'
+description: >-
+  Pablo A. Cicero AlonzoFoto: Rodrigo Díaz GuzmánLa Jornada Maya Martes 24 de
+  mayo, 2016 Todo comenzó con un "Rodrigo estuvo aquí". Después, aparecieron un
+  "Alex ama a Berta" y "¿Te sientes sola? Háblale a Pedro: (número ficticio)".
+  Luego, alguien pintó un gallito inglés y otro más rubricó el lienzo con otro
+  clásico de la picardía mexicana.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-06-01-parvadas-en-los-asientos-de-los-camiones.md
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
