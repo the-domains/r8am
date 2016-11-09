@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-01T14:26:44.946Z'
+datePublished: '2016-11-09T21:05:37.954Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-03-22/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-01T05:24:11.077Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: 'El fuero sirve para dos cosas '
 app_links: []
 publisher:
@@ -12,13 +12,16 @@ publisher:
   name: Lajornadamaya
   favicon: 'https://static.lajornadamaya.mx/v2/favicon.png'
   domain: www.lajornadamaya.mx
-description: 'Pablo A. Cicero AlonzoLa Jornada Maya 22 de marzo, 2016 En las pasadas elecciones fue detenido, en Chichimilá, un operador del PAN. Las autoridades policiales señalaban que estaba ofreciendo alcohol en ese día seco. El panista fue trasladado al Palacio Municipal, donde fue encerrado en un calabozo.'
+description: >-
+  Pablo A. Cicero AlonzoLa Jornada Maya 22 de marzo, 2016 En las pasadas
+  elecciones fue detenido, en Chichimilá, un operador del PAN. Las autoridades
+  policiales señalaban que estaba ofreciendo alcohol en ese día seco. El panista
+  fue trasladado al Palacio Municipal, donde fue encerrado en un calabozo.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-06-01-el-fuero-sirve-para-dos-cosas.md
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
