@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-01T14:26:43.475Z'
+datePublished: '2016-11-09T21:05:37.830Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-04-09/Endurance'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-01T05:29:00.270Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: Endurance
 app_links: []
 publisher:
@@ -12,13 +12,18 @@ publisher:
   name: Lajornadamaya
   favicon: 'https://static.lajornadamaya.mx/v2/favicon.png'
   domain: www.lajornadamaya.mx
-description: 'Pablo Cicero Foto: Fabrizio León Diez. Imagen tomada de: http://frankmagwegwe.com/harvard-amp-triumph-against-odds-ernest-shackleton-and-the-endurance/La Jornada Maya 9 de abril, 2016 "Se buscan hombres para peligroso viaje. Salario reducido. Frío penetrante. Largos meses de completa oscuridad. Constante peligro. Dudoso regreso sano y salvo. Honor y reconocimiento en caso de éxito".'
+description: >-
+  Pablo Cicero Foto: Fabrizio León Diez. Imagen tomada de:
+  http://frankmagwegwe.com/harvard-amp-triumph-against-odds-ernest-shackleton-and-the-endurance/La
+  Jornada Maya 9 de abril, 2016 "Se buscan hombres para peligroso viaje. Salario
+  reducido. Frío penetrante. Largos meses de completa oscuridad. Constante
+  peligro. Dudoso regreso sano y salvo. Honor y reconocimiento en caso de
+  éxito".
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-06-01-endurance.md
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
