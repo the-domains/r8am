@@ -1,4 +1,8 @@
 ---
+inFeed: true
+hasPage: true
+inLanguage: null
+keywords: []
 description: >-
   En el cielo, estallaban flores de fuego. Una tras otra. Rojas. Azules.
   Amarillas. Luces bailando entre las nubes de un cielo oscuro, despejado.
@@ -12,19 +16,22 @@ description: >-
   padres, que un caimán se acerca… En la oscura, negra noche, nadie ve el ataque
   del gigantesco reptil, que como relámpago abre sus fauces y se lleva a su
   pequeña presa.
-dateModified: '2016-06-17T11:32:38.303Z'
-datePublished: '2016-06-17T11:32:38.760Z'
-title: El lagarto albino de mis pesadillas
-author: []
+datePublished: '2016-11-09T21:05:37.812Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 sourcePath: _posts/2016-06-17-el-lagarto-albino-de-mis-pesadillas.md
-starred: true
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+author:
+  - name: ''
+    url: ''
+title: El lagarto albino de mis pesadillas
+authors: []
+publisher: {}
+starred: false
+via: {}
+url: el-lagarto-albino-de-mis-pesadillas/index.html
+_type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f2d8732-e9b6-41b8-9223-c7a7ebd5634d.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d9f8565d2b287038df01eae9a44cf300/croprotate.jpg?cropheight=289&cropwidth=1232&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F6f2d8732-e9b6-41b8-9223-c7a7ebd5634d.jpg&x=0&y=0)
 
 # El lagarto albino de mis pesadillas
 
