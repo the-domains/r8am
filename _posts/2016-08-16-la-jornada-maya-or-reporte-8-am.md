@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-17T15:53:00.777Z'
+datePublished: '2016-11-09T21:05:57.091Z'
 sourcePath: _posts/2016-08-16-la-jornada-maya-or-reporte-8-am.md
 inFeed: true
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-08-16/Reporte-8-AM'
@@ -9,7 +9,7 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-17T15:53:00.171Z'
+dateModified: '2016-11-09T21:05:55.339Z'
 title: Chamulitas
 app_links: []
 publisher:
@@ -23,7 +23,6 @@ description: >-
   simultáneos, casi imperceptibles, los aguarunas se arriman unos a otros,
   pronto forman un solo cuerpo terroso y compacto.
 inLanguage: es
-inNav: false
 starred: true
 _context: 'http://schema.org'
 _type: MediaObject
