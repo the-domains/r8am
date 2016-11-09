@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-27T17:59:31.599Z'
+datePublished: '2016-11-09T21:05:37.814Z'
 sourcePath: _posts/2016-06-01-cuentame-una-de-romanos.md
 inFeed: true
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-05-10/Reporte-8-am--por-Pablo-A--Cicero'
@@ -8,14 +8,14 @@ hasPage: false
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-27T17:59:30.595Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: 'Cuéntame una de romanos '
 app_links: []
 publisher:
-  name: Lajornadamaya
-  domain: www.lajornadamaya.mx
   url: 'https://www.lajornadamaya.mx'
+  name: Lajornadamaya
   favicon: 'https://static.lajornadamaya.mx/v2/favicon.png'
+  domain: www.lajornadamaya.mx
 description: >-
   Pablo A. Cicero AlonzoFoto: Ilustración Ediciones Albert RenéLa Jornada Maya
   Martes 10 de mayo, 2016 Con la visita del secretario de Gobernación federal,
@@ -23,8 +23,8 @@ description: >-
   el marco de una de las semanas más violentas que se han registrado en los
   últimos años.
 inLanguage: es
-inNav: false
 starred: true
+via: {}
 _context: 'http://schema.org'
 _type: MediaObject
 
