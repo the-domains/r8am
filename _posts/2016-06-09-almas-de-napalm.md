@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-09T12:57:17.667Z'
+datePublished: '2016-11-09T21:05:37.810Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-06-09/Reporte-8am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-09T12:57:08.768Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: 'Almas de napalm '
 app_links: []
 publisher:
@@ -19,11 +19,12 @@ description: >-
   mecánico, aceitado por silenciosos y eficaces técnicos que hojean, de vez en
   vez, esos lánguidos frutos de su vientre.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-06-09-almas-de-napalm.md
 inFeed: true
 hasPage: false
-inNav: false
+authors: []
+starred: true
+via: {}
 _context: 'http://schema.org'
 _type: MediaObject
 
