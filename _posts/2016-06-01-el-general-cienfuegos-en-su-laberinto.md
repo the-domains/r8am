@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-01T14:26:42.078Z'
+datePublished: '2016-11-09T21:05:37.752Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-04-21/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-01T05:34:17.711Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: 'El general (Cienfuegos) en su laberinto '
 app_links: []
 publisher:
@@ -12,13 +12,17 @@ publisher:
   name: Lajornadamaya
   favicon: 'https://static.lajornadamaya.mx/v2/favicon.png'
   domain: www.lajornadamaya.mx
-description: 'Pablo A. Cicero AlonzoFoto:tomada de la webLa Jornada Maya Jueves 21 de abril, 2016 Hace unos años, los niveles de aceptación de los mexicanos a sus fuerzas armadas eran altísimos. Los soldados y los marinos eran recordados principalmente por el apoyo que brindaban a la sociedad civil en caso de catástrofes.'
+description: >-
+  Pablo A. Cicero AlonzoFoto:tomada de la webLa Jornada Maya Jueves 21 de abril,
+  2016 Hace unos años, los niveles de aceptación de los mexicanos a sus fuerzas
+  armadas eran altísimos. Los soldados y los marinos eran recordados
+  principalmente por el apoyo que brindaban a la sociedad civil en caso de
+  catástrofes.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-06-01-el-general-cienfuegos-en-su-laberinto.md
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
