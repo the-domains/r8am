@@ -1,17 +1,23 @@
 ---
-description: ' Ayer, a la una de la tarde, estaba programada la promulgación del Sistema Nacional Anticorrupción en Palacio Nacional. Estaba, reitero, porque se canceló de última hora. No vengan. No habrá nada. En la víspera, el presidente Enrique Peña Nieto se reunió con los capitanes de empresa, a quienes incluso dio a entender que había la posibilidad de vetar las leyes que conforman ese sistema.'
-dateModified: '2016-06-23T11:49:43.247Z'
-datePublished: '2016-06-23T11:49:44.678Z'
+description: >-
+  Ayer, a la una de la tarde, estaba programada la promulgación del Sistema
+  Nacional Anticorrupción en Palacio Nacional. Estaba, reitero, porque se
+  canceló de última hora. No vengan. No habrá nada. En la víspera, el presidente
+  Enrique Peña Nieto se reunió con los capitanes de empresa, a quienes incluso
+  dio a entender que había la posibilidad de vetar las leyes que conforman ese
+  sistema.
+dateModified: '2016-11-09T21:05:34.894Z'
+datePublished: '2016-11-09T21:05:37.804Z'
 title: La promulgación que no fue
 author: []
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/941d800c-d5c9-438f-a492-6bd19208848d.png
-starred: true
 sourcePath: _posts/2016-06-23-la-promulgacion-que-no-fue.md
+starred: true
+publisher: {}
+via: {}
+hasPage: true
 inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: la-promulgacion-que-no-fue/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/941d800c-d5c9-438f-a492-6bd19208848d.png)
