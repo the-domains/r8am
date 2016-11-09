@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-01T14:26:45.459Z'
+datePublished: '2016-11-09T21:05:37.955Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-03-14/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-01T05:22:16.960Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: 'Para que no se te suba a la cabeza '
 app_links: []
 publisher:
@@ -12,13 +12,17 @@ publisher:
   name: Lajornadamaya
   favicon: 'https://static.lajornadamaya.mx/v2/favicon.png'
   domain: www.lajornadamaya.mx
-description: 'Pablo A. Cicero AlonzoFoto:Tomada de la webLa Jornada Maya 14 de marzo, 2016 En mayo del año pasado, en el marco del Foro Económico Mundial, el presidente Enrique Peña Nieto sostuvo que la corrupción "es un asunto de orden cultural", poniendo un endeble dique a la ola de críticas que comenzaban a levantarse, amenazantes, sobre él y sus colaboradores.'
+description: >-
+  Pablo A. Cicero AlonzoFoto:Tomada de la webLa Jornada Maya 14 de marzo, 2016
+  En mayo del año pasado, en el marco del Foro Económico Mundial, el presidente
+  Enrique Peña Nieto sostuvo que la corrupción "es un asunto de orden cultural",
+  poniendo un endeble dique a la ola de críticas que comenzaban a levantarse,
+  amenazantes, sobre él y sus colaboradores.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-06-01-para-que-no-se-te-suba-a-la-cabeza.md
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
