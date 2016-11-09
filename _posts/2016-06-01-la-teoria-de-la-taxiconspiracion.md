@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-01T14:26:44.247Z'
+datePublished: '2016-11-09T21:05:37.946Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-03-29/Reporte-8am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-01T05:25:04.408Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: 'La teoría de la taxiconspiración '
 app_links: []
 publisher:
@@ -12,13 +12,16 @@ publisher:
   name: Lajornadamaya
   favicon: 'https://static.lajornadamaya.mx/v2/favicon.png'
   domain: www.lajornadamaya.mx
-description: 'Texto y foto: Pablo A. Cicero AlonzoLa Jornada Maya 29 de marzo, 2016 Bulo, hoax, runrún, borregazo... Hay un sinfín de términos para definir un rumor, un evento no confirmado. Muchos se van con la finta, y creen, a diferencia de santo Tomás, sin haber visto.'
+description: >-
+  Texto y foto: Pablo A. Cicero AlonzoLa Jornada Maya 29 de marzo, 2016 Bulo,
+  hoax, runrún, borregazo... Hay un sinfín de términos para definir un rumor, un
+  evento no confirmado. Muchos se van con la finta, y creen, a diferencia de
+  santo Tomás, sin haber visto.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-06-01-la-teoria-de-la-taxiconspiracion.md
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
