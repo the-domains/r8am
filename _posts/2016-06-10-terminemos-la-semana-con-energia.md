@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-10T11:45:14.467Z'
+datePublished: '2016-11-09T21:05:37.812Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-06-10/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-10T11:44:50.374Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: 'Terminemos la semana con energía '
 app_links: []
 publisher:
@@ -18,11 +18,10 @@ description: >-
   gasolinera, ante la estupefacta mirada de su sobrino, que no llegaba a los
   cuatro años. "¿Qué es pemex, tía?", preguntó el niño.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-06-10-terminemos-la-semana-con-energia.md
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
