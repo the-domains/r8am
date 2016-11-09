@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-07-12T14:31:39.327Z'
+datePublished: '2016-11-09T21:05:37.783Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-07-11/Reporte-8-AM'
 keywords: []
 related: []
 author: []
-dateModified: '2016-07-12T14:31:38.860Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: ' Waterboarding en Tekax'
 app_links: []
 publisher:
@@ -20,9 +20,8 @@ description: >-
 inLanguage: es
 sourcePath: _posts/2016-07-11-waterboarding-en-tekax.md
 starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
