@@ -1,10 +1,45 @@
-title: Reporte 8AM
-content: []
+typography_spectrum: 0.09574468
+color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 0
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#A9A9A9'
+    - '#7C7C7C'
+    - '#525252'
+  rhythmicContrast: 1
 github: true
-purpose:
-  - type: contact
-    url: 'mailto:pcicero@8am.com.mx'
-    label: Escríbeme
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.6042553
+analytics:
+  twitter: null
+  google: UA-18458867-3
+  facebook: '506767772843593'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c481c112-a804-46b7-92a8-67878132ce2d.png
+name: R8AM
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: Una historia trágica
+    url: >-
+      https://thegrid.ai/por-entregas/todo-lo-que-se-describe-en-este-relato-sucedio-en-realidad
+    type: external
+  - name: Sígueme en redes sociales
+    url: 'https://twitter.com/PabloCicero'
+    type: external
+  - name: Reporte 6PM
+    url: 'http://thegrid.ai/6pm/'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b80ee182-7ec7-4cb7-9315-c864be2fd5e7.png
 collections:
   - index:
       path: /
@@ -17,45 +52,10 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: Reporte 8AM
+content: []
 description: Por Pablo A. Cicero Alonzo
-color:
-  saturation: 1
-  brandStrength: 1
-  lightness: 0
-  brandColors:
-    - '#FFFFFF'
-    - '#000000'
-    - '#A9A9A9'
-    - '#7C7C7C'
-    - '#525252'
-  rhythmicContrast: 1
-navigation:
-  - name: Una historia trágica
-    url: >-
-      https://thegrid.ai/por-entregas/todo-lo-que-se-describe-en-este-relato-sucedio-en-realidad
-    type: external
-  - name: Sígueme en redes sociales
-    url: 'https://twitter.com/PabloCicero'
-    type: external
-  - name: Reporte 6PM
-    url: 'http://thegrid.ai/6pm/'
-    type: external
-analytics:
-  twitter: null
-  google: UA-18458867-3
-  facebook: '506767772843593'
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc931bc3-77ee-4dce-bde9-990b1bc5d87f.png
-name: R8AM
-opengraph:
-  image: null
-  type: null
-  appId: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bff5f7d8-dbba-482c-8677-87503d2dd89d.png
-typography_spectrum: 0.09574468
-layout_spectrum: 0.6042553
+purpose:
+  - type: contact
+    url: 'mailto:pcicero@8am.com.mx'
+    label: Escríbeme
