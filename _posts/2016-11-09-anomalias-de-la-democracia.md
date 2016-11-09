@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-11-09T13:59:54.764Z'
+datePublished: '2016-11-09T14:10:26.371Z'
+sourcePath: _posts/2016-11-09-anomalias-de-la-democracia.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-09T13:59:51.493Z'
+dateModified: '2016-11-09T14:10:25.894Z'
 title: ANOMALÍAS DE LA DEMOCRACIA
 publisher:
   name: PABLO A. CICERO ALONZO
@@ -16,7 +17,6 @@ description: >-
   Riccardo Ehrman, y entonces era corresponsal de la agencia italiana Ansa en
   Berlín.
 starred: true
-sourcePath: _posts/2016-11-09-anomalias-de-la-democracia.md
 url: anomalias-de-la-democracia/index.html
 _type: Article
 
@@ -26,6 +26,8 @@ _type: Article
 # **ANOMALÍAS DE LA DEMOCRACIA**
 
 Vientos de cambio. El 9 de noviembre de 1989, en la mañana, un grupo de periodistas acudió a una rueda de prensa en la que se darían detalles sobre una nueva ley de viaje en la Alemania comunista (RDA). En primera fila se encontraba un reportero menudo, hecho de pura fibra y nervio. Se llama Riccardo Ehrman, y entonces era corresponsal de la agencia italiana Ansa en Berlín.
+
+---
 
 El funcionario que presidía la rueda era Günter Schabowski, integrante del Politburó de la RDA, quien anunció que se autorizarían viajes privados fuera del país sin condiciones previas. Ehrman repreguntó cuándo entraría en vigor el cambio y Schabowski, contrariado, rebuscó en sus papeles sin encontrar la fecha correcta e improvisó: «De inmediato».
 
