@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-15T14:57:51.421Z'
+datePublished: '2016-11-09T21:05:57.062Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-08-15/Reporte-8-AM'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-15T14:57:45.724Z'
+dateModified: '2016-11-09T21:05:55.339Z'
 title: 'La burundanga ¿leyenda urbana? '
 app_links: []
 publisher:
@@ -19,11 +19,9 @@ description: >-
   comadre de mi suegra. Lo leí en un portal de noticias. Me llegó por mensaje.
   Lo escuché en una reunión de compañeros de trabajo.
 inLanguage: es
-starred: true
 sourcePath: _posts/2016-08-15-la-burundanga-leyenda-urbana.md
+starred: true
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
