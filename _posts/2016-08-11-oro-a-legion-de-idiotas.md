@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-11T14:30:55.205Z'
+datePublished: '2016-11-09T21:05:57.099Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-08-11/Reporte-8-am'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-11T14:30:49.493Z'
+dateModified: '2016-11-09T21:05:55.339Z'
 title: Oro a legión de idiotas
 app_links: []
 publisher:
@@ -20,11 +20,9 @@ description: >-
   olímpica. Este etíope participó en Río por una invitación y marcó el peor
   tiempo de los 100 metros libre.
 inLanguage: es
-starred: true
 sourcePath: _posts/2016-08-11-oro-a-legion-de-idiotas.md
+starred: true
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
