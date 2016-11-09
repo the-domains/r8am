@@ -1,7 +1,6 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
 inLanguage: null
 keywords: []
 description: >-
@@ -68,14 +67,15 @@ description: >-
   impulsos básicos, como la rabia, esa que se exudó con la muerte del torero.
   Hay quienes sólo buscan etiquetar su odio y su resentimiento. Ellos, que quede
   claro, no defienden a los toros. pcicero@8am.com.mx
-datePublished: '2016-07-12T14:31:55.383Z'
-dateModified: '2016-07-12T14:31:54.881Z'
+datePublished: '2016-11-09T21:05:37.791Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-12-no-llevare-luto-por-el.md
 authors: []
-publisher: null
+publisher: {}
 starred: true
+via: {}
 url: no-llevare-luto-por-el/index.html
 _type: Article
 
