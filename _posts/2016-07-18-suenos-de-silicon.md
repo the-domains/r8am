@@ -1,22 +1,19 @@
 ---
-description: >-
-  Que no es lo mismo que los lúbricos sueños de silicona. Una generación de
-  emprendedores yucatecos está ahora cosechando frutos de esfuerzos de varios
-  años. Rondan los cuarenta, y muchos de los objetivos que se trazaron al salir
-  de la universidad se han cumplido, uno a uno. Incluso, han superado sus
-  propias expectativas. Unos se lo creen. Otros no. En Yucatán se está viviendo
-  el inicio de una era de oro, principalmente en los asuntos relacionados con
-  las tecnologías de la información. 
-dateModified: '2016-07-18T12:58:21.845Z'
-datePublished: '2016-07-18T12:58:33.236Z'
+description: ''
+dateModified: '2016-11-09T21:05:34.894Z'
+datePublished: '2016-11-09T21:05:37.769Z'
 title: Sueños de silicón
 author: []
-starred: false
 sourcePath: _posts/2016-07-18-suenos-de-silicon.md
 inFeed: true
 hasPage: false
-inNav: false
-_type: MediaObject
+inLanguage: null
+keywords: []
+authors: []
+publisher: {}
+starred: true
+via: {}
+_type: Blurb
 
 ---
 # Sueños de silicón
