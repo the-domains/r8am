@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-01T14:26:44.811Z'
+datePublished: '2016-11-09T21:05:37.943Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-03-28/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-01T05:24:45.850Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: 'Tres meses de vacaciones en el correccional '
 app_links: []
 publisher:
@@ -12,13 +12,17 @@ publisher:
   name: Lajornadamaya
   favicon: 'https://static.lajornadamaya.mx/v2/favicon.png'
   domain: www.lajornadamaya.mx
-description: 'Pablo A. Cicero AlonzoFoto: Raúl AnguloLa Jornada Maya 28 de marzo, 2016 Tienen edad para secuestrar pero aún no pueden votar. Se les acusa de matar y violar, y la ley les prohíbe comprar cervezas o cigarros. Estos son dos casos de los que todo México habla en estos momentos, y que están generando muchas interrogantes sobre nuestro presente y futuro.'
+description: >-
+  Pablo A. Cicero AlonzoFoto: Raúl AnguloLa Jornada Maya 28 de marzo, 2016
+  Tienen edad para secuestrar pero aún no pueden votar. Se les acusa de matar y
+  violar, y la ley les prohíbe comprar cervezas o cigarros. Estos son dos casos
+  de los que todo México habla en estos momentos, y que están generando muchas
+  interrogantes sobre nuestro presente y futuro.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-06-01-tres-meses-de-vacaciones-en-el-correccional.md
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
