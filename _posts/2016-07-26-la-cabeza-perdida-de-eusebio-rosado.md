@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-27T16:32:41.653Z'
+datePublished: '2016-11-09T21:05:37.793Z'
 sourcePath: _posts/2016-07-26-la-cabeza-perdida-de-eusebio-rosado.md
 inFeed: true
 isBasedOnUrl: >-
@@ -9,7 +9,7 @@ hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-27T16:32:41.005Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: La cabeza perdida de Eusebio Rosado
 publisher:
   name: Anagrama
@@ -20,37 +20,37 @@ description: >-
   corresponsal de un diario. Ahí se encuentra con Fernando de Mello Sequeira,
   abogado que se hará cargo del caso. En mancuerna con las notas de Firminio, y
   con la ayuda que ofrece a la gente más baja de los barrios de Oporto, Fernando
-  logra resolver el misterio.  Ese, en un párrafo, es la trama de la novela «La
+  logra resolver el misterio. Ese, en un párrafo, es la trama de la novela «La
   cabeza perdida de Damasceno Monteiro», escrita por Antonio Tabucchi. Y, como
   siempre, la realidad siempre supera la ficción. El domingo, por la tarde, una
   pareja de motociclistas, que se detuvo para hacer sus necesidades fisiológicas
   —a mear, como el rey gitano de Tabucchi— , se llevaron un fuerte susto al
   encontrar siete calaveras. Estas se encontraban en un tenebroso montículo en
-  la maleza en la lateral exterior del kilómetro 36.5 del anillo periférico.  El
+  la maleza en la lateral exterior del kilómetro 36.5 del anillo periférico. El
   28 de agosto de 2008, a alba un campesino halló los cadáveres decapitados de
   11 hombres en Chichí Suárez. Los cuerpos estaban apilados, 10 de ellos
   totalmente desnudos y sólo uno con ropa. Horas después, otro cadáver, igual
   sin cabeza, fue encontrado en el municipio de Buctzotz. Esta docena trágica
   conmocionó al Estado, hasta entonces inmune al virus de violencia que había
-  comenzado a infectar a todos los otros estados del país.  Meses antes, en
-  enero de ese año, fue localizado el cuerpo decapitado de Juan Carlos Alvarado
-  Naal, El Calochas, conocido narcomenudista de Progreso. La cabeza fue arrojada
-  al día siguiente del crimen en la repetidora local de TVAzteca. Por medio de
-  sus huellas dactilares, las autoridades pudieron identificar a diez de los
+  comenzado a infectar a todos los otros estados del país. Meses antes, en enero
+  de ese año, fue localizado el cuerpo decapitado de Juan Carlos Alvarado Naal,
+  El Calochas, conocido narcomenudista de Progreso. La cabeza fue arrojada al
+  día siguiente del crimen en la repetidora local de TVAzteca. Por medio de sus
+  huellas dactilares, las autoridades pudieron identificar a diez de los
   decapitados de agosto. Todos ellos estaban vinculados al crimen organizado.
   Eran Eusebio Rosado Fernández , Manuel René Mena Espinoza, Julio Mendoza
   Hernández, Félix Jesús Herrera Solís, José Luis Rodríguez Chin, Luis Adolfo
   Romero Dzib, Miguel Ángel Puerto Gutiérrez, Luis Fernando Pech Chan, Rosendo
-  Pech Dzul y Luis Alfonso Canul Chan. Asimismo, en el terror posterior comenzó
-  a circular un vídeo en el que se veía las cabezas perdidas. Puestas una a lado
+  Pech Dzul y Luis Alfonso Canul Chan.Asimismo, en el terror posterior comenzó a
+  circular un vídeo en el que se veía las cabezas perdidas. Puestas una a lado
   de otra, con pintadas y cortadas, se hablaba de que ese video contenía un
   mensaje para el comandante Luis Felipe Saidén Ojeda. El material fue «bajado»
-  de la internet.  Se dio, igual, con el lugar donde se realizó la carnicería:
+  de la internet. Se dio, igual, con el lugar donde se realizó la carnicería:
   una casa ubicada a pocos metros de un concurrido restaurante de Prolongación
   Paseo de Montejo. Esa casa estuvo durante mucho tiempo precintada, y
   posteriormente fue remodelada por sus propietarios. Fue hasta hace poco que se
   volvió a rentar. Según la publicidad de los vehículos de los nuevos, valientes
-  inquilinos, además venden carnitas.  Las cabezas nunca fueron encontradas, o
+  inquilinos, además venden carnitas. Las cabezas nunca fueron encontradas, o
   por lo menos nunca se informó a la población de su hallazgo. Este fue un caso
   en el que se tuvo un sigilo extraordinario, y en parte se comprende, ya que
   precisamente el objetivo de esta matanza fue causar terror. Su sola mención
@@ -58,12 +58,11 @@ description: >-
   circularon ante el hallazgo dominical de siete calaveras las autoridades
   negaron que sean las de los muertos de Chichí Suárez y Buctzotz. Condenados a
   penar por siempre si cabeza, es muy probable que nunca sepamos los pormenores
-  de este suceso.  «Macabro hallazgo». Fórmula trillada que aún produce
+  de este suceso. «Macabro hallazgo». Fórmula trillada que aún produce
   escalofríos. Por siete. Lo del domingo se saldará con una anécdota, como un
   titular de la prensa popular. Las autoridades prefieren sepultar con silencio
   el episodio que nos conmocionó en 2008.
 inLanguage: null
-inNav: false
 starred: false
 _type: MediaObject
 
