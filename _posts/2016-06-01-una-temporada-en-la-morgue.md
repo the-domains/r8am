@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-01T14:26:41.869Z'
+datePublished: '2016-11-09T21:05:37.788Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-05-02/Reporte-8-am-por-Pablo-Cicero'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-01T05:36:29.255Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: 'Una temporada en la morgue '
 app_links: []
 publisher:
@@ -12,13 +12,16 @@ publisher:
   name: Lajornadamaya
   favicon: 'https://static.lajornadamaya.mx/v2/favicon.png'
   domain: www.lajornadamaya.mx
-description: 'Pablo A. Cicero AlonzoFoto: Tomada de la WebLa Jornada Maya Mérida, YucatánLunes 2 de mayo, 2016 Salió del antro ya de madrugada. No sé si alguno de sus amigos se ofreció a llevarla. No sé si estaba en estado inconveniente o, simplemente, cansada.'
+description: >-
+  Pablo A. Cicero AlonzoFoto: Tomada de la WebLa Jornada Maya Mérida,
+  YucatánLunes 2 de mayo, 2016 Salió del antro ya de madrugada. No sé si alguno
+  de sus amigos se ofreció a llevarla. No sé si estaba en estado inconveniente
+  o, simplemente, cansada.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-06-01-una-temporada-en-la-morgue.md
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
