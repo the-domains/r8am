@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-09-01T12:00:44.014Z'
+datePublished: '2016-11-09T21:05:57.079Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-01T12:00:40.353Z'
+dateModified: '2016-11-09T21:05:55.339Z'
 title: 'Un zapatazo o, mínimo, una mentada'
 publisher: {}
 description: >-
@@ -14,8 +14,8 @@ description: >-
   Unidos, Donald Trump. Cada uno presididos por un atril, separados unos tres
   metros. Aun a esa distancia, contrastan sus estaturas; el estadounidense le
   lleva casi una cabeza al mexicano.
-starred: true
 sourcePath: _posts/2016-09-01-un-zapatazo-o-minimo-una-mentada.md
+starred: true
 url: un-zapatazo-o-minimo-una-mentada/index.html
 _type: Article
 
