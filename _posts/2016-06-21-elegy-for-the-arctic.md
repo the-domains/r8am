@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-21T13:04:54.286Z'
+datePublished: '2016-11-09T21:05:37.804Z'
 isBasedOnUrl: 'https://www.youtube.com/watch?v=2DLnhdnSUVs'
 keywords:
   - einaudi
@@ -17,7 +17,7 @@ author:
   - name: Ludovico Einaudi
     url: 'https://www.youtube.com/user/ludovicoeinaudi'
     avatar: {}
-dateModified: '2016-06-21T13:04:52.449Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: Elegy for the Arctic
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=2DLnhdnSUVs&feature=applinks'
@@ -76,11 +76,10 @@ description: >-
   de la primera zona protegida en aguas internacionales del océano Ártico”,
   según un comunicado.
 inLanguage: en
-starred: true
 sourcePath: _posts/2016-06-21-elegy-for-the-arctic.md
+starred: true
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: VideoObject
 
