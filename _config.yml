@@ -23,11 +23,11 @@ color:
   brandStrength: 1
   lightness: 0
   brandColors:
+    - '#FFFFFF'
     - '#000000'
-    - '#999999'
-    - '#EEEEEE'
-    - '#666666'
-    - '#0188CA'
+    - '#A9A9A9'
+    - '#7C7C7C'
+    - '#525252'
   rhythmicContrast: 1
 navigation:
   - name: Una historia trágica
@@ -57,5 +57,5 @@ opengraph:
   appId: null
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bff5f7d8-dbba-482c-8677-87503d2dd89d.png
-typography_spectrum: 0.8595745
-layout_spectrum: 0.8170213
+typography_spectrum: 0.09574468
+layout_spectrum: 0.6042553
