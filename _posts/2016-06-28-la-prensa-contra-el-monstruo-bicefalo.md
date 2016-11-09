@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-28T11:29:32.277Z'
+datePublished: '2016-11-09T21:05:37.801Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-06-28/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-28T11:29:30.919Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: La prensa contra el monstruo bicéfalo
 app_links: []
 publisher:
@@ -18,11 +18,10 @@ description: >-
   momento de contratar pautas en medios de comunicación obedecen a razones
   opacas y, la mayoría de las veces, poco eficaces.
 inLanguage: es
-starred: true
 sourcePath: _posts/2016-06-28-la-prensa-contra-el-monstruo-bicefalo.md
+starred: true
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
