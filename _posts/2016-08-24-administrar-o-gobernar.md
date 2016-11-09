@@ -1,7 +1,6 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
 inLanguage: null
 keywords: []
 description: >-
@@ -16,8 +15,8 @@ description: >-
   pesar de que se ha convertido en una de las ciudades mejor evaluadas del país,
   tiene, por mucho, un presupuesto menor al de muchas otras urbes con
   características similares.
-datePublished: '2016-08-24T17:44:52.197Z'
-dateModified: '2016-08-24T17:36:44.570Z'
+datePublished: '2016-11-09T21:05:57.091Z'
+dateModified: '2016-11-09T21:05:55.339Z'
 title: ¿Administrar o gobernar?
 author: []
 via: {}
