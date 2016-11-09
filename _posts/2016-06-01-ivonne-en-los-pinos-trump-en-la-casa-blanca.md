@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-09T21:05:37.769Z'
+datePublished: '2016-11-09T21:06:02.099Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-03-11/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-11-09T21:05:34.894Z'
+dateModified: '2016-11-09T21:06:01.228Z'
 title: 'Ivonne, en los Pinos; Trump, en la Casa Blanca '
 app_links: []
 publisher:
@@ -20,9 +20,9 @@ description: >-
   ese fatídico 8 de noviembre.
 inLanguage: es
 sourcePath: _posts/2016-06-01-ivonne-en-los-pinos-trump-en-la-casa-blanca.md
-starred: false
 via: {}
 inFeed: true
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
