@@ -1,20 +1,23 @@
 ---
-description: ''
-dateModified: '2016-06-21T11:32:51.694Z'
-datePublished: '2016-06-21T11:32:54.464Z'
-title: Fue un día soleado en Oaxaca
-author: []
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ca44080-4a8e-4081-a5b5-655ebcfe5eb5.png
-starred: true
-sourcePath: _posts/2016-06-21-fue-un-dia-soleado-en-oaxaca.md
 inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+inLanguage: null
+keywords: []
+description: 'https://www.lajornadamaya.mx/2016-06-21/Reporte-8-am'
+datePublished: '2016-11-09T21:05:37.807Z'
+dateModified: '2016-11-09T21:05:34.894Z'
+sourcePath: _posts/2016-06-21-fue-un-dia-soleado-en-oaxaca.md
+author: []
+title: Fue un día soleado en Oaxaca
+authors: []
+publisher: {}
+starred: true
+via: {}
+url: fue-un-dia-soleado-en-oaxaca/index.html
+_type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ca44080-4a8e-4081-a5b5-655ebcfe5eb5.png)
+![https://www.lajornadamaya.mx/2016-06-21/Reporte-8-am](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ca44080-4a8e-4081-a5b5-655ebcfe5eb5.png)
 
 # Fue un día soleado en Oaxaca
 
@@ -24,3 +27,5 @@ Sin embargo, mucho o todo a cambiado desde aquel día soleado en la Plaza de las
 Falsedades in extremis. Fue hasta anteanoche, a las once, cuando la Comisión Nacional de Seguridad aceptó que "la Policía Federal portó armas, pero únicamente para repeler el ataque de algunos manifestantes que estaban armados y disparando contra ellos y la población civil". Ayer, a las siete de la mañana, continuó matizándose la falsedad: "La Policía Federal llevó armas, pero eso fue posterior a una emboscada estratégicamente bien elaborada de la que fuimos víctimas y que fue realizada por grupos radicales. Además, las armas se equiparon hasta las 11:30 am de ayer".  
 Así como con cinismo hace ya casi medio siglo se intentó tapar el sol con el vergonzoso "día soleado" de Zabludovsky, las autoridades actuales apuestan por la apatía de los mexicanos, a los que les duelen más los siete goles que le metió Chile a la selección de futbol que las siete personas muertas ya en Nochixtlán. Hemos avanzado desde aquellos tiempos en los Televisa dictaba la opinión pública... Pero no mucho. La caída del monopolio no trajo consigo la libertad. Simplemente, el monólogo se convirtió en coro, en donde sólo algunas voces desentonan. Las demás, siguen cantando loas.  
 Muchos políticos, por su parte, navegan indecisos entre el pasado y el presente. Para ellos, el manejo de una crisis con las proporciones como las actuales se arregla escondiéndose o repartiendo sobres o maletines con billetes, según sea la audiencia del comunicador. En el caso de Oaxaca, además, vemos cómo la mezquindad adquiere incluso tintes de traición. La carrera por la sucesión presidencial comenzó hace ya varios meses. En medio de esta guerra intestina, Miguel Ángel Osorio Chong, encargado de la política interna del país, no ha dicho ni pío. No se quiere ensuciar las manos, y por tanto deja a su compañero de gabinete ---y posible rival--- Aurelio Nuño todo el marrón. Es su cochinero; que él lo limpie. Con un equipo fracturado, y ante la incapacidad que ha demostrado Enrique Peña Nieto, es más que probable que se registre una escalada en este conflicto, que parece ya se les fue de las manos a las autoridades. Y no sólo por incompetentes. Mientras todo lo anterior sucedía, el gobernador de Oaxaca, Gabino Cue, asistió a la boda de su secretario de Obra Pública, Rafael Navarrete Quezada. Y no sólo él asistió, sino también su colega guerrerense Héctor Astudillo Flores, quien junto con miembros de su gabinete, aprovechó este fin de semana para viajar en aeronaves oficiales al enlace. Sus estados ardían, y ellos bailaban "Payaso de rodeo". Como te comenté, para ellos fue un día soleado, una noche despejada.
+
+https://www.lajornadamaya.mx/2016-06-21/Reporte-8-am
