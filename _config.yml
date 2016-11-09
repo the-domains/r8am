@@ -20,14 +20,14 @@ collections:
 description: Por Pablo A. Cicero Alonzo
 color:
   saturation: 1
-  brandStrength: 0.8502763682612134
+  brandStrength: 1
   lightness: 0
   brandColors:
-    - '#2C326C'
-    - '#6AEB13'
-    - '#41C927'
-    - '#33A859'
-    - '#3A7B7F'
+    - '#000000'
+    - '#999999'
+    - '#EEEEEE'
+    - '#666666'
+    - '#0188CA'
   rhythmicContrast: 1
 navigation:
   - name: Una historia trágica
@@ -57,5 +57,5 @@ opengraph:
   appId: null
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bff5f7d8-dbba-482c-8677-87503d2dd89d.png
-typography_spectrum: 0.1042553
-layout_spectrum: 0
+typography_spectrum: 0.8595745
+layout_spectrum: 0.8170213
