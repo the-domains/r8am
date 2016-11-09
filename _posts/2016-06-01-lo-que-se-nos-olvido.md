@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-01T14:26:43.899Z'
+datePublished: '2016-11-09T21:05:37.937Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-04-02/Reporte-8AM'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-01T05:26:26.498Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: 'Lo que se nos olvidó '
 app_links: []
 publisher:
@@ -12,13 +12,17 @@ publisher:
   name: Lajornadamaya
   favicon: 'https://static.lajornadamaya.mx/v2/favicon.png'
   domain: www.lajornadamaya.mx
-description: 'Pablo CiceroIlustración: Juan GedoviousLa Jornada Maya Mérida2 de abril, 2016 Dueñas de una lógica apabullante, mis hijas me recuerdan todo lo que he olvidado. Me di cuenta de eso cuando les leí El Principito, de Antoine de Saint-Exupéry. No es lo mismo leer este encantador librito solo, ya adulto, que hacerlo en voz alta, para que lo escuchen niños.'
+description: >-
+  Pablo CiceroIlustración: Juan GedoviousLa Jornada Maya Mérida2 de abril, 2016
+  Dueñas de una lógica apabullante, mis hijas me recuerdan todo lo que he
+  olvidado. Me di cuenta de eso cuando les leí El Principito, de Antoine de
+  Saint-Exupéry. No es lo mismo leer este encantador librito solo, ya adulto,
+  que hacerlo en voz alta, para que lo escuchen niños.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-06-01-lo-que-se-nos-olvido.md
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
