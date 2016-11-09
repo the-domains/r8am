@@ -1,18 +1,18 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
 inLanguage: null
 keywords: []
 description: 'https://www.lajornadamaya.mx/2016-06-22/Reporte-8-am'
-datePublished: '2016-06-23T00:51:04.838Z'
-dateModified: '2016-06-23T00:50:55.952Z'
+datePublished: '2016-11-09T21:05:37.803Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: ''
 author: []
 authors: []
-publisher: null
-starred: true
+publisher: {}
 sourcePath: _posts/2016-06-23-odiame-mas.md
+starred: true
+via: {}
 url: odiame-mas/index.html
 _type: Article
 
