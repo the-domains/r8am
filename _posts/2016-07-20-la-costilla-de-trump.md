@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-07-21T12:19:42.875Z'
+datePublished: '2016-11-09T21:05:37.783Z'
 sourcePath: _posts/2016-07-20-la-costilla-de-trump.md
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-07-20/Reporte-8AM'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-07-21T12:19:42.406Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: La costilla de Trump
 app_links: []
 publisher:
@@ -22,8 +22,6 @@ description: >-
 inLanguage: es
 starred: true
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
