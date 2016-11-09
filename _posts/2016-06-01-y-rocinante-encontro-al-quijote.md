@@ -1,13 +1,14 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-05-31/Reporte-8-am'
 inLanguage: es
 keywords: []
-description: 'Pablo A. Cicero AlonzoFoto: La Jornada Maya Martes 31 de mayo, 2016 Escribió Cervantes que "cuatro días se le pasaron en imaginar qué nombre le pondría...'
-datePublished: '2016-06-02T18:54:14.016Z'
-dateModified: '2016-06-02T18:54:13.484Z'
+description: >-
+  Pablo A. Cicero AlonzoFoto: La Jornada Maya Martes 31 de mayo, 2016 Escribió
+  Cervantes que "cuatro días se le pasaron en imaginar qué nombre le pondría...
+datePublished: '2016-11-09T21:05:37.813Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 related: []
 author: []
 title: 'Y Rocinante encontró al Quijote '
@@ -20,6 +21,7 @@ publisher:
   favicon: 'https://static.lajornadamaya.mx/v2/favicon.png'
 sourcePath: _posts/2016-06-01-y-rocinante-encontro-al-quijote.md
 starred: true
+via: {}
 _context: 'http://schema.org'
 _type: MediaObject
 
