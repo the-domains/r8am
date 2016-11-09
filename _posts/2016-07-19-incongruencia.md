@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-07-19T11:36:09.307Z'
+datePublished: '2016-11-09T21:05:37.776Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-07-19/Reporte-8--AM'
 keywords: []
 related: []
 author: []
-dateModified: '2016-07-19T11:35:59.261Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: 'Incongruencia '
 app_links: []
 publisher:
@@ -19,11 +19,10 @@ description: >-
   recordó aquel bizarro juego de Belbo, Diotallevi y Casaubon, personajes de El
   péndulo de Foucault, de Umberto Eco.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-07-19-incongruencia.md
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
