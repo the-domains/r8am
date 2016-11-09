@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-21T12:06:46.307Z'
+datePublished: '2016-11-09T21:05:37.769Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-07-21/8-am'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-07-21T12:06:40.916Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: Para el anciano que seré
 app_links: []
 publisher:
@@ -22,11 +22,9 @@ description: >-
   se te caerán las cosas, y te sentirás torpe, como ese niño que ya no recuerdas
   haber sido.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-07-21-para-el-anciano-que-sere.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
