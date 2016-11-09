@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-25T13:39:40.678Z'
+datePublished: '2016-11-09T21:05:37.788Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-07-22/Reporte-8-am'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-07-25T13:39:08.835Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: La soledad del monseñor
 app_links: []
 publisher:
@@ -19,11 +19,9 @@ description: >-
   Espíritu Santo. ¿Creo en la Iglesia? Monseñor Emilio Carlos Berlie Belaunzarán
   cumple 50 años de ordenación sacerdotal.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-07-25-la-soledad-del-monsenor.md
+starred: false
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
