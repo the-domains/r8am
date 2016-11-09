@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-07-08T13:12:42.255Z'
+datePublished: '2016-11-09T21:05:37.783Z'
+sourcePath: _posts/2016-07-08-como-en-el-futbol-ce-efe-eeeeeeeeeeee.md
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-07-08/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-07-08T13:12:39.724Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: ' Como en el fútbol: “¡Ce Efe Eeeeeeeeeeee……!”'
 app_links: []
 publisher:
@@ -20,10 +21,8 @@ description: >-
   instalaciones y equipos y a la paquidérmica lentitud de sus cuadrillas.
 inLanguage: es
 starred: true
-sourcePath: _posts/2016-07-08-como-en-el-futbol-ce-efe-eeeeeeeeeeee.md
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
