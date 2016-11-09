@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-01T14:26:45.487Z'
+datePublished: '2016-11-09T21:05:37.952Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-03-15/8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-01T05:22:36.350Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: 'Las muertas no votan '
 app_links: []
 publisher:
@@ -12,13 +12,16 @@ publisher:
   name: Lajornadamaya
   favicon: 'https://static.lajornadamaya.mx/v2/favicon.png'
   domain: www.lajornadamaya.mx
-description: 'Pablo A. Cicero AlonzoCartón: Marcelo SantosLa Jornada Maya Las muertas no votan, pero serán determinantes en las próximas elecciones de Quintana Roo. Al momento de elegir a sus nuevas autoridades, los ciudadanos de ese estado tendrán en mente a las cinco asesinadas en lo que va de este 2016.'
+description: >-
+  Pablo A. Cicero AlonzoCartón: Marcelo SantosLa Jornada Maya Las muertas no
+  votan, pero serán determinantes en las próximas elecciones de Quintana Roo. Al
+  momento de elegir a sus nuevas autoridades, los ciudadanos de ese estado
+  tendrán en mente a las cinco asesinadas en lo que va de este 2016.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-06-01-las-muertas-no-votan.md
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
