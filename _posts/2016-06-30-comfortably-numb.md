@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-07-01T13:20:49.616Z'
+datePublished: '2016-11-09T21:05:37.797Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-06-30/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-07-01T13:20:49.112Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: Comfortably numb
 app_links: []
 publisher:
@@ -21,9 +21,8 @@ description: >-
 inLanguage: es
 sourcePath: _posts/2016-06-30-comfortably-numb.md
 starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
