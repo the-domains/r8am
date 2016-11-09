@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-01T14:26:41.326Z'
+datePublished: '2016-11-09T21:05:37.821Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-05-04/Reporte-8-am--por-Pablo-Cicero'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-01T05:37:07.349Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: 'Digna indignación '
 app_links: []
 publisher:
@@ -12,13 +12,18 @@ publisher:
   name: Lajornadamaya
   favicon: 'https://static.lajornadamaya.mx/v2/favicon.png'
   domain: www.lajornadamaya.mx
-description: 'Pablo A. CiceroFoto: Randy Soberanis DzulLa Jornada Maya Miércoles 4 de mayo, 2016 Un ruido sordo. Un golpe seco. Humo blanco. De repente, sientes que te pican, que te arden los ojos, como si te hubieran tirado chile. Lloras. Ves cada instante menos. Tu vista se escabulle, se nubla.'
+description: >-
+  Pablo A. CiceroFoto: Randy Soberanis DzulLa Jornada Maya Miércoles 4 de mayo,
+  2016 Un ruido sordo. Un golpe seco. Humo blanco. De repente, sientes que te
+  pican, que te arden los ojos, como si te hubieran tirado chile. Lloras. Ves
+  cada instante menos. Tu vista se escabulle, se nubla.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-06-01-digna-indignacion.md
 inFeed: true
 hasPage: false
-inNav: false
+authors: []
+starred: true
+via: {}
 _context: 'http://schema.org'
 _type: MediaObject
 
