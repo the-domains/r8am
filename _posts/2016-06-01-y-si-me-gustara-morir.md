@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-01T14:26:42.905Z'
+datePublished: '2016-11-09T21:05:37.813Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-04-18/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-01T05:30:43.744Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: ¿Y si me gustara morir?
 app_links: []
 publisher:
@@ -12,13 +12,16 @@ publisher:
   name: Lajornadamaya
   favicon: 'https://static.lajornadamaya.mx/v2/favicon.png'
   domain: www.lajornadamaya.mx
-description: 'Pablo A. Cicero AlonzoFoto: Rodrigo Díaz GuzmánLa Jornada Maya Lunes 18 de abril, 2016 Me imagino la angustia como una serpiente gris, viscosa, sin escamas; ciega, resbalosa. Una inmensa lombriz desdentada que se enreda en ese espacio reducido y oscuro que son nuestras entrañas.'
+description: >-
+  Pablo A. Cicero AlonzoFoto: Rodrigo Díaz GuzmánLa Jornada Maya Lunes 18 de
+  abril, 2016 Me imagino la angustia como una serpiente gris, viscosa, sin
+  escamas; ciega, resbalosa. Una inmensa lombriz desdentada que se enreda en ese
+  espacio reducido y oscuro que son nuestras entrañas.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-06-01-y-si-me-gustara-morir.md
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
