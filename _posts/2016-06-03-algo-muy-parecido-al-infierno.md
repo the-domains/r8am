@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-06-07T13:22:27.280Z'
+datePublished: '2016-11-09T21:05:37.812Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-06-03/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-07T13:22:26.956Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: 'Algo muy parecido al infierno '
 app_links: []
 publisher:
-  name: Lajornadamaya
-  domain: www.lajornadamaya.mx
   url: 'https://www.lajornadamaya.mx'
+  name: Lajornadamaya
   favicon: 'https://static.lajornadamaya.mx/v2/favicon.png'
+  domain: www.lajornadamaya.mx
 description: >-
   Pablo A. Cicero AlonzoFoto: Fabrizio León DiezLa Jornada Maya Viernes 3 de
   junio, 2016 La rampa de urgencias del hospital Juárez es el epicentro de la
@@ -22,9 +22,9 @@ inLanguage: es
 sourcePath: _posts/2016-06-03-algo-muy-parecido-al-infierno.md
 inFeed: true
 hasPage: false
-inNav: false
 authors: []
 starred: true
+via: {}
 _context: 'http://schema.org'
 _type: MediaObject
 
