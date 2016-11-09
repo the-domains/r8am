@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-01T14:26:41.505Z'
+datePublished: '2016-11-09T21:05:37.814Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-04-26/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-01T05:35:27.044Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: 'La república cervecera de Yucatán '
 app_links: []
 publisher:
@@ -12,13 +12,16 @@ publisher:
   name: Lajornadamaya
   favicon: 'https://static.lajornadamaya.mx/v2/favicon.png'
   domain: www.lajornadamaya.mx
-description: 'Pablo A. Cicero AlonzoFotos: Rodrigo Díaz GuzmánLa Jornada Maya Martes 26 de abril, 2016 La expresión "república bananera" se emplea para identificar un país cuyo gobierno y clase política se hallan corrompidos por los intereses comerciales de una o varias compañías.'
+description: >-
+  Pablo A. Cicero AlonzoFotos: Rodrigo Díaz GuzmánLa Jornada Maya Martes 26 de
+  abril, 2016 La expresión "república bananera" se emplea para identificar un
+  país cuyo gobierno y clase política se hallan corrompidos por los intereses
+  comerciales de una o varias compañías.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-06-01-la-republica-cervecera-de-yucatan.md
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
