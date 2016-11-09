@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-31T14:41:49.319Z'
+datePublished: '2016-11-09T21:05:57.079Z'
 sourcePath: _posts/2016-08-30-te-arranque-esa-capa-de-impunidad.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T14:41:48.635Z'
+dateModified: '2016-11-09T21:05:55.339Z'
 title: Te arranqué esa capa de impunidad
 publisher: {}
 description: >-
@@ -19,7 +19,7 @@ description: >-
   el siguiente, necesario paso para combatir a la corrupción. Calificaba a esa
   figura como una capa anacrónica y aberrada, como un lastre a la rendición de
   cuentas.
-starred: true
+starred: false
 url: te-arranque-esa-capa-de-impunidad/index.html
 _type: Article
 
