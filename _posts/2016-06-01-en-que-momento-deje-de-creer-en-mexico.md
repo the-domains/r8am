@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-07T13:22:53.104Z'
+datePublished: '2016-11-09T21:05:37.821Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-04-25/Reporte-8am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-07T13:22:52.778Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: '¿En qué momento dejé de creer en México? '
 app_links: []
 publisher:
@@ -20,9 +20,8 @@ description: >-
 inLanguage: es
 sourcePath: _posts/2016-06-01-en-que-momento-deje-de-creer-en-mexico.md
 starred: true
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
