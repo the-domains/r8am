@@ -11,24 +11,24 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 description: Por Pablo A. Cicero Alonzo
 color:
-  saturation: 0.5711442887301713
+  saturation: 1
   brandStrength: 0.8502763682612134
-  rhythmicContrast: 0.8717189260798109
+  lightness: 0
   brandColors:
     - '#2C326C'
     - '#6AEB13'
     - '#41C927'
     - '#33A859'
     - '#3A7B7F'
-  lightness: 0.3045999864365279
+  rhythmicContrast: 1
 navigation:
   - name: Una historia trágica
     url: >-
@@ -40,22 +40,22 @@ navigation:
   - name: Reporte 6PM
     url: 'http://thegrid.ai/6pm/'
     type: external
-cta:
-  bucket: null
-  version: null
-  domain: null
-name: R8AM
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc931bc3-77ee-4dce-bde9-990b1bc5d87f.png
 analytics:
   twitter: null
   google: UA-18458867-3
   facebook: '506767772843593'
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc931bc3-77ee-4dce-bde9-990b1bc5d87f.png
+name: R8AM
 opengraph:
   image: null
   type: null
   appId: null
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bff5f7d8-dbba-482c-8677-87503d2dd89d.png
-typography_spectrum: 0.112766
-layout_spectrum: 1
+typography_spectrum: 0.1042553
+layout_spectrum: 0
