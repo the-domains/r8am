@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-07T13:22:41.156Z'
+datePublished: '2016-11-09T21:05:37.814Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-05-13/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-07T13:22:40.920Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: 'El amor en tiempos de yucatercos '
 app_links: []
 publisher:
@@ -20,9 +20,8 @@ description: >-
 inLanguage: es
 sourcePath: _posts/2016-06-01-el-amor-en-tiempos-de-yucatercos.md
 starred: true
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
