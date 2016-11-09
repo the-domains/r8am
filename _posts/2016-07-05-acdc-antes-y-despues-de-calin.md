@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-05T11:42:10.240Z'
+datePublished: '2016-11-09T21:05:37.797Z'
 sourcePath: _posts/2016-07-05-acdc-antes-y-despues-de-calin.md
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-07-05/Reporte-8AM'
 keywords: []
 related: []
 author: []
-dateModified: '2016-07-05T11:42:09.819Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: AC/DC (Antes y Después de Calín)
 app_links: []
 publisher:
@@ -20,11 +20,10 @@ description: >-
   gritaban. "Aquí no puedes venir y publicar lo que te plazca".
 inLanguage: es
 starred: true
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6458c18-678a-4dd6-a86a-9066698bbdf1.png)
+![Pablo A. Cicero AlonzoFoto: Captura de Google Images sobre la agresión del 4 de julio de 2011La Jornada Maya Me interrogaron toda la noche, me amenazaron incluso con deportarme. "Sabemos lo que haces en el periódico, mexicanito", me gritaban. "Aquí no puedes venir y publicar lo que te plazca".](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6458c18-678a-4dd6-a86a-9066698bbdf1.png)
