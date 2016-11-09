@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-01T14:26:44.573Z'
+datePublished: '2016-11-09T21:05:37.946Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-03-21/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-01T05:23:53.186Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: 'Memorias de mis escritores tristes '
 app_links: []
 publisher:
@@ -12,13 +12,17 @@ publisher:
   name: Lajornadamaya
   favicon: 'https://static.lajornadamaya.mx/v2/favicon.png'
   domain: www.lajornadamaya.mx
-description: 'Pablo A. Cicero AlonzoFoto:Rodrigo Díaz GuzmánLa Jornada Maya 21 de marzo, 2016 Horas después de la presentación, coincidí con él, y me pareció un personaje melancólico. Digerí después el encuentro que tuvimos, y llegué a la conclusión de que Jorge Zepeda Patterson es un personaje sumamente introvertido.'
+description: >-
+  Pablo A. Cicero AlonzoFoto:Rodrigo Díaz GuzmánLa Jornada Maya 21 de marzo,
+  2016 Horas después de la presentación, coincidí con él, y me pareció un
+  personaje melancólico. Digerí después el encuentro que tuvimos, y llegué a la
+  conclusión de que Jorge Zepeda Patterson es un personaje sumamente
+  introvertido.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-06-01-memorias-de-mis-escritores-tristes.md
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
