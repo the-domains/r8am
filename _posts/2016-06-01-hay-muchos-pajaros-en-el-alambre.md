@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-01T14:26:41.707Z'
+datePublished: '2016-11-09T21:05:37.764Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-04-27/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-01T05:35:49.408Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: Hay muchos pájaros en el alambre
 app_links: []
 publisher:
@@ -12,13 +12,18 @@ publisher:
   name: Lajornadamaya
   favicon: 'https://static.lajornadamaya.mx/v2/favicon.png'
   domain: www.lajornadamaya.mx
-description: 'Pablo A. Cicero AlonzoFoto: Fabrizio León DiezLa Jornada Maya Miércoles 27 de abril, 2016 No sólo se planea instalar un complejo sistema de videovigilancia. Dicen que los ojos y oídos del poder van más allá, que saben lo que decimos y hacemos; lo que escribimos, aún antes de que se publique.'
+description: >-
+  Pablo A. Cicero AlonzoFoto: Fabrizio León DiezLa Jornada Maya Miércoles 27 de
+  abril, 2016 No sólo se planea instalar un complejo sistema de videovigilancia.
+  Dicen que los ojos y oídos del poder van más allá, que saben lo que decimos y
+  hacemos; lo que escribimos, aún antes de que se publique.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-06-01-hay-muchos-pajaros-en-el-alambre.md
 inFeed: true
 hasPage: false
-inNav: false
+authors: []
+starred: true
+via: {}
 _context: 'http://schema.org'
 _type: MediaObject
 
