@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-06-07T13:23:06.047Z'
+datePublished: '2016-11-09T21:05:37.812Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-06-07/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-07T13:23:05.744Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: 'La última mentira de los mitómanos '
 app_links: []
 publisher:
-  name: Lajornadamaya
-  domain: www.lajornadamaya.mx
   url: 'https://www.lajornadamaya.mx'
+  name: Lajornadamaya
   favicon: 'https://static.lajornadamaya.mx/v2/favicon.png'
+  domain: www.lajornadamaya.mx
 description: >-
   Pablo A. Cicero Alonzo. Foto:Fabrizio León Diez. La Jornada Maya. Martes 7 de
   junio, 2016. Soberbia y falta de credibilidad. En ese orden. Las estocadas que
@@ -21,9 +21,9 @@ inLanguage: es
 sourcePath: _posts/2016-06-07-la-ultima-mentira-de-los-mitomanos.md
 inFeed: true
 hasPage: false
-inNav: false
 authors: []
 starred: true
+via: {}
 _context: 'http://schema.org'
 _type: MediaObject
 
