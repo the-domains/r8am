@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-01T14:26:43.913Z'
+datePublished: '2016-11-09T21:05:37.830Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-04-01/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-01T05:26:08.031Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: 'La economía del realismo mágico '
 app_links: []
 publisher:
@@ -12,13 +12,17 @@ publisher:
   name: Lajornadamaya
   favicon: 'https://static.lajornadamaya.mx/v2/favicon.png'
   domain: www.lajornadamaya.mx
-description: 'Pablo A. Cicero AlonzoFoto de la WebLa Jornada Maya Mérida1º de abril, 2016 Two all beef patties, special sauce, lettuce, cheese, pickles, onions on a sesame seed bun. Esa es, según el manual corporativo de McDonalds, la Big Mac. Desde hace dos décadas, la revista especializada The Economist compara las economías de países mediante el Índice Big Mac.'
+description: >-
+  Pablo A. Cicero AlonzoFoto de la WebLa Jornada Maya Mérida1º de abril, 2016
+  Two all beef patties, special sauce, lettuce, cheese, pickles, onions on a
+  sesame seed bun. Esa es, según el manual corporativo de McDonalds, la Big Mac.
+  Desde hace dos décadas, la revista especializada The Economist compara las
+  economías de países mediante el Índice Big Mac.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-06-01-la-economia-del-realismo-magico.md
+starred: false
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
