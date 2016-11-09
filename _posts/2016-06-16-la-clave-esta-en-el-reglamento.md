@@ -1,4 +1,15 @@
 ---
+datePublished: '2016-11-09T21:05:37.808Z'
+sourcePath: _posts/2016-06-16-la-clave-esta-en-el-reglamento.md
+inFeed: true
+isBasedOnUrl: null
+authors: []
+hasPage: false
+keywords: []
+author: []
+dateModified: '2016-11-09T21:05:34.894Z'
+title: La clave está en el reglamento
+publisher: {}
 description: >-
   Se perdió la batalla pero no la guerra. La aplanadora priista aprobó las
   reformas a la Ley de Transporte, que muchos consideran lesivas a las
@@ -44,17 +55,11 @@ description: >-
   las trincheras de los reglamentos que me da aún esperanzas. Me imagino que
   como éste hay varios ejemplos, tanto municipales y estatales. Espero que,
   dentro de poco, pueda decir lo mismo del reglamento estatal de transportes.
-  Realmente lo espero. 
-dateModified: '2016-06-16T14:40:33.749Z'
-datePublished: '2016-06-16T14:40:34.573Z'
-title: La clave está en el reglamento
-author: []
-sourcePath: _posts/2016-06-16-la-clave-esta-en-el-reglamento.md
+  Realmente lo espero.
+inLanguage: null
 starred: true
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+via: {}
+_type: Blurb
 
 ---
 # La clave está en el reglamento
