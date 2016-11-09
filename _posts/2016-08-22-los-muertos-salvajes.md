@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T15:03:34.469Z'
+datePublished: '2016-11-09T21:05:57.096Z'
 sourcePath: _posts/2016-08-22-los-muertos-salvajes.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-22T15:03:33.474Z'
+dateModified: '2016-11-09T21:05:55.339Z'
 title: Los muertos salvajes
 publisher:
   name: Pablo A. Cicero Alonzo
@@ -24,7 +24,6 @@ description: >-
   llevaron a un bosque, dispararon al aire y nos soltaron”, relató años después
   el escritor Ignacio Padilla.
 inLanguage: null
-inNav: false
 starred: true
 url: los-muertos-salvajes/index.html
 _type: Article
