@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-07-13T11:47:43.858Z'
+datePublished: '2016-11-09T21:05:37.783Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-07-13/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-07-13T11:47:42.677Z'
+dateModified: '2016-11-09T21:05:34.894Z'
 title: 'Los (verdaderos) piratas del Caribe '
 app_links: []
 publisher:
@@ -19,11 +19,12 @@ description: >-
   intenso de la administración de Roberto Borge Angulo; el más intenso y el
   último.
 inLanguage: es
-starred: true
 sourcePath: _posts/2016-07-13-los-verdaderos-piratas-del-caribe.md
 inFeed: true
 hasPage: false
-inNav: false
+authors: []
+starred: false
+via: {}
 _context: 'http://schema.org'
 _type: MediaObject
 
