@@ -1,12 +1,14 @@
 ---
-datePublished: '2016-11-11T01:32:14.731Z'
+datePublished: '2016-11-11T01:38:52.246Z'
+sourcePath: _posts/2016-11-11-the-fck-you-nation.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-11T01:31:59.262Z'
+dateModified: '2016-11-11T01:38:50.869Z'
 title: THE F*CK YOU! NATION
-publisher: {}
+publisher:
+  name: PABLO A. CICERO ALONZO
 description: >-
   Los partidarios de Hillary Clinton están tristes por la derrota; si los de
   Trump hubieran perdido, estarían encabronados —pissof. Esa es la gran
@@ -22,12 +24,12 @@ description: >-
   ahí, murales de Rivera se desvanecen en esas ruinas en las que todavía habitan
   gente y morriñas.
 starred: true
-sourcePath: _posts/2016-11-11-the-fck-you-nation.md
 url: the-fck-you-nation/index.html
 _type: Article
 
 ---
 # THE F\*CK YOU! NATION
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/336ab560-0995-4518-bbcb-98c8ad7bef5b.jpg)
 
 Los partidarios de Hillary Clinton están tristes por la derrota; si los de Trump hubieran perdido, estarían encabronados ---_pissof_. Esa es la gran diferencia. Quien se adentra al corazón ---gringo--- de las tinieblas encuentra a granjeros incapaces de competir con productos que vienen de México; hombres y mujeres que han perdido todo por la ludopatía bursátil, permitida ---y aplaudida--- por el _establishment_. Larguiruchos, pálidos jóvenes que no encuentran trabajo porque grandes compañías prefieren contratar a desesperados inmigrantes que se conforman con migajas, salarios de hambre, y que se callan ante ilegalidades. Obreros en raído y parchado overol que deambulan con sus tristezas por las calles de, por ejemplo, Detroit, una ciudad fantasma que aún rumia su antiguo esplendor, cuando era conocida como la capital del automóvil; ahí, murales de Rivera se desvanecen en esas ruinas en las que todavía habitan gente y morriñas.
 
