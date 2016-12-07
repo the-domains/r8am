@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-12-07T00:42:16.228Z'
+datePublished: '2016-12-07T00:45:51.522Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-07T00:41:55.062Z'
+dateModified: '2016-12-07T00:45:44.113Z'
 title: Trumpazos a tuitazos
 publisher: {}
 description: >-
@@ -16,9 +16,9 @@ description: >-
   que contestar preguntas las generaba tuvo que recurrir a un traductor: Rubén
   Aguilar Valenzuela, quien instauró el segmento «lo que el presidente quiso
   decir».
+sourcePath: _posts/2016-12-07-trumpazos-a-tuitazos.md
 starred: true
 datePublishedOriginal: '2016-12-07T00:42:16.228Z'
-sourcePath: _posts/2016-12-07-trumpazos-a-tuitazos.md
 url: trumpazos-a-tuitazos/index.html
 _type: Article
 
