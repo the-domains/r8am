@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-30T18:04:36.596Z'
+datePublished: '2016-12-07T00:45:51.523Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
 datePublishedOriginal: '2016-11-30T18:04:36.596Z'
-dateModified: '2016-11-30T18:04:30.417Z'
+dateModified: '2016-12-07T00:45:44.113Z'
 title: ¿Y dónde están los priistas?
 publisher: {}
 description: >-
@@ -21,8 +21,8 @@ description: >-
   podía fumar en los aviones. Los yucatecos de mayor edad, incluso, no conciben
   viajar con ropa cómoda, de diario; subirse al avión obliga seguir un código,
   incluso de vestimenta.
-starred: true
 sourcePath: _posts/2016-11-30-y-donde-estan-los-priistas.md
+starred: true
 url: y-donde-estan-los-priistas/index.html
 _type: Article
 
