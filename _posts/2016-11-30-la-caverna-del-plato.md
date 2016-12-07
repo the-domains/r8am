@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-30T18:07:20.599Z'
+datePublished: '2016-12-07T00:45:49.182Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
 datePublishedOriginal: '2016-11-30T18:07:20.599Z'
-dateModified: '2016-11-30T18:05:55.119Z'
+dateModified: '2016-12-07T00:45:44.113Z'
 title: La caverna del plató
 publisher: {}
 description: >-
@@ -18,8 +18,8 @@ description: >-
   jovencita de escasos recursos. Sin embargo, y eso tú y yo lo sabemos, poco de
   eso corresponde a la realidad. Únicamente nos presentan una porción de lo que
   sucede. 
-starred: true
 sourcePath: _posts/2016-11-30-la-caverna-del-plato.md
+starred: true
 url: la-caverna-del-plato/index.html
 _type: Article
 
