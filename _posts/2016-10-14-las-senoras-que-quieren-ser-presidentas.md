@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-07T01:07:02.978Z'
+datePublished: '2016-12-07T01:08:59.687Z'
 sourcePath: _posts/2016-10-14-las-senoras-que-quieren-ser-presidentas.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-07T01:06:59.211Z'
+dateModified: '2016-12-07T01:08:52.695Z'
 title: La(s) señora(s) —que quieren ser— presidenta(s)
 publisher:
   name: Pablo A. Cicero Alonzo
