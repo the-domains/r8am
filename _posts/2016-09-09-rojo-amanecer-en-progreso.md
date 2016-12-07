@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-07T01:07:02.977Z'
+datePublished: '2016-12-07T01:08:59.691Z'
 sourcePath: _posts/2016-09-09-rojo-amanecer-en-progreso.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-07T01:06:56.960Z'
+dateModified: '2016-12-07T01:08:52.695Z'
 title: Rojo amanecer en Progreso
 publisher:
   name: Pablo A. Cicero Alonzo
