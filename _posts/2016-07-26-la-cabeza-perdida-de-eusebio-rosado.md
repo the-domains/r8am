@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-09T21:05:57.101Z'
+datePublished: '2016-12-07T01:07:03.009Z'
 sourcePath: _posts/2016-07-26-la-cabeza-perdida-de-eusebio-rosado.md
 inFeed: true
 isBasedOnUrl: >-
@@ -9,7 +9,7 @@ hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2016-11-09T21:05:55.339Z'
+dateModified: '2016-12-07T01:06:56.960Z'
 title: La cabeza perdida de Eusebio Rosado
 publisher:
   name: Anagrama
@@ -64,6 +64,7 @@ description: >-
   el episodio que nos conmocionó en 2008.
 inLanguage: null
 starred: false
+datePublishedOriginal: '2016-11-09T21:05:57.101Z'
 _type: MediaObject
 
 ---
