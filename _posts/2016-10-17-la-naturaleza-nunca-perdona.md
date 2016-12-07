@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-08T05:28:18.610Z'
+datePublished: '2016-12-07T00:45:51.554Z'
 sourcePath: _posts/2016-10-17-la-naturaleza-nunca-perdona.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-08T05:20:08.577Z'
+dateModified: '2016-12-07T00:45:44.113Z'
 title: La naturaleza nunca perdona
 publisher:
   name: Pablo A. Cicero Alonzo
@@ -19,6 +19,7 @@ description: >-
   que mostrara las consecuencias de los excesos maquinados por los señores del
   dinero.
 starred: true
+datePublishedOriginal: '2016-11-08T05:28:18.610Z'
 url: la-naturaleza-nunca-perdona/index.html
 _type: Article
 
