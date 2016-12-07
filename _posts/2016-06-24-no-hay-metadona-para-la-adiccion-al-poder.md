@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-09T21:05:37.804Z'
+datePublished: '2016-12-07T00:45:49.036Z'
 sourcePath: _posts/2016-06-24-no-hay-metadona-para-la-adiccion-al-poder.md
 inFeed: true
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-06-24/Reporte-8-am'
@@ -10,7 +10,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-11-09T21:05:34.894Z'
+dateModified: '2016-12-07T00:45:44.113Z'
 title: No hay metadona para la adicción al poder
 app_links: []
 publisher:
@@ -25,8 +25,9 @@ description: >-
   persiguen, que hablan mal de ti. Escuchas voces inexistentes que susurran o
   gritan tu nombre; a veces te aclaman, otras te insultan.
 inLanguage: es
-starred: false
 via: {}
+starred: false
+datePublishedOriginal: '2016-11-09T21:05:37.804Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
