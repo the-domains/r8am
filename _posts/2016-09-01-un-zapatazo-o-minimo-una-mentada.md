@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-09T21:05:57.079Z'
+datePublished: '2016-12-07T01:07:03.009Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-09T21:05:55.339Z'
+dateModified: '2016-12-07T01:06:56.960Z'
 title: 'Un zapatazo o, mínimo, una mentada'
 publisher: {}
 description: >-
@@ -16,6 +16,7 @@ description: >-
   lleva casi una cabeza al mexicano.
 sourcePath: _posts/2016-09-01-un-zapatazo-o-minimo-una-mentada.md
 starred: true
+datePublishedOriginal: '2016-11-09T21:05:57.079Z'
 url: un-zapatazo-o-minimo-una-mentada/index.html
 _type: Article
 
