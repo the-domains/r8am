@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-09T21:05:57.069Z'
+datePublished: '2016-12-07T01:07:02.989Z'
 sourcePath: _posts/2016-09-08-la-corte-de-los-milagros.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-09T21:05:55.339Z'
+dateModified: '2016-12-07T01:06:56.960Z'
 title: La corte de los milagros
 publisher:
   name: Pablo A. Cicero Alonzo
@@ -18,6 +18,7 @@ description: >-
   intenso debate. La presidente municipal celebró burlándose; el cuerpo edilicio
   se tornó en vecindad.
 starred: false
+datePublishedOriginal: '2016-11-09T21:05:57.069Z'
 url: la-corte-de-los-milagros/index.html
 _type: Article
 
