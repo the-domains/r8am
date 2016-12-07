@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-13T11:18:31.530Z'
+datePublished: '2016-12-07T01:07:02.394Z'
 isBasedOnUrl: 'https://t.co/EhN6yLBVoU'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-01T05:19:00.832Z'
+dateModified: '2016-12-07T01:06:56.960Z'
 title: 'Tsundoku. No perdí la fe en Eco '
 app_links: []
 publisher:
@@ -17,11 +17,11 @@ description: >-
   doscientos mil personas ya lo conocen... Y lo admiran. Él, según publicó
   Aurora de la Mora, es un chofer de Uber.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-06-13-tsundoku-no-perdi-la-fe-en-eco.md
+starred: false
+datePublishedOriginal: '2016-06-13T11:18:31.530Z'
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
