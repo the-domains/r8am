@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-08T05:28:04.517Z'
+datePublished: '2016-12-07T00:45:49.100Z'
 sourcePath: _posts/2016-10-20-el-editorialista-salvaje.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-08T05:18:58.159Z'
+dateModified: '2016-12-07T00:45:44.113Z'
 title: EDITORIALISTA SALVAJE
 publisher: {}
 description: >-
@@ -18,6 +18,7 @@ description: >-
   se inflaba ese ego que ya parecía inconmensurable. Lo veía y se le revolvía el
   estómago; le daba asco.
 starred: true
+datePublishedOriginal: '2016-11-08T05:28:04.517Z'
 url: el-editorialista-salvaje/index.html
 _type: Article
 
