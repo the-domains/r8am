@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-09T21:05:37.813Z'
+datePublished: '2016-12-07T00:45:49.067Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-05-24/Reporte-8AM'
 keywords: []
 related: []
 author: []
-dateModified: '2016-11-09T21:05:34.894Z'
+dateModified: '2016-12-07T00:45:44.113Z'
 title: 'Parvadas en los asientos de los camiones '
 app_links: []
 publisher:
@@ -20,9 +20,10 @@ description: >-
   clásico de la picardía mexicana.
 inLanguage: es
 sourcePath: _posts/2016-06-01-parvadas-en-los-asientos-de-los-camiones.md
-starred: false
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-09T21:05:37.813Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
