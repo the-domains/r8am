@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-30T18:03:28.061Z'
+datePublished: '2016-12-07T00:45:51.554Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
 datePublishedOriginal: '2016-11-30T18:03:28.061Z'
-dateModified: '2016-11-30T18:03:03.956Z'
+dateModified: '2016-12-07T00:45:44.113Z'
 title: No fuimos invitados a la fiesta
 publisher: {}
 description: >-
@@ -21,8 +21,8 @@ description: >-
   a nuestro país, hasta que éste quedó famélico; ubres secas tras siglos de
   carabelas cargadas de oro y plata. Iglesias de bejuco construidas sobre
   olvidados templos. 
-starred: true
 sourcePath: _posts/2016-11-30-no-fuimos-invitados-a-la-fiesta.md
+starred: true
 url: no-fuimos-invitados-a-la-fiesta/index.html
 _type: Article
 
