@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-12-07T00:43:48.695Z'
+datePublished: '2016-12-07T00:44:54.964Z'
+sourcePath: _posts/2016-12-07-macabra-mitologia.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-07T00:43:44.091Z'
+dateModified: '2016-12-07T00:44:54.109Z'
 title: Macabra mitología
 publisher:
   name: Pablo A. Cicero Alonzo
@@ -24,7 +25,6 @@ description: >-
   despertado al juez Holden.
 starred: true
 datePublishedOriginal: '2016-12-07T00:43:48.695Z'
-sourcePath: _posts/2016-12-07-macabra-mitologia.md
 url: macabra-mitologia/index.html
 _type: Article
 
