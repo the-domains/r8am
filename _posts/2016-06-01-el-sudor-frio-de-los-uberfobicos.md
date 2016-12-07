@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-01T14:26:46.377Z'
+datePublished: '2016-12-07T01:07:02.454Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-02-29/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-01T05:19:17.926Z'
+dateModified: '2016-12-07T01:06:56.960Z'
 title: 'El sudor frío de los uberfóbicos '
 app_links: []
 publisher:
@@ -12,13 +12,16 @@ publisher:
   name: Lajornadamaya
   favicon: 'https://static.lajornadamaya.mx/v2/favicon.png'
   domain: www.lajornadamaya.mx
-description: 'Pablo A. CiceroLa Jornada Maya 29 de febrero, 2016 Se llama Víctor, y más de doscientos mil personas ya lo conocen... Y lo admiran. Él, según publicó Aurora de la Mora, es un chofer de Uber.'
+description: >-
+  Pablo A. CiceroLa Jornada Maya 29 de febrero, 2016 Se llama Víctor, y más de
+  doscientos mil personas ya lo conocen... Y lo admiran. Él, según publicó
+  Aurora de la Mora, es un chofer de Uber.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-06-01-el-sudor-frio-de-los-uberfobicos.md
+starred: false
+datePublishedOriginal: '2016-06-01T14:26:46.377Z'
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
