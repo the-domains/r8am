@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-09T21:05:37.810Z'
+datePublished: '2016-12-07T00:45:49.067Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-06-09/Reporte-8am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-11-09T21:05:34.894Z'
+dateModified: '2016-12-07T00:45:44.113Z'
 title: 'Almas de napalm '
 app_links: []
 publisher:
@@ -23,8 +23,9 @@ sourcePath: _posts/2016-06-09-almas-de-napalm.md
 inFeed: true
 hasPage: false
 authors: []
-starred: true
 via: {}
+starred: true
+datePublishedOriginal: '2016-11-09T21:05:37.810Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
