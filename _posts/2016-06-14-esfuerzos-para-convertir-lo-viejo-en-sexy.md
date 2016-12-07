@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-09T21:05:37.810Z'
+datePublished: '2016-12-07T00:45:49.055Z'
 sourcePath: _posts/2016-06-14-esfuerzos-para-convertir-lo-viejo-en-sexy.md
 inFeed: true
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-06-14/Reporte-8-am'
@@ -10,7 +10,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-11-09T21:05:34.894Z'
+dateModified: '2016-12-07T00:45:44.113Z'
 title: 'Esfuerzos para convertir lo viejo en sexy '
 app_links: []
 publisher:
@@ -23,8 +23,9 @@ description: >-
   Jornada Maya. Martes 14 de junio, 2016. Renovarse o morir. Así de simple.
   Incluso los comunistas de hueso colorado lo han entendido.
 inLanguage: es
-starred: false
 via: {}
+starred: false
+datePublishedOriginal: '2016-11-09T21:05:37.810Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
