@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-07T00:44:54.964Z'
+datePublished: '2016-12-07T00:45:49.022Z'
 sourcePath: _posts/2016-12-07-macabra-mitologia.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-07T00:44:54.109Z'
+dateModified: '2016-12-07T00:45:44.113Z'
 title: Macabra mitología
 publisher:
   name: Pablo A. Cicero Alonzo
