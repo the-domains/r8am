@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-09T21:05:37.946Z'
+datePublished: '2016-12-07T01:07:02.324Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-03-29/Reporte-8am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-11-09T21:05:34.894Z'
+dateModified: '2016-12-07T01:06:56.960Z'
 title: 'La teoría de la taxiconspiración '
 app_links: []
 publisher:
@@ -19,9 +19,10 @@ description: >-
   santo Tomás, sin haber visto.
 inLanguage: es
 sourcePath: _posts/2016-06-01-la-teoria-de-la-taxiconspiracion.md
-starred: false
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-09T21:05:37.946Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
