@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-01T14:26:46.676Z'
+datePublished: '2016-12-07T01:07:02.441Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-03-02/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-01T05:19:54.845Z'
+dateModified: '2016-12-07T01:06:56.960Z'
 title: 'Un aparheid tropicalizado '
 app_links: []
 publisher:
@@ -12,13 +12,17 @@ publisher:
   name: Lajornadamaya
   favicon: 'https://static.lajornadamaya.mx/v2/favicon.png'
   domain: www.lajornadamaya.mx
-description: 'Pablo A. Cicero AlonzoFoto:Rodrigo Díaz GuzmánLa Jornada Maya 2 de marzo, 2016 Arturo Montiel, padrino político de Enrique Peña Nieto, llegó a la gubernatura del Estado de México con una polémica campaña orquestada por el publirrelacionista Carlos Alazraki.'
+description: >-
+  Pablo A. Cicero AlonzoFoto:Rodrigo Díaz GuzmánLa Jornada Maya 2 de marzo, 2016
+  Arturo Montiel, padrino político de Enrique Peña Nieto, llegó a la gubernatura
+  del Estado de México con una polémica campaña orquestada por el
+  publirrelacionista Carlos Alazraki.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-06-01-un-aparheid-tropicalizado.md
+starred: false
+datePublishedOriginal: '2016-06-01T14:26:46.676Z'
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
