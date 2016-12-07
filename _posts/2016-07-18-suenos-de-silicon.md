@@ -1,7 +1,7 @@
 ---
 description: ''
-dateModified: '2016-11-09T21:05:34.894Z'
-datePublished: '2016-11-09T21:05:37.769Z'
+dateModified: '2016-12-07T00:45:44.113Z'
+datePublished: '2016-12-07T00:45:48.989Z'
 title: Sueños de silicón
 author: []
 sourcePath: _posts/2016-07-18-suenos-de-silicon.md
@@ -11,8 +11,9 @@ inLanguage: null
 keywords: []
 authors: []
 publisher: {}
-starred: true
 via: {}
+starred: true
+datePublishedOriginal: '2016-11-09T21:05:37.769Z'
 _type: Blurb
 
 ---
