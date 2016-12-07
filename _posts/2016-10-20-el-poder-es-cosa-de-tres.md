@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-20T17:26:10.971Z'
+datePublished: '2016-12-07T00:45:51.801Z'
 sourcePath: _posts/2016-10-20-el-poder-es-cosa-de-tres.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-20T17:26:10.385Z'
+dateModified: '2016-12-07T00:45:44.113Z'
 title: El poder es cosa de tres
 publisher:
   name: Pablo A. Cicero(n) Alonzo
@@ -22,6 +22,7 @@ description: >-
   de traiciones cortesanas, de puntos de no retorno; tal y como sucedió en la
   década de los sesenta… antes de Cristo.
 starred: true
+datePublishedOriginal: '2016-10-20T17:26:10.971Z'
 url: el-poder-es-cosa-de-tres/index.html
 _type: Article
 
