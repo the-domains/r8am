@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-11-09T21:05:37.783Z'
+datePublished: '2016-12-07T00:45:48.949Z'
 sourcePath: _posts/2016-07-20-la-costilla-de-trump.md
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-07-20/Reporte-8AM'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-11-09T21:05:34.894Z'
+dateModified: '2016-12-07T00:45:44.113Z'
 title: La costilla de Trump
 app_links: []
 publisher:
@@ -20,8 +20,9 @@ description: >-
   "elegancia natural" y una persona quien tiene pasión por las artes, la
   arquitectura, el diseño, la moda y la belleza.
 inLanguage: es
-starred: true
 inFeed: true
+starred: true
+datePublishedOriginal: '2016-11-09T21:05:37.783Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
