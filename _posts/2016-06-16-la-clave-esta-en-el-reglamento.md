@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-09T21:05:37.808Z'
+datePublished: '2016-12-07T00:45:49.054Z'
 sourcePath: _posts/2016-06-16-la-clave-esta-en-el-reglamento.md
 inFeed: true
 isBasedOnUrl: null
@@ -7,7 +7,7 @@ authors: []
 hasPage: false
 keywords: []
 author: []
-dateModified: '2016-11-09T21:05:34.894Z'
+dateModified: '2016-12-07T00:45:44.113Z'
 title: La clave está en el reglamento
 publisher: {}
 description: >-
@@ -57,8 +57,9 @@ description: >-
   dentro de poco, pueda decir lo mismo del reglamento estatal de transportes.
   Realmente lo espero.
 inLanguage: null
-starred: true
 via: {}
+starred: true
+datePublishedOriginal: '2016-11-09T21:05:37.808Z'
 _type: Blurb
 
 ---
