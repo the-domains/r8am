@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-09T21:05:37.801Z'
+datePublished: '2016-12-07T00:45:49.036Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-06-28/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-11-09T21:05:34.894Z'
+dateModified: '2016-12-07T00:45:44.113Z'
 title: La prensa contra el monstruo bicéfalo
 app_links: []
 publisher:
@@ -19,9 +19,10 @@ description: >-
   opacas y, la mayoría de las veces, poco eficaces.
 inLanguage: es
 sourcePath: _posts/2016-06-28-la-prensa-contra-el-monstruo-bicefalo.md
-starred: true
 via: {}
 inFeed: true
+starred: true
+datePublishedOriginal: '2016-11-09T21:05:37.801Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
