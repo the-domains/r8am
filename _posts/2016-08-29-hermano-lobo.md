@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-29T15:12:14.864Z'
+datePublished: '2016-12-07T01:07:03.037Z'
 sourcePath: _posts/2016-08-29-hermano-lobo.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-29T15:12:14.014Z'
+dateModified: '2016-12-07T01:06:56.960Z'
 title: El hermano lobo
 publisher:
   name: Pablo A. Cicero Alonzo
@@ -13,13 +13,14 @@ description: >-
   En lo más crudo del invierno, una manada de lobos huye de la fría muerte. Son
   veinticinco y marchan en fila india. La escena fue captada por un equipo de la
   BBC, dirigido por Chadden Hunter, en el Parque Nacional Wood Buffalo, en
-  Alberta. Estaba grabando escenas para el documental Frozen Planet. Esta imagen
+  Alberta. Estaba grabando escenas para el documental Frozen Planet.Esta imagen
   se popularizó en las redes sociales, en donde se explicaba que los primeros
   tres lobos de la fila son los viejos o enfermos, quienes dan el ritmo a toda
   la manada. Si fuera al revés, se apuntaba, serían dejados atrás, perdiendo el
   contacto con la manada. Le siguen los cinco animales más fuertes, en la línea
   del frente.
 starred: true
+datePublishedOriginal: '2016-09-28T22:57:37.428Z'
 url: hermano-lobo/index.html
 _type: Article
 
