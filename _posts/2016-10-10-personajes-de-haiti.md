@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-08T05:20:53.901Z'
+datePublished: '2016-12-07T00:45:49.182Z'
 sourcePath: _posts/2016-10-10-personajes-de-haiti.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-08T05:20:53.081Z'
+dateModified: '2016-12-07T00:45:44.113Z'
 title: Personajes de Haití
 publisher:
   name: Pablo A. Cicero Alonzo
@@ -20,6 +20,7 @@ description: >-
   de perfiles con los colores de la bandera de esa nación, la primera en lograr
   su independencia en América.
 starred: true
+datePublishedOriginal: '2016-11-08T05:20:53.901Z'
 url: personajes-de-haiti/index.html
 _type: Article
 
