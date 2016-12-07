@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-08T05:19:47.554Z'
+datePublished: '2016-12-07T00:45:51.553Z'
 sourcePath: _posts/2016-10-17-lecciones-suecas-de-anatomia.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-08T05:19:47.229Z'
+dateModified: '2016-12-07T00:45:44.113Z'
 title: Lecciones —suecas— de anatomía
 publisher:
   name: Pablo A. Cicero Alonzo
@@ -25,6 +25,7 @@ description: >-
   cinco y medio litros de sangre, el líquido rojo que circula por venas y
   arterias.
 starred: true
+datePublishedOriginal: '2016-11-08T05:19:47.554Z'
 url: lecciones-suecas-de-anatomia/index.html
 _type: Article
 
