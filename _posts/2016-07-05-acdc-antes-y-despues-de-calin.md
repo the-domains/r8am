@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-09T21:05:37.797Z'
+datePublished: '2016-12-07T00:45:48.988Z'
 sourcePath: _posts/2016-07-05-acdc-antes-y-despues-de-calin.md
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-07-05/Reporte-8AM'
 keywords: []
 related: []
 author: []
-dateModified: '2016-11-09T21:05:34.894Z'
+dateModified: '2016-12-07T00:45:44.113Z'
 title: AC/DC (Antes y Después de Calín)
 app_links: []
 publisher:
@@ -19,9 +19,10 @@ description: >-
   incluso con deportarme. "Sabemos lo que haces en el periódico, mexicanito", me
   gritaban. "Aquí no puedes venir y publicar lo que te plazca".
 inLanguage: es
-starred: true
 via: {}
 inFeed: true
+starred: true
+datePublishedOriginal: '2016-11-09T21:05:37.797Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
