@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-09T14:10:26.371Z'
+datePublished: '2016-12-07T00:45:49.081Z'
 sourcePath: _posts/2016-11-09-anomalias-de-la-democracia.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-09T14:10:25.894Z'
+dateModified: '2016-12-07T00:45:44.113Z'
 title: ANOMALÍAS DE LA DEMOCRACIA
 publisher:
   name: PABLO A. CICERO ALONZO
@@ -17,6 +17,7 @@ description: >-
   Riccardo Ehrman, y entonces era corresponsal de la agencia italiana Ansa en
   Berlín.
 starred: true
+datePublishedOriginal: '2016-11-09T14:10:26.371Z'
 url: anomalias-de-la-democracia/index.html
 _type: Article
 
