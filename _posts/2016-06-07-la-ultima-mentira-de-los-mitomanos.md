@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-09T21:05:37.812Z'
+datePublished: '2016-12-07T00:45:51.522Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-06-07/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-11-09T21:05:34.894Z'
+dateModified: '2016-12-07T00:45:44.113Z'
 title: 'La última mentira de los mitómanos '
 app_links: []
 publisher:
@@ -22,8 +22,9 @@ sourcePath: _posts/2016-06-07-la-ultima-mentira-de-los-mitomanos.md
 inFeed: true
 hasPage: false
 authors: []
-starred: true
 via: {}
+starred: true
+datePublishedOriginal: '2016-11-09T21:05:37.812Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
