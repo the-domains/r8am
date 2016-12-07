@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-09T21:05:57.079Z'
+datePublished: '2016-12-07T01:07:02.979Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-09T21:05:55.339Z'
+dateModified: '2016-12-07T01:06:56.960Z'
 title: 'Mr. Bean, Cosmo Kramer, Sheldon Cooper… Y Videgaray'
 publisher: {}
 description: >-
@@ -18,6 +18,7 @@ description: >-
   dedos mientras fruncía el ceño. Pocas veces usaba la calculadora”.
 sourcePath: _posts/2016-09-06-mr-bean-cosmo-kramer-sheldon-cooper-y-videgaray.md
 starred: true
+datePublishedOriginal: '2016-11-09T21:05:57.079Z'
 url: mr-bean-cosmo-kramer-sheldon-cooper-y-videgaray/index.html
 _type: Article
 
