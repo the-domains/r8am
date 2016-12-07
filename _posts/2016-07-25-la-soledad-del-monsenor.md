@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-09T21:05:37.788Z'
+datePublished: '2016-12-07T00:45:48.948Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-07-22/Reporte-8-am'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-11-09T21:05:34.894Z'
+dateModified: '2016-12-07T00:45:44.113Z'
 title: La soledad del monseñor
 app_links: []
 publisher:
@@ -20,8 +20,9 @@ description: >-
   cumple 50 años de ordenación sacerdotal.
 inLanguage: es
 sourcePath: _posts/2016-07-25-la-soledad-del-monsenor.md
-starred: false
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-09T21:05:37.788Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
