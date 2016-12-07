@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-17T16:28:45.529Z'
+datePublished: '2016-12-07T00:45:49.081Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-17T16:28:36.585Z'
+dateModified: '2016-12-07T00:45:44.113Z'
 title: EJIDÓFAGOS
 publisher: {}
 description: >-
@@ -52,8 +52,9 @@ description: >-
   un tratamiento de cintarazos. Con nuestros propios engullidores de
   propiedades, podemos ahorrarnos los menjurjes y pasar directo a los fajazos.
   Mínimo.
-starred: true
 sourcePath: _posts/2016-11-17-ejidofagos.md
+starred: true
+datePublishedOriginal: '2016-11-17T16:28:45.529Z'
 url: ejidofagos/index.html
 _type: Article
 
