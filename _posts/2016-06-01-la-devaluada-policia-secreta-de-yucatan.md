@@ -9,8 +9,8 @@ description: >-
   junio, 2016 En la era de Galileo, no el astrónomo sino el sistema de
   espionaje, llama la atención la presencia de "orejas" en diversos escenarios
   de Yucatán.
-datePublished: '2016-11-09T21:05:37.812Z'
-dateModified: '2016-11-09T21:05:34.894Z'
+datePublished: '2016-12-07T00:45:49.080Z'
+dateModified: '2016-12-07T00:45:44.113Z'
 author: []
 related: []
 app_links: []
@@ -22,8 +22,9 @@ publisher:
   url: 'https://www.lajornadamaya.mx'
   favicon: 'https://static.lajornadamaya.mx/v2/favicon.png'
 sourcePath: _posts/2016-06-01-la-devaluada-policia-secreta-de-yucatan.md
-starred: false
 via: {}
+starred: false
+datePublishedOriginal: '2016-11-09T21:05:37.812Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
