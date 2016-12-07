@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-01T14:26:46.582Z'
+datePublished: '2016-12-07T01:07:02.458Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-02-24/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-01T05:17:36.665Z'
+dateModified: '2016-12-07T01:06:56.960Z'
 title: 'Shakespeare en el trópico '
 app_links: []
 publisher:
@@ -12,13 +12,17 @@ publisher:
   name: Lajornadamaya
   favicon: 'https://static.lajornadamaya.mx/v2/favicon.png'
   domain: www.lajornadamaya.mx
-description: 'Pablo A. Cicero AlonzoIlustración: Marcelo SantosLa Jornada Maya 24 de febrero, 2016 Dos familias de parecidos linajes; un estado, Quintana Roo, lugar de nuestra escena, y un odio antiguo que engendra un nuevo odio. La sangre de la ciudad mancha de sangre al ciudadano.'
+description: >-
+  Pablo A. Cicero AlonzoIlustración: Marcelo SantosLa Jornada Maya 24 de
+  febrero, 2016 Dos familias de parecidos linajes; un estado, Quintana Roo,
+  lugar de nuestra escena, y un odio antiguo que engendra un nuevo odio. La
+  sangre de la ciudad mancha de sangre al ciudadano.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-06-01-shakespeare-en-el-tropico.md
+starred: false
+datePublishedOriginal: '2016-06-01T14:26:46.582Z'
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
