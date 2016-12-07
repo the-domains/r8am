@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-09T21:05:37.803Z'
+datePublished: '2016-12-07T00:45:48.911Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-07-06/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-11-09T21:05:34.894Z'
+dateModified: '2016-12-07T00:45:44.113Z'
 title: La última tribu de tinta
 app_links: []
 publisher:
@@ -20,9 +20,10 @@ description: >-
   indiciados.
 inLanguage: es
 sourcePath: _posts/2016-07-06-la-ultima-tribu-de-tinta.md
-starred: true
 via: {}
 inFeed: true
+starred: true
+datePublishedOriginal: '2016-11-09T21:05:37.803Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
