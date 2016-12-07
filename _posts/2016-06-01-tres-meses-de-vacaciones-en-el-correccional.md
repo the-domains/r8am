@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-09T21:05:37.943Z'
+datePublished: '2016-12-07T01:07:02.363Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-03-28/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-11-09T21:05:34.894Z'
+dateModified: '2016-12-07T01:06:56.960Z'
 title: 'Tres meses de vacaciones en el correccional '
 app_links: []
 publisher:
@@ -20,9 +20,10 @@ description: >-
   interrogantes sobre nuestro presente y futuro.
 inLanguage: es
 sourcePath: _posts/2016-06-01-tres-meses-de-vacaciones-en-el-correccional.md
-starred: false
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-09T21:05:37.943Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
