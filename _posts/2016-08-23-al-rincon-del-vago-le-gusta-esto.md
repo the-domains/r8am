@@ -4,8 +4,8 @@ hasPage: true
 inLanguage: null
 keywords: []
 description: 'Sigue leyendo: https://www.lajornadamaya.mx/2016-08-23/Reporte-8AM'
-datePublished: '2016-11-09T21:05:57.100Z'
-dateModified: '2016-11-09T21:05:55.339Z'
+datePublished: '2016-12-07T01:07:03.154Z'
+dateModified: '2016-12-07T01:06:56.960Z'
 title: Al «Rincón del vago» le gusta esto
 author: []
 via: {}
@@ -13,6 +13,7 @@ sourcePath: _posts/2016-08-23-al-rincon-del-vago-le-gusta-esto.md
 authors: []
 publisher: {}
 starred: true
+datePublishedOriginal: '2016-11-09T21:05:57.100Z'
 url: al-rincon-del-vago-le-gusta-esto/index.html
 _type: Article
 
