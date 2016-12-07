@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-09T21:05:37.952Z'
+datePublished: '2016-12-07T01:07:02.458Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-03-15/8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-11-09T21:05:34.894Z'
+dateModified: '2016-12-07T01:06:56.960Z'
 title: 'Las muertas no votan '
 app_links: []
 publisher:
@@ -19,9 +19,10 @@ description: >-
   tendrán en mente a las cinco asesinadas en lo que va de este 2016.
 inLanguage: es
 sourcePath: _posts/2016-06-01-las-muertas-no-votan.md
-starred: false
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-09T21:05:37.952Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
