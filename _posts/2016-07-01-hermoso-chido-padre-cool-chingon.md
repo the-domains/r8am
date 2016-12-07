@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-09T21:05:37.793Z'
+datePublished: '2016-12-07T00:45:49.023Z'
 isBasedOnUrl: 'https://soundcloud.com/pablo-cicero-220728053/01-07-2016-10-02-45-am'
 keywords: []
 related: []
@@ -7,7 +7,7 @@ author:
   - name: Pablo Cicero
     url: 'http://soundcloud.com/pablo-cicero-220728053'
     avatar: {}
-dateModified: '2016-11-09T21:05:34.894Z'
+dateModified: '2016-12-07T00:45:44.113Z'
 title: 'Hermoso, chido, padre, cool, chingón'
 app_links:
   - type: ios
@@ -57,9 +57,10 @@ description: >-
   maquinaria, un poco oxidada, chirrió hasta ponerse a toda marcha, mostrando un
   músculo que muchos, incluso yo, pensábamos que ya no tenía.
 sourcePath: _posts/2016-07-01-hermoso-chido-padre-cool-chingon.md
-starred: false
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-09T21:05:37.793Z'
 _context: 'http://schema.org'
 _type: AudioObject
 
