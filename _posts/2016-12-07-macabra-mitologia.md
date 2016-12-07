@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-07T23:18:18.307Z'
+datePublished: '2016-12-07T23:20:48.384Z'
 sourcePath: _posts/2016-12-07-macabra-mitologia.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-07T23:18:17.101Z'
+dateModified: '2016-12-07T23:20:47.558Z'
 title: Macabra mitología
 publisher:
   name: Pablo A. Cicero Alonzo
@@ -37,8 +37,6 @@ _type: Article
 
 Como todos los años, cientos, miles de mexicanos se preparan para emigrar. Como la mariposa monarca, partirán del Norte rumbo al Sur, donde se reencontrarán con sus familiares, separados por la necesidad y la falta de oportunidades. Llevan por equipaje recuerdos y dólares, que repartirán con generosidad en la tierra que los empujó a partir. En ese periplo serán, en muchas ocasiones, extorsionados, principalmente por autoridades mexicanas, que saben que sus paisanos vienen con dinero y con prisa.   
 En esta ocasión, además de enfrentarse en la ida a los depredadores de su país, en el regreso se toparán con un muro de odio y racismo, erigido con cada uno de los votos con los que obtuvo la victoria Donald Trump. El triunfo del republicano no sólo significará un giro radical en la política estadounidense, sino que también generará cambios sociales sustanciales. La violenta retórica del magnate ha despertado al juez Holden.
-
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/001e3389e5a037b1f67f8deee7992c28d12dbc99.png" /><h1>Telegram: Share Web Page</h1></article>
 
 ---
 
