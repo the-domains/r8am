@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-07T00:45:51.801Z'
+datePublished: '2016-12-07T01:07:03.010Z'
 sourcePath: _posts/2016-10-20-el-poder-es-cosa-de-tres.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-07T00:45:44.113Z'
+dateModified: '2016-12-07T01:06:56.960Z'
 title: El poder es cosa de tres
 publisher:
   name: Pablo A. Cicero(n) Alonzo
