@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-08T19:01:11.075Z'
+datePublished: '2016-12-07T00:45:49.135Z'
 sourcePath: _posts/2016-11-08-atomico-solalinde.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-08T19:01:09.854Z'
+dateModified: '2016-12-07T00:45:44.113Z'
 title: Atómico Solalinde
 publisher:
   name: Pablo A. Cicero Alonzo
@@ -21,6 +21,7 @@ description: >-
   cabeza. Dice lo que todos piensan pero nadie se atreve a decir. Pequeñito,
   inmenso. Todo él una contradicción. Solalinde Superstar.
 starred: true
+datePublishedOriginal: '2016-11-08T19:01:11.075Z'
 url: atomico-solalinde/index.html
 _type: Article
 
