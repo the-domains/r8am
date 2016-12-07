@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-12-07T01:07:02.953Z'
+datePublished: '2016-12-07T01:08:59.682Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-12-07T01:06:59.211Z'
+dateModified: '2016-12-07T01:08:52.695Z'
 title: San Francisco Noir
 publisher:
   name: Fred Lyon
