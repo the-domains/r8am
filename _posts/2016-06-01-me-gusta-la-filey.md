@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-09T21:05:37.953Z'
+datePublished: '2016-12-07T01:07:02.455Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-03-13/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-11-09T21:05:34.894Z'
+dateModified: '2016-12-07T01:06:56.960Z'
 title: 'Me gusta la Filey '
 app_links: []
 publisher:
@@ -18,9 +18,10 @@ description: >-
   el primer libro que me llame la atención.
 inLanguage: es
 sourcePath: _posts/2016-06-01-me-gusta-la-filey.md
-starred: false
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-09T21:05:37.953Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
