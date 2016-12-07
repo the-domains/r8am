@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-09T21:05:37.793Z'
+datePublished: '2016-12-07T00:45:49.021Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-07-07/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-11-09T21:05:34.894Z'
+dateModified: '2016-12-07T00:45:44.113Z'
 title: El sur jodido
 app_links: []
 publisher:
@@ -20,9 +20,10 @@ description: >-
   racial.
 inLanguage: es
 sourcePath: _posts/2016-07-07-el-sur-jodido.md
-starred: true
 via: {}
 inFeed: true
+starred: true
+datePublishedOriginal: '2016-11-09T21:05:37.793Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
