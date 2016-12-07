@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-09T21:05:57.079Z'
+datePublished: '2016-12-07T01:07:02.990Z'
 sourcePath: _posts/2016-09-02-me-dan-como-que-hueva-las-redes-sociales.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-09T21:05:55.339Z'
+dateModified: '2016-12-07T01:06:56.960Z'
 title: “Me dan como que hueva las redes sociales”
 publisher:
   name: Pablo A. Cicero Alonzo
@@ -27,6 +27,7 @@ description: >-
   siguen la Internet (21 por ciento), los periódicos (9.8 por ciento), las redes
   sociales (9.4 por ciento) y la radio (7.3 por ciento).
 starred: true
+datePublishedOriginal: '2016-11-09T21:05:57.079Z'
 url: me-dan-como-que-hueva-las-redes-sociales/index.html
 _type: Article
 
