@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-09T21:05:37.955Z'
+datePublished: '2016-12-07T01:07:02.364Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-03-14/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-11-09T21:05:34.894Z'
+dateModified: '2016-12-07T01:06:56.960Z'
 title: 'Para que no se te suba a la cabeza '
 app_links: []
 publisher:
@@ -20,9 +20,10 @@ description: >-
   amenazantes, sobre él y sus colaboradores.
 inLanguage: es
 sourcePath: _posts/2016-06-01-para-que-no-se-te-suba-a-la-cabeza.md
-starred: false
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-09T21:05:37.955Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
