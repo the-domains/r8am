@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-07T00:45:49.135Z'
+datePublished: '2016-12-07T01:07:03.011Z'
 sourcePath: _posts/2016-11-08-atomico-solalinde.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-07T00:45:44.113Z'
+dateModified: '2016-12-07T01:06:56.960Z'
 title: Atómico Solalinde
 publisher:
   name: Pablo A. Cicero Alonzo
