@@ -1,28 +1,28 @@
 ---
-datePublished: '2016-08-26T15:12:18.720Z'
-sourcePath: _posts/2016-08-26-los-periodicos-sirven-para-limpiar-vidrios.md
 inFeed: true
-authors: []
 hasPage: true
+inLanguage: null
 keywords: []
-author: []
-via: {}
-dateModified: '2016-08-26T15:12:17.437Z'
-title: “Los periódicos sirven para limpiar vidrios…”
-publisher:
-  name: Pablo A. Cicero Alonzo
-  domain: null
-  url: null
-  favicon: null
 description: >-
   Así piensa y así lo expresó Rosario Robles Berlanga, secretaria federal de
   Desarrollo Agrario, Territorial y Urbano (Sedatu). Fue uno de los argumentos
   que utilizó la funcionaria federal para defender al indefendible César Duarte
   Jáquez, gobernador de Chihuahua, acusado de enriquecimiento ilícito y que
   dejará la entidad con una deuda de 50 mil millones de pesos.
-inLanguage: null
-inNav: false
+datePublished: '2016-12-07T01:07:02.977Z'
+dateModified: '2016-12-07T01:06:59.211Z'
+title: “Los periódicos sirven para limpiar vidrios…”
+author: []
+via: {}
+sourcePath: _posts/2016-08-26-los-periodicos-sirven-para-limpiar-vidrios.md
+authors: []
+publisher:
+  name: Pablo A. Cicero Alonzo
+  domain: null
+  url: null
+  favicon: null
 starred: true
+datePublishedOriginal: '2016-09-28T22:57:37.427Z'
 url: los-periodicos-sirven-para-limpiar-vidrios/index.html
 _type: Article
 
