@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-09T21:05:37.776Z'
+datePublished: '2016-12-07T00:45:49.023Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-07-25/Reporte-8am'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-11-09T21:05:34.894Z'
+dateModified: '2016-12-07T00:45:44.113Z'
 title: Marigualandia
 app_links: []
 publisher:
@@ -19,8 +19,9 @@ description: >-
   públicos, como parques, o conduciendo.
 inLanguage: es
 sourcePath: _posts/2016-07-25-marigualandia.md
-starred: false
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-09T21:05:37.776Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
