@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-01T14:26:46.216Z'
+datePublished: '2016-12-07T01:07:02.393Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-03-01/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-01T05:19:37.050Z'
+dateModified: '2016-12-07T01:06:56.960Z'
 title: 'El cadáver más triste del mundo '
 app_links: []
 publisher:
@@ -12,13 +12,17 @@ publisher:
   name: Lajornadamaya
   favicon: 'https://static.lajornadamaya.mx/v2/favicon.png'
   domain: www.lajornadamaya.mx
-description: 'Pablo A. Cicero Alonzo Foto: Raúl AnguloLa Jornada Maya 1º de marzo, 2016 Hoy, llámame Ismael, como el náufrago de la pesadilla de Ahab. El domingo, día de guardar, varó en el muelle de pescadores del puerto de Progreso un descomunal cadáver.'
+description: >-
+  Pablo A. Cicero Alonzo Foto: Raúl AnguloLa Jornada Maya 1º de marzo, 2016 Hoy,
+  llámame Ismael, como el náufrago de la pesadilla de Ahab. El domingo, día de
+  guardar, varó en el muelle de pescadores del puerto de Progreso un descomunal
+  cadáver.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-06-01-el-cadaver-mas-triste-del-mundo.md
+starred: false
+datePublishedOriginal: '2016-06-01T14:26:46.216Z'
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
