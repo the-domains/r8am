@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-01T14:26:46.282Z'
+datePublished: '2016-12-07T01:07:02.425Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-02-26/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-01T05:18:24.303Z'
+dateModified: '2016-12-07T01:06:56.960Z'
 title: 'Prometeo encadenado o Vincent Vega confundido '
 app_links: []
 publisher:
@@ -12,13 +12,18 @@ publisher:
   name: Lajornadamaya
   favicon: 'https://static.lajornadamaya.mx/v2/favicon.png'
   domain: www.lajornadamaya.mx
-description: 'Pablo A. Cicero AlonzoFoto: Rodrigo Díaz GuzmánLa Jornada Maya 26 de febrero, 2016 Si el parque está en peligro, "me encadeno con ustedes", clamó el diputado federal Pablo Gamboa Miner, cuando se reunió con vecinos del fraccionamiento Francisco de Montejo que se oponen a la construcción de un centro de salud ahí.'
+description: >-
+  Pablo A. Cicero AlonzoFoto: Rodrigo Díaz GuzmánLa Jornada Maya 26 de febrero,
+  2016 Si el parque está en peligro, "me encadeno con ustedes", clamó el
+  diputado federal Pablo Gamboa Miner, cuando se reunió con vecinos del
+  fraccionamiento Francisco de Montejo que se oponen a la construcción de un
+  centro de salud ahí.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-06-01-prometeo-encadenado-o-vincent-vega-confundido.md
+starred: false
+datePublishedOriginal: '2016-06-01T14:26:46.282Z'
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
