@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-09T21:05:37.804Z'
+datePublished: '2016-12-07T00:45:49.055Z'
 isBasedOnUrl: 'https://www.youtube.com/watch?v=2DLnhdnSUVs'
 keywords:
   - einaudi
@@ -17,7 +17,7 @@ author:
   - name: Ludovico Einaudi
     url: 'https://www.youtube.com/user/ludovicoeinaudi'
     avatar: {}
-dateModified: '2016-11-09T21:05:34.894Z'
+dateModified: '2016-12-07T00:45:44.113Z'
 title: Elegy for the Arctic
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=2DLnhdnSUVs&feature=applinks'
@@ -77,9 +77,10 @@ description: >-
   según un comunicado.
 inLanguage: en
 sourcePath: _posts/2016-06-21-elegy-for-the-arctic.md
-starred: true
 via: {}
 inFeed: true
+starred: true
+datePublishedOriginal: '2016-11-09T21:05:37.804Z'
 _context: 'http://schema.org'
 _type: VideoObject
 
