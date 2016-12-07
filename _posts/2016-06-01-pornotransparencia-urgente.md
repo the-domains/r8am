@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-01T14:26:46.299Z'
+datePublished: '2016-12-07T01:07:02.460Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-02-25/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-01T05:17:59.783Z'
+dateModified: '2016-12-07T01:06:56.960Z'
 title: 'Pornotransparencia urgente '
 app_links: []
 publisher:
@@ -12,13 +12,17 @@ publisher:
   name: Lajornadamaya
   favicon: 'https://static.lajornadamaya.mx/v2/favicon.png'
   domain: www.lajornadamaya.mx
-description: 'Pablo A. Cicero AlonzoLa Jornada Maya 25 de febrero, 2016 La premisa principal de la iniciativa de ley 3 de 3 es la obligación de todos los funcionarios públicos de hacer públicas tres declaraciones: patrimonial, de intereses y fiscal.'
+description: >-
+  Pablo A. Cicero AlonzoLa Jornada Maya 25 de febrero, 2016 La premisa principal
+  de la iniciativa de ley 3 de 3 es la obligación de todos los funcionarios
+  públicos de hacer públicas tres declaraciones: patrimonial, de intereses y
+  fiscal.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-06-01-pornotransparencia-urgente.md
+starred: false
+datePublishedOriginal: '2016-06-01T14:26:46.299Z'
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
