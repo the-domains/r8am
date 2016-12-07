@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-01T14:26:45.893Z'
+datePublished: '2016-12-07T01:07:02.458Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-03-03/Reporte-8AM'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-01T05:20:15.100Z'
+dateModified: '2016-12-07T01:06:56.960Z'
 title: 'Entre El Ecoloco y Diógenes '
 app_links: []
 publisher:
@@ -12,13 +12,18 @@ publisher:
   name: Lajornadamaya
   favicon: 'https://static.lajornadamaya.mx/v2/favicon.png'
   domain: www.lajornadamaya.mx
-description: 'Pablo A. Cicero AlonzoFoto: Rodrigo Díaz GuzmánLa Jornada Maya 3 de marzo, 2016 Se llamaba Jorge Gallareta Gamboa, y le decían El Ecoloco. Todos los años, el Ayuntamiento realizaba un operativo para limpiar su casa, ubicada cerca de los juzgados civiles. En julio 2004, según se reportó, las autoridades sacaron cien toneladas de basura de la vivienda.'
+description: >-
+  Pablo A. Cicero AlonzoFoto: Rodrigo Díaz GuzmánLa Jornada Maya 3 de marzo,
+  2016 Se llamaba Jorge Gallareta Gamboa, y le decían El Ecoloco. Todos los
+  años, el Ayuntamiento realizaba un operativo para limpiar su casa, ubicada
+  cerca de los juzgados civiles. En julio 2004, según se reportó, las
+  autoridades sacaron cien toneladas de basura de la vivienda.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-06-01-entre-el-ecoloco-y-diogenes.md
+starred: false
+datePublishedOriginal: '2016-06-01T14:26:45.893Z'
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
