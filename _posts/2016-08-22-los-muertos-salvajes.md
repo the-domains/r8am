@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-09T21:05:57.096Z'
+datePublished: '2016-12-07T01:07:03.010Z'
 sourcePath: _posts/2016-08-22-los-muertos-salvajes.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-11-09T21:05:55.339Z'
+dateModified: '2016-12-07T01:06:56.960Z'
 title: Los muertos salvajes
 publisher:
   name: Pablo A. Cicero Alonzo
@@ -25,6 +25,7 @@ description: >-
   el escritor Ignacio Padilla.
 inLanguage: null
 starred: true
+datePublishedOriginal: '2016-11-09T21:05:57.096Z'
 url: los-muertos-salvajes/index.html
 _type: Article
 
