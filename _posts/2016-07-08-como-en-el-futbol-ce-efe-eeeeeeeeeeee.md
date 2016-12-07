@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-09T21:05:37.783Z'
+datePublished: '2016-12-07T00:45:49.054Z'
 sourcePath: _posts/2016-07-08-como-en-el-futbol-ce-efe-eeeeeeeeeeee.md
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-07-08/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-11-09T21:05:34.894Z'
+dateModified: '2016-12-07T00:45:44.113Z'
 title: ' Como en el fútbol: “¡Ce Efe Eeeeeeeeeeee……!”'
 app_links: []
 publisher:
@@ -20,9 +20,10 @@ description: >-
   las lluvias, aunque la gran mayoría de estas se debe a sus vetustas
   instalaciones y equipos y a la paquidérmica lentitud de sus cuadrillas.
 inLanguage: es
-starred: true
 via: {}
 inFeed: true
+starred: true
+datePublishedOriginal: '2016-11-09T21:05:37.783Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
