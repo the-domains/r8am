@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-07T01:07:02.989Z'
+datePublished: '2016-12-07T01:08:59.687Z'
 sourcePath: _posts/2016-09-15-mandar-al-diablo-a-la-cultura.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-07T01:06:56.960Z'
+dateModified: '2016-12-07T01:08:52.695Z'
 title: Mandar al diablo a la cultura
 publisher:
   name: Pablo A. Cicero Alonzo
