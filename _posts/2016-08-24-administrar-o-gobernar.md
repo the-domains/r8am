@@ -15,8 +15,8 @@ description: >-
   pesar de que se ha convertido en una de las ciudades mejor evaluadas del país,
   tiene, por mucho, un presupuesto menor al de muchas otras urbes con
   características similares.
-datePublished: '2016-11-09T21:05:57.091Z'
-dateModified: '2016-11-09T21:05:55.339Z'
+datePublished: '2016-12-07T01:07:03.152Z'
+dateModified: '2016-12-07T01:06:56.960Z'
 title: ¿Administrar o gobernar?
 author: []
 via: {}
@@ -24,6 +24,7 @@ sourcePath: _posts/2016-08-24-administrar-o-gobernar.md
 authors: []
 publisher: {}
 starred: true
+datePublishedOriginal: '2016-11-09T21:05:57.091Z'
 url: administrar-o-gobernar/index.html
 _type: Article
 
