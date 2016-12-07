@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-09T21:05:37.769Z'
+datePublished: '2016-12-07T00:45:48.950Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-07-21/8-am'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-11-09T21:05:34.894Z'
+dateModified: '2016-12-07T00:45:44.113Z'
 title: Para el anciano que seré
 app_links: []
 publisher:
@@ -23,8 +23,9 @@ description: >-
   haber sido.
 inLanguage: es
 sourcePath: _posts/2016-07-21-para-el-anciano-que-sere.md
-starred: false
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-09T21:05:37.769Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
