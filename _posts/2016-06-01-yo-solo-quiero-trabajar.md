@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-09T21:05:37.955Z'
+datePublished: '2016-12-07T01:07:02.393Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-03-16/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-11-09T21:05:34.894Z'
+dateModified: '2016-12-07T01:06:56.960Z'
 title: 'Yo sólo quiero trabajar '
 app_links: []
 publisher:
@@ -20,9 +20,10 @@ description: >-
   Estado de derecho y la transparencia y la rendición de cuentas.
 inLanguage: es
 sourcePath: _posts/2016-06-01-yo-solo-quiero-trabajar.md
-starred: false
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-09T21:05:37.955Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
