@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-09T21:05:57.096Z'
+datePublished: '2016-12-07T01:07:03.010Z'
 sourcePath: _posts/2016-08-31-los-suenos-de-los-otros.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-09T21:05:55.339Z'
+dateModified: '2016-12-07T01:06:56.960Z'
 title: Los sueños de los otros
 publisher:
   name: Pablo A. Cicero Alonzo
@@ -19,6 +19,7 @@ description: >-
   es parte de ese grupo de ex alumnos y hermanos maristas que trabajaron para
   que esta universidad sea lo que hoy es.
 starred: false
+datePublishedOriginal: '2016-11-09T21:05:57.096Z'
 url: los-suenos-de-los-otros/index.html
 _type: Article
 
