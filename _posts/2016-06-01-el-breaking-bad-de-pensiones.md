@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-01T14:26:45.796Z'
+datePublished: '2016-12-07T01:07:02.461Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-03-08/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-01T05:21:00.419Z'
+dateModified: '2016-12-07T01:06:56.960Z'
 title: 'El Breaking Bad de Pensiones '
 app_links: []
 publisher:
@@ -12,13 +12,17 @@ publisher:
   name: Lajornadamaya
   favicon: 'https://static.lajornadamaya.mx/v2/favicon.png'
   domain: www.lajornadamaya.mx
-description: 'Pablo A. Cicero AlonzoFoto: La Jornada Maya 8 de marzo, 2016 Guía básica de cultivo de mariguana con leds. Este manual lo puedes encontrar fácilmente en la Internet, y ofrece un recuento detallado de consejos para que la planta crezca.'
+description: >-
+  Pablo A. Cicero AlonzoFoto: La Jornada Maya 8 de marzo, 2016 Guía básica de
+  cultivo de mariguana con leds. Este manual lo puedes encontrar fácilmente en
+  la Internet, y ofrece un recuento detallado de consejos para que la planta
+  crezca.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-06-01-el-breaking-bad-de-pensiones.md
+starred: false
+datePublishedOriginal: '2016-06-01T14:26:45.796Z'
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
