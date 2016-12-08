@@ -22,7 +22,7 @@ analytics:
   facebook: '506767772843593'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c481c112-a804-46b7-92a8-67878132ce2d.png
-name: R8AM
+name: 8AM
 cta:
   bucket: null
   version: null
@@ -31,9 +31,6 @@ navigation:
   - name: Una historia trágica
     url: >-
       https://thegrid.ai/por-entregas/todo-lo-que-se-describe-en-este-relato-sucedio-en-realidad
-    type: external
-  - name: Sígueme en redes sociales
-    url: 'https://twitter.com/PabloCicero'
     type: external
   - name: Reporte 6PM
     url: 'http://thegrid.ai/6pm/'
