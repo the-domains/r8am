@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-12-07T01:07:02.979Z'
+datePublished: '2016-12-12T19:44:57.681Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-07T01:06:56.960Z'
+dateModified: '2016-12-12T19:44:52.061Z'
 title: 'Mr. Bean, Cosmo Kramer, Sheldon Cooper… Y Videgaray'
 publisher: {}
 description: >-
