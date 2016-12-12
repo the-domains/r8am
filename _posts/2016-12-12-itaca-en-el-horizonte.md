@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2016-12-12T19:43:27.414Z'
-datePublished: '2016-12-12T19:43:28.138Z'
+dateModified: '2016-12-12T19:44:52.061Z'
+datePublished: '2016-12-12T19:44:57.578Z'
 title: Ítaca en el horizonte
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2016-12-12-itaca-en-el-horizonte.md
 starred: false
 datePublishedOriginal: '2016-12-12T19:43:28.138Z'
-sourcePath: _posts/2016-12-12-itaca-en-el-horizonte.md
 url: itaca-en-el-horizonte/index.html
 _type: Article
 
