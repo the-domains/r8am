@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-07T01:07:03.035Z'
+datePublished: '2016-12-12T19:44:57.690Z'
 sourcePath: _posts/2016-11-11-the-fck-you-nation.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-07T01:06:56.960Z'
+dateModified: '2016-12-12T19:44:52.061Z'
 title: THE F*CK YOU! NATION
 publisher:
   name: PABLO A. CICERO ALONZO
