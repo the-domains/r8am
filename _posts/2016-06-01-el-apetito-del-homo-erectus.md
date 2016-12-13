@@ -1,25 +1,22 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-05-25/Reporte-8-am'
 inLanguage: es
 keywords: []
 description: ''
-datePublished: '2016-06-01T14:41:06.756Z'
-dateModified: '2016-06-01T14:40:56.488Z'
+datePublished: '2016-12-13T17:02:23.980Z'
+dateModified: '2016-09-30T15:54:58.987Z'
 related: []
 author: []
 title: ''
 app_links: []
 authors: []
-publisher:
-  name: Lajornadamaya
-  domain: www.lajornadamaya.mx
-  url: 'https://www.lajornadamaya.mx'
-  favicon: 'https://static.lajornadamaya.mx/v2/favicon.png'
+publisher: {}
 sourcePath: _posts/2016-06-01-el-apetito-del-homo-erectus.md
-starred: true
+via: {}
+starred: false
+datePublishedOriginal: '2016-12-13T17:02:23.980Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
