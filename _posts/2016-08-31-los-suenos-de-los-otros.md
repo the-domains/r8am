@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-12T19:44:57.666Z'
+datePublished: '2016-12-13T15:53:57.779Z'
 sourcePath: _posts/2016-08-31-los-suenos-de-los-otros.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-12T19:44:52.061Z'
+dateModified: '2016-12-13T15:53:52.790Z'
 title: Los sueños de los otros
 publisher:
   name: Pablo A. Cicero Alonzo
