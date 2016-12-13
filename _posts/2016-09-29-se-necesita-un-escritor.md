@@ -1,0 +1,43 @@
+---
+datePublished: '2016-12-13T17:02:20.083Z'
+sourcePath: _posts/2016-09-29-se-necesita-un-escritor.md
+inFeed: true
+hasPage: true
+author: []
+via: {}
+dateModified: '2016-09-30T17:01:34.580Z'
+title: Se necesita un escritor
+publisher:
+  name: Gabriel García Márquez
+  url: >-
+    http://cultura.elpais.com/cultura/2014/04/20/actualidad/1398019688_432401.html
+description: >-
+  Las manos de Gabriel García Márquez, fotografiadas para el libro 'Rebeldía de
+  Nobel', de Xavi Ayén. KIM MANRESA
+starred: true
+datePublishedOriginal: '2016-12-13T17:02:20.083Z'
+url: se-necesita-un-escritor/index.html
+_type: Article
+
+---
+![Las manos de Gabriel García Márquez, fotografiadas para el libro 'Rebeldía de Nobel', de Xavi Ayén. KIM MANRESA](https://the-grid-user-content.s3-us-west-2.amazonaws.com/731b551b-0ed0-4021-8cf5-5ed543fa985f.jpg)
+
+# Se necesita un escritor
+
+> Me preguntan con frecuencia qué es lo que me hace más falta en la vida, y siempre contesto la verdad: "Un escritor".
+
+El chiste no es tan bobo como parece. Si alguna vez me encontrara con el compromiso ineludible de escribir un cuento de quince cuartillas para esta noche, acudiría a mis incontables notas atrasadas y estoy seguro de que llegaría a tiempo a la imprenta. Tal vez sería un cuento muy malo, pero el compromiso quedaría cumplido, que al fin y al cabo es lo único que he querido decir con este ejemplo de pesadilla. En cambio, no sería capaz de escribir un telegrama de felicitación ni una carta de pésame sin reventarme el hígado durante una semana. Para estos deberes indeseables, como para tantos otros de la vida social, la mayoría de los escritores que conozco quisieron apelar a los buenos oficios de otros escritores. Una buena prueba del sentido casi bárbaro del honor profesional lo es sin duda esta nota que escribo todas las semanas, y que por estos días de octubre va a cumplir sus primeros dos años de sociedad. Sólo una vez ha faltado en este rincón, y no fue por culpa mía: por una falla de última hora en los sistemas de transmisión. La escribo todos los viernes, desde las nueve de la mañana hasta las tres de la tarde, con la misma voluntad, la misma conciencia, la misma alegría y muchas veces con la misma inspiración con que tendría que escribir una obra maestra. Cuando no tengo el tema bien definido me acuesto mal la noche del jueves, pero la experiencia me ha enseñado que el drama se resolverá por sí solo durante el sueño y que empezará a fluir por la mañana, desde el instante en que me siente ante la máquina de escribir. Sin embargo, casi siempre tengo varios temas pensados con anticipación, y poco a poco voy recogiendo y ordenando los datos de distintas fuentes y comprobándolos con mucho rigor, pues tengo la impresión de que los lectores no son tan indulgentes con mis metidas de pata como tal vez lo serían con el otro escritor que me hace falta. Mi primer propósito con estas notas es que cada semana les enseñen algo a los lectores comunes y corrientes, que son los que me interesan, aunque esas enseñanzas les parezcan obvias y tal vez pueriles a los sabios doctores que todo lo saben. El otro-propósito -el más difícil- es que siempre estén tan bien escritas como yo sea capaz de hacerlo sin la ayuda del otro, pues siempre he creído que la buena escritura es la única felicidad que se basta de sí misma.
+
+Esta servidumbre me la impuse porque sentía que entre una novela y otra me quedaba mucho tiempo sin escribir, y poco a poco -como los peloteros- iba perdiendo la calentura del brazo. Más tarde, esa decisión artesanal se convirtió en un compromiso con los lectores, y hoy es un laberinto de espejos del cual no consigo salir. A no ser que encontrara, por supuesto, al escritor providencial que saliera por mí. Pero me temo que ya sea demasiado tarde, pues las tres únicas veces en que tomé la determinación de no escribir más estas notas me lo impidió, con su autoritarismo implacable, el pequeño argentino que también yo llevo dentro.
+
+La primera vez que lo decidí fue cuando traté de escribir la primera, después de más de veinte años de no hacerlo, y necesité una semana de galeote para terminarla. La segunda vez fue hace más de un año, cuando pasaba unos días de descanso con el general Omar Torrijos en la base militar de Farallón, y estaba el día tan diáfano y tan pacífico el océano que daban más ganas de navegar que de escribir. "Le mando un telegrama al director diciendo que hoy no hay nota, y ya está", pensé, con un suspiro de alivio. Pero no pude almorzar por el peso de la mala conciencia y, a las seis de la tarde, me encerré en el cuarto, escribí en una hora y media lo primero que se me ocurrió y le entregué la nota a un edecán del general Torrijos para que la enviara por télex a Bogotá, con el ruego de que la mandaran desde allí a Madrid y a México. Sólo al día siguiente supe que el general Torrijos había tenido que ordenar el envío en un avión militar hasta el aeropuerto de Panamá, y, desde allí, en helicóptero, al palacio presidencial, desde donde me hicieron el favor de distribuir el texto por algún canal oficial.
+
+## Escribo la novela todos los días
+
+La última vez, hace ahora seis meses, cuando descubrí al despertar que ya tenía madura en el corazón la novela de amor que tanto había anhelado escribir desde hacía tantos años, y que no tenía otra alternativa que no escribirla nunca o sumergirme en ella de inmediato y de tiempo completo. Sin embargo, a la hora de la verdad, no tuve suficientes riñones para renunciar a mi cautiverio semanal, y por primera vez estoy haciendo algo que siempre me pareció imposible: escribo la novela todos los días, letra por letra, con la misma paciencia, y ojalá con la misma suerte con que picotean las gallinas en los patios, y oyendo cada día más cerca los pasos temibles de animal grande del próximo viernes. Pero aquí estamos otra vez, como siempre, y ojalá para siempre.
+
+Ya sospechaba yo que no escaparía jamás de esta jaula desde la tarde en que empecé a escribir esta nota en mi casa de Bogotá y la terminé al día siguiente bajo la protección diplomática de la embajada de México; lo seguí sospechando en la oficina de Telégrafos de la isla de Creta, un viernes del pasado julio, cuando logré entenderme con el empleado de turno para que transmitiera el texto en castellano. Lo seguí sospechando en Montreal, cuando tuve que comprar una máquina de escribir de emergencia porque el voltaje de la mía no era el mismo del hotel. Acabé de sospecharlo para siempre hace apenas dos meses, en Cuba, cuando tuve que cambiar dos veces las máquinas de escribir porque se negaban a entenderse conmigo. Por último, me llevaron una electrónica de costumbres tan avanzadas que terminé escribiendo de mi puño y letra y en un cuaderno de hojas cuadriculadas, como en los tiempos remotos y felices de la escuela primaria de Aracataca. Cada vez que me ocurría uno de estos percances apelaba con más ansiedad a mis deseos de tener alguien que se hiciera cargo de mi buena suerte: un escritor.
+
+> Con todo, nunca he sentido esa necesidad de un modo tan intenso como un día de hace muchos años en que llegué a la casa de Luis Alcoriza, en México, para trabajar con él en el guión de una película.
+
+Lo encontré consternado a las diez de la mañana, porque su cocinera le había pedido el favor de escribirle una carta para el director de la Seguridad Social. Alcoriza, que es un escritor excelente, con una práctica cotidiana de cajero de banco, que había sido el escritor más inteligente de los primeros guiones para Luis Buñuel y, más tarde, para sus propias películas, había pensando que la carta sería un asunto de media hora. Pero lo encontré, loco de furia, en medio de un montón de papeles rotos, en los cuales no había mucho más que todas las variaciones concebibles de la fórmula inicial: por medio de la presente, tengo el gusto de dirigirme a usted para... Traté de ayudarlo, y tres horas después seguíamos haciendo borradores y rompiendo papel, ya medio borrachos de ginebra con vermouth y atiborrados de chorizos españoles, pero sin haber podido ir más allá de las primeras letras convencionales. Nunca olvidaré la cara de misericordia de la buena cocinera cuando volvió por su carta a las tres de la tarde y le dijimos sin pudor que no habíamos podido escribirla. "Pero si es muy fácil", nos dijo, con toda su humildad. "Mire usted". Y entonces empezó a improvisar la carta con tanta precisión y tanto dominio que Luis Alcoriza se vio en apuros para copiarla en la máquina con la misma fluidez con que ella la dictaba. Aquel día -como todavía hoy- me quedé pensando que tal vez aquella mujer, que envejecía sin gloria en el limbo de la cocina, era el escritor secreto que me hacía falta en la vida para ser un hombre feliz.
