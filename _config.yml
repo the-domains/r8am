@@ -20,6 +20,9 @@ analytics:
   twitter: null
   google: UA-18458867-3
   facebook: '506767772843593'
+author:
+  name: Pablo Antonio Cicero Alonzo
+  email: cicero.pablo@gmail.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c481c112-a804-46b7-92a8-67878132ce2d.png
 name: 8AM
@@ -35,8 +38,7 @@ navigation:
   - name: Reporte 6PM
     url: 'http://thegrid.ai/6pm/'
     type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b80ee182-7ec7-4cb7-9315-c864be2fd5e7.png
+favicon: null
 collections:
   - index:
       path: /
