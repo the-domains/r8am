@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-12T19:44:57.682Z'
+datePublished: '2016-12-14T00:03:45.557Z'
 sourcePath: _posts/2016-09-14-sin-noticias-de-los-heroes.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-12T19:44:52.061Z'
+dateModified: '2016-12-14T00:03:37.578Z'
 title: Sin noticias de los héroes
 publisher:
   name: Por Pablo A. Cicero Alonzo
