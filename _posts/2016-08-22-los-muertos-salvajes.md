@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-12T19:44:57.684Z'
+datePublished: '2016-12-14T00:03:45.581Z'
 sourcePath: _posts/2016-08-22-los-muertos-salvajes.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-12-12T19:44:52.061Z'
+dateModified: '2016-12-14T00:03:37.578Z'
 title: Los muertos salvajes
 publisher:
   name: Pablo A. Cicero Alonzo
