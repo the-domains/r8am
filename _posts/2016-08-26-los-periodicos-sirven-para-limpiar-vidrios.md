@@ -9,8 +9,8 @@ description: >-
   que utilizó la funcionaria federal para defender al indefendible César Duarte
   Jáquez, gobernador de Chihuahua, acusado de enriquecimiento ilícito y que
   dejará la entidad con una deuda de 50 mil millones de pesos.
-datePublished: '2016-12-13T15:53:57.775Z'
-dateModified: '2016-12-13T15:53:52.790Z'
+datePublished: '2016-12-14T00:03:45.576Z'
+dateModified: '2016-12-14T00:03:37.578Z'
 title: “Los periódicos sirven para limpiar vidrios…”
 author: []
 via: {}
