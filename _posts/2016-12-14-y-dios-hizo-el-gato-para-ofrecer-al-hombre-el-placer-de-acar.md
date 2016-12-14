@@ -5,23 +5,23 @@ description: >-
   presa, un viejo venado con la cornamenta astillada, que suplía la lentitud de
   sus movimientos con una inusual sabiduría adquirida por lo largo de su vida.
   Dos seres casi mitológicos, reyes de la selva, que se enfrentaban tal vez por
-  última vez.  El gran gato atrás dejaba su territorio, con un miedo que nunca
+  última vez. El gran gato atrás dejaba su territorio, con un miedo que nunca
   antes había sentido. Él, precisamente él, un depredador que en una ocasión de
   un mordisco destrozó el caparazón de una monumental tortuga, grande y vieja
   como laja. Él, que veía en la noche incluso el último pensamiento de sus
   presas; ese miedo huidizo, esa resignación dulce. 
-dateModified: '2016-12-14T00:03:11.564Z'
-datePublished: '2016-12-14T00:03:11.958Z'
+dateModified: '2016-12-14T00:03:37.578Z'
+datePublished: '2016-12-14T00:03:45.545Z'
 title: Y Dios hizo el gato para ofrecer al hombre el placer de acariciar un jaguar
 author: []
 publisher:
   name: La Vieja Guardia
 via: {}
 hasPage: true
-starred: false
-datePublishedOriginal: '2016-12-14T00:03:11.958Z'
 sourcePath: >-
   _posts/2016-12-14-y-dios-hizo-el-gato-para-ofrecer-al-hombre-el-placer-de-acar.md
+starred: false
+datePublishedOriginal: '2016-12-14T00:03:11.958Z'
 url: y-dios-hizo-el-gato-para-ofrecer-al-hombre-el-placer-de-acar/index.html
 _type: Article
 
