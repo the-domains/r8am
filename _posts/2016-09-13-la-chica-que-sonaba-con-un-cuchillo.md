@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-12T19:44:57.681Z'
+datePublished: '2016-12-14T00:03:45.567Z'
 sourcePath: _posts/2016-09-13-la-chica-que-sonaba-con-un-cuchillo.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-12T19:44:52.061Z'
+dateModified: '2016-12-14T00:03:37.578Z'
 title: La chica que soñaba con un cuchillo
 publisher:
   name: Por Pablo A. Cicero Alonzo
