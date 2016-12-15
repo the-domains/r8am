@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-14T00:03:45.577Z'
+datePublished: '2016-12-15T18:21:15.111Z'
 sourcePath: _posts/2016-09-08-la-corte-de-los-milagros.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-14T00:03:37.578Z'
+dateModified: '2016-12-15T18:21:06.177Z'
 title: La corte de los milagros
 publisher:
   name: Pablo A. Cicero Alonzo
