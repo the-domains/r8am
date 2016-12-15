@@ -15,14 +15,14 @@ description: >-
 inLanguage: es
 app_links: []
 title: El "arte" de la violación
-datePublished: '2016-12-15T17:07:50.832Z'
-dateModified: '2016-12-15T17:07:41.354Z'
+datePublished: '2016-12-15T18:21:15.126Z'
+dateModified: '2016-12-15T18:21:06.177Z'
 via: {}
 inFeed: true
 hasPage: true
+sourcePath: _posts/2016-12-15-el-arte-de-la-violacion.md
 starred: false
 datePublishedOriginal: '2016-12-15T17:07:50.832Z'
-sourcePath: _posts/2016-12-15-el-arte-de-la-violacion.md
 url: el-arte-de-la-violacion/index.html
 _context: 'http://schema.org'
 _type: MediaObject
