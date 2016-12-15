@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-14T00:03:45.576Z'
+datePublished: '2016-12-15T18:21:15.125Z'
 sourcePath: _posts/2016-09-28-el-peso-de-trump.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-14T00:03:37.578Z'
+dateModified: '2016-12-15T18:21:06.177Z'
 title: El peso de Trump
 publisher:
   name: Por Pablo A. Cicero Alonzo
