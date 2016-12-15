@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-14T00:03:45.557Z'
+datePublished: '2016-12-15T18:21:15.111Z'
 sourcePath: _posts/2016-10-05-un-relato-salvaje.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-14T00:03:37.578Z'
+dateModified: '2016-12-15T18:21:06.177Z'
 title: Un relato salvaje
 publisher: {}
 description: >-
