@@ -24,8 +24,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.vozpopuli.com/cultura/Erri-Luca-escritura-forma-compania_0_980002454.html
 title: 'Erri de Luca: "Escribir acompaña"'
-datePublished: '2016-12-15T18:21:14.966Z'
-dateModified: '2016-12-15T18:21:06.177Z'
+datePublished: '2017-01-04T17:02:38.284Z'
+dateModified: '2017-01-04T17:02:35.117Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-13-erri-de-luca-escribir-acompana.md
