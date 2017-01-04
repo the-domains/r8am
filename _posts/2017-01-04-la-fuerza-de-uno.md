@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-01-04T17:02:09.939Z'
-datePublished: '2017-01-04T17:02:10.502Z'
+dateModified: '2017-01-04T17:02:18.779Z'
+datePublished: '2017-01-04T17:02:19.134Z'
 title: La fuerza de uno
 author: []
 publisher: {}
 via: {}
 hasPage: true
 starred: false
-datePublishedOriginal: '2017-01-04T17:02:10.502Z'
+datePublishedOriginal: '2017-01-04T17:02:18.449Z'
 sourcePath: _posts/2017-01-04-la-fuerza-de-uno.md
 url: la-fuerza-de-uno/index.html
 _type: Article
