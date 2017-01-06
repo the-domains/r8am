@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-01-04T17:13:56.333Z'
+datePublished: '2017-01-06T15:30:09.072Z'
 sourcePath: _posts/2016-09-29-se-necesita-un-escritor.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-01-04T17:13:52.695Z'
+dateModified: '2017-01-06T15:30:02.219Z'
 title: Se necesita un escritor
 publisher:
   name: Gabriel García Márquez
