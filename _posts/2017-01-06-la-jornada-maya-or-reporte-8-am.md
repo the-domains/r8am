@@ -16,13 +16,13 @@ inLanguage: es
 app_links: []
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2017-01-04/Reporte-8-AM'
 title: La caída de Peñanistán
-datePublished: '2017-01-06T15:29:47.642Z'
-dateModified: '2017-01-06T15:29:47.221Z'
+datePublished: '2017-01-06T15:30:08.930Z'
+dateModified: '2017-01-06T15:30:02.219Z'
 via: {}
 inFeed: true
+sourcePath: _posts/2017-01-06-la-jornada-maya-or-reporte-8-am.md
 starred: false
 datePublishedOriginal: '2017-01-06T15:29:47.642Z'
-sourcePath: _posts/2017-01-06-la-jornada-maya-or-reporte-8-am.md
 _context: 'http://schema.org'
 _type: MediaObject
 
