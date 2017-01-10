@@ -15,8 +15,8 @@ inLanguage: es
 app_links: []
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2017-01-10/Reporte-8-AM'
 title: 'Bienvenida, miss Jacobson'
-datePublished: '2017-01-10T15:44:35.528Z'
-dateModified: '2017-01-10T15:44:34.870Z'
+datePublished: '2017-01-10T15:44:56.321Z'
+dateModified: '2017-01-10T15:44:50.780Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-10-la-jornada-maya-or-reporte-8-am.md
