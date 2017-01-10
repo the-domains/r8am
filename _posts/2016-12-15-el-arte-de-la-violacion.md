@@ -15,8 +15,8 @@ description: >-
 inLanguage: es
 app_links: []
 title: El "arte" de la violación
-datePublished: '2017-01-06T15:30:08.877Z'
-dateModified: '2017-01-06T15:30:02.219Z'
+datePublished: '2017-01-10T15:44:56.309Z'
+dateModified: '2017-01-10T15:44:50.780Z'
 via: {}
 inFeed: true
 hasPage: true
