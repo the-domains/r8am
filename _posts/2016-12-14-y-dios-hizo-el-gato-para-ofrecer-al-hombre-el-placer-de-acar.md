@@ -10,8 +10,8 @@ description: >-
   un mordisco destrozó el caparazón de una monumental tortuga, grande y vieja
   como laja. Él, que veía en la noche incluso el último pensamiento de sus
   presas; ese miedo huidizo, esa resignación dulce. 
-dateModified: '2017-01-06T15:30:02.219Z'
-datePublished: '2017-01-06T15:30:08.906Z'
+dateModified: '2017-01-10T15:44:50.780Z'
+datePublished: '2017-01-10T15:44:56.331Z'
 title: Y Dios hizo el gato para ofrecer al hombre el placer de acariciar un jaguar
 author: []
 publisher:
