@@ -8,25 +8,22 @@ publisher:
   domain: www.lajornadamaya.mx
 keywords: []
 description: >-
-  Pablo A. Cicero AlonzoFoto: ArchivoLa Jornada Maya Lunes 9 de enero, 2017 El
-  grupo se hacía llamar voces verdes. Y, en verdad, nos reverdecían con sus
-  versos; hacían volar mariposas con métrica y ritmo, florecer prados con
-  metáforas. Lo formaban Roger Cicero McKinney, Jorge Rosado Torres, Alberto
-  Cervera Espejo, Fernando Espejo Méndez y Raúl Renán González; sólo este último
-  sobrevive.
+  Pablo A. Cicero Alonzo. Periodista: Presidente de los Estados Unidos: Primer
+  Ministro de Gran Bretaña: Me encanta la palabra relación. Abarca todo tipo de
+  pecados. Me temo que esta se ha convertido en una mala relación.
 inLanguage: es
 app_links: []
-isBasedOnUrl: 'https://www.lajornadamaya.mx/2017-01-09/Reporte-8-AM'
-title: La Jornada Maya | Reporte 8 AM
-datePublished: '2017-01-10T15:32:05.849Z'
-dateModified: '2017-01-10T15:32:05.139Z'
-datePublishedOriginal: '2017-01-10T15:32:05.849Z'
+isBasedOnUrl: 'https://www.lajornadamaya.mx/2017-01-10/Reporte-8-AM'
+title: 'Bienvenida, miss Jacobson'
+datePublished: '2017-01-10T15:44:35.528Z'
+dateModified: '2017-01-10T15:44:34.870Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-01-10-la-jornada-maya-or-reporte-8-am.md
+starred: false
+datePublishedOriginal: '2017-01-10T15:31:39.829Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>La Jornada Maya | Reporte 8 AM</h1><p>Pablo A. Cicero AlonzoFoto: ArchivoLa Jornada Maya Lunes 9 de enero, 2017 El grupo se hacía llamar voces verdes. Y, en verdad, nos reverdecían con sus versos; hacían volar mariposas con métrica y ritmo, florecer prados con metáforas. Lo formaban Roger Cicero McKinney, Jorge Rosado Torres, Alberto Cervera Espejo, Fernando Espejo Méndez y Raúl Renán González; sólo este último sobrevive.</p><img src="https://img.lajornadamaya.mx/32/ei48eqs4setz_640-414-cover" /></article>
+<article style=""><img src="https://img.lajornadamaya.mx/32/ri4840ii22si_640-414-cover" /><h1>Bienvenida, miss Jacobson</h1><p>Pablo A. Cicero Alonzo. Periodista: Presidente de los Estados Unidos: Primer Ministro de Gran Bretaña: Me encanta la palabra relación. Abarca todo tipo de pecados. Me temo que esta se ha convertido en una mala relación.</p></article>
