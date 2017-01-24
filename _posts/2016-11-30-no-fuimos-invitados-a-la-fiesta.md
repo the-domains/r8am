@@ -1,11 +1,10 @@
 ---
-datePublished: '2016-12-07T00:45:51.554Z'
+datePublished: '2017-01-24T18:07:52.343Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-datePublishedOriginal: '2016-11-30T18:03:28.061Z'
-dateModified: '2016-12-07T00:45:44.113Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: No fuimos invitados a la fiesta
 publisher: {}
 description: >-
@@ -23,6 +22,7 @@ description: >-
   olvidados templos. 
 sourcePath: _posts/2016-11-30-no-fuimos-invitados-a-la-fiesta.md
 starred: true
+datePublishedOriginal: '2016-11-30T18:03:28.061Z'
 url: no-fuimos-invitados-a-la-fiesta/index.html
 _type: Article
 
