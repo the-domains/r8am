@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-09T21:05:57.099Z'
+datePublished: '2017-01-24T18:07:53.498Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-08-11/Reporte-8-am'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-11-09T21:05:55.339Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: Oro a legión de idiotas
 app_links: []
 publisher:
@@ -21,8 +21,9 @@ description: >-
   tiempo de los 100 metros libre.
 inLanguage: es
 sourcePath: _posts/2016-08-11-oro-a-legion-de-idiotas.md
-starred: true
 inFeed: true
+starred: true
+datePublishedOriginal: '2016-11-09T21:05:57.099Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
