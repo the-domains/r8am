@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-01-10T15:44:50.780Z'
-datePublished: '2017-01-10T15:44:56.358Z'
+dateModified: '2017-01-24T18:07:20.997Z'
+datePublished: '2017-01-24T18:07:45.379Z'
 title: Ítaca en el horizonte
 author: []
 publisher: {}
