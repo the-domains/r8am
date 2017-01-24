@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-09T21:05:57.100Z'
+datePublished: '2017-01-24T18:07:54.518Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-08-03/Reporte-8-am'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-11-09T21:05:55.339Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: La gastritis de una garganta profunda
 app_links: []
 publisher:
@@ -19,8 +19,9 @@ description: >-
   el que claramente se observa a cinco policías torturando a un hombre.
 inLanguage: es
 sourcePath: _posts/2016-08-03-la-gastritis-de-una-garganta-profunda.md
-starred: false
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-09T21:05:57.100Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
