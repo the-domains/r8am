@@ -1,18 +1,14 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-01-24T18:07:20.997Z'
-datePublished: '2017-01-24T18:07:43.530Z'
+dateModified: '2017-01-24T18:17:12.266Z'
+datePublished: '2017-01-24T18:17:13.179Z'
 title: Nostalgia por la fayuca
 author:
   - name: emimusic
     url: 'https://www.youtube.com/user/emimusic'
     avatar: {}
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: youtu.be
+publisher: {}
 via: {}
 hasPage: true
 sourcePath: _posts/2017-01-24-nostalgia-por-la-fayuca.md
@@ -22,6 +18,8 @@ url: nostalgia-por-la-fayuca/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9791a6e-790f-4d70-ac19-9699caad291a.gif)
+
 # Nostalgia por la fayuca
 
 ## Perdona la nostalgia. Mi infancia tuvo sabores característicos, entre ellos el queso de bola, la mantequilla azul y los chicles Popeye. Los conseguíamos en ese limbo aduanal conocido como el kilómetro ochenta, en Quintana Roo, o en el Chetumalito. Ahí, cuando teníamos dinero, también comprábamos aparatos electrónicos. Ahí adquirí mi primer walkman, horno de microondas y videocasetera... Formato Beta, claro. Cuando enviudó, mi abuelita materna logró sacar adelante a sus hijos más jóvenes revendiendo televisiones que compraba en Tepito.
