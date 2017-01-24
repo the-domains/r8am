@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-07T01:07:03.035Z'
+datePublished: '2017-01-24T18:07:49.475Z'
 sourcePath: _posts/2016-10-03-quosque-tandem-emilio-abutere-patientia-nostra.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-07T01:06:56.960Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: 'Quosque tandem, Emilio, abutere patientia nostra?'
 publisher: {}
 description: >-
