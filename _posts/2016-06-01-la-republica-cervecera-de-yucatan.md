@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-09T21:05:37.814Z'
+datePublished: '2017-01-24T18:08:00.346Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-04-26/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-11-09T21:05:34.894Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: 'La república cervecera de Yucatán '
 app_links: []
 publisher:
@@ -19,9 +19,10 @@ description: >-
   comerciales de una o varias compañías.
 inLanguage: es
 sourcePath: _posts/2016-06-01-la-republica-cervecera-de-yucatan.md
-starred: false
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-09T21:05:37.814Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
