@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-09T21:05:37.830Z'
+datePublished: '2017-01-24T18:08:01.288Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-04-09/Endurance'
 keywords: []
 related: []
 author: []
-dateModified: '2016-11-09T21:05:34.894Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: Endurance
 app_links: []
 publisher:
@@ -21,9 +21,10 @@ description: >-
   éxito".
 inLanguage: es
 sourcePath: _posts/2016-06-01-endurance.md
-starred: false
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-09T21:05:37.830Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
