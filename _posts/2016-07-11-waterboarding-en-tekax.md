@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-12-07T00:45:49.021Z'
+datePublished: '2017-01-24T18:07:56.727Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-07-11/Reporte-8-AM'
 keywords: []
 related: []
 author: []
-dateModified: '2016-12-07T00:45:44.113Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: ' Waterboarding en Tekax'
 app_links: []
 publisher:
