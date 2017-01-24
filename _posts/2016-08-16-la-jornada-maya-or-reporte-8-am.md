@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-09T21:05:57.091Z'
+datePublished: '2017-01-24T18:07:53.326Z'
 sourcePath: _posts/2016-08-16-la-jornada-maya-or-reporte-8-am.md
 inFeed: true
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-08-16/Reporte-8-AM'
@@ -9,7 +9,7 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-11-09T21:05:55.339Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: Chamulitas
 app_links: []
 publisher:
@@ -24,6 +24,7 @@ description: >-
   pronto forman un solo cuerpo terroso y compacto.
 inLanguage: es
 starred: true
+datePublishedOriginal: '2016-11-09T21:05:57.091Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
