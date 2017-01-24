@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-12-07T00:45:51.521Z'
+datePublished: '2017-01-24T18:07:51.501Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-datePublishedOriginal: '2016-11-30T18:07:22.541Z'
-dateModified: '2016-12-07T00:45:44.113Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: Ficciones del Caribe
 publisher: {}
 description: ''
 sourcePath: _posts/2016-11-30-ficciones-del-caribe.md
 starred: true
+datePublishedOriginal: '2016-11-30T18:07:22.541Z'
 url: ficciones-del-caribe/index.html
 _type: Article
 
