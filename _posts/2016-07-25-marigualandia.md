@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-07T00:45:49.023Z'
+datePublished: '2017-01-24T18:07:56.458Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-07-25/Reporte-8am'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-12-07T00:45:44.113Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: Marigualandia
 app_links: []
 publisher:
