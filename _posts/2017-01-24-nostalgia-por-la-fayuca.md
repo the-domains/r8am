@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-01-24T18:06:05.503Z'
-datePublished: '2017-01-24T18:06:06.087Z'
+dateModified: '2017-01-24T18:07:20.997Z'
+datePublished: '2017-01-24T18:07:43.530Z'
 title: Nostalgia por la fayuca
 author:
   - name: emimusic
@@ -15,9 +15,9 @@ publisher:
   domain: youtu.be
 via: {}
 hasPage: true
+sourcePath: _posts/2017-01-24-nostalgia-por-la-fayuca.md
 starred: false
 datePublishedOriginal: '2017-01-24T18:06:06.087Z'
-sourcePath: _posts/2017-01-24-nostalgia-por-la-fayuca.md
 url: nostalgia-por-la-fayuca/index.html
 _type: Article
 
