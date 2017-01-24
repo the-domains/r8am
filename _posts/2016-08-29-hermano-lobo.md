@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-14T00:03:45.577Z'
+datePublished: '2017-01-24T18:07:48.168Z'
 sourcePath: _posts/2016-08-29-hermano-lobo.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-14T00:03:37.578Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: El hermano lobo
 publisher:
   name: Pablo A. Cicero Alonzo
