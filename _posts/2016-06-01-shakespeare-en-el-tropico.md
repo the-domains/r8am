@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-12-07T01:07:02.458Z'
+datePublished: '2017-01-24T18:08:04.630Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-02-24/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-12-07T01:06:56.960Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: 'Shakespeare en el trópico '
 app_links: []
 publisher:
@@ -19,10 +19,10 @@ description: >-
   sangre de la ciudad mancha de sangre al ciudadano.
 inLanguage: es
 sourcePath: _posts/2016-06-01-shakespeare-en-el-tropico.md
-starred: false
-datePublishedOriginal: '2016-06-01T14:26:46.582Z'
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-06-01T14:26:46.582Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
