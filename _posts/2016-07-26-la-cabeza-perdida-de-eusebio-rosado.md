@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-12T19:44:57.684Z'
+datePublished: '2017-01-24T18:07:48.237Z'
 sourcePath: _posts/2016-07-26-la-cabeza-perdida-de-eusebio-rosado.md
 inFeed: true
 isBasedOnUrl: >-
@@ -9,7 +9,7 @@ hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2016-12-12T19:44:52.061Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: La cabeza perdida de Eusebio Rosado
 publisher:
   name: Anagrama
