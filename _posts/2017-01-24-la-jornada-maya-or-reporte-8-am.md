@@ -17,8 +17,8 @@ inLanguage: es
 app_links: []
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2017-01-20/Reporte-8-AM'
 title: Mi red social
-datePublished: '2017-01-24T15:31:23.061Z'
-dateModified: '2017-01-24T15:31:22.318Z'
+datePublished: '2017-01-24T15:31:23.647Z'
+dateModified: '2017-01-24T15:31:23.263Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-24-la-jornada-maya-or-reporte-8-am.md
