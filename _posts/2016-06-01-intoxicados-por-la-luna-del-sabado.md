@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-01T14:26:40.247Z'
+datePublished: '2017-01-24T18:07:59.263Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-05-23/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-01T05:40:08.160Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: 'Intoxicados por la luna del sábado '
 app_links: []
 publisher:
@@ -12,13 +12,19 @@ publisher:
   name: Lajornadamaya
   favicon: 'https://static.lajornadamaya.mx/v2/favicon.png'
   domain: www.lajornadamaya.mx
-description: 'Pablo A. Cicero AlonzoFoto: Rodrigo Díaz GuzmánLa Jornada Maya Lunes 23 de mayo, 2016 En términos sociales, la Noche Blanca ha sido un éxito rotundo: sesenta mil personas participaron en esa velada cultural que ni la luna quiso perderse.'
+description: >-
+  Pablo A. Cicero AlonzoFoto: Rodrigo Díaz GuzmánLa Jornada Maya Lunes 23 de
+  mayo, 2016 En términos sociales, la Noche Blanca ha sido un éxito rotundo:
+  sesenta mil personas participaron en esa velada cultural que ni la luna quiso
+  perderse.
 inLanguage: es
-starred: false
 sourcePath: _posts/2016-06-01-intoxicados-por-la-luna-del-sabado.md
 inFeed: true
 hasPage: false
-inNav: false
+authors: []
+via: {}
+starred: true
+datePublishedOriginal: '2016-06-01T14:26:40.247Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
