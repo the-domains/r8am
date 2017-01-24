@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-07T01:07:03.037Z'
+datePublished: '2017-01-24T18:07:50.766Z'
 sourcePath: _posts/2016-07-28-pajarear-literalmente.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2725780b-1fc6-41c8-bfac-c6b62c38d942.jpg
 author: []
 via: {}
-dateModified: '2016-12-07T01:06:56.960Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: 'Pajarear, literalmente'
 publisher:
   name: Álvaro Cervera Azcorra
