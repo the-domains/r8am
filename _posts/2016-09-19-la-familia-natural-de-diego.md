@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-07T01:07:03.048Z'
+datePublished: '2017-01-24T18:07:50.053Z'
 sourcePath: _posts/2016-09-19-la-familia-natural-de-diego.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-07T01:06:56.960Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: La familia natural de Diego
 publisher:
   name: Pablo A. Cicero Alonzo
