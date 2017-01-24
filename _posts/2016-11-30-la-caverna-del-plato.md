@@ -1,11 +1,10 @@
 ---
-datePublished: '2016-12-07T00:45:49.182Z'
+datePublished: '2017-01-24T18:07:51.900Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-datePublishedOriginal: '2016-11-30T18:07:20.599Z'
-dateModified: '2016-12-07T00:45:44.113Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: La caverna del plató
 publisher: {}
 description: >-
@@ -20,6 +19,7 @@ description: >-
   sucede. 
 sourcePath: _posts/2016-11-30-la-caverna-del-plato.md
 starred: true
+datePublishedOriginal: '2016-11-30T18:07:20.599Z'
 url: la-caverna-del-plato/index.html
 _type: Article
 
