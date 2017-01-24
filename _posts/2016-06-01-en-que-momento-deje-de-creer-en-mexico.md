@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-09T21:05:37.821Z'
+datePublished: '2017-01-24T18:08:00.407Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-04-25/Reporte-8am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-11-09T21:05:34.894Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: '¿En qué momento dejé de creer en México? '
 app_links: []
 publisher:
@@ -19,9 +19,10 @@ description: >-
   difícil creer las versiones de que son un montaje.
 inLanguage: es
 sourcePath: _posts/2016-06-01-en-que-momento-deje-de-creer-en-mexico.md
-starred: true
 via: {}
 inFeed: true
+starred: true
+datePublishedOriginal: '2016-11-09T21:05:37.821Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
