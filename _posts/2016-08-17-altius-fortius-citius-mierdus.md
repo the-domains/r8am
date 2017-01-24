@@ -11,8 +11,8 @@ description: >-
   funcionario tampoco ayuda, esquivando —según él— las críticas con
   declaraciones soberbias o refutaciones cínicas, como con las que negó que haya
   llevado a su novia a Río.
-datePublished: '2016-11-09T21:05:57.074Z'
-dateModified: '2016-11-09T21:05:55.339Z'
+datePublished: '2017-01-24T18:07:53.291Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: ''
 authors: []
 publisher: {}
@@ -20,6 +20,7 @@ author: []
 via: {}
 sourcePath: _posts/2016-08-17-altius-fortius-citius-mierdus.md
 starred: true
+datePublishedOriginal: '2016-11-09T21:05:57.074Z'
 url: altius-fortius-citius-mierdus/index.html
 _type: Article
 
