@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-07T00:45:49.067Z'
+datePublished: '2017-01-24T18:07:58.588Z'
 sourcePath: _posts/2016-06-08-levantate-y-pelea.md
 inFeed: true
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-06-08/Reporte-8-am'
@@ -8,7 +8,7 @@ hasPage: false
 keywords: []
 related: []
 author: []
-dateModified: '2016-12-07T00:45:44.113Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: '“¡Levántate y pelea!” '
 app_links: []
 publisher:
