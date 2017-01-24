@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-09T21:05:57.100Z'
+datePublished: '2017-01-24T18:07:56.395Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-08-01/Reporte-8-am'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-11-09T21:05:55.339Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: Kafka deprimido
 app_links: []
 publisher:
@@ -21,8 +21,9 @@ description: >-
   no lo reprogramó, para dormir cinco minutos más.
 inLanguage: es
 sourcePath: _posts/2016-08-01-kafka-deprimido.md
-starred: true
 inFeed: true
+starred: true
+datePublishedOriginal: '2016-11-09T21:05:57.100Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
