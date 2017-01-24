@@ -17,8 +17,8 @@ inLanguage: es
 app_links: []
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2017-01-09/Reporte-8-AM'
 title: Ir en contra eleva el espíritu
-datePublished: '2017-01-10T15:44:56.275Z'
-dateModified: '2017-01-10T15:44:50.780Z'
+datePublished: '2017-01-24T18:07:43.537Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-10-la-jornada-maya-or-reporte-8-am.md
