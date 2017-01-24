@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-07T01:07:03.034Z'
+datePublished: '2017-01-24T18:07:49.443Z'
 sourcePath: _posts/2016-10-05-echale-la-culpa-al-piloto.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-07T01:06:56.960Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: Échale la culpa al piloto
 publisher:
   name: Pablo A. Cicero Alonzo
