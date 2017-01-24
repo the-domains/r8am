@@ -1,7 +1,7 @@
 ---
 description: ''
-dateModified: '2016-12-07T01:06:56.960Z'
-datePublished: '2016-12-07T01:07:03.122Z'
+dateModified: '2017-01-24T18:07:20.997Z'
+datePublished: '2017-01-24T18:07:50.884Z'
 title: Sueños de silicón
 author: []
 sourcePath: _posts/2016-07-18-suenos-de-silicon.md
