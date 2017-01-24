@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-09T21:05:57.102Z'
+datePublished: '2017-01-24T18:07:54.779Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-07-29/Reporte-8-am'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-11-09T21:05:55.339Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: La descomposición
 app_links: []
 publisher:
@@ -20,8 +20,9 @@ description: >-
   concentrarse.
 inLanguage: es
 sourcePath: _posts/2016-07-29-la-descomposicion.md
-starred: true
 inFeed: true
+starred: true
+datePublishedOriginal: '2016-11-09T21:05:57.102Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
