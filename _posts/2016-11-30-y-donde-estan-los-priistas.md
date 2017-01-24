@@ -1,11 +1,10 @@
 ---
-datePublished: '2016-12-07T00:45:51.523Z'
+datePublished: '2017-01-24T18:07:51.937Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-datePublishedOriginal: '2016-11-30T18:04:36.596Z'
-dateModified: '2016-12-07T00:45:44.113Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: ¿Y dónde están los priistas?
 publisher: {}
 description: >-
@@ -23,6 +22,7 @@ description: >-
   incluso de vestimenta.
 sourcePath: _posts/2016-11-30-y-donde-estan-los-priistas.md
 starred: true
+datePublishedOriginal: '2016-11-30T18:04:36.596Z'
 url: y-donde-estan-los-priistas/index.html
 _type: Article
 
