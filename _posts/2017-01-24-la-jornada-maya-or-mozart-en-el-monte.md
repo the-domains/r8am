@@ -17,8 +17,8 @@ inLanguage: es
 app_links: []
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2017-01-16/Mozart-en-el-monte'
 title: Mozart en el monte
-datePublished: '2017-01-24T15:30:56.649Z'
-dateModified: '2017-01-24T15:30:55.548Z'
+datePublished: '2017-01-24T15:30:57.356Z'
+dateModified: '2017-01-24T15:30:56.870Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-24-la-jornada-maya-or-mozart-en-el-monte.md
