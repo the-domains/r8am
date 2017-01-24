@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-09T21:05:37.830Z'
+datePublished: '2017-01-24T18:08:01.389Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-04-06/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-11-09T21:05:34.894Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: 'Un salto de fe para el Escudo '
 app_links: []
 publisher:
@@ -23,8 +23,9 @@ sourcePath: _posts/2016-06-01-un-salto-de-fe-para-el-escudo.md
 inFeed: true
 hasPage: false
 authors: []
-starred: true
 via: {}
+starred: true
+datePublishedOriginal: '2016-11-09T21:05:37.830Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
