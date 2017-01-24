@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-07T00:45:48.948Z'
+datePublished: '2017-01-24T18:07:54.040Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-07-22/Reporte-8-am'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-12-07T00:45:44.113Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: La soledad del monseñor
 app_links: []
 publisher:
