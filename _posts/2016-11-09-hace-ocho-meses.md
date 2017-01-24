@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-07T00:45:51.553Z'
+datePublished: '2017-01-24T18:07:51.984Z'
 sourcePath: _posts/2016-11-09-hace-ocho-meses.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-07T00:45:44.113Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: HACE OCHO MESES…
 publisher:
   name: Pablo A. Cicero Alonzo
