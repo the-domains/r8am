@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-07T01:07:03.020Z'
+datePublished: '2017-01-24T18:07:50.140Z'
 sourcePath: _posts/2016-08-25-como-aprendi-a-dejar-de-preocuparme-y-amar-a-mis-espias.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-12-07T01:06:56.960Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: Cómo aprendí a dejar de preocuparme y amar a mis espías
 publisher: {}
 description: 'Lee más en https://www.lajornadamaya.mx/2016-08-25/Reporte-8-AM'
