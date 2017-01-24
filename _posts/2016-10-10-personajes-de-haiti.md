@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-07T00:45:49.182Z'
+datePublished: '2017-01-24T18:07:52.000Z'
 sourcePath: _posts/2016-10-10-personajes-de-haiti.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-07T00:45:44.113Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: Personajes de Haití
 publisher:
   name: Pablo A. Cicero Alonzo
