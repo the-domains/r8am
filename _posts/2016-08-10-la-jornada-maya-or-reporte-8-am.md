@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-11-09T21:05:57.093Z'
+datePublished: '2017-01-24T18:07:54.072Z'
 sourcePath: _posts/2016-08-10-la-jornada-maya-or-reporte-8-am.md
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-08-10/Reporte-8-AM'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-11-09T21:05:55.339Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: Quémese después de leer
 app_links: []
 publisher:
@@ -19,8 +19,9 @@ description: >-
   YucatánMiércoles 10 de agosto, 2016 Constituía un placer especial ver las
   cosas consumidas, ver los objetos ennegrecidos y cambiados.
 inLanguage: es
-starred: true
 inFeed: true
+starred: true
+datePublishedOriginal: '2016-11-09T21:05:57.093Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
