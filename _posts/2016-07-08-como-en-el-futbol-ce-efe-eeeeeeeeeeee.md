@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-07T00:45:49.054Z'
+datePublished: '2017-01-24T18:07:57.161Z'
 sourcePath: _posts/2016-07-08-como-en-el-futbol-ce-efe-eeeeeeeeeeee.md
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-07-08/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-12-07T00:45:44.113Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: ' Como en el fútbol: “¡Ce Efe Eeeeeeeeeeee……!”'
 app_links: []
 publisher:
