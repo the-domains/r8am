@@ -8,24 +8,24 @@ publisher:
   domain: www.lajornadamaya.mx
 keywords: []
 description: >-
-  Pablo A. Cicero AlonzoFoto: Fabrizio León DiezLa Jornada Maya Viernes 20 de
-  enero, 2017 Cuando tenía 15 años, obviamente no había Facebook, ni Whatsapp;
-  es más, ni celulares. Mi red social eran mis compañeros de secundaria, y mis
-  amigos, mis verdaderos amigos, eran pocos: Héctor, José Antonio, Gabriel y
-  Mauricio.
+  Pablo A. Cicero AlonzoFoto: Rodrigo Díaz GuzmánLa Jornada Maya Miércoles 17 de
+  enero, 2017 Se había acostado intranquila, pero el cansancio la venció; no
+  pudo más y cerró los ojos; soñaba. Soñaba cuando la levantó a patadas (ella
+  estaba durmiendo) del suelo, la tomó entre sus manos y la intentó ahorcar; le
+  mordió brazos, espalda, cara y piernas y la pateó de nuevo; y de nuevo.
 inLanguage: es
 app_links: []
-isBasedOnUrl: 'https://www.lajornadamaya.mx/2017-01-20/Reporte-8-AM'
-title: Mi red social
-datePublished: '2017-01-24T15:31:23.647Z'
-dateModified: '2017-01-24T15:31:23.263Z'
+isBasedOnUrl: 'https://www.lajornadamaya.mx/2017-01-18/Reporte-8-AM'
+title: Manos --y corazones-- de piedra
+datePublished: '2017-01-24T15:32:04.590Z'
+dateModified: '2017-01-24T15:32:04.214Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-24-la-jornada-maya-or-reporte-8-am.md
 starred: false
-datePublishedOriginal: '2017-01-24T15:28:31.781Z'
+datePublishedOriginal: '2017-01-24T15:29:09.005Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://img.lajornadamaya.mx/32/e1ababbzogad_640-414-cover" /><h1>Mi red social</h1><p>Pablo A. Cicero AlonzoFoto: Fabrizio León DiezLa Jornada Maya Viernes 20 de enero, 2017 Cuando tenía 15 años, obviamente no había Facebook, ni Whatsapp; es más, ni celulares. Mi red social eran mis compañeros de secundaria, y mis amigos, mis verdaderos amigos, eran pocos: Héctor, José Antonio, Gabriel y Mauricio.</p></article>
+<article style=""><img src="https://img.lajornadamaya.mx/32/ci484tit4isc_640-414-cover" /><h1>Manos --y corazones-- de piedra</h1><p>Pablo A. Cicero AlonzoFoto: Rodrigo Díaz GuzmánLa Jornada Maya Miércoles 17 de enero, 2017 Se había acostado intranquila, pero el cansancio la venció; no pudo más y cerró los ojos; soñaba. Soñaba cuando la levantó a patadas (ella estaba durmiendo) del suelo, la tomó entre sus manos y la intentó ahorcar; le mordió brazos, espalda, cara y piernas y la pateó de nuevo; y de nuevo.</p></article>
