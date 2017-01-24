@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-12-07T00:45:49.080Z'
+datePublished: '2017-01-24T18:07:58.176Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-06-10/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-12-07T00:45:44.113Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: 'Terminemos la semana con energía '
 app_links: []
 publisher:
