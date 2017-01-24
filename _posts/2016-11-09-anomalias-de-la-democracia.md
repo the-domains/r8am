@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-12T19:44:57.690Z'
+datePublished: '2017-01-24T18:07:48.758Z'
 sourcePath: _posts/2016-11-09-anomalias-de-la-democracia.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-12T19:44:52.061Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: ANOMALÍAS DE LA DEMOCRACIA
 publisher:
   name: PABLO A. CICERO ALONZO
