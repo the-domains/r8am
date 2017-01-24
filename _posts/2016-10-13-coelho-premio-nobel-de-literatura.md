@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-12T19:44:57.691Z'
+datePublished: '2017-01-24T18:07:49.680Z'
 sourcePath: _posts/2016-10-13-coelho-premio-nobel-de-literatura.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-12T19:44:52.061Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: 'Coelho: Premio Nobel de Literatura'
 publisher:
   name: Pablo A. Cicero Alonzo
