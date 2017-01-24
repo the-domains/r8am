@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-12T19:44:57.693Z'
+datePublished: '2017-01-24T18:07:49.145Z'
 sourcePath: _posts/2016-10-11-caminar-por-el-lado-oscuro.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-12T19:44:52.061Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: Caminar por el lado oscuro
 publisher:
   name: Pablo A. Cicero Alonzo
