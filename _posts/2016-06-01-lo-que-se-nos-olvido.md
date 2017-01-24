@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-09T21:05:37.937Z'
+datePublished: '2017-01-24T18:08:01.577Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-04-02/Reporte-8AM'
 keywords: []
 related: []
 author: []
-dateModified: '2016-11-09T21:05:34.894Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: 'Lo que se nos olvidó '
 app_links: []
 publisher:
@@ -20,9 +20,10 @@ description: >-
   que hacerlo en voz alta, para que lo escuchen niños.
 inLanguage: es
 sourcePath: _posts/2016-06-01-lo-que-se-nos-olvido.md
-starred: false
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-09T21:05:37.937Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
