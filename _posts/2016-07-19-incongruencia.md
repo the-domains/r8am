@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-12-07T00:45:48.929Z'
+datePublished: '2017-01-24T18:07:56.497Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-07-19/Reporte-8--AM'
 keywords: []
 related: []
 author: []
-dateModified: '2016-12-07T00:45:44.113Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: 'Incongruencia '
 app_links: []
 publisher:
