@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-09T21:05:37.814Z'
+datePublished: '2017-01-24T18:07:59.629Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-05-11/Reporte-8AM--por-Pablo-A--CIcero'
 keywords: []
 related: []
 author: []
-dateModified: '2016-11-09T21:05:34.894Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: 'Rueda de prensa inexistente de un funcionario imaginario '
 app_links: []
 publisher:
@@ -19,9 +19,10 @@ description: >-
   una veintena de reporteros, fotógrafos y camarógrafos.
 inLanguage: es
 sourcePath: _posts/2016-06-01-rueda-de-prensa-inexistente-de-un-funcionario-imaginario.md
-starred: true
 via: {}
 inFeed: true
+starred: true
+datePublishedOriginal: '2016-11-09T21:05:37.814Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
