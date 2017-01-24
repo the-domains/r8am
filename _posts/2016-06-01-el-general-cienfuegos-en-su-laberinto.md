@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-09T21:05:37.752Z'
+datePublished: '2017-01-24T18:08:00.579Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-04-21/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-11-09T21:05:34.894Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: 'El general (Cienfuegos) en su laberinto '
 app_links: []
 publisher:
@@ -20,9 +20,10 @@ description: >-
   catástrofes.
 inLanguage: es
 sourcePath: _posts/2016-06-01-el-general-cienfuegos-en-su-laberinto.md
-starred: false
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-09T21:05:37.752Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
