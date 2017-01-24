@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-07T00:45:49.055Z'
+datePublished: '2017-01-24T18:07:58.146Z'
 sourcePath: _posts/2016-06-16-no-es-uber-es-lo-otro.md
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-06-15/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-12-07T00:45:44.113Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: 'No es Uber, es lo otro '
 app_links: []
 publisher:
