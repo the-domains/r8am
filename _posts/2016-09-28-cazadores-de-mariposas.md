@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-07T01:07:03.047Z'
+datePublished: '2017-01-24T18:07:49.558Z'
 sourcePath: _posts/2016-09-28-cazadores-de-mariposas.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-07T01:06:56.960Z'
+dateModified: '2017-01-24T18:07:20.997Z'
 title: Cazadores de mariposas
 publisher:
   name: Pablo A. Cicero Alonzo
