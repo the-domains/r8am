@@ -9,17 +9,17 @@ description: >-
   cuando, días después de darle el privilegio de la duda a Hitler, el mundo se
   estremeció con la blitzkreig, la guerra relámpago, truenos sobre
   Checoslovaquia, Polonia, Francia…
-dateModified: '2017-01-27T01:32:29.804Z'
-datePublished: '2017-01-27T01:32:30.455Z'
+dateModified: '2017-01-27T01:41:05.180Z'
+datePublished: '2017-01-27T01:41:05.827Z'
 title: Manual de carroña
 author: []
 publisher:
   name: Por Pablo A. Cicero Alonzo
 via: {}
 hasPage: true
+sourcePath: _posts/2017-01-27-manual-de-carrona.md
 starred: false
 datePublishedOriginal: '2017-01-27T01:32:30.455Z'
-sourcePath: _posts/2017-01-27-manual-de-carrona.md
 url: manual-de-carrona/index.html
 _type: Article
 
