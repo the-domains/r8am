@@ -1,16 +1,23 @@
 ---
 inFeed: true
 description: Por Pablo A. Cicero Alonzo
-dateModified: '2017-02-14T03:07:03.257Z'
-datePublished: '2017-02-14T03:07:04.365Z'
+dateModified: '2017-02-14T03:08:40.086Z'
+datePublished: '2017-02-14T03:08:40.657Z'
 title: Mucho más sabroso que un monólogo
-author: []
-publisher: {}
+author:
+  - name: ReGilmour
+    url: 'https://www.youtube.com/user/ReGilmour'
+    avatar: {}
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: youtu.be
 via: {}
 hasPage: true
+sourcePath: _posts/2017-02-14-mucho-mas-sabroso-que-un-monologo.md
 starred: false
 datePublishedOriginal: '2017-02-14T03:07:04.365Z'
-sourcePath: _posts/2017-02-14-mucho-mas-sabroso-que-un-monologo.md
 url: mucho-mas-sabroso-que-un-monologo/index.html
 _type: Article
 
@@ -18,6 +25,8 @@ _type: Article
 # Mucho más sabroso que un monólogo
 
 Por Pablo A. Cicero Alonzo
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F3j8mr-gcgoI%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3j8mr-gcgoI&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F3j8mr-gcgoI%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
 _Comentarios sobre el artículo titulado «Entonces, pediré un Uber», publicado ayer en estas páginas:_
 
