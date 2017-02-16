@@ -8,18 +8,18 @@ publisher:
   domain: www.lajornadamaya.mx
 keywords: []
 description: >-
-  Pablo A. Cicero Alonzo Zephyranthes ciceroana, una "brujita" de República
-  DominicanaLa Jornada Maya Jueves 9 de febrero, 2017 Itzimná es el lugar donde
-  me siento más cómodo, donde se habla con el acento que mejor entiendo, las
-  miradas que puedo interpretar sin equivocarme. Uno es de donde estudió la
-  primaria, probablemente.
+  Pablo A. Cicero AlonzoFoto: Vivian MaierLa Jornada Maya Miércoles 8 de
+  febrero, 2017 Hacer de lo ordinario algo extraordinario. No es como todos los
+  niños. Y así lo asumen sus padres. La normalidad, para ellos, alcanza otros
+  matices, mucho más sutiles. Para ellos, la vida pasa y se acepta; la transitan
+  como funambulistas, entre la alegría y la tristeza.
 inLanguage: es
 app_links: []
-isBasedOnUrl: 'https://www.lajornadamaya.mx/2017-02-09/Reporte-8AM'
+isBasedOnUrl: 'https://www.lajornadamaya.mx/2017-02-08/Reporte-8AM'
 title: La Jornada Maya | Reporte 8AM
-datePublished: '2017-02-16T14:46:44.998Z'
-dateModified: '2017-02-16T14:46:44.171Z'
-datePublishedOriginal: '2017-02-16T14:46:44.998Z'
+datePublished: '2017-02-16T14:46:54.095Z'
+dateModified: '2017-02-16T14:46:53.218Z'
+datePublishedOriginal: '2017-02-16T14:46:54.095Z'
 via: {}
 inFeed: true
 starred: false
@@ -28,4 +28,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>La Jornada Maya | Reporte 8AM</h1><p>Pablo A. Cicero Alonzo Zephyranthes ciceroana, una "brujita" de República DominicanaLa Jornada Maya Jueves 9 de febrero, 2017 Itzimná es el lugar donde me siento más cómodo, donde se habla con el acento que mejor entiendo, las miradas que puedo interpretar sin equivocarme. Uno es de donde estudió la primaria, probablemente.</p><img src="https://img.lajornadamaya.mx/32/j1abggo1obab_640-414-cover" /></article>
+<article style=""><h1>La Jornada Maya | Reporte 8AM</h1><p>Pablo A. Cicero AlonzoFoto: Vivian MaierLa Jornada Maya Miércoles 8 de febrero, 2017 Hacer de lo ordinario algo extraordinario. No es como todos los niños. Y así lo asumen sus padres. La normalidad, para ellos, alcanza otros matices, mucho más sutiles. Para ellos, la vida pasa y se acepta; la transitan como funambulistas, entre la alegría y la tristeza.</p><img src="https://img.lajornadamaya.mx/32/pi486sii64sw_640-414-cover" /></article>
