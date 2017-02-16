@@ -8,18 +8,18 @@ publisher:
   domain: www.lajornadamaya.mx
 keywords: []
 description: >-
-  Pablo A. Cicero AlonzoFoto: Fabrizio León DiezLa Jornada Maya Martes 7 de
-  febrero, 2017 Un ruido la despierta. Abre los ojos, con miedo e intenta
-  escuchar con más atención. En las olas, cree se ahogan unos pasos, pero no el
-  sonido de algo metálico. Despierta a su esposo, que alarmado le pregunta qué
-  pasa.
+  Pablo A. Cicero AlonzoFoto tomada de la revista New Scientist La Jornada Maya
+  Viernes 3 de febrero, 2017 Se llamaba Foudouko. Era alto y fuerte. Muy alto y
+  muy fuerte. Se convirtió en líder muy joven, apoyado por su lugarteniente
+  Mamadou. El ejercicio del poder, sin embargo, transformó la personalidad de
+  Foudouko.
 inLanguage: es
 app_links: []
-isBasedOnUrl: 'https://www.lajornadamaya.mx/2017-02-07/Reporte-8AM'
+isBasedOnUrl: 'https://www.lajornadamaya.mx/2017-02-03/Reporte-8AM'
 title: La Jornada Maya | Reporte 8AM
-datePublished: '2017-02-16T14:47:04.261Z'
-dateModified: '2017-02-16T14:47:03.466Z'
-datePublishedOriginal: '2017-02-16T14:47:04.261Z'
+datePublished: '2017-02-16T14:47:17.774Z'
+dateModified: '2017-02-16T14:47:17.046Z'
+datePublishedOriginal: '2017-02-16T14:47:17.774Z'
 via: {}
 inFeed: true
 starred: false
@@ -28,4 +28,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>La Jornada Maya | Reporte 8AM</h1><p>Pablo A. Cicero AlonzoFoto: Fabrizio León DiezLa Jornada Maya Martes 7 de febrero, 2017 Un ruido la despierta. Abre los ojos, con miedo e intenta escuchar con más atención. En las olas, cree se ahogan unos pasos, pero no el sonido de algo metálico. Despierta a su esposo, que alarmado le pregunta qué pasa.</p><img src="https://img.lajornadamaya.mx/32/di4864e286tr_640-414-cover" /></article>
+<article style=""><h1>La Jornada Maya | Reporte 8AM</h1><p>Pablo A. Cicero AlonzoFoto tomada de la revista New Scientist La Jornada Maya Viernes 3 de febrero, 2017 Se llamaba Foudouko. Era alto y fuerte. Muy alto y muy fuerte. Se convirtió en líder muy joven, apoyado por su lugarteniente Mamadou. El ejercicio del poder, sin embargo, transformó la personalidad de Foudouko.</p><img src="https://img.lajornadamaya.mx/32/i1abgobg3abr_640-414-cover" /></article>
