@@ -8,18 +8,18 @@ publisher:
   domain: www.lajornadamaya.mx
 keywords: []
 description: >-
-  Pablo A. Cicero AlonzoFoto: Rodrigo Díaz GuzmánLa Jornada Maya Viernes 10 de
-  febrero, 2017 Más que Irán, Persépolis, el imperio del sha, el París de
-  Oriente. Ahí fue su primera encomienda diplomática. Antes de los ayatollahs,
-  antes de la sharia. Recorrió Afganistán en una Land Rover que resucitó varias
-  veces, ante las miradas, a lo lejos, de los mujaidines.
+  Pablo A. Cicero Alonzo Zephyranthes ciceroana, una "brujita" de República
+  DominicanaLa Jornada Maya Jueves 9 de febrero, 2017 Itzimná es el lugar donde
+  me siento más cómodo, donde se habla con el acento que mejor entiendo, las
+  miradas que puedo interpretar sin equivocarme. Uno es de donde estudió la
+  primaria, probablemente.
 inLanguage: es
 app_links: []
-isBasedOnUrl: 'https://www.lajornadamaya.mx/2017-02-10/Reporte-8AM'
+isBasedOnUrl: 'https://www.lajornadamaya.mx/2017-02-09/Reporte-8AM'
 title: La Jornada Maya | Reporte 8AM
-datePublished: '2017-02-16T14:46:36.934Z'
-dateModified: '2017-02-16T14:46:35.863Z'
-datePublishedOriginal: '2017-02-16T14:46:36.934Z'
+datePublished: '2017-02-16T14:46:44.998Z'
+dateModified: '2017-02-16T14:46:44.171Z'
+datePublishedOriginal: '2017-02-16T14:46:44.998Z'
 via: {}
 inFeed: true
 starred: false
@@ -28,4 +28,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>La Jornada Maya | Reporte 8AM</h1><p>Pablo A. Cicero AlonzoFoto: Rodrigo Díaz GuzmánLa Jornada Maya Viernes 10 de febrero, 2017 Más que Irán, Persépolis, el imperio del sha, el París de Oriente. Ahí fue su primera encomienda diplomática. Antes de los ayatollahs, antes de la sharia. Recorrió Afganistán en una Land Rover que resucitó varias veces, ante las miradas, a lo lejos, de los mujaidines.</p><img src="https://img.lajornadamaya.mx/32/a1abg7o1o1bk_640-414-cover" /></article>
+<article style=""><h1>La Jornada Maya | Reporte 8AM</h1><p>Pablo A. Cicero Alonzo Zephyranthes ciceroana, una "brujita" de República DominicanaLa Jornada Maya Jueves 9 de febrero, 2017 Itzimná es el lugar donde me siento más cómodo, donde se habla con el acento que mejor entiendo, las miradas que puedo interpretar sin equivocarme. Uno es de donde estudió la primaria, probablemente.</p><img src="https://img.lajornadamaya.mx/32/j1abggo1obab_640-414-cover" /></article>
