@@ -26,7 +26,7 @@ author:
   name: Pablo Antonio Cicero Alonzo
   email: cicero.pablo@gmail.com
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c481c112-a804-46b7-92a8-67878132ce2d.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc4df248-8b5a-4e9d-8282-66d1811873cc.jpg
 name: 8AM
 cta:
   bucket: null
@@ -40,7 +40,8 @@ navigation:
   - name: Reporte 6PM
     url: 'http://thegrid.ai/6pm/'
     type: external
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4625151f-1124-4432-914d-1b8a94a08ead.jpg
 collections:
   - index:
       path: /
@@ -54,7 +55,55 @@ collections:
       format: rss
       number: 10
 title: REPORTE 8AM
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b5121fb-e122-46a4-9be8-e6975bc6bd76.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b5121fb-e122-46a4-9be8-e6975bc6bd76.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa7e11f8-ab25-43a3-95c1-75ac13c48386.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa7e11f8-ab25-43a3-95c1-75ac13c48386.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: Pablo A. Cicero Alonzo
 purpose:
   - type: contact
