@@ -6,8 +6,8 @@ description: >-
   todo de esperanza. Cuenta cómo un cazador mercenario (¡hace siglo y cuarto!)
   cambió su percepción del mundo y se hizo humano. Era el célebre Ernest
   Thompson Seton, la mejor demostración de que, en efecto, se puede.
-dateModified: '2017-02-24T19:31:55.780Z'
-datePublished: '2017-02-24T19:31:56.288Z'
+dateModified: '2017-02-24T19:32:10.216Z'
+datePublished: '2017-02-24T19:32:10.619Z'
 title: El lobo que cambió América
 author: []
 publisher:
@@ -48,7 +48,7 @@ Hasta en el alma del más aguerrido trampero anida un hálito de compasión, y c
 Ecologista prematuro, aprovechó su fama para defender el medio natural americano, a pesar de lo cual la caza de lobos continuó hasta su práctica desaparición. Pero sin duda sembró la semilla necesaria para que las cosas cambiasen. **Colaboró **_**de facto**_**en la creación del movimiento **_**Boy Scout**_**, del que acabó alejándose tras apreciar su excesivo belicismo durante la Primera Guerra Mundial.** Seton trató de recuperar a través de sus libros el respeto que los indios profesaban hacia los animales en general, _aquellos pieles rojas_ que cazaban para sobrevivir (como los mismos lobos), pero a quienes sus víctimas les merecían un reverencial respeto, al punto de solicitarles el perdón a través de distintos ritos después de cada jornada cinegética.
 
 En las fotos de Seton aparecen los reales protagonistas de esta poderosa historia. Fueron tomadas por el propio cazador poco antes de que su corazón se transformara definitivamente y lo modelase hasta convertirlo en un verdadero _ser humano_.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b90ab5cb-12b8-461b-ad89-4bdd969738e2.jpg)
+![Conmovido por su experiencia con Lobo, Ernest Thompson Seton (1860-1946) abandonó la caza mercenaria para convertirse en firme defensor de la Naturaleza y de los animales](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b90ab5cb-12b8-461b-ad89-4bdd969738e2.jpg)
 
 [0]: https://www.google.es/search?q=wolf+totem+annaud&safe=off&tbm=isch&tbo=u&source=univ&sa=X&ei=5zQtVYicFoG5OPOtgaAN&ved=0CDoQsAQ&biw=1080&bih=531
 [1]: http://www.youtube.com/watch?v=pyFFl96Q08Y
