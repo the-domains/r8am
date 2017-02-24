@@ -1,13 +1,13 @@
 ---
 inFeed: true
 description: >-
-  Coincidiendo con el estreno deEl último lobo, película del cineasta francés
+  Coincidiendo con el estreno de El último lobo, película del cineasta francés
   Jean-Jacques Annaud, publicamos esta historia de pasión y dolor, pero sobre
   todo de esperanza. Cuenta cómo un cazador mercenario (¡hace siglo y cuarto!)
   cambió su percepción del mundo y se hizo humano. Era el célebre Ernest
   Thompson Seton, la mejor demostración de que, en efecto, se puede.
-dateModified: '2017-02-24T19:31:47.712Z'
-datePublished: '2017-02-24T19:31:48.148Z'
+dateModified: '2017-02-24T19:31:55.780Z'
+datePublished: '2017-02-24T19:31:56.288Z'
 title: El lobo que cambió América
 author: []
 publisher:
@@ -25,7 +25,7 @@ _type: Article
 
 # **El lobo que cambió América**
 
-Coincidiendo con el estreno de_[El último lobo][0]_, película del cineasta francés Jean-Jacques Annaud, publicamos esta historia de pasión y dolor, pero sobre todo de esperanza. Cuenta cómo un cazador mercenario (¡hace siglo y cuarto!) cambió su percepción del mundo y se hizo _humano_. Era el célebre Ernest Thompson Seton, la mejor demostración de que, en efecto, se puede.
+Coincidiendo con el estreno de _[El último lobo][0]_, película del cineasta francés Jean-Jacques Annaud, publicamos esta historia de pasión y dolor, pero sobre todo de esperanza. Cuenta cómo un cazador mercenario (¡hace siglo y cuarto!) cambió su percepción del mundo y se hizo _humano_. Era el célebre Ernest Thompson Seton, la mejor demostración de que, en efecto, se puede.
 
 ---
 
