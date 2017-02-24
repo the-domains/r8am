@@ -33,10 +33,6 @@ cta:
   version: null
   domain: null
 navigation:
-  - name: Una historia trágica
-    url: >-
-      https://thegrid.ai/por-entregas/todo-lo-que-se-describe-en-este-relato-sucedio-en-realidad
-    type: external
   - name: Reporte 6PM
     url: 'http://thegrid.ai/6pm/'
     type: external
@@ -73,7 +69,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
