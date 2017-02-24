@@ -2,21 +2,23 @@
 inFeed: true
 description: >-
   Coincidiendo con el estreno deEl último lobo, película del cineasta francés
-  Jean-Jacques Annaud,  publicamos esta historia de pasión y dolor, pero sobre
+  Jean-Jacques Annaud, publicamos esta historia de pasión y dolor, pero sobre
   todo de esperanza. Cuenta cómo un cazador mercenario (¡hace siglo y cuarto!)
   cambió su percepción del mundo y se hizo humano. Era el célebre Ernest
   Thompson Seton, la mejor demostración de que, en efecto, se puede.
-dateModified: '2017-02-24T19:27:47.592Z'
-datePublished: '2017-02-24T19:27:47.955Z'
+dateModified: '2017-02-24T19:31:47.712Z'
+datePublished: '2017-02-24T19:31:48.148Z'
 title: El lobo que cambió América
 author: []
 publisher:
   name: Por Pablo A. Cicero Alonzo
 via: {}
 sourcePath: _posts/2017-02-24-el-lobo-que-cambio-america.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-02-24T19:25:36.136Z'
-_type: Blurb
+url: el-lobo-que-cambio-america/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/71a8a016-5905-4011-9131-36203491aa4b.gif)
@@ -24,6 +26,8 @@ _type: Blurb
 # **El lobo que cambió América**
 
 Coincidiendo con el estreno de_[El último lobo][0]_, película del cineasta francés Jean-Jacques Annaud, publicamos esta historia de pasión y dolor, pero sobre todo de esperanza. Cuenta cómo un cazador mercenario (¡hace siglo y cuarto!) cambió su percepción del mundo y se hizo _humano_. Era el célebre Ernest Thompson Seton, la mejor demostración de que, en efecto, se puede.
+
+---
 
 **Corre la última década del siglo XIX en la vieja América de la conquista agrícola y ganadera. La caza de búfalos y otras especies se extiende por doquier, y se ha convertido de hecho en una práctica obsesiva y criminal. Ello priva de alimento a los lobos; a ellos, legítimos y ancestrales moradores de aquellas vastas tierras.**
 
@@ -37,7 +41,7 @@ _Lobo_ es el líder de una manada que ataca al ganado para sobrevivir, atemoriza
 
 **Algo oprime entonces el pecho del cazador --con toda seguridad, eso que desde antiguo llamamos **_**remordimiento**_**--.** El objetivo de los últimos meses se encuentra allí, a unos escasos metros, a su completa merced, abatido de dolor, aunque no acertaría a asegurar en ese preciso momento si es mayor el que le ocasionan los artilugios metálicos o el recuerdo de _Blanca_. **Desde el principio tuvo claro que disfrutaría sobremanera ante un **_**Lobo**_**derrotado. Pero algo no funciona según lo previsto por su protocolo emocional.** Lejos de percibir ante sus ojos a un asesino despiadado, observa a un animal leal y tocado por el afecto, un ser que fue capaz de permanecer al lado de su amada y de acercarse a la cabaña de un humano esperando recuperarla.
 
-**Le miró fijamente a los ojos, y se le heló el alma al no verse correspondido.** El hombre, consternado por sus propios sentimientos, decide en ese mismo momento que se llevará con él a _Lobo_, a pesar de su lamentable estado, esperando que se recupere de las heridas y tenga así una "segunda oportunidad". **Contó después que el animal ni se resistió, que tenía la mirada clavada en la inmensa planicie, en las montañas donde un día reinó y amó.**_Lobo_ murió al día siguiente. Y sí: Seton reunió a ambos y los enterró juntos.  
+**Le miró fijamente a los ojos, y se le heló el alma al no verse correspondido.** El hombre, consternado por sus propios sentimientos, decide en ese mismo momento que se llevará con él a _Lobo_, a pesar de su lamentable estado, esperando que se recupere de las heridas y tenga así una "segunda oportunidad". **Contó después que el animal ni se resistió, que tenía la mirada clavada en la inmensa planicie, en las montañas donde un día reinó y amó.**_Lobo_ murió al día siguiente. Y sí: Seton reunió a ambos y los enterró juntos.
 
 Hasta en el alma del más aguerrido trampero anida un hálito de compasión, y cabe pensar que en el alma de Ernest Thompson Seton debía de haber una generosa dosis, pues **aquella experiencia le marcó de tal manera que al poco abandonó su profesión para dedicarse desde entonces a defender la Naturaleza y a sus moradores: también a los lobos**. El ciudadano Seton acabó alcanzando fama mundial tras publicar en 1899 su libro _**Wild Animals I Have Known**_ (_Animales Salvajes Que Conocí_), donde obviamente relata la historia de _Lobo_ y _Blanca_.
 
