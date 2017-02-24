@@ -1,16 +1,16 @@
-layout_spectrum: 0.8968452243859152
-typography_spectrum: 0.4837037896725469
+layout_spectrum: 0.6270771937613551
+typography_spectrum: 0.48977316880967503
 color:
-  saturation: 0.9588108896259402
-  brandStrength: 0.4880767105296623
-  lightness: 0.8259057620335554
+  saturation: 0.725571716820065
+  brandStrength: 0.1621890593199336
+  lightness: 0.19270500712530078
   brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
-  rhythmicContrast: 0.9745505885638776
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+  rhythmicContrast: 0.19938951950243647
 coverPrefs:
   filter: false
 github: true
@@ -60,9 +60,9 @@ content:
     type: image
     html: >-
       <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4fa806f3-05a3-483b-946e-971d80bfd8c9.gif">
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/481e97db-30a0-4edd-b3d9-b957726e36cc.jpg">
     src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/4fa806f3-05a3-483b-946e-971d80bfd8c9.gif
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/481e97db-30a0-4edd-b3d9-b957726e36cc.jpg
     metadata:
       author: []
       related: []
@@ -73,7 +73,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
