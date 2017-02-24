@@ -6,16 +6,16 @@ description: >-
   todo de esperanza. Cuenta cómo un cazador mercenario (¡hace siglo y cuarto!)
   cambió su percepción del mundo y se hizo humano. Era el célebre Ernest
   Thompson Seton, la mejor demostración de que, en efecto, se puede.
-dateModified: '2017-02-24T19:25:35.637Z'
-datePublished: '2017-02-24T19:25:36.136Z'
+dateModified: '2017-02-24T19:27:47.592Z'
+datePublished: '2017-02-24T19:27:47.955Z'
 title: El lobo que cambió América
 author: []
 publisher:
   name: Por Pablo A. Cicero Alonzo
 via: {}
+sourcePath: _posts/2017-02-24-el-lobo-que-cambio-america.md
 starred: false
 datePublishedOriginal: '2017-02-24T19:25:36.136Z'
-sourcePath: _posts/2017-02-24-el-lobo-que-cambio-america.md
 _type: Blurb
 
 ---
