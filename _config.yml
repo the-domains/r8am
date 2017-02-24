@@ -32,10 +32,6 @@ cta:
   bucket: null
   version: null
   domain: null
-navigation:
-  - name: Reporte 6PM
-    url: 'http://thegrid.ai/6pm/'
-    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4625151f-1124-4432-914d-1b8a94a08ead.jpg
 collections:
