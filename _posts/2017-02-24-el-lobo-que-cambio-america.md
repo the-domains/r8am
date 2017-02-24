@@ -6,8 +6,8 @@ description: >-
   todo de esperanza. Cuenta cómo un cazador mercenario (¡hace siglo y cuarto!)
   cambió su percepción del mundo y se hizo humano. Era el célebre Ernest
   Thompson Seton, la mejor demostración de que, en efecto, se puede.
-dateModified: '2017-02-24T19:32:10.216Z'
-datePublished: '2017-02-24T19:32:10.619Z'
+dateModified: '2017-02-24T19:33:27.648Z'
+datePublished: '2017-02-24T19:33:27.814Z'
 title: El lobo que cambió América
 author: []
 publisher:
