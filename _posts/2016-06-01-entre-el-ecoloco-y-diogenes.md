@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-12-07T01:07:02.458Z'
+datePublished: '2017-03-09T16:50:31.718Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-03-03/Reporte-8AM'
 keywords: []
 related: []
 author: []
-dateModified: '2016-12-07T01:06:56.960Z'
+dateModified: '2017-03-09T16:50:24.102Z'
 title: 'Entre El Ecoloco y Diógenes '
 app_links: []
 publisher:
@@ -20,10 +20,10 @@ description: >-
   autoridades sacaron cien toneladas de basura de la vivienda.
 inLanguage: es
 sourcePath: _posts/2016-06-01-entre-el-ecoloco-y-diogenes.md
-starred: false
-datePublishedOriginal: '2016-06-01T14:26:45.893Z'
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-06-01T14:26:45.893Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
