@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-24T18:08:03.154Z'
+datePublished: '2017-03-09T16:50:31.711Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-03-16/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2017-01-24T18:07:20.997Z'
+dateModified: '2017-03-09T16:50:24.102Z'
 title: 'Yo sólo quiero trabajar '
 app_links: []
 publisher:
