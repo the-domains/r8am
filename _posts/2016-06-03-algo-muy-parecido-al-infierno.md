@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-24T18:07:58.832Z'
+datePublished: '2017-03-09T16:50:31.636Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-06-03/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2017-01-24T18:07:20.997Z'
+dateModified: '2017-03-09T16:50:24.102Z'
 title: 'Algo muy parecido al infierno '
 app_links: []
 publisher:
