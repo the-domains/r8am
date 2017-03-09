@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-24T18:08:00.291Z'
+datePublished: '2017-03-09T16:50:31.652Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-05-02/Reporte-8-am-por-Pablo-Cicero'
 keywords: []
 related: []
 author: []
-dateModified: '2017-01-24T18:07:20.997Z'
+dateModified: '2017-03-09T16:50:24.102Z'
 title: 'Una temporada en la morgue '
 app_links: []
 publisher:
