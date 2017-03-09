@@ -9,7 +9,7 @@ description: >-
   Moreno Valle Rosas a Yucatán fue, sin lugar a dudas, un acto de campaña. En
   pleno proceso de entrega a su compañero de partido, Tony Gali Fayad, el
   gobernador de Puebla ya está pensando en su futuro.
-datePublished: '2017-03-09T16:50:31.607Z'
+datePublished: '2017-03-09T16:50:34.209Z'
 dateModified: '2017-03-09T16:50:24.102Z'
 sourcePath: _posts/2016-07-18-pericos-vs-tigres.md
 related: []
