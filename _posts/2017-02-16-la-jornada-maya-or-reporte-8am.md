@@ -8,24 +8,24 @@ publisher:
   domain: www.lajornadamaya.mx
 keywords: []
 description: >-
-  Pablo A. Cicero AlonzoFoto: Vivian MaierLa Jornada Maya Miércoles 8 de
-  febrero, 2017 Hacer de lo ordinario algo extraordinario. No es como todos los
-  niños. Y así lo asumen sus padres. La normalidad, para ellos, alcanza otros
-  matices, mucho más sutiles. Para ellos, la vida pasa y se acepta; la transitan
-  como funambulistas, entre la alegría y la tristeza.
+  Pablo A. Cicero Alonzo Zephyranthes ciceroana, una "brujita" de República
+  DominicanaLa Jornada Maya Jueves 9 de febrero, 2017 Itzimná es el lugar donde
+  me siento más cómodo, donde se habla con el acento que mejor entiendo, las
+  miradas que puedo interpretar sin equivocarme. Uno es de donde estudió la
+  primaria, probablemente.
 inLanguage: es
 app_links: []
-isBasedOnUrl: 'https://www.lajornadamaya.mx/2017-02-08/Reporte-8AM'
-title: Ver lo que no se ve
-datePublished: '2017-03-09T16:50:31.258Z'
+isBasedOnUrl: 'https://www.lajornadamaya.mx/2017-02-09/Reporte-8AM'
+title: Itzimná
+datePublished: '2017-03-09T16:50:31.331Z'
 dateModified: '2017-03-09T16:50:24.102Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-16-la-jornada-maya-or-reporte-8am.md
 starred: false
-datePublishedOriginal: '2017-02-16T14:46:54.095Z'
+datePublishedOriginal: '2017-02-16T14:46:44.998Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://img.lajornadamaya.mx/32/pi486sii64sw_640-414-cover" /><h1>Ver lo que no se ve</h1><p>Pablo A. Cicero AlonzoFoto: Vivian MaierLa Jornada Maya Miércoles 8 de febrero, 2017 Hacer de lo ordinario algo extraordinario. No es como todos los niños. Y así lo asumen sus padres. La normalidad, para ellos, alcanza otros matices, mucho más sutiles. Para ellos, la vida pasa y se acepta; la transitan como funambulistas, entre la alegría y la tristeza.</p></article>
+<article style=""><img src="https://img.lajornadamaya.mx/32/j1abggo1obab_640-414-cover" /><h1>Itzimná</h1><p>Pablo A. Cicero Alonzo Zephyranthes ciceroana, una "brujita" de República DominicanaLa Jornada Maya Jueves 9 de febrero, 2017 Itzimná es el lugar donde me siento más cómodo, donde se habla con el acento que mejor entiendo, las miradas que puedo interpretar sin equivocarme. Uno es de donde estudió la primaria, probablemente.</p></article>
