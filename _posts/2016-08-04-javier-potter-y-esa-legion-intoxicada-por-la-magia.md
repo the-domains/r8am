@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-03-09T16:50:31.543Z'
+datePublished: '2017-03-09T16:50:34.119Z'
 sourcePath: _posts/2016-08-04-javier-potter-y-esa-legion-intoxicada-por-la-magia.md
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-08-04/Reporte-8-AM'
 keywords: []
