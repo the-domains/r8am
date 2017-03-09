@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-24T18:08:01.288Z'
+datePublished: '2017-03-09T16:50:31.670Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-04-09/Endurance'
 keywords: []
 related: []
 author: []
-dateModified: '2017-01-24T18:07:20.997Z'
+dateModified: '2017-03-09T16:50:24.102Z'
 title: Endurance
 app_links: []
 publisher:
