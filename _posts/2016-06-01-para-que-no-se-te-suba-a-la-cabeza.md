@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-12-07T01:07:02.364Z'
+datePublished: '2017-03-09T16:50:31.711Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-03-14/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-12-07T01:06:56.960Z'
+dateModified: '2017-03-09T16:50:24.102Z'
 title: 'Para que no se te suba a la cabeza '
 app_links: []
 publisher:
