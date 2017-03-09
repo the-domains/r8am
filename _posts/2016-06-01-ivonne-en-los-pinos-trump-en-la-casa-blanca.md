@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-01-24T18:07:55.764Z'
+datePublished: '2017-03-09T16:50:31.553Z'
 sourcePath: _posts/2016-06-01-ivonne-en-los-pinos-trump-en-la-casa-blanca.md
 inFeed: true
 hasPage: true
@@ -7,7 +7,7 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2017-01-24T18:07:20.997Z'
+dateModified: '2017-03-09T16:50:24.102Z'
 title: 'Ivonne, en los Pinos; Trump, en la Casa Blanca '
 app_links: []
 publisher:
