@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-03-09T16:50:31.441Z'
+datePublished: '2017-03-09T16:50:33.937Z'
 sourcePath: _posts/2016-09-09-rojo-amanecer-en-progreso.md
 inFeed: true
 hasPage: true
