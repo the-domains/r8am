@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-03-09T16:50:31.542Z'
+datePublished: '2017-03-09T16:50:34.150Z'
 sourcePath: _posts/2016-06-16-la-clave-esta-en-el-reglamento.md
 inFeed: true
 isBasedOnUrl: null
