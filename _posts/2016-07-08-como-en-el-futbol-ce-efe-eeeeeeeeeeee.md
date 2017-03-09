@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-03-09T16:50:31.586Z'
+datePublished: '2017-03-09T16:50:34.190Z'
 sourcePath: _posts/2016-07-08-como-en-el-futbol-ce-efe-eeeeeeeeeeee.md
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-07-08/Reporte-8-am'
 keywords: []
