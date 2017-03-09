@@ -7,7 +7,7 @@ keywords: []
 description: >-
   Pablo A. Cicero AlonzoFoto: La Jornada Maya Martes 31 de mayo, 2016 Escribió
   Cervantes que "cuatro días se le pasaron en imaginar qué nombre le pondría...
-datePublished: '2017-03-09T16:50:31.620Z'
+datePublished: '2017-03-09T16:50:34.263Z'
 dateModified: '2017-03-09T16:50:24.102Z'
 related: []
 author: []
