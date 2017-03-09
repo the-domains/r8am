@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-24T18:07:58.145Z'
+datePublished: '2017-03-09T16:50:34.225Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-06-13/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2017-01-24T18:07:20.997Z'
+dateModified: '2017-03-09T16:50:24.102Z'
 title: 'Fusiles cargados con balas de odio '
 app_links: []
 publisher:
