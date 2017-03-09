@@ -16,7 +16,7 @@ description: >-
   padres, que un caimán se acerca… En la oscura, negra noche, nadie ve el ataque
   del gigantesco reptil, que como relámpago abre sus fauces y se lleva a su
   pequeña presa.
-datePublished: '2017-03-09T16:50:31.471Z'
+datePublished: '2017-03-09T16:50:34.056Z'
 dateModified: '2017-03-09T16:50:24.102Z'
 sourcePath: _posts/2016-06-17-el-lagarto-albino-de-mis-pesadillas.md
 author:
