@@ -69,8 +69,8 @@ description: >-
   a Benito Juárez.El arte como bálsamo; vitacilina para la vida, abrazo,
   sicoanálisis gratuito --y realmente eficaz. La cultura como —verdadero—
   escudo.
-dateModified: '2017-03-09T16:41:35.018Z'
-datePublished: '2017-03-09T16:41:35.648Z'
+dateModified: '2017-03-09T16:50:24.102Z'
+datePublished: '2017-03-09T16:50:31.284Z'
 title: Un puñetazo en el rostro
 author: []
 publisher:
