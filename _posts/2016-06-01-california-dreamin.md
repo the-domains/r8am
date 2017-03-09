@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-09T21:05:37.764Z'
+datePublished: '2017-03-09T16:50:34.279Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-04-20/Reporte-8am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-11-09T21:05:34.894Z'
+dateModified: '2017-03-09T16:50:24.102Z'
 title: 'California dreamin’ '
 app_links: []
 publisher:
@@ -19,9 +19,10 @@ description: >-
   13 años. Desde entonces, no ha regresado a la ciudad en la que nació.
 inLanguage: es
 sourcePath: _posts/2016-06-01-california-dreamin.md
-starred: false
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-09T21:05:37.764Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
