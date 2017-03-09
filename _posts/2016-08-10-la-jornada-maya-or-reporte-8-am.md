@@ -1,12 +1,12 @@
 ---
-datePublished: '2017-01-24T18:07:54.072Z'
+datePublished: '2017-03-09T16:50:31.514Z'
 sourcePath: _posts/2016-08-10-la-jornada-maya-or-reporte-8-am.md
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-08-10/Reporte-8-AM'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2017-01-24T18:07:20.997Z'
+dateModified: '2017-03-09T16:50:24.102Z'
 title: Quémese después de leer
 app_links: []
 publisher:
