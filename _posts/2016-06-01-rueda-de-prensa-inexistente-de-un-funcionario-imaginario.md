@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-03-09T16:50:31.635Z'
+datePublished: '2017-03-09T16:50:34.242Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-05-11/Reporte-8AM--por-Pablo-A--CIcero'
 keywords: []
 related: []
