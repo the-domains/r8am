@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-12-07T01:07:02.394Z'
+datePublished: '2017-03-09T16:50:31.719Z'
 isBasedOnUrl: 'https://t.co/EhN6yLBVoU'
 keywords: []
 related: []
 author: []
-dateModified: '2016-12-07T01:06:56.960Z'
+dateModified: '2017-03-09T16:50:24.102Z'
 title: 'Tsundoku. No perdí la fe en Eco '
 app_links: []
 publisher:
@@ -18,10 +18,10 @@ description: >-
   Aurora de la Mora, es un chofer de Uber.
 inLanguage: es
 sourcePath: _posts/2016-06-13-tsundoku-no-perdi-la-fe-en-eco.md
-starred: false
-datePublishedOriginal: '2016-06-13T11:18:31.530Z'
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-06-13T11:18:31.530Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
