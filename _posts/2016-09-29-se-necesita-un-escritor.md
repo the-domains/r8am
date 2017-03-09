@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-03-09T16:50:31.417Z'
+datePublished: '2017-03-09T16:50:33.922Z'
 sourcePath: _posts/2016-09-29-se-necesita-un-escritor.md
 inFeed: true
 hasPage: true
