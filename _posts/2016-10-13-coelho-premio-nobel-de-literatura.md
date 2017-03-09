@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-03-09T16:50:31.471Z'
+datePublished: '2017-03-09T16:50:33.966Z'
 sourcePath: _posts/2016-10-13-coelho-premio-nobel-de-literatura.md
 inFeed: true
 hasPage: true
