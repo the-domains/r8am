@@ -1,17 +1,20 @@
 ---
 inFeed: true
-description: ''
-dateModified: '2017-03-09T14:16:48.910Z'
-datePublished: '2017-03-09T14:16:49.306Z'
+description: >-
+  En un naufragio, todos los adultos mueren; el mar vomita a niños y jóvenes a
+  una isla desierta. Ahí se forman dos bandos, cuyas diferencias dan pie a una
+  rivalidad que termina en un baño de sangre. El horror, el horror…
+dateModified: '2017-03-09T16:41:35.018Z'
+datePublished: '2017-03-09T16:41:35.663Z'
 title: Leer a Golding en Flambo
 author: []
 publisher:
   name: Por Pablo A. Cicero Alonzo
 via: {}
 hasPage: true
+sourcePath: _posts/2017-03-09-leer-a-golding-en-flambo.md
 starred: false
 datePublishedOriginal: '2017-03-09T14:16:49.306Z'
-sourcePath: _posts/2017-03-09-leer-a-golding-en-flambo.md
 url: leer-a-golding-en-flambo/index.html
 _type: Article
 
