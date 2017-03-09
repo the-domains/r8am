@@ -4,8 +4,8 @@ hasPage: true
 inLanguage: null
 keywords: []
 description: 'https://www.lajornadamaya.mx/2016-06-22/Reporte-8-am'
-datePublished: '2017-01-24T18:07:55.325Z'
-dateModified: '2017-01-24T18:07:20.997Z'
+datePublished: '2017-03-09T16:50:34.152Z'
+dateModified: '2017-03-09T16:50:24.102Z'
 title: ''
 author: []
 authors: []
