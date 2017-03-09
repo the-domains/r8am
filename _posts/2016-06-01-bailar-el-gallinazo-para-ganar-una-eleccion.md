@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-09T21:05:37.813Z'
+datePublished: '2017-03-09T16:50:31.638Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-04-19/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-11-09T21:05:34.894Z'
+dateModified: '2017-03-09T16:50:24.102Z'
 title: 'Bailar El gallinazo para ganar una elección '
 app_links: []
 publisher:
@@ -23,8 +23,9 @@ sourcePath: _posts/2016-06-01-bailar-el-gallinazo-para-ganar-una-eleccion.md
 inFeed: true
 hasPage: false
 authors: []
-starred: true
 via: {}
+starred: true
+datePublishedOriginal: '2016-11-09T21:05:37.813Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
