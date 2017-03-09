@@ -6,8 +6,8 @@ description: >-
   Enrique Peña Nieto se reunió con los capitanes de empresa, a quienes incluso
   dio a entender que había la posibilidad de vetar las leyes que conforman ese
   sistema.
-dateModified: '2017-01-24T18:07:20.997Z'
-datePublished: '2017-01-24T18:07:51.343Z'
+dateModified: '2017-03-09T16:50:24.102Z'
+datePublished: '2017-03-09T16:50:31.471Z'
 title: La promulgación que no fue
 author: []
 sourcePath: _posts/2016-06-23-la-promulgacion-que-no-fue.md
