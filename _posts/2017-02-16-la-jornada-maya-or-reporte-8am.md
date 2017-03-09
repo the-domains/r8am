@@ -8,23 +8,23 @@ publisher:
   domain: www.lajornadamaya.mx
 keywords: []
 description: >-
-  Pablo A. Cicero AlonzoFoto: France PressLa Jornada Maya Miércoles 15 de
-  febrero, 2017 Ya se convirtió en una telenovela. De las mexicanas, a su pesar.
-  El último capítulo lo protagonizó su hija, a quien expuso a burlas y a
-  comentarios obscenos.
+  Texto y foto: Pablo A. Cicero(n) AlonzoLa Jornada Maya Miércoles 1 de febrero,
+  2017 Todo está escrito. Desde hace mucho ya. No hay nada nuevo bajo el sol.
+  Incluso los tiranos se reciclan. No me sorprende Donald Trump, sino la
+  incapacidad del ser humano -ellos, tú y yo...- de aprender de sus errores.
 inLanguage: es
 app_links: []
-isBasedOnUrl: 'https://www.lajornadamaya.mx/2017-02-15/Reporte-8AM'
-title: El padroteo del padre
-datePublished: '2017-02-16T14:52:15.496Z'
-dateModified: '2017-02-16T14:52:14.785Z'
+isBasedOnUrl: 'https://www.lajornadamaya.mx/2017-02-01/Reporte-8AM'
+title: Catilinarias 2.0
+datePublished: '2017-03-09T16:50:31.332Z'
+dateModified: '2017-03-09T16:50:24.102Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-16-la-jornada-maya-or-reporte-8am.md
 starred: false
-datePublishedOriginal: '2017-02-16T14:43:23.658Z'
+datePublishedOriginal: '2017-02-16T14:47:40.870Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://img.lajornadamaya.mx/32/p1ab711757or_640-414-cover" /><h1>El padroteo del padre</h1><p>Pablo A. Cicero AlonzoFoto: France PressLa Jornada Maya Miércoles 15 de febrero, 2017 Ya se convirtió en una telenovela. De las mexicanas, a su pesar. El último capítulo lo protagonizó su hija, a quien expuso a burlas y a comentarios obscenos.</p></article>
+<article style=""><img src="https://img.lajornadamaya.mx/32/f1ab591ggogm_640-414-cover" /><h1>Catilinarias 2.0</h1><p>Texto y foto: Pablo A. Cicero(n) AlonzoLa Jornada Maya Miércoles 1 de febrero, 2017 Todo está escrito. Desde hace mucho ya. No hay nada nuevo bajo el sol. Incluso los tiranos se reciclan. No me sorprende Donald Trump, sino la incapacidad del ser humano -ellos, tú y yo...- de aprender de sus errores.</p></article>
