@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-12-07T01:07:02.324Z'
+datePublished: '2017-03-09T16:50:31.682Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-03-29/Reporte-8am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-12-07T01:06:56.960Z'
+dateModified: '2017-03-09T16:50:24.102Z'
 title: 'La teoría de la taxiconspiración '
 app_links: []
 publisher:
