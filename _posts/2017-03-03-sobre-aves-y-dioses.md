@@ -1,17 +1,17 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-03T19:35:50.002Z'
-datePublished: '2017-03-03T19:35:50.695Z'
+dateModified: '2017-03-09T16:50:24.102Z'
+datePublished: '2017-03-09T16:50:31.279Z'
 title: Sobre aves y dioses
 author: []
 publisher:
   name: Pablo A. Cicero Alonzo
 via: {}
 hasPage: true
+sourcePath: _posts/2017-03-03-sobre-aves-y-dioses.md
 starred: false
 datePublishedOriginal: '2017-03-03T19:35:50.695Z'
-sourcePath: _posts/2017-03-03-sobre-aves-y-dioses.md
 url: sobre-aves-y-dioses/index.html
 _type: Article
 
