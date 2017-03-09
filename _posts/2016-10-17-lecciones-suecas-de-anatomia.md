@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-03-09T16:50:31.442Z'
+datePublished: '2017-03-09T16:50:33.975Z'
 sourcePath: _posts/2016-10-17-lecciones-suecas-de-anatomia.md
 inFeed: true
 hasPage: true
