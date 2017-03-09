@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-24T18:07:58.798Z'
+datePublished: '2017-03-09T16:50:31.637Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-06-06/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2017-01-24T18:07:20.997Z'
+dateModified: '2017-03-09T16:50:24.102Z'
 title: ' Los dos huevos del nuevo gobernador de Quintana Roo'
 app_links: []
 publisher:
