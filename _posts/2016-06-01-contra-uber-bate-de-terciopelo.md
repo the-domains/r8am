@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-12-07T01:07:02.364Z'
+datePublished: '2017-03-09T16:50:31.718Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-03-10/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-12-07T01:06:56.960Z'
+dateModified: '2017-03-09T16:50:24.102Z'
 title: 'Contra Uber, bate de terciopelo '
 app_links: []
 publisher:
@@ -19,10 +19,10 @@ description: >-
   avenidas de la capital del país.
 inLanguage: es
 sourcePath: _posts/2016-06-01-contra-uber-bate-de-terciopelo.md
-starred: false
-datePublishedOriginal: '2016-06-01T14:26:45.630Z'
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-06-01T14:26:45.630Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
