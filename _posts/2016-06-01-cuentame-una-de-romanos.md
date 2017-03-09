@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-09T21:05:37.814Z'
+datePublished: '2017-03-09T16:50:31.668Z'
 sourcePath: _posts/2016-06-01-cuentame-una-de-romanos.md
 inFeed: true
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-05-10/Reporte-8-am--por-Pablo-A--Cicero'
@@ -8,7 +8,7 @@ hasPage: false
 keywords: []
 related: []
 author: []
-dateModified: '2016-11-09T21:05:34.894Z'
+dateModified: '2017-03-09T16:50:24.102Z'
 title: 'Cuéntame una de romanos '
 app_links: []
 publisher:
@@ -23,8 +23,9 @@ description: >-
   el marco de una de las semanas más violentas que se han registrado en los
   últimos años.
 inLanguage: es
-starred: true
 via: {}
+starred: true
+datePublishedOriginal: '2016-11-09T21:05:37.814Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
