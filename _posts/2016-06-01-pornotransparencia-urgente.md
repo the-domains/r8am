@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-12-07T01:07:02.460Z'
+datePublished: '2017-03-09T16:50:31.720Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-02-25/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-12-07T01:06:56.960Z'
+dateModified: '2017-03-09T16:50:24.102Z'
 title: 'Pornotransparencia urgente '
 app_links: []
 publisher:
@@ -19,10 +19,10 @@ description: >-
   fiscal.
 inLanguage: es
 sourcePath: _posts/2016-06-01-pornotransparencia-urgente.md
-starred: false
-datePublishedOriginal: '2016-06-01T14:26:46.299Z'
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-06-01T14:26:46.299Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
