@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-09T21:05:37.820Z'
+datePublished: '2017-03-09T16:50:31.682Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-04-13/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-11-09T21:05:34.894Z'
+dateModified: '2017-03-09T16:50:24.102Z'
 title: 'Jazmín Villanueva Ma '
 app_links: []
 publisher:
@@ -20,9 +20,10 @@ description: >-
   sus amigos.
 inLanguage: es
 sourcePath: _posts/2016-06-01-jazmin-villanueva-ma.md
-starred: false
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-09T21:05:37.820Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
