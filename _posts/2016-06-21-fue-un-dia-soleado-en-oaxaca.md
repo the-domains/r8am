@@ -4,7 +4,7 @@ hasPage: true
 inLanguage: null
 keywords: []
 description: 'https://www.lajornadamaya.mx/2016-06-21/Reporte-8-am'
-datePublished: '2017-03-09T16:50:31.542Z'
+datePublished: '2017-03-09T16:50:34.151Z'
 dateModified: '2017-03-09T16:50:24.102Z'
 sourcePath: _posts/2016-06-21-fue-un-dia-soleado-en-oaxaca.md
 author: []
