@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-03-09T16:50:31.586Z'
+datePublished: '2017-03-09T16:50:34.227Z'
 sourcePath: _posts/2016-06-24-no-hay-metadona-para-la-adiccion-al-poder.md
 inFeed: true
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-06-24/Reporte-8-am'
