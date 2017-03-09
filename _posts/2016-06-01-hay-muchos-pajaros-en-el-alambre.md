@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-09T21:05:37.764Z'
+datePublished: '2017-03-09T16:50:31.637Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-04-27/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-11-09T21:05:34.894Z'
+dateModified: '2017-03-09T16:50:24.102Z'
 title: Hay muchos pájaros en el alambre
 app_links: []
 publisher:
@@ -22,8 +22,9 @@ sourcePath: _posts/2016-06-01-hay-muchos-pajaros-en-el-alambre.md
 inFeed: true
 hasPage: false
 authors: []
-starred: true
 via: {}
+starred: true
+datePublishedOriginal: '2016-11-09T21:05:37.764Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
