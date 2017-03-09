@@ -7,7 +7,7 @@ description: >-
   huérfano. Sin embargo, la genialidad de  Herman Melville también nada ligero,
   en las pocas páginas de Bartleby, el escribiente; un charco océano.
 dateModified: '2017-03-09T16:50:24.102Z'
-datePublished: '2017-03-09T16:50:31.279Z'
+datePublished: '2017-03-09T16:50:33.745Z'
 title: ENVIDIANDO A BARTLEBY
 author: []
 publisher: {}
