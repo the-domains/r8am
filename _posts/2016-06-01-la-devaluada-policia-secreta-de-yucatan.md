@@ -9,7 +9,7 @@ description: >-
   junio, 2016 En la era de Galileo, no el astrónomo sino el sistema de
   espionaje, llama la atención la presencia de "orejas" en diversos escenarios
   de Yucatán.
-datePublished: '2017-03-09T16:50:31.553Z'
+datePublished: '2017-03-09T16:50:34.151Z'
 dateModified: '2017-03-09T16:50:24.102Z'
 author: []
 related: []
