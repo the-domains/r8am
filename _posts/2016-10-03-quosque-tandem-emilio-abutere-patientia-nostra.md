@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-03-09T16:50:31.463Z'
+datePublished: '2017-03-09T16:50:34.011Z'
 sourcePath: _posts/2016-10-03-quosque-tandem-emilio-abutere-patientia-nostra.md
 inFeed: true
 hasPage: true
