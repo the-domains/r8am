@@ -5,8 +5,8 @@ isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-05-25/Reporte-8-am'
 inLanguage: es
 keywords: []
 description: ''
-datePublished: '2017-01-24T18:07:46.720Z'
-dateModified: '2017-01-24T18:07:20.997Z'
+datePublished: '2017-03-09T16:50:31.418Z'
+dateModified: '2017-03-09T16:50:24.102Z'
 related: []
 author: []
 title: ''
