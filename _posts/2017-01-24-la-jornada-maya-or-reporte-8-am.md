@@ -8,24 +8,23 @@ publisher:
   domain: www.lajornadamaya.mx
 keywords: []
 description: >-
-  Pablo A. Cicero AlonzoFoto: Fabrizio León DiezLa Jornada Maya Martes 24 de
-  enero, 2017 Era mucho menos viejo de lo que aparentaba. Tal vez ese ojo
-  muerto, lagañoso, le obsequiaba varias, muchas décadas más. Sin embargo, el
-  ojo bueno le brillaba al recordar cuando él y su padre fueron al zócalo de la
-  Ciudad de México.
+  Pablo A. Cicero AlonzoFoto: Fernando EloyLa Jornada Maya Martes 17 de enero,
+  2016 Usted no sabe quién soy yo. Así titula su más reciente columna Íñigo
+  Domínguez en El País Semanal, uno de los cronistas que mejor conoce los
+  laberintos de la mafia italiana.
 inLanguage: es
 app_links: []
-isBasedOnUrl: 'https://www.lajornadamaya.mx/2017-01-24/Reporte-8-AM'
-title: Masiosare Trump
-datePublished: '2017-03-09T16:50:31.381Z'
+isBasedOnUrl: 'https://www.lajornadamaya.mx/2017-01-17/Reporte-8-AM'
+title: Metástasis de los excesos
+datePublished: '2017-03-09T16:50:33.871Z'
 dateModified: '2017-03-09T16:50:24.102Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-24-la-jornada-maya-or-reporte-8-am.md
 starred: false
-datePublishedOriginal: '2017-01-24T15:26:48.493Z'
+datePublishedOriginal: '2017-01-24T15:29:18.137Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://img.lajornadamaya.mx/32/ui48s228qiss_640-414-cover" /><h1>Masiosare Trump</h1><p>Pablo A. Cicero AlonzoFoto: Fabrizio León DiezLa Jornada Maya Martes 24 de enero, 2017 Era mucho menos viejo de lo que aparentaba. Tal vez ese ojo muerto, lagañoso, le obsequiaba varias, muchas décadas más. Sin embargo, el ojo bueno le brillaba al recordar cuando él y su padre fueron al zócalo de la Ciudad de México.</p></article>
+<article style=""><img src="https://img.lajornadamaya.mx/32/u1abagzb39zs_640-414-cover" /><h1>Metástasis de los excesos</h1><p>Pablo A. Cicero AlonzoFoto: Fernando EloyLa Jornada Maya Martes 17 de enero, 2016 Usted no sabe quién soy yo. Así titula su más reciente columna Íñigo Domínguez en El País Semanal, uno de los cronistas que mejor conoce los laberintos de la mafia italiana.</p></article>
