@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Por Pablo A. Cicero Alonzo
-dateModified: '2017-02-14T03:08:40.086Z'
-datePublished: '2017-02-14T03:08:40.657Z'
+dateModified: '2017-03-09T16:50:24.102Z'
+datePublished: '2017-03-09T16:50:33.836Z'
 title: Mucho más sabroso que un monólogo
 author:
   - name: ReGilmour
