@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-03-09T16:50:31.511Z'
+datePublished: '2017-03-09T16:50:34.041Z'
 sourcePath: _posts/2016-09-27-anatomia-de-un-instante.md
 inFeed: true
 hasPage: true
