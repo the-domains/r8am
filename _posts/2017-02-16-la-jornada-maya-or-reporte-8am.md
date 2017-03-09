@@ -8,24 +8,24 @@ publisher:
   domain: www.lajornadamaya.mx
 keywords: []
 description: >-
-  Pablo A. Cicero AlonzoFoto: Fabrizio León DiezLa Jornada Maya Martes 7 de
-  febrero, 2017 Un ruido la despierta. Abre los ojos, con miedo e intenta
-  escuchar con más atención. En las olas, cree se ahogan unos pasos, pero no el
-  sonido de algo metálico. Despierta a su esposo, que alarmado le pregunta qué
-  pasa.
+  Pablo A. Cicero AlonzoFoto: Vivian MaierLa Jornada Maya Miércoles 8 de
+  febrero, 2017 Hacer de lo ordinario algo extraordinario. No es como todos los
+  niños. Y así lo asumen sus padres. La normalidad, para ellos, alcanza otros
+  matices, mucho más sutiles. Para ellos, la vida pasa y se acepta; la transitan
+  como funambulistas, entre la alegría y la tristeza.
 inLanguage: es
 app_links: []
-isBasedOnUrl: 'https://www.lajornadamaya.mx/2017-02-07/Reporte-8AM'
-title: El paraíso en la otra esquina
-datePublished: '2017-03-09T16:50:31.379Z'
+isBasedOnUrl: 'https://www.lajornadamaya.mx/2017-02-08/Reporte-8AM'
+title: Ver lo que no se ve
+datePublished: '2017-03-09T16:50:31.258Z'
 dateModified: '2017-03-09T16:50:24.102Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-16-la-jornada-maya-or-reporte-8am.md
 starred: false
-datePublishedOriginal: '2017-02-16T14:47:04.261Z'
+datePublishedOriginal: '2017-02-16T14:46:54.095Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://img.lajornadamaya.mx/32/di4864e286tr_640-414-cover" /><h1>El paraíso en la otra esquina</h1><p>Pablo A. Cicero AlonzoFoto: Fabrizio León DiezLa Jornada Maya Martes 7 de febrero, 2017 Un ruido la despierta. Abre los ojos, con miedo e intenta escuchar con más atención. En las olas, cree se ahogan unos pasos, pero no el sonido de algo metálico. Despierta a su esposo, que alarmado le pregunta qué pasa.</p></article>
+<article style=""><img src="https://img.lajornadamaya.mx/32/pi486sii64sw_640-414-cover" /><h1>Ver lo que no se ve</h1><p>Pablo A. Cicero AlonzoFoto: Vivian MaierLa Jornada Maya Miércoles 8 de febrero, 2017 Hacer de lo ordinario algo extraordinario. No es como todos los niños. Y así lo asumen sus padres. La normalidad, para ellos, alcanza otros matices, mucho más sutiles. Para ellos, la vida pasa y se acepta; la transitan como funambulistas, entre la alegría y la tristeza.</p></article>
