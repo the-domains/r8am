@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-03-09T16:50:31.485Z'
+datePublished: '2017-03-09T16:50:34.039Z'
 sourcePath: _posts/2016-10-10-personajes-de-haiti.md
 inFeed: true
 hasPage: true
