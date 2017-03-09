@@ -1,7 +1,7 @@
 ---
 description: 'Gabriel García Marquez, en la redacción. '
-dateModified: '2017-01-24T18:07:20.997Z'
-datePublished: '2017-01-24T18:07:50.768Z'
+dateModified: '2017-03-09T16:50:24.102Z'
+datePublished: '2017-03-09T16:50:34.011Z'
 title: El oficio más chido (*) del mundo
 author: []
 sourcePath: _posts/2016-07-01-el-oficio-mas-chido-del-mundo.md
