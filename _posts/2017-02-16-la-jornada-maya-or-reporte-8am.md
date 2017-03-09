@@ -8,23 +8,23 @@ publisher:
   domain: www.lajornadamaya.mx
 keywords: []
 description: >-
-  Pablo A. Cicero AlonzoFoto: Grafitti de Bansky, en Cisjordania, de Vostokzapad
-  Wordpress La Jornada Maya Martes 31 de enero, 2017 Y cuando desperté, Chito
-  May seguía ahí. Lo descubrieron mis hijas, en una barda blanca de mi casa; una
-  tipografía estilizada, hecha con plumón indeleble.
+  Pablo A. Cicero AlonzoFoto: France PressLa Jornada Maya Miércoles 15 de
+  febrero, 2017 Ya se convirtió en una telenovela. De las mexicanas, a su pesar.
+  El último capítulo lo protagonizó su hija, a quien expuso a burlas y a
+  comentarios obscenos.
 inLanguage: es
 app_links: []
-isBasedOnUrl: 'https://www.lajornadamaya.mx/2017-01-31/Reporte-8AM'
-title: Apuntes desordenados sobre muros
-datePublished: '2017-03-09T16:50:33.852Z'
+isBasedOnUrl: 'https://www.lajornadamaya.mx/2017-02-15/Reporte-8AM'
+title: El padroteo del padre
+datePublished: '2017-03-09T16:50:33.837Z'
 dateModified: '2017-03-09T16:50:24.102Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-16-la-jornada-maya-or-reporte-8am.md
 starred: false
-datePublishedOriginal: '2017-02-16T14:45:36.724Z'
+datePublishedOriginal: '2017-02-16T14:43:23.658Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://img.lajornadamaya.mx/32/di48s82s2ssw_640-414-cover" /><h1>Apuntes desordenados sobre muros</h1><p>Pablo A. Cicero AlonzoFoto: Grafitti de Bansky, en Cisjordania, de Vostokzapad Wordpress La Jornada Maya Martes 31 de enero, 2017 Y cuando desperté, Chito May seguía ahí. Lo descubrieron mis hijas, en una barda blanca de mi casa; una tipografía estilizada, hecha con plumón indeleble.</p></article>
+<article style=""><img src="https://img.lajornadamaya.mx/32/p1ab711757or_640-414-cover" /><h1>El padroteo del padre</h1><p>Pablo A. Cicero AlonzoFoto: France PressLa Jornada Maya Miércoles 15 de febrero, 2017 Ya se convirtió en una telenovela. De las mexicanas, a su pesar. El último capítulo lo protagonizó su hija, a quien expuso a burlas y a comentarios obscenos.</p></article>
