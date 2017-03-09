@@ -8,24 +8,22 @@ publisher:
   domain: www.lajornadamaya.mx
 keywords: []
 description: >-
-  Pablo A. Cicero Alonzo. El grupo se hacía llamar voces verdes. Y, en verdad,
-  nos reverdecían con sus versos; hacían volar mariposas con métrica y ritmo,
-  florecer prados con metáforas. Lo formaban Roger Cicero McKinney, Jorge Rosado
-  Torres, Alberto Cervera Espejo, Fernando Espejo Méndez y Raúl Renán González;
-  sólo este último sobrevive.
+  Pablo A. Cicero Alonzo. Periodista: Presidente de los Estados Unidos: Primer
+  Ministro de Gran Bretaña: Me encanta la palabra relación. Abarca todo tipo de
+  pecados. Me temo que esta se ha convertido en una mala relación.
 inLanguage: es
 app_links: []
-isBasedOnUrl: 'https://www.lajornadamaya.mx/2017-01-09/Reporte-8-AM'
-title: Ir en contra eleva el espíritu
-datePublished: '2017-03-09T16:50:31.337Z'
+isBasedOnUrl: 'https://www.lajornadamaya.mx/2017-01-10/Reporte-8-AM'
+title: 'Bienvenida, miss Jacobson'
+datePublished: '2017-03-09T16:50:31.357Z'
 dateModified: '2017-03-09T16:50:24.102Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-10-la-jornada-maya-or-reporte-8-am.md
 starred: false
-datePublishedOriginal: '2017-01-10T15:32:05.849Z'
+datePublishedOriginal: '2017-01-10T15:31:39.829Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://img.lajornadamaya.mx/32/ei48eqs4setz_640-414-cover" /><h1>Ir en contra eleva el espíritu</h1><p>Pablo A. Cicero Alonzo. El grupo se hacía llamar voces verdes. Y, en verdad, nos reverdecían con sus versos; hacían volar mariposas con métrica y ritmo, florecer prados con metáforas. Lo formaban Roger Cicero McKinney, Jorge Rosado Torres, Alberto Cervera Espejo, Fernando Espejo Méndez y Raúl Renán González; sólo este último sobrevive.</p></article>
+<article style=""><img src="https://img.lajornadamaya.mx/32/ri4840ii22si_640-414-cover" /><h1>Bienvenida, miss Jacobson</h1><p>Pablo A. Cicero Alonzo. Periodista: Presidente de los Estados Unidos: Primer Ministro de Gran Bretaña: Me encanta la palabra relación. Abarca todo tipo de pecados. Me temo que esta se ha convertido en una mala relación.</p></article>
