@@ -7,7 +7,7 @@ description: >-
   dio a entender que había la posibilidad de vetar las leyes que conforman ese
   sistema.
 dateModified: '2017-03-09T16:50:24.102Z'
-datePublished: '2017-03-09T16:50:31.471Z'
+datePublished: '2017-03-09T16:50:34.038Z'
 title: La promulgación que no fue
 author: []
 sourcePath: _posts/2016-06-23-la-promulgacion-que-no-fue.md
