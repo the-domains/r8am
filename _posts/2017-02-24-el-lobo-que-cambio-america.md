@@ -7,7 +7,7 @@ description: >-
   cambió su percepción del mundo y se hizo humano. Era el célebre Ernest
   Thompson Seton, la mejor demostración de que, en efecto, se puede.
 dateModified: '2017-03-09T16:50:24.102Z'
-datePublished: '2017-03-09T16:50:31.304Z'
+datePublished: '2017-03-09T16:50:33.837Z'
 title: El lobo que cambió América
 author: []
 publisher:
