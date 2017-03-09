@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-03-09T16:50:31.430Z'
+datePublished: '2017-03-09T16:50:33.920Z'
 sourcePath: _posts/2016-09-15-mandar-al-diablo-a-la-cultura.md
 inFeed: true
 hasPage: true
