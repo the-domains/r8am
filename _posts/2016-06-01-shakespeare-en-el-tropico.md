@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-24T18:08:04.630Z'
+datePublished: '2017-03-09T16:50:31.723Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-02-24/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2017-01-24T18:07:20.997Z'
+dateModified: '2017-03-09T16:50:24.102Z'
 title: 'Shakespeare en el trópico '
 app_links: []
 publisher:
