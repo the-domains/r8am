@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-24T18:08:02.021Z'
+datePublished: '2017-03-09T16:50:31.698Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-03-31/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2017-01-24T18:07:20.997Z'
+dateModified: '2017-03-09T16:50:24.102Z'
 title: 'Agentes (yucatecos) de S.H.I.E.L.D. '
 app_links: []
 publisher:
