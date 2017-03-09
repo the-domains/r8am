@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-03-09T16:50:31.462Z'
+datePublished: '2017-03-09T16:50:33.964Z'
 sourcePath: _posts/2016-10-11-caminar-por-el-lado-oscuro.md
 inFeed: true
 hasPage: true
