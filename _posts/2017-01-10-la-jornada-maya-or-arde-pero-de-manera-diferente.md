@@ -16,8 +16,8 @@ inLanguage: es
 app_links: []
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2017-01-06/Arde--pero-de-manera-diferente'
 title: 'Arde, pero de manera diferente'
-datePublished: '2017-01-24T18:07:43.872Z'
-dateModified: '2017-01-24T18:07:20.997Z'
+datePublished: '2017-03-09T16:50:31.284Z'
+dateModified: '2017-03-09T16:50:24.102Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-10-la-jornada-maya-or-arde-pero-de-manera-diferente.md
