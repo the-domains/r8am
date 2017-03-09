@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-03-09T16:50:31.587Z'
+datePublished: '2017-03-09T16:50:34.208Z'
 sourcePath: _posts/2016-07-05-acdc-antes-y-despues-de-calin.md
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-07-05/Reporte-8AM'
 keywords: []
