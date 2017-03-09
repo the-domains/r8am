@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-09T21:05:37.753Z'
+datePublished: '2017-03-09T16:50:31.638Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-05-06/Reporte-8-am--por-Pablo-A--Cicero'
 keywords: []
 related: []
 author: []
-dateModified: '2016-11-09T21:05:34.894Z'
+dateModified: '2017-03-09T16:50:24.102Z'
 title: 'Striptease de machismo '
 app_links: []
 publisher:
@@ -24,8 +24,9 @@ sourcePath: _posts/2016-06-01-striptease-de-machismo.md
 inFeed: true
 hasPage: false
 authors: []
-starred: true
 via: {}
+starred: true
+datePublishedOriginal: '2016-11-09T21:05:37.753Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
