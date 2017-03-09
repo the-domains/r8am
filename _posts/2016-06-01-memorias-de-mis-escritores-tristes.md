@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-12-07T01:07:02.393Z'
+datePublished: '2017-03-09T16:50:31.699Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-03-21/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-12-07T01:06:56.960Z'
+dateModified: '2017-03-09T16:50:24.102Z'
 title: 'Memorias de mis escritores tristes '
 app_links: []
 publisher:
