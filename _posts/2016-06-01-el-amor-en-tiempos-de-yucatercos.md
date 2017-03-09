@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-03-09T16:50:31.620Z'
+datePublished: '2017-03-09T16:50:34.263Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-05-13/Reporte-8-am'
 keywords: []
 related: []
