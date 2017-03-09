@@ -67,7 +67,7 @@ description: >-
   impulsos básicos, como la rabia, esa que se exudó con la muerte del torero.
   Hay quienes sólo buscan etiquetar su odio y su resentimiento. Ellos, que quede
   claro, no defienden a los toros. pcicero@8am.com.mx
-datePublished: '2017-03-09T16:50:31.526Z'
+datePublished: '2017-03-09T16:50:34.119Z'
 dateModified: '2017-03-09T16:50:24.102Z'
 title: ''
 author: []
