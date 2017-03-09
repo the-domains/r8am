@@ -70,7 +70,7 @@ description: >-
   sicoanálisis gratuito --y realmente eficaz. La cultura como —verdadero—
   escudo.
 dateModified: '2017-03-09T16:50:24.102Z'
-datePublished: '2017-03-09T16:50:31.284Z'
+datePublished: '2017-03-09T16:50:33.780Z'
 title: Un puñetazo en el rostro
 author: []
 publisher:
