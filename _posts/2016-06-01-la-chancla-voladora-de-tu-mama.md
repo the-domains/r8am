@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-09T21:05:37.937Z'
+datePublished: '2017-03-09T16:50:31.670Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-04-11/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-11-09T21:05:34.894Z'
+dateModified: '2017-03-09T16:50:24.102Z'
 title: 'La chancla voladora de tu mamá '
 app_links: []
 publisher:
@@ -20,9 +20,10 @@ description: >-
   el tema financiero.
 inLanguage: es
 sourcePath: _posts/2016-06-01-la-chancla-voladora-de-tu-mama.md
-starred: false
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-11-09T21:05:37.937Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
