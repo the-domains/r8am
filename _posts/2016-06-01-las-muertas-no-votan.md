@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-12-07T01:07:02.458Z'
+datePublished: '2017-03-09T16:50:31.712Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-03-15/8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-12-07T01:06:56.960Z'
+dateModified: '2017-03-09T16:50:24.102Z'
 title: 'Las muertas no votan '
 app_links: []
 publisher:
