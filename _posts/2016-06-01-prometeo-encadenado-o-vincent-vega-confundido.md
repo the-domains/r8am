@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-12-07T01:07:02.425Z'
+datePublished: '2017-03-09T16:50:31.719Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-02-26/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2016-12-07T01:06:56.960Z'
+dateModified: '2017-03-09T16:50:24.102Z'
 title: 'Prometeo encadenado o Vincent Vega confundido '
 app_links: []
 publisher:
@@ -20,10 +20,10 @@ description: >-
   centro de salud ahí.
 inLanguage: es
 sourcePath: _posts/2016-06-01-prometeo-encadenado-o-vincent-vega-confundido.md
-starred: false
-datePublishedOriginal: '2016-06-01T14:26:46.282Z'
 via: {}
 inFeed: true
+starred: false
+datePublishedOriginal: '2016-06-01T14:26:46.282Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
