@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-24T18:07:56.938Z'
+datePublished: '2017-03-09T16:50:34.190Z'
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-07-06/Reporte-8-am'
 keywords: []
 related: []
 author: []
-dateModified: '2017-01-24T18:07:20.997Z'
+dateModified: '2017-03-09T16:50:24.102Z'
 title: La última tribu de tinta
 app_links: []
 publisher:
