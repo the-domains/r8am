@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-01-24T18:07:55.778Z'
+datePublished: '2017-03-09T16:50:31.542Z'
 sourcePath: _posts/2016-06-16-la-clave-esta-en-el-reglamento.md
 inFeed: true
 isBasedOnUrl: null
@@ -7,7 +7,7 @@ authors: []
 hasPage: false
 keywords: []
 author: []
-dateModified: '2017-01-24T18:07:20.997Z'
+dateModified: '2017-03-09T16:50:24.102Z'
 title: La clave está en el reglamento
 publisher: {}
 description: >-
