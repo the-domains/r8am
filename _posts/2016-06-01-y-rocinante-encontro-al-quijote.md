@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Pablo A. Cicero AlonzoFoto: La Jornada Maya Martes 31 de mayo, 2016 Escribió
   Cervantes que "cuatro días se le pasaron en imaginar qué nombre le pondría...
-datePublished: '2017-01-24T18:07:59.006Z'
-dateModified: '2017-01-24T18:07:20.997Z'
+datePublished: '2017-03-09T16:50:31.620Z'
+dateModified: '2017-03-09T16:50:24.102Z'
 related: []
 author: []
 title: 'Y Rocinante encontró al Quijote '
