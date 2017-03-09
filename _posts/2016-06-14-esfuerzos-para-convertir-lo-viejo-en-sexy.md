@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-03-09T16:50:31.608Z'
+datePublished: '2017-03-09T16:50:34.226Z'
 sourcePath: _posts/2016-06-14-esfuerzos-para-convertir-lo-viejo-en-sexy.md
 inFeed: true
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-06-14/Reporte-8-am'
