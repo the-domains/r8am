@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-03-09T16:50:31.514Z'
+datePublished: '2017-03-09T16:50:34.095Z'
 sourcePath: _posts/2016-08-10-la-jornada-maya-or-reporte-8-am.md
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-08-10/Reporte-8-AM'
 keywords: []
