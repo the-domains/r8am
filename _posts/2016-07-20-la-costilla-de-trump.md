@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-03-09T16:50:31.587Z'
+datePublished: '2017-03-09T16:50:34.189Z'
 sourcePath: _posts/2016-07-20-la-costilla-de-trump.md
 isBasedOnUrl: 'https://www.lajornadamaya.mx/2016-07-20/Reporte-8AM'
 keywords: []
