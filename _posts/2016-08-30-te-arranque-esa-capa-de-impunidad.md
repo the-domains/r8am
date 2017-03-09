@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-03-09T16:50:31.462Z'
+datePublished: '2017-03-09T16:50:33.998Z'
 sourcePath: _posts/2016-08-30-te-arranque-esa-capa-de-impunidad.md
 inFeed: true
 hasPage: true
