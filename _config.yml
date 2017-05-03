@@ -26,14 +26,14 @@ author:
   name: Pablo Antonio Cicero Alonzo
   email: cicero.pablo@gmail.com
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc4df248-8b5a-4e9d-8282-66d1811873cc.jpg
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/45c4ac6a-37d5-4e74-81b2-29c75b737ce8.png
 name: 8AM
 cta:
   bucket: null
   version: null
   domain: null
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4625151f-1124-4432-914d-1b8a94a08ead.jpg
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/67c40601-20e6-49f5-b98c-492dc6a4f5b2.png
 collections:
   - index:
       path: /
