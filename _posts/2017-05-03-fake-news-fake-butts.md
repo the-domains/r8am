@@ -9,8 +9,8 @@ description: >-
   Platón, cuatro siglos antes de nuestra era, definió esta tara con la alegoría
   de la caverna. Según el filósofo griego, nuestra percepción de la realidad se
   reduce a sombras de sombras.
-dateModified: '2017-05-04T00:40:12.011Z'
-datePublished: '2017-05-04T00:40:12.930Z'
+dateModified: '2017-05-04T00:40:27.369Z'
+datePublished: '2017-05-04T00:40:27.719Z'
 title: 'FAKE NEWS, FAKE BUTTS'
 author: []
 publisher:
