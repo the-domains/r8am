@@ -9,8 +9,8 @@ description: >-
   Platón, cuatro siglos antes de nuestra era, definió esta tara con la alegoría
   de la caverna. Según el filósofo griego, nuestra percepción de la realidad se
   reduce a sombras de sombras.
-dateModified: '2017-05-04T00:44:55.962Z'
-datePublished: '2017-05-04T00:44:56.783Z'
+dateModified: '2017-05-04T00:45:33.287Z'
+datePublished: '2017-05-04T00:45:34.596Z'
 title: 'FAKE NEWS, FAKE BUTTS'
 author: []
 publisher:
@@ -33,6 +33,13 @@ Que las fotos de las nalgas de Kim Kardashian sean, para los consumidores de not
 
 Un sinfín de obstáculos ---prejuicios, comunicación deficiente...--- nos impide ver las cosas tal y como son, y nos conformamos con las migajas de lo que en realidad sucede. Así fuimos, así somos y así seremos. Y lo sabemos. El peligro es conformarnos y recluirnos en la caverna, en la que sólo vemos bultos, como míster Magú, y escuchamos rumores. Aunque la ignorancia no exime la culpa, sí la atenúa. Ese, sin embargo, no es nuestro caso, ya que desde hace veinticuatro siglos nos abrieron los ojos. Es más fácil disertar sobre la celulitis de una celebridad, o manifestarse a golpe de Facebook contra el césped artificial. Es sencillo ser superficial. Malgastar los días y las horas en cuestiones estúpidas y sabrosas, como lo son las fake news y los fake butts. A pesar de que esa tara está en nuestro adn, es en esta generación cuando se hace aún más patente. Nunca antes se había generado tanta información. Como le gusta señalar a Eric Schmidt, fundador de Google, si se hubieran grabado todas las comunicaciones humanas desde la noche de los tiempos hasta 2003, sería necesario un depósito de espacio de unos 5,000 millones de gigas. En la actualidad generamos la misma cantidad de información cada dos días. El problema radica no en la cantidad sino en la calidad de la misma. En una semana, el trasero equino de Kim Kardashian ha generado más interacciones que en su momento logró la tragedia del zépelin. Sobre ese mismo cartilaginoso asunto ya se escribió más en una semana que en el mismo lapso de tiempo sobre el asesinato del archiduque Francisco. Y no creo que esas filias y fobias anatómicas vayan a causar una guerra mundial. No tenemos que remontarnos tanto para comparar tendencias. Pocas voces fueron las que se alzaron contra el remozamiento del parque de San Juanistas, en la administración municipal pasada. En una situación similar, se ha inflado una burbuja contra los trabajos que se realizan en el parque de Kalia. El problema ---o la ventaja--- de vivir en el moho de una cueva también se refleja en la desmemoria. No sólo somos miopes, también amnésicos. Rupestres, al fin y al cabo. En unos días, cuando las pantallas nos bombardeen con las curvas photoshopeadas de Kim, pocos serán los que se acuerden de esa locura oléica que rebosa en una tanga negra. Lo mismo pasará cuando niños y jóvenes jueguen en el parque de Kalia. Ojalá entonces le pregunten al diputado verde David Mier y Terán qué opina del éxito de ese parque.
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkE1LxDAQhu_9FaGCTaCbqDfpx6GwBy970ZuItMlkSXebLJm0uIj_3Slbwdt8PLzvO1MbtzBnmtwOuxhCytta0ajNatTRXVLL7ex1csFzUzIsiRXsO2Ns6SMbqbcjsoYZeYS0P8MEPmF3feuPh34CjuL94aMi2lnG_zPd9cVwkhIsQpqjX5lNSEfoE2wcKVS0kM7QzpkbJjFqanOldPAedJK21zCEcJIekgL83L8qNCc54t2XHaZz83i_QEQ6olme5HO-ylBueekjeRyCAek8Qkwd2BCBb3eJKvvhJuh5TVKy4vaRgqo_v92I5FMIUdVq-9cvB7RufA" height="244" style=""></iframe>
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v2.9";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtUN1KxjAMfZVR-LzrCnojuk5E8DU-0i3dyvpHmjn16e3m4PNCCOT3JOekG91HM3goRQtrZJmBUJqVOUXRjMAgZ0Krxcycn5TiGSdyYwtO0SMEZWFBGXEr8oh2YDlxHr7Sylr8LrsOaY18tor7Ri080IRnJSTjPEpnCUJtMa0o-g7-MPu0JniZgUodm2KiCuV9Qz1xNR7iIpob1VK5btvWWhjQpLS0QwrqEEena_OcX1a9D18eXi_379Vu6mqy66vuP4V3EPJzoUGXccmEBynRv6VQI3bUKeg7VR_b_wA3DnwW" height="244" style=""></iframe>
