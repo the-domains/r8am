@@ -11,19 +11,21 @@ description: >-
   intimidad perdida, escondida en recóndidas memorias. Sólo quería que se
   acabara la ceremonia en la que le otorgaban su constancia de ganadora… Y
   próxima alcaldesa de la ciudad.
-dateModified: '2017-07-21T13:26:03.437Z'
-datePublished: '2017-07-21T13:26:04.605Z'
+dateModified: '2017-07-21T13:26:10.252Z'
+datePublished: '2017-07-21T13:26:10.857Z'
 title: El periódico de la alcaldesa
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-07-21-el-periodico-de-la-alcaldesa.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-07-21T13:26:04.605Z'
-sourcePath: _posts/2017-07-21-el-periodico-de-la-alcaldesa.md
-_type: Blurb
+url: el-periodico-de-la-alcaldesa/index.html
+_type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3843d596-c7a2-4add-95ac-8db42f94166a.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8eef599ddfe561c9fa171bb11be89ec8/croprotate.jpg?cropheight=3892&cropwidth=6417&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F3843d596-c7a2-4add-95ac-8db42f94166a.jpg&x=158&y=158)
 
 # **El periódico de la alcaldesa**
 
