@@ -1,8 +1,13 @@
 ---
 inFeed: true
-description: ' Ir en contra eleva el espíritu, dictaba cátedra en verso Raúl Renán. Entumidos en la suavidad y calidez del rebaño, confortablemente entumidos, leíamos esas palabras y nos imaginábamos el sesenta y ocho. Pero esas guías, que titilan provenientes de ese súpernova que ya se extinguió, no se referían, testarudas y nostálgicas, al pasado, sino al presente y al futuro.'
-dateModified: '2017-07-19T13:36:41.437Z'
-datePublished: '2017-07-19T13:36:41.821Z'
+description: >-
+  Ir en contra eleva el espíritu, dictaba cátedra en verso Raúl Renán. Entumidos
+  en la suavidad y calidez del rebaño, confortablemente entumidos, leíamos esas
+  palabras y nos imaginábamos el sesenta y ocho. Pero esas guías, que titilan
+  provenientes de ese súpernova que ya se extinguió, no se referían, testarudas
+  y nostálgicas, al pasado, sino al presente y al futuro.
+dateModified: '2017-07-21T13:30:52.665Z'
+datePublished: '2017-07-21T13:30:54.227Z'
 title: Hallar la playa debajo del asfalto
 author: []
 publisher:
