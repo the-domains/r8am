@@ -9,8 +9,8 @@ description: >-
   cuando, días después de darle el privilegio de la duda a Hitler, el mundo se
   estremeció con la blitzkreig, la guerra relámpago, truenos sobre
   Checoslovaquia, Polonia, Francia…
-dateModified: '2017-07-19T13:36:41.437Z'
-datePublished: '2017-07-19T13:36:41.823Z'
+dateModified: '2017-07-21T13:30:52.665Z'
+datePublished: '2017-07-21T13:30:54.227Z'
 title: Manual de carroña
 author: []
 publisher:
