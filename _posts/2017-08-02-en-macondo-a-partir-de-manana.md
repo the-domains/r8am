@@ -6,17 +6,19 @@ description: >-
   entré por primera vez en una redacción. Mérida era entonces una aldea, y el
   oficio olía a tinta y plomo. Los que hoy tienen calvas como huevos
   prehistóricos, peinaban abundantes cabelleras. 
-dateModified: '2017-08-02T00:42:09.428Z'
-datePublished: '2017-08-02T00:42:09.787Z'
+dateModified: '2017-08-02T00:42:17.415Z'
+datePublished: '2017-08-02T00:42:17.947Z'
 title: En Macondo a partir de mañana
 author: []
 publisher:
   name: Pablo A. Cicero Alonzo
 via: {}
+sourcePath: _posts/2017-08-02-en-macondo-a-partir-de-manana.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-08-02T00:42:09.787Z'
-sourcePath: _posts/2017-08-02-en-macondo-a-partir-de-manana.md
-_type: Blurb
+url: en-macondo-a-partir-de-manana/index.html
+_type: Article
 
 ---
 # En Macondo a partir de mañana
