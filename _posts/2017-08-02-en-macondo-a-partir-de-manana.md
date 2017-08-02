@@ -6,8 +6,8 @@ description: >-
   entré por primera vez en una redacción. Mérida era entonces una aldea, y el
   oficio olía a tinta y plomo. Los que hoy tienen calvas como huevos
   prehistóricos, peinaban abundantes cabelleras. 
-dateModified: '2017-08-02T00:42:17.415Z'
-datePublished: '2017-08-02T00:42:17.947Z'
+dateModified: '2017-08-02T00:49:38.409Z'
+datePublished: '2017-08-02T00:49:38.882Z'
 title: En Macondo a partir de mañana
 author: []
 publisher:
