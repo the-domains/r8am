@@ -11,8 +11,8 @@ description: >-
   intimidad perdida, escondida en recóndidas memorias. Sólo quería que se
   acabara la ceremonia en la que le otorgaban su constancia de ganadora… Y
   próxima alcaldesa de la ciudad.
-dateModified: '2017-07-21T13:30:52.665Z'
-datePublished: '2017-07-21T13:30:54.231Z'
+dateModified: '2017-08-02T00:49:38.409Z'
+datePublished: '2017-08-02T00:49:38.885Z'
 title: El periódico de la alcaldesa
 author: []
 publisher: {}
