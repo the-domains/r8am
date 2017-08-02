@@ -6,8 +6,8 @@ description: >-
   que, retrocediendo en busca de sus hijos perdidos, encontró sólo otro
   huérfano. Sin embargo, la genialidad de  Herman Melville también nada ligero,
   en las pocas páginas de Bartleby, el escribiente; un charco océano.
-dateModified: '2017-07-21T13:30:52.665Z'
-datePublished: '2017-07-21T13:30:54.232Z'
+dateModified: '2017-08-02T00:49:38.409Z'
+datePublished: '2017-08-02T00:49:38.882Z'
 title: ENVIDIANDO A BARTLEBY
 author: []
 publisher: {}
