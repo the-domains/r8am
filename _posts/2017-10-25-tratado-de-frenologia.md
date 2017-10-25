@@ -6,16 +6,16 @@ description: >-
   arte de magia, reverdeció. De eso, sin embargo, no se dio cuenta César
   Lombroso, que acudió a esa capital a especializarse, luego de estudiar
   medicina en la universidad de Pavía. 
-dateModified: '2017-10-25T19:33:57.051Z'
-datePublished: '2017-10-25T19:33:57.711Z'
+dateModified: '2017-10-25T19:34:21.451Z'
+datePublished: '2017-10-25T19:34:21.836Z'
 title: Tratado de frenología
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-10-25-tratado-de-frenologia.md
 starred: false
 datePublishedOriginal: '2017-10-25T19:33:57.711Z'
-sourcePath: _posts/2017-10-25-tratado-de-frenologia.md
 url: tratado-de-frenologia/index.html
 _type: Article
 
