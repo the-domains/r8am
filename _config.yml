@@ -47,7 +47,95 @@ collections:
       format: rss
       number: 10
 title: REPORTE 8AM
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fr_FmMqMu_9k%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dr_FmMqMu_9k&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fr_FmMqMu_9k%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      author:
+        - name: Ina Culture
+          url: 'https://www.youtube.com/user/Inaculture'
+          avatar: {}
+      related: []
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
+        domain: youtu.be
+      keywords:
+        - interview entretien
+        - littérature
+        - écrivain
+        - bukowski
+        - charles
+        - cavanna
+        - françois
+        - incident de plateau
+        - archive
+        - tv
+        - television
+        - replay
+        - culture
+        - french
+        - ina
+        - ...
+      description: >-
+        22 septembre 1978 Bernard PIVOT interviewe Marcel MERMOZ et Catherine
+        PAYSAN. Charles BUKOWSKI, complètement ivre, quitte le plateau, emmené
+        par ses collaborateurs. Images d'archive INA Institut National de
+        l'Audiovisuel http://www.ina.fr Abonnez-vous
+        http://www.youtube.com/subscription_center?add_user=Inaculture
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      '@type': VideoObject
+      app_links:
+        - url: 'vnd.youtube://www.youtube.com/watch?v=r_FmMqMu_9k&feature=applinks'
+          type: ios
+          namespace: ai
+          app_store_id: '544007664'
+          app_name: YouTube
+        - url: 'vnd.youtube://www.youtube.com/watch?v=r_FmMqMu_9k&feature=applinks'
+          type: android
+          namespace: ai
+          app_name: YouTube
+          package: com.google.android.youtube
+        - url: 'https://www.youtube.com/watch?v=r_FmMqMu_9k&feature=applinks'
+          type: web
+          namespace: ai
+        - url: 'vnd.youtube://www.youtube.com/watch?v=r_FmMqMu_9k&feature=applinks'
+          namespace: twitter
+          type: ipad
+          name: YouTube
+          id: '544007664'
+        - url: 'vnd.youtube://www.youtube.com/watch?v=r_FmMqMu_9k&feature=applinks'
+          namespace: twitter
+          type: iphone
+          name: YouTube
+          id: '544007664'
+        - url: 'https://www.youtube.com/watch?v=r_FmMqMu_9k'
+          namespace: twitter
+          type: googleplay
+          name: YouTube
+          id: com.google.android.youtube
+        - path: http/www.youtube.com/watch?v=r_FmMqMu_9k
+          package: com.google.android.youtube
+          namespace: google
+          type: android
+        - path: vnd.youtube/www.youtube.com/watch?v=r_FmMqMu_9k
+          package: '544007664'
+          namespace: google
+          type: ios
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'https://youtu.be/r_FmMqMu_9k'
+      title: 'Charles Bukowski, ivre, quitte le plateau'
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: Pablo A. Cicero Alonzo
 purpose:
   - type: contact
