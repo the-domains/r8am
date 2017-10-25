@@ -4,8 +4,8 @@ description: >-
   En un naufragio, todos los adultos mueren; el mar vomita a niños y jóvenes a
   una isla desierta. Ahí se forman dos bandos, cuyas diferencias dan pie a una
   rivalidad que termina en un baño de sangre. El horror, el horror…
-dateModified: '2017-09-21T13:02:27.906Z'
-datePublished: '2017-09-21T13:02:28.500Z'
+dateModified: '2017-10-25T19:34:21.451Z'
+datePublished: '2017-10-25T19:34:21.893Z'
 title: Leer a Golding en Flambo
 author: []
 publisher:
