@@ -6,8 +6,8 @@ description: >-
   palabras y nos imaginábamos el sesenta y ocho. Pero esas guías, que titilan
   provenientes de ese súpernova que ya se extinguió, no se referían, testarudas
   y nostálgicas, al pasado, sino al presente y al futuro.
-dateModified: '2017-09-21T13:02:27.906Z'
-datePublished: '2017-09-21T13:02:28.498Z'
+dateModified: '2017-10-25T19:34:21.451Z'
+datePublished: '2017-10-25T19:34:21.893Z'
 title: Hallar la playa debajo del asfalto
 author: []
 publisher:
