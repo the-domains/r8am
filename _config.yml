@@ -1,16 +1,16 @@
-layout_spectrum: 0.4857728825307608
-typography_spectrum: 0.5930294114511718
+layout_spectrum: 0.9912441547333936
+typography_spectrum: 0.8509499334564229
 color:
-  saturation: 0.24038553799714635
-  brandStrength: 0.7854330960547755
-  lightness: 0.9304827096611078
+  saturation: 0.6196610341599156
+  brandStrength: 0.886256702697218
+  lightness: 0.6110057377841065
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  rhythmicContrast: 0.8932550642695647
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  rhythmicContrast: 1
 coverPrefs:
   filter: false
 github: true
@@ -90,7 +90,6 @@ content:
         par ses collaborateurs. Images d'archive INA Institut National de
         l'Audiovisuel http://www.ina.fr Abonnez-vous
         http://www.youtube.com/subscription_center?add_user=Inaculture
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=r_FmMqMu_9k&feature=applinks'
